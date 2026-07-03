@@ -10,7 +10,7 @@ import ollama
 
 # 🔴 UPDATE THIS: Your future GitHub Pages URL
 # Example: "https://laxmikantpathade.github.io/roku-art-channel"
-GITHUB_PAGES_URL = "https://laxmikantpathade.github.io/roku-art-channel"
+GITHUB_PAGES_URL = "https://laxmikantpathade.com/roku-art-channel"
 
 def ensure_master_list():
     file_name = "master_art_list.txt"
