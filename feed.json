@@ -827,11 +827,11 @@
             "description": "In 19th century Ottoman Empire, the painting shows two fishermen. One of them is pulling a small boat through shallow waters as the other sits inside waiting for their return home. The artist's brushstrokes masterfully capture the play of light on the water and the tranquility of the scene. The painting reflects the daily lives of common people in rural Ottoman towns, highlighting themes of hard work, friendship, and community."
         },
         {
-            "title": "The Blue Danube by Félix Émile Taunay",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_135.jpg",
-            "year": "1887",
-            "museum": "Private Collection",
-            "description": "Created in 1887, The Blue Danube is a captivating depiction of the Danube River. This stunning work showcases Taunay's mastery of light and color, capturing the serene beauty of the river at dawn. As one of the most iconic paintings by the Brazilian artist, it has had a profound impact on the development of modern art in Brazil, influencing generations of artists to come."
+            "title": "The Lake by Robert S. Duncanson",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_134.jpg",
+            "year": "1857",
+            "museum": "Detroit Institute of Arts",
+            "description": "Painted in 1857, The Lake is a beautiful example of Duncanson's work during his time as an artist in the United States. This piece showcases his ability to capture the natural beauty of the American landscape. Created while Duncanson was living and working in Detroit, Michigan, the painting is a representation of the serene and peaceful atmosphere that surrounded him. The Lake is considered one of Duncanson's most famous works and has been widely admired for its captivating scenery and skillful brushwork."
         },
         {
             "title": "The Beehive by Ivan Shishkin",
@@ -2351,6 +2351,13 @@
             "year": "1933",
             "museum": "Musée National d'Art Moderne",
             "description": "Pink Compensation is a seminal abstract painting by Wassily Kandinsky, created in 1933 during his time in exile in the United States. This vibrant and expressive work exemplifies Kandinsky's unique style, blending geometric forms with bold, pink hues. As one of the first Abstract artists, Pink Compensation showcases Kandinsky's pioneering role in the development of modern art. It is a testament to his innovative spirit and his ability to push the boundaries of artistic expression."
+        },
+        {
+            "title": "The Demon Downcast by Mikhail Vrubel",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_338.jpg",
+            "year": "1902",
+            "museum": "Tretyakov Gallery",
+            "description": "The Demon Downcast (1902) is a seminal work by Russian artist Mikhail Vrubel, showcasing his unique blend of symbolism and mysticism. This painting exemplifies the Art Nouveau movement in Russia, featuring intricate patterns and ornate details. The subject's eerie yet captivating demeanor has been interpreted as a representation of the Russian soul. As one of Vrubel's most celebrated works, it holds significant cultural importance in Russian art history, making it an ideal addition to your premium catalog."
         }
     ]
 }
