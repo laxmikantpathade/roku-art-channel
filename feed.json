@@ -1954,13 +1954,6 @@
             "description": "Created in the early 17th century, Still Life with Fruits is a pioneering work of Dutch Golden Age art. Clara Peeters' masterful composition showcases her innovative use of light and shadow, highlighting the everyday beauty of ordinary objects. This painting not only exemplifies the artist's skill but also reflects the cultural values of the time, emphasizing the importance of domestic life and the beauty in mundane subjects."
         },
         {
-            "title": "Lion Capital of Ashoka by Kamāl ud-Dīn Behzād",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_288.jpg",
-            "year": "1503-1504",
-            "museum": "National Museum, New Delhi",
-            "description": "The Lion Capital of Ashoka is a symbol of India and represents the unity of India. Created by Kamaluddin Behzad in the early 16th century for the Mauryan Empire, this iconic sculpture was originally made from nine marble lions that stood atop the capital city of Pataliputra. Today, it stands as a UNESCO World Heritage Site at the National Museum in New Delhi, serving as an enduring testament to India's rich cultural heritage and the legacy of Emperor Ashoka."
-        },
-        {
             "title": "Hokusai by Katsushika Hokusai",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_289.jpg",
             "year": "1830-35",
@@ -2008,6 +2001,13 @@
             "year": "1894",
             "museum": "Musée d'Orsay",
             "description": "In 'Vase with Lilies,' Félix Émile Taunay masterfully captures the delicate beauty of flowers in a stunning still life. This painting was one of several that Taunay created during his time at the Académie Colarossi in Paris, where he honed his skills alongside other notable artists of the era. The vase, filled with lilies and surrounded by lush greenery, seems to dance against a soft, blue backdrop. This work showcases Taunay's unique ability to evoke emotions through his use of color and composition, cementing its place as a timeless masterpiece in the world of Impressionist art."
+        },
+        {
+            "title": "Self-Portrait by Sofonisba Anguissola",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_288.jpg",
+            "year": "1589",
+            "museum": "National Gallery (London)",
+            "description": "In this captivating self-portrait, Sofonisba Anguissola showcases her remarkable talent and confidence. Created in 1589, the painting is one of the few known portraits by the Italian Renaissance painter. At just 15 years old, Anguissola masterfully depicts herself with an air of sophistication and poise. The portrait has been widely admired for its technical skill and emotional depth, offering a glimpse into the life of one of history's most accomplished female artists."
         }
     ]
 }
