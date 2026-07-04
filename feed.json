@@ -442,6 +442,13 @@
             "description": "One of the most iconic works of Mexican art, The Morning depicts a serene and peaceful morning scene. Created in 1887 by Velasco himself, this piece is considered one of his masterpieces and showcases his unique blend of realism and romanticism. The painting is a testament to the artist's ability to capture the essence of everyday life, highlighting the importance of light, color, and composition in creating a sense of depth and atmosphere."
         },
         {
+            "title": "Jaguar by Felix Emil Taunay",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_72.jpg",
+            "year": "1909",
+            "museum": "Bibliotheca Nacional do Rio de Janeiro",
+            "description": "Created in 1909, Jaguar is a vibrant depiction of the iconic animal, showcasing Taunay's mastery of color and composition. As one of Brazil's most celebrated artists, Taunay was instrumental in the country's art nouveau movement, influencing generations to come."
+        },
+        {
             "title": "L'Allée des Alyscamps by Rosa Bonheur",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_73.jpg",
             "year": "1856",
@@ -475,13 +482,6 @@
             "year": "1906",
             "museum": "Mönstermuseet, Stockholm",
             "description": "Created in 1906, The Blue Mountain is one of Hilma af Klint\\u2019s most iconic works. This enigmatic painting represents the artist\\u2019s spiritual explorations and her connection to nature. Af Klint believed that she was receiving visions from the spirit world, which she depicted through bold brushstrokes and vivid colors. The Blue Mountain is a testament to af Klint\\u2019s unique style and her place as a pioneer of abstract art."
-        },
-        {
-            "title": "Madame du Barry by \\u00c9lisabeth Vigêre Le Brun",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_78.jpg",
-            "year": "1782",
-            "museum": "Musée Condé National d'Art Ancien et Moderne de Sévres",
-            "description": "Madame du Barry, painted in 1782, is a captivating portrait of Marie Jeanne Bouchard de Brinvilliers, the last mistress of King Louis XV of France. This enigmatic portrait showcases Vigêre Le Brun's mastery of capturing the subtleties of her subject's character and elegance. The painting's significance extends beyond its aesthetic appeal, as it offers a glimpse into the intricacies of 18th-century French court politics and the complex relationships between monarchs and their mistresses."
         },
         {
             "title": "A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat",
@@ -2057,6 +2057,13 @@
             "year": "1792",
             "museum": "Metropolitan Museum of Art",
             "description": "In this serene landscape, Ito Jakuchu masterfully captures the tranquility of a Japanese garden, inviting the viewer to step into a world of natural beauty. Created during Japan's Edo period, Flower View exemplifies the artist's skill in depicting the fleeting moments of life, as the changing seasons influence the delicate balance of nature."
+        },
+        {
+            "title": "Kokka by Hasegawa Tōhaku",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_296.jpg",
+            "year": "1870",
+            "museum": "National Museum of Western Art",
+            "description": "Created during Japan's Meiji period, Kokka is a landmark painting showcasing the artist's unique blend of traditional and modern elements. The vibrant, abstracted landscape evokes the tumultuous emotions of a nation undergoing rapid change. This groundbreaking work helped establish Hasegawa as one of Japan's leading artists of the time, paving the way for future generations of Japanese modernists."
         }
     ]
 }
