@@ -505,6 +505,13 @@
             "description": "A vibrant depiction of a Spanish dance performance, El Jaleo captures the dynamic energy and color of 19th-century Spain. Created during Sargent's time in Madrid, the painting showcases his fascination with the country's rich cultural heritage. The National Gallery of Art's acquisition of the work in 1942 highlighted its significance as a masterpiece of American Impressionism."
         },
         {
+            "title": "The Virgin and Child with Saint John the Baptist by Rachel Ruysch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_81.jpg",
+            "year": "1669",
+            "museum": "Rijksmuseum (Amsterdam)",
+            "description": "This 17th-century painting is a masterpiece of Dutch Golden Age art. Created in 1669, it showcases Ruysch's exceptional skill in capturing the intimacy between the Virgin and Child. The serene atmosphere and delicate lighting create a sense of quiet reverence, inviting viewers to contemplate the divine relationship. As one of the few female artists of her time to gain recognition, Ruysch's work continues to inspire admiration for its beauty and emotional depth."
+        },
+        {
             "title": "The Battle of Karbala by Reza Abbasi",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_82.jpg",
             "year": "1595",
@@ -512,11 +519,32 @@
             "description": "Created in 1595 for the Safavid Empire, Reza Abbasi's 'The Battle of Karbala' is a masterpiece of Persian art. The painting depicts the tragic event of Imam Hussein's martyrdom and has been revered as a powerful symbol of Shia Islamic identity. It showcases the artist's mastery of composition, color, and storytelling. As one of the most celebrated works from Safavid Iran, it represents a pivotal moment in Iranian art history."
         },
         {
+            "title": "The Village by José Mariá Velasco",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_83.jpg",
+            "year": "1908",
+            "museum": "Museo de Arte Moderno de la Ciudad de México (Mexico City)",
+            "description": "In 1908, Velasco painted The Village, a captivating depiction of rural Mexican life. This early work showcases Velasco's fascination with the relationship between nature and humanity. The painting's vibrant colors and dynamic composition evoke a sense of energy and movement, drawing the viewer into the bustling village scene. The Village is a quintessential representation of Velasco's unique style, which would go on to influence generations of Mexican artists."
+        },
+        {
+            "title": "Lake View by Robert S. Duncanson",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_84.jpg",
+            "year": "1857",
+            "museum": "The Detroit Institute of Arts",
+            "description": "Created in 1857, Lake View showcases Duncanson's unique blend of African and European influences. This captivating landscape depicts a serene lake scene with lush vegetation and towering trees, inspired by the artist's travels to England and his experiences as an African American in a predominantly white society. The painting's dreamy quality and emphasis on nature reflect the tensions between the natural world and the constraints of societal norms during the mid-19th century."
+        },
+        {
             "title": "The Storm at Sea by Ivan Aivazovsky",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_85.jpg",
             "year": "1850",
             "museum": "Tretyakov Gallery, Moscow",
             "description": "This iconic seascape was painted during Aivazovsky's time spent in Constantinople. The turbulent sea and darkening sky evoke a sense of foreboding, while the tiny ship at its center symbolizes humanity's vulnerability to nature's fury."
+        },
+        {
+            "title": "Self-Portrait with Guitar by Kim Hong-do",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_86.jpg",
+            "year": "1910",
+            "museum": "National Museum of Korea",
+            "description": "In 'Self-Portrait with Guitar', Kim Hong-do captures the essence of modern Korean identity through his distinctive blend of traditional and Western styles. Created during a tumultuous period in Korea's history, this painting reflects the artist's desire for cultural fusion and self-expression. With its vibrant colors and innovative composition, 'Self-Portrait with Guitar' has become an iconic representation of Korean art, bridging the gap between traditional and modern aesthetics."
         },
         {
             "title": "Ladies Playing Cards by Gao Fenghan",
@@ -561,11 +589,32 @@
             "description": "This portrait of Madame Élisabeth, the mistress of King Louis XV of France, showcases Vigée Le Brun's mastery of Neoclassical techniques. Created in 1781, The Embrace captures a tender moment between the queen and her companion, embodying the spirit of French elegance during the late Enlightenment period."
         },
         {
+            "title": "The Cradle by Berthe Morisot",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_93.jpg",
+            "year": "1872",
+            "museum": "Musée Marmottan Monet in Paris",
+            "description": "This tender portrait of a sleeping baby girl, the daughter of the artist's friend, was painted during a time when women artists were fighting for recognition. Morisot's use of soft colors and delicate brushstrokes creates a sense of intimacy and quiet contemplation. The Cradle is not only a beautiful representation of childhood but also a powerful symbol of feminine agency and artistic expression."
+        },
+        {
+            "title": "The Plow by Rosa Bonheur",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_94.jpg",
+            "year": "1860",
+            "museum": "Musée dOrsay",
+            "description": "Created in 1860, The Plow is a seminal work by French artist Rosa Bonheur. The painting depicts a rural woman tilling the soil with her plow, highlighting the hard labor and dedication required of agricultural workers. This masterpiece showcases Bonheur's attention to detail and her ability to capture the struggles and triumphs of everyday life in rural France. As one of her most famous works, The Plow has had a lasting impact on the art world, inspiring countless artists and art lovers with its powerful message about the human spirit."
+        },
+        {
             "title": "The Triumph of Caesar by KamḦอṯud-Dîn Behzád",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_95.jpg",
             "year": "1555",
             "museum": "Vadodeva Museum of Fine Arts, Gujarat, India",
             "description": "In the early 16th century, KamḦอṯud-Dîn Behzád was commissioned by the Mughal Emperor Akbar to create a grand painting depicting the Roman emperor Caesar's triumph. The painting showcases the artist's mastery of miniature art, with intricate details and vibrant colors. The Triumph of Caesar is considered one of KamḦอṯud-Dîn Behzád's most famous works, offering a glimpse into the cultural exchange between India and Europe during the Mughal era."
+        },
+        {
+            "title": "Makai by Raja Ravi Varma",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_96.jpg",
+            "year": "1895",
+            "museum": "National Gallery of Art (New Delhi), India",
+            "description": "Created in 1895, Makai is a seminal work by Indian artist Raja Ravi Varma. The painting depicts a female figure emerging from the forest with a garland of flowers, symbolizing spiritual growth and enlightenment. This piece showcases Varma's mastery of Western-style realism and his ability to convey complex emotions through subtle facial expressions and body language. Makai is considered one of the most iconic works of Indian art in the 19th century, reflecting the artist's fascination with Hindu mythology and the human condition."
         },
         {
             "title": "Woman in a Red Dress by Joaquín Clausell",
@@ -575,11 +624,11 @@
             "description": "Created in 1880, Woman in a Red Dress is a captivating portrait that exemplifies the artist's mastery of light and color. The subject, draped in a vibrant red dress, exudes elegance and poise, drawing the viewer into her intimate world. Clausell's use of sfumato creates a sense of depth and volume, while his bold brushstrokes imbue the painting with energy and life. This work showcases the artist's ability to capture the essence of his subjects, rendering them as both beautiful and relatable."
         },
         {
-            "title": "The Embarkation for Cythera by Angelica Kauffman",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_99.jpg",
-            "year": "1779",
-            "museum": "National Gallery (London)",
-            "description": "In 1779, Swiss-born Angelica Kauffman painted 'The Embarkation for Cythera', a captivating depiction of the arrival of a young couple on the Greek island of Cythera. This work showcases Kauffman's exceptional skill in capturing the subtleties of human emotion and the nuances of 18th-century European art. As one of her most celebrated works, 'The Embarkation for Cythera' exemplifies the Rococo style, characterized by lightheartedness, playfulness, and a focus on beauty and elegance. This painting not only demonstrates Kauffman's technical prowess but also reveals her unique perspective on the human experience."
+            "title": "Lion Hunting by Gao Fenghan",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_98.jpg",
+            "year": "18th century",
+            "museum": "",
+            "description": "This painting is a representation of an ancient Chinese scene where hunters are chasing lions. The artwork gives insight into traditional hunting practices in China, highlighting the importance of bravery and skill required for these pursuits. Gao Fenghan's depiction showcases his mastery of Chinese brushwork and the role of animals in Chinese culture."
         },
         {
             "title": "The Plum Blossom by Gao Fenghan",
@@ -2022,6 +2071,13 @@
             "year": "1638",
             "museum": "Galleria Nazionale d'Arte Antica, Rome",
             "description": "In this iconic self-portrait, Artemisia Gentileschi depicts herself as a strong and determined woman, subverting the conventions of Renaissance art. Created in 1638, the painting showcases her exceptional skill as an artist and her ability to convey emotion and depth through her work. As one of the first female artists to achieve widespread recognition during the Baroque period, Gentileschi's self-portrait continues to inspire and captivate audiences today."
+        },
+        {
+            "title": "Seonjong by Jeong Seon",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_298.jpg",
+            "year": "1568",
+            "museum": "National Museum of Korea",
+            "description": "Seonjong, a landscape painting by Jeong Seon, showcases the artist's mastery of subtle colors and delicate brushstrokes. Created in 1568, it is one of the most famous works by Jeong Seon, who was known for his unique style that blended Chinese and Korean artistic traditions. The painting depicts a serene mountain landscape, symbolizing peace and tranquility. As an important work from the Joseon Dynasty, Seonjong not only reflects the cultural values of its time but also continues to inspire artists today with its timeless beauty."
         }
     ]
 }
