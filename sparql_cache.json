@@ -2941,13 +2941,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Annonciation%2C%20by%20Leonardo%20da%20Vinci%2C%20from%20C2RMF%20retouched.jpg"
         },
         {
-            "title": "Annunciation",
-            "artist": "Leonardo da Vinci",
-            "year": "1478",
-            "museum": "Campana collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Annonciation%2C%20by%20Leonardo%20da%20Vinci%2C%20from%20C2RMF%20retouched.jpg"
-        },
-        {
             "title": "Sala delle Asse",
             "artist": "Leonardo da Vinci",
             "year": "1498",
@@ -4329,6 +4322,3650 @@
             "year": "1640",
             "museum": "Stichting Nederlands Kunstbezit",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Harmensz%20van%20Rijn%20Rembrandt%20%281606-1669%29%20-%20Bildnis%20des%20Ephraim%20Bonus%20-%201428%20-%20F%C3%BChrermuseum.jpg"
+        }
+    ],
+    "Francisco Goya": [
+        {
+            "title": "Josefa Bayeu",
+            "artist": "Francisco Goya",
+            "year": "1814",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leocadia%20Zorrilla.jpg"
+        },
+        {
+            "title": "Pilgrimage to the Fountain of San Isidro",
+            "artist": "Francisco Goya",
+            "year": "1819",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peregrinaci%C3%B3n%20a%20la%20fuente%20de%20San%20Isidro.jpg"
+        },
+        {
+            "title": "The Game of Horse and Rider",
+            "artist": "Francisco Goya",
+            "year": "1791",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20gigantillas.jpg"
+        },
+        {
+            "title": "Man Mocked by Two Women",
+            "artist": "Francisco Goya",
+            "year": "1819",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mujeres%20riendo.jpg"
+        },
+        {
+            "title": "Man Mocked by Two Women",
+            "artist": "Francisco Goya",
+            "year": "1820",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mujeres%20riendo.jpg"
+        },
+        {
+            "title": "Portrait of the Duke of Wellington",
+            "artist": "Francisco Goya",
+            "year": "1813",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Goya%20-%20Portrait%20of%20the%20Duke%20of%20Wellington.jpg"
+        },
+        {
+            "title": "Prison Interior",
+            "artist": "Francisco Goya",
+            "year": "1815",
+            "museum": "Bowes Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20a%20prison.jpg"
+        },
+        {
+            "title": "The Forge",
+            "artist": "Francisco Goya",
+            "year": "1819",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Goya%20y%20Lucientes%2C%20de%20-%20La%20fragua%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Junta of the Philippines",
+            "artist": "Francisco Goya",
+            "year": "1815",
+            "museum": "Goya Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Castres%29%20La%20Junte%20des%20Philippines%20-%20Francisco%20de%20Goya%20-%20Mus%C3%A9e%20Goya.jpg"
+        },
+        {
+            "title": "Yard with Lunatics",
+            "artist": "Francisco Goya",
+            "year": "1794",
+            "museum": "Meadows Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Courtyard%20with%20Lunatics%20by%20Goya%201794.jpg"
+        },
+        {
+            "title": "Allegory of the City of Madrid",
+            "artist": "Francisco Goya",
+            "year": "1809",
+            "museum": "Madrid History Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alegor%C3%ADa%20de%20la%20villa%20de%20Madrid.JPG"
+        },
+        {
+            "title": "Allegory of the City of Madrid",
+            "artist": "Francisco Goya",
+            "year": "1810",
+            "museum": "Madrid History Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alegor%C3%ADa%20de%20la%20villa%20de%20Madrid.JPG"
+        },
+        {
+            "title": "Attack on a Coach",
+            "artist": "Francisco Goya",
+            "year": "1787",
+            "museum": "http://www.wikidata.org/.well-known/genid/e9d842f0a2c9a9fa9bebd33b66ac07b8",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Asalto%20al%20coche.jpg"
+        },
+        {
+            "title": "The Madhouse",
+            "artist": "Francisco Goya",
+            "year": "1814",
+            "museum": "Royal Academy of Fine Arts of San Fernando",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20La%20casa%20de%20locos%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Hunter loading his rifle",
+            "artist": "Francisco Goya",
+            "year": "1775",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cazador%20cargando%20su%20escopeta%20%28restaurado%29%20Francisco%20Goya.jpg"
+        },
+        {
+            "title": "Two Old Men",
+            "artist": "Francisco Goya",
+            "year": "1819",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/2%20alte%20M%C3%A4nner%2C%20um%201821-23.jpg"
+        },
+        {
+            "title": "Two Old Men",
+            "artist": "Francisco Goya",
+            "year": "1820",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/2%20alte%20M%C3%A4nner%2C%20um%201821-23.jpg"
+        },
+        {
+            "title": "Dance of the Majos at the Banks of Manzanares",
+            "artist": "Francisco Goya",
+            "year": "1776",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20baile%20a%20orillas%20del%20Manzanares.jpg"
+        },
+        {
+            "title": "the Drinker",
+            "artist": "Francisco Goya",
+            "year": "1777",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20bebedor.jpg"
+        },
+        {
+            "title": "Hunter with his Dogs",
+            "artist": "Francisco Goya",
+            "year": "1775",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20cazador%20con%20sus%20perros.jpg"
+        },
+        {
+            "title": "fisherman with his rod",
+            "artist": "Francisco Goya",
+            "year": "1775",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20pescador%20de%20ca%C3%B1a.jpg"
+        },
+        {
+            "title": "The Duchess of Alba and la Beata",
+            "artist": "Francisco Goya",
+            "year": "1795",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20duquesa%20de%20Alba%20y%20la%20Beata.jpg"
+        },
+        {
+            "title": "The Quail Shoot",
+            "artist": "Francisco Goya",
+            "year": "1775",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Partida%20de%20caza.jpg"
+        },
+        {
+            "title": "The Kite",
+            "artist": "Francisco Goya",
+            "year": "1777",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20cometa.jpg"
+        },
+        {
+            "title": "The Kite",
+            "artist": "Francisco Goya",
+            "year": "1778",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20cometa.jpg"
+        },
+        {
+            "title": "Boys picking fruit",
+            "artist": "Francisco Goya",
+            "year": "1778",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Muchachos%20cogiendo%20fruta.jpg"
+        },
+        {
+            "title": "children inflating a bladder",
+            "artist": "Francisco Goya",
+            "year": "1777",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%C3%B1os%20inflando%20una%20vejiga.jpg"
+        },
+        {
+            "title": "children inflating a bladder",
+            "artist": "Francisco Goya",
+            "year": "1778",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%C3%B1os%20inflando%20una%20vejiga.jpg"
+        },
+        {
+            "title": "Dogs and hunting gear",
+            "artist": "Francisco Goya",
+            "year": "1775",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Perros%20en%20tra%C3%ADlla%2C%20por%20Francisco%20de%20Goya.jpg"
+        },
+        {
+            "title": "Portrait of Manuel Godoy",
+            "artist": "Francisco Goya",
+            "year": "1801",
+            "museum": "Royal Academy of Fine Arts of San Fernando",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Godoy%20como%20general%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Holy Family with Saint Joachim and Saint Anne Before the Eternal Glory",
+            "artist": "Francisco Goya",
+            "year": "1769",
+            "museum": "http://www.wikidata.org/.well-known/genid/75f71917668b1aaed1b0461980d97703",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Triple%20generacion.jpg"
+        },
+        {
+            "title": "St. Francis Borgia Helping a Dying Impenitent",
+            "artist": "Francisco Goya",
+            "year": "1788",
+            "museum": "Valencia Cathedral",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Francis%20Borgia%20Helping%20a%20Dying%20Impenitent%20by%20Goya.jpg"
+        },
+        {
+            "title": "Self-portrait on Linen",
+            "artist": "Francisco Goya",
+            "year": "1790",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autorretrato%20de%20Goya%20%281795%29.jpg"
+        },
+        {
+            "title": "Self-portrait on Linen",
+            "artist": "Francisco Goya",
+            "year": "1795",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autorretrato%20de%20Goya%20%281795%29.jpg"
+        },
+        {
+            "title": "Self portrait with spectacles",
+            "artist": "Francisco Goya",
+            "year": "1800",
+            "museum": "Goya Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Castres%29%20Autoportrait%20aux%20lunettes%2C%20Francisco%20de%20Goya%20y%20Lucientes%2C%20Mus%C3%A9e%20Goya.jpg"
+        },
+        {
+            "title": "The Time and the old woman",
+            "artist": "Francisco Goya",
+            "year": "1810",
+            "museum": "Palais des Beaux-Arts de Lille",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Goya%20-%20The%20Time%20-%20c.%201810.jpg"
+        },
+        {
+            "title": "La Tirana",
+            "artist": "Francisco Goya",
+            "year": "1794",
+            "museum": "http://www.wikidata.org/.well-known/genid/4147d9e8b85969ec08c2d945cf27fb84",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20Maria%20del%20Rosario%20Fernandez%20La%20Tirana%201794.jpg"
+        },
+        {
+            "title": "Portrait of Sebasti\u00e1n Mart\u00ednez y P\u00e9rez",
+            "artist": "Francisco Goya",
+            "year": "1792",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20Martinez.jpg"
+        },
+        {
+            "title": "Queen Mar\u00eda Luisa in a Dress with hooped Skirt",
+            "artist": "Francisco Goya",
+            "year": "1789",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Luisa%20de%20Parma%20con%20tontillo.jpg"
+        },
+        {
+            "title": "The Flower Girls or Spring",
+            "artist": "Francisco Goya",
+            "year": "1786",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20floreras.jpg"
+        },
+        {
+            "title": "The Seesaw",
+            "artist": "Francisco Goya",
+            "year": "1779",
+            "museum": "Museu de Belles Arts de Val\u00e8ncia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20balanc%C3%ADn.jpg"
+        },
+        {
+            "title": "The Crockery Vendor",
+            "artist": "Francisco Goya",
+            "year": "1778",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20cacharrero%2C%20por%20Francisco%20de%20Goya.jpg"
+        },
+        {
+            "title": "The Crockery Vendor",
+            "artist": "Francisco Goya",
+            "year": "1779",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20cacharrero%2C%20por%20Francisco%20de%20Goya.jpg"
+        },
+        {
+            "title": "Card Players",
+            "artist": "Francisco Goya",
+            "year": "1777",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jugadores%20de%20naipes.jpg"
+        },
+        {
+            "title": "The Boar Hunt",
+            "artist": "Francisco Goya",
+            "year": "1775",
+            "museum": "Royal Palace of Madrid",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20caza%20del%20jabal%C3%AD.jpg"
+        },
+        {
+            "title": "The last communion of St Joseph of Calasanz",
+            "artist": "Francisco Goya",
+            "year": "1819",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20%C3%BAltima%20comuni%C3%B3n%20de%20san%20Jos%C3%A9%20de%20Calasanz.jpg"
+        },
+        {
+            "title": "Still Life with Golden Bream",
+            "artist": "Francisco Goya",
+            "year": "1808",
+            "museum": "Museum of Fine Arts, Houston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Still%20Life%20with%20Golden%20Bream%20-%2094.245%20-%20Museum%20of%20Fine%20Arts.jpg"
+        },
+        {
+            "title": "Portrait of Cardinal Luis Mar\u00eda de Borb\u00f3n y Vallabriga",
+            "artist": "Francisco Goya",
+            "year": "1800",
+            "museum": "S\u00e3o Paulo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20-%20cardealvallabriga01.jpg"
+        },
+        {
+            "title": "Portrait of Charles IV of Spain",
+            "artist": "Francisco Goya",
+            "year": "1789",
+            "museum": "Royal Academy of History",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20IV%20por%20Goya%20%28Academia%20de%20la%20Historia%29.jpg"
+        },
+        {
+            "title": "The Letter",
+            "artist": "Francisco Goya",
+            "year": "1814",
+            "museum": "Palais des Beaux-Arts de Lille",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Letter%20or%20the%20Young%20by%20Goya.jpg"
+        },
+        {
+            "title": "The Letter",
+            "artist": "Francisco Goya",
+            "year": "1819",
+            "museum": "Palais des Beaux-Arts de Lille",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Letter%20or%20the%20Young%20by%20Goya.jpg"
+        },
+        {
+            "title": "Dead duck",
+            "artist": "Francisco Goya",
+            "year": "1808",
+            "museum": "http://www.wikidata.org/.well-known/genid/908d9c1a2aa0f3f93cfc82f4bfa7a621",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20Pato%20muerto.jpg"
+        },
+        {
+            "title": "Still life with fruit, bottles, breads",
+            "artist": "Francisco Goya",
+            "year": "1824",
+            "museum": "Museum collection Am R\u00f6merholz",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Naturaleza%20muerta%20con%20botellas%2C%20frutas%20y%20pan%20por%20Goya.jpg"
+        },
+        {
+            "title": "Still-Life: A Butcher's Counter",
+            "artist": "Francisco Goya",
+            "year": "1808",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bodeg%C3%B3n%20con%20costillas%20y%20cabeza%20de%20cordero%20por%20Francisco%20de%20Goya.jpg"
+        },
+        {
+            "title": "Dead turkey",
+            "artist": "Francisco Goya",
+            "year": "1808",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavo%20muerto%20%28Goya%29.jpg"
+        },
+        {
+            "title": "Plucked turkey",
+            "artist": "Francisco Goya",
+            "year": "1810",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavo%20desplumado%20por%20Goya.jpg"
+        },
+        {
+            "title": "Still Life with Three Salmon Slices",
+            "artist": "Francisco Goya",
+            "year": "1808",
+            "museum": "Museum collection Am R\u00f6merholz",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20y%20Lucientes%20-%20Still-Life%20Three%20Salmon%20Steaks%20-%20WGA10065.jpg"
+        },
+        {
+            "title": "Dead Birds",
+            "artist": "Francisco Goya",
+            "year": "1808",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aves%20muertas%20por%20Francisco%20de%20Goya.jpg"
+        },
+        {
+            "title": "Dead hares",
+            "artist": "Francisco Goya",
+            "year": "1808",
+            "museum": "http://www.wikidata.org/.well-known/genid/674f86aa382c48ea3aa50f81b66a00db",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20Liebres%20muertas.jpg"
+        },
+        {
+            "title": "Still Life with Woodcocks",
+            "artist": "Francisco Goya",
+            "year": "1806",
+            "museum": "Meadows Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20Becadas%20o%20chochas%20muertas.jpg"
+        },
+        {
+            "title": "The Water Bearer",
+            "artist": "Francisco Goya",
+            "year": "1808",
+            "museum": "Museum of Fine Arts, Budapest",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20porteuse%20d%27eau%20Francisco%20de%20Goya.jpg"
+        },
+        {
+            "title": "Asensio Juli\u00e1",
+            "artist": "Francisco Goya",
+            "year": "1814",
+            "museum": "Clark Art Institute",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Asensio%20Juli%C3%A0.jpg"
+        },
+        {
+            "title": "Portrait of Asensio Juli\u00e0",
+            "artist": "Francisco Goya",
+            "year": "1798",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Retrato%20de%20Asensio%20Juli%C3%A0.jpg"
+        },
+        {
+            "title": "Portrait of Francisco Bayeu",
+            "artist": "Francisco Goya",
+            "year": "1786",
+            "museum": "Museu de Belles Arts de Val\u00e8ncia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Francisco%20Bayeu%2C%20por%20Goya%201786.jpg"
+        },
+        {
+            "title": "Francisco Bayeu",
+            "artist": "Francisco Goya",
+            "year": "1795",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Bayeu%2C%20por%20Goya.jpg"
+        },
+        {
+            "title": "Charles IV of Spain",
+            "artist": "Francisco Goya",
+            "year": "1789",
+            "museum": "Saragossa Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20IV%20%28Goya%29%201790.jpg"
+        },
+        {
+            "title": "Mar\u00eda Teresa de Borb\u00f3n y Vallabriga, later Condesa de Chinch\u00f3n",
+            "artist": "Francisco Goya",
+            "year": "1783",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya%20-%20Mar%C3%ADa%20Teresa%20de%20Borb%C3%B3n%20y%20Vallabriga%2C%20later%20Condesa%20de%20Chinch%C3%B3n.jpg"
+        },
+        {
+            "title": "Portrait of Mar\u00eda Luisa de Borb\u00f3n y Vallabriga",
+            "artist": "Francisco Goya",
+            "year": "1800",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Ritratto%20di%20Mar%C3%ADa%20Luisa%20de%20Borb%C3%B3n%20y%20Vallabriga%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of Do\u00f1a Mar\u00eda Teresa de Vallabriga y Rozas (1759-1820)",
+            "artist": "Francisco Goya",
+            "year": "1783",
+            "museum": "P\u00e9rez Sim\u00f3n Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa%20Teresa%20de%20Vallabriga%20by%20Goya.jpg"
+        },
+        {
+            "title": "Do\u00f1a Maria Teresa de Vallabriga",
+            "artist": "Francisco Goya",
+            "year": "1783",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/M.Teresa%20Vallabriga.jpg"
+        },
+        {
+            "title": "Portrait of Maria Teresa de Vallabriga",
+            "artist": "Francisco Goya",
+            "year": "1783",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa%20Teresa%20de%20Vallabriga.jpg"
+        },
+        {
+            "title": "Portrait of Mar\u00eda Teresa de Vallabriga on Horseback",
+            "artist": "Francisco Goya",
+            "year": "1783",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20y%20Lucientes%20-%20Portrait%20of%20Mar%C3%ADa%20Teresa%20de%20Vallabriga%20on%20Horseback%20-%20WGA9990.jpg"
+        },
+        {
+            "title": "Portrait of Mart\u00edn Zapater",
+            "artist": "Francisco Goya",
+            "year": "1790",
+            "museum": "Museo de Arte de Ponce",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Retrato%20de%20Mart%C3%ADn%20Zapater.jpg"
+        },
+        {
+            "title": "Portrait of Senora Ce\u00e1n Bermudez",
+            "artist": "Francisco Goya",
+            "year": "1785",
+            "museum": "Museum of Fine Arts, Budapest",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20y%20Lucientes%20-%20Portrait%20of%20Senora%20Ce%C3%A1n%20Bermudez%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of Senora Ce\u00e1n Bermudez",
+            "artist": "Francisco Goya",
+            "year": "1792",
+            "museum": "Museum of Fine Arts, Budapest",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20y%20Lucientes%20-%20Portrait%20of%20Senora%20Ce%C3%A1n%20Bermudez%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of Mart\u00edn Zapater",
+            "artist": "Francisco Goya",
+            "year": "1797",
+            "museum": "Bilbao Fine Arts Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Portrait%20of%20Mart%C3%ADn%20Zapater%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of Rafael Esteve i Vilella",
+            "artist": "Francisco Goya",
+            "year": "1815",
+            "museum": "Museu de Belles Arts de Val\u00e8ncia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Rafael%20Esteve%20Vilella%20Goya%201815.jpg"
+        },
+        {
+            "title": "Luis Mar\u00eda de Borb\u00f3n y Vallabriga",
+            "artist": "Francisco Goya",
+            "year": "1783",
+            "museum": "Saragossa Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/YoungDonLuisMaria.jpg"
+        },
+        {
+            "title": "portrait of Infante Luis of Spain",
+            "artist": "Francisco Goya",
+            "year": "1783",
+            "museum": "http://www.wikidata.org/.well-known/genid/6614f76e33bf41a19847b618225c3ba8",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Infante%20Luis%20of%20Spain%20-%20Count%20of%20Chinch%C3%B3n%20%281727-1785%29%20by%20Goya.jpg"
+        },
+        {
+            "title": "Allegory of Love, Cupid and Psyche",
+            "artist": "Francisco Goya",
+            "year": "1798",
+            "museum": "Museu Nacional d'Art de Catalunya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alegor%C3%ADa%20del%20Amor%20o%20Cupido%20y%20Psique%20por%20Francisco%20de%20Goya.jpg"
+        },
+        {
+            "title": "Witches' Flight",
+            "artist": "Francisco Goya",
+            "year": "1797",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Vuelo%20de%20brujas%20%281798%29.jpg"
+        },
+        {
+            "title": "Witches' Flight",
+            "artist": "Francisco Goya",
+            "year": "1798",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Vuelo%20de%20brujas%20%281798%29.jpg"
+        },
+        {
+            "title": "Portrait of Do\u00f1a Antonia Z\u00e1rate",
+            "artist": "Francisco Goya",
+            "year": "1805",
+            "museum": "National Gallery of Ireland",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20y%20Lucientes%20-%20Portrait%20of%20Antonia%20Z%C3%A1rate%20-%20WGA10053.jpg"
+        },
+        {
+            "title": "Driving an ashlar",
+            "artist": "Francisco Goya",
+            "year": "1786",
+            "museum": "http://www.wikidata.org/.well-known/genid/7c59b597bb7c223bfcf055af426a5f56",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20conducci%C3%B3n%20de%20un%20sillar%2C%20por%20Francisco%20de%20Goya.jpg"
+        },
+        {
+            "title": "The Sacrifice to Pan",
+            "artist": "Francisco Goya",
+            "year": "1771",
+            "museum": "http://www.wikidata.org/.well-known/genid/bc1b0910550bddd382aa5ce74a2b0ea0",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sacrificio%20a%20Pan.jpg"
+        },
+        {
+            "title": "Portrait of Jacques Galos",
+            "artist": "Francisco Goya",
+            "year": "1826",
+            "museum": "Barnes Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Portrait%20of%20Jacques%20Galos%20-%20BF5%20-%20Barnes%20Foundation.jpg"
+        },
+        {
+            "title": "Time, Truth and History",
+            "artist": "Francisco Goya",
+            "year": "1798",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boceto%20de%20la%20Verdad%2C%20el%20Tiempo%20y%20la%20Historia.jpg"
+        },
+        {
+            "title": "El t\u00edo Paquete",
+            "artist": "Francisco Goya",
+            "year": "1820",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20El%20t%C3%ADo%20Paquete.jpg"
+        },
+        {
+            "title": "Portrait of Ferdinand VII",
+            "artist": "Francisco Goya",
+            "year": "1814",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Retrato%20de%20Fernando%20VII.jpg"
+        },
+        {
+            "title": "Portrait of the Actress Antonia Zarate",
+            "artist": "Francisco Goya",
+            "year": "1810",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco-Goya%20-%20Portrait-of-the-Actress-Antonia-Zarate.jpg"
+        },
+        {
+            "title": "The Repentant St. Peter",
+            "artist": "Francisco Goya",
+            "year": "1823",
+            "museum": "The Phillips Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Jos%C3%A9%20de%20Goya%20-%20The%20Repentant%20St.%20Peter%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Repentant St. Peter",
+            "artist": "Francisco Goya",
+            "year": "1823",
+            "museum": "The Phillips Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Peter%20Repentant%20by%20Goya.jpg"
+        },
+        {
+            "title": "The Rape of Europa",
+            "artist": "Francisco Goya",
+            "year": "1772",
+            "museum": "http://www.wikidata.org/.well-known/genid/805e6822cddb810601ed064b1d8cb527",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20rape%20of%20Europa%2C%20Goya.JPG"
+        },
+        {
+            "title": "Portrait of marquise de Montehermoso",
+            "artist": "Francisco Goya",
+            "year": "1810",
+            "museum": "http://www.wikidata.org/.well-known/genid/5b4bb90b6bf732d80bcb8ca73475626f",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20marquise%20de%20Montehermoso%20by%20Goya.jpg"
+        }
+    ],
+    "Sandro Botticelli": [
+        {
+            "title": "Adoration of the Magi",
+            "artist": "Sandro Botticelli",
+            "year": "1475",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zanobi-Altar.jpg"
+        },
+        {
+            "title": "Primavera",
+            "artist": "Sandro Botticelli",
+            "year": "1480",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20La%20Primavera%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Madonna and Child with an Angel",
+            "artist": "Sandro Botticelli",
+            "year": "1465",
+            "museum": "Museo degli Innocenti",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20botticelli%2C%20madonna%20col%20bambino%20e%20un%20angelo%20ispirato%20alla%20lippina%2C%201465-66.JPG"
+        },
+        {
+            "title": "Lamentation over the Dead Christ",
+            "artist": "Sandro Botticelli",
+            "year": "1490",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Lamentation%20over%20the%20Dead%20Christ.jpg"
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Galleria Palatina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/YoungManBotticelli.jpg"
+        },
+        {
+            "title": "Last Miracle and the Death of Saint Zenobius",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Last%20Miracle%20and%20the%20Death%20of%20St.%20Zenobius%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of a Man with a Medal of Cosimo the Elder",
+            "artist": "Sandro Botticelli",
+            "year": "1474",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Man%20with%20a%20Medal%20of%20Cosimo%20the%20Elder%20-%20Sandro%20Botticelli%20%28edit%29.jpg"
+        },
+        {
+            "title": "The Mystical Nativity",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mystic%20Nativity%2C%20Sandro%20Botticelli.jpg"
+        },
+        {
+            "title": "Fortitude",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Fortitudo%20-%20Uffizi.jpg"
+        },
+        {
+            "title": "Portrait of a Lady known as Esmeralda Brandini",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Victoria and Albert Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20Sandro%20-%20Portrait%20of%20a%20Lady%20known%20as%20Smeralda%20Bandinelli%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of a Lady known as Esmeralda Brandini",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Victoria and Albert museum prints, drawings, & paintings collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20Sandro%20-%20Portrait%20of%20a%20Lady%20known%20as%20Smeralda%20Bandinelli%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Annunciation",
+            "artist": "Sandro Botticelli",
+            "year": "1487",
+            "museum": "Kelvingrove Art Gallery and Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/AnnunciazioneBotticelli-1490.jpg"
+        },
+        {
+            "title": "The Annunciation",
+            "artist": "Sandro Botticelli",
+            "year": "1490",
+            "museum": "Kelvingrove Art Gallery and Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/AnnunciazioneBotticelli-1490.jpg"
+        },
+        {
+            "title": "Saint Augustine in His Cell",
+            "artist": "Sandro Botticelli",
+            "year": "1490",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20St%20Augustin%20dans%20son%20cabinet%20de%20travail.jpg"
+        },
+        {
+            "title": "Madonna del Padiglione",
+            "artist": "Sandro Botticelli",
+            "year": "1490",
+            "museum": "Pinacoteca Ambrosiana",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20059.jpg"
+        },
+        {
+            "title": "Venus and the Three Graces Presenting Gifts to Giovanna degli Albizzi",
+            "artist": "Sandro Botticelli",
+            "year": "1484",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A9nus%20et%20les%20trois%20Gr%C3%A2ces%20offrant%20des%20pr%C3%A9sents%20%C3%A0%20une%20jeune%20fille%20-%20Sandro%20Botticelli%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20321.jpg"
+        },
+        {
+            "title": "Venus and the Three Graces Presenting Gifts to Giovanna degli Albizzi",
+            "artist": "Sandro Botticelli",
+            "year": "1484",
+            "museum": "Villa Lemmi",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A9nus%20et%20les%20trois%20Gr%C3%A2ces%20offrant%20des%20pr%C3%A9sents%20%C3%A0%20une%20jeune%20fille%20-%20Sandro%20Botticelli%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20321.jpg"
+        },
+        {
+            "title": "The Story of Virginia",
+            "artist": "Sandro Botticelli",
+            "year": "1505",
+            "museum": "Accademia Carrara",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/VirginiaBotticelli.jpg"
+        },
+        {
+            "title": "Lamentation over the Dead Christ with Saints",
+            "artist": "Sandro Botticelli",
+            "year": "1490",
+            "museum": "Museo Poldi Pezzoli",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20compianto%20di%20milano.jpg"
+        },
+        {
+            "title": "Lamentation over the Dead Christ with Saints",
+            "artist": "Sandro Botticelli",
+            "year": "1495",
+            "museum": "Museo Poldi Pezzoli",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20compianto%20di%20milano.jpg"
+        },
+        {
+            "title": "The Story of Lucretia",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "Isabella Stewart Gardner Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20The%20Story%20of%20Lucretia%20-%20P16e20%20-%20Isabella%20Stewart%20Gardner%20Museum.jpg"
+        },
+        {
+            "title": "The Story of Lucretia",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "Isabella Stewart Gardner Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Suicide%20lucretia.jpg"
+        },
+        {
+            "title": "The Story of Nastagio Degli Onesti, part one",
+            "artist": "Sandro Botticelli",
+            "year": "1483",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20Prado%20103.jpg"
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "artist": "Sandro Botticelli",
+            "year": "1488",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20incoronazione%20della%20vergine.jpg"
+        },
+        {
+            "title": "Coronation of the Virgin",
+            "artist": "Sandro Botticelli",
+            "year": "1490",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20incoronazione%20della%20vergine.jpg"
+        },
+        {
+            "title": "Calumny of Apelles",
+            "artist": "Sandro Botticelli",
+            "year": "1497",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20La%20calumnia%20de%20Apeles.jpg"
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "artist": "Sandro Botticelli",
+            "year": "1480",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20070.jpg"
+        },
+        {
+            "title": "Sant'Ambrogio Altarpiece",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20Madonna%20and%20Child%20with%20Six%20Saints%2001.jpg"
+        },
+        {
+            "title": "The Return of Judith to Bethulia",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Retour%20de%20Judith%201.JPG"
+        },
+        {
+            "title": "Madonna and Child and Two Angels",
+            "artist": "Sandro Botticelli",
+            "year": "1460",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20and%20Child%20and%20Two%20Angels%20%28Botticelli%29.jpg"
+        },
+        {
+            "title": "Madonna of the Pomegranate",
+            "artist": "Sandro Botticelli",
+            "year": "1487",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Madonna%20della%20melagrana%201487.jpg"
+        },
+        {
+            "title": "Madonna of the Book",
+            "artist": "Sandro Botticelli",
+            "year": "1480",
+            "museum": "Museo Poldi Pezzoli",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20065.jpg"
+        },
+        {
+            "title": "Portrait of Giuliano de' Medici",
+            "artist": "Sandro Botticelli",
+            "year": "1478",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20Giuliano%20de%27%20Medici%20-%20Gem%C3%A4ldegalerie%20Berlin.jpg"
+        },
+        {
+            "title": "Venus and Mars",
+            "artist": "Sandro Botticelli",
+            "year": "1485",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20and%20Mars.jpg"
+        },
+        {
+            "title": "Saint Sebastian",
+            "artist": "Sandro Botticelli",
+            "year": "1474",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20St%20Sebastian%20-%20WGA2706.jpg"
+        },
+        {
+            "title": "Saint Sebastian",
+            "artist": "Sandro Botticelli",
+            "year": "1474",
+            "museum": "Solly Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20St%20Sebastian%20-%20WGA2706.jpg"
+        },
+        {
+            "title": "Holy Trinity",
+            "artist": "Sandro Botticelli",
+            "year": "1492",
+            "museum": "Courtauld Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20Pala%20della%20Convertite.jpg"
+        },
+        {
+            "title": "Pallas and the Centaur",
+            "artist": "Sandro Botticelli",
+            "year": "1482",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pallade%20col%20Centauro%2C%20Sandro%20Botticelli%20%281482%29.jpg"
+        },
+        {
+            "title": "Madonna of the Magnificat",
+            "artist": "Sandro Botticelli",
+            "year": "1483",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Madonna%20del%20Magnificat%20C.jpg"
+        },
+        {
+            "title": "Cestello Annunciation",
+            "artist": "Sandro Botticelli",
+            "year": "1489",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Annunciazione%20di%20Cestello.jpg"
+        },
+        {
+            "title": "Madonna della Loggia",
+            "artist": "Sandro Botticelli",
+            "year": "1467",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MadonnaLoggiaBotticelli.jpg"
+        },
+        {
+            "title": "Mystic Crucifixion",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "Fogg Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Mystic%20crucifixion.jpg"
+        },
+        {
+            "title": "Mystic Crucifixion",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Mystic%20crucifixion.jpg"
+        },
+        {
+            "title": "Adoration of the Magi",
+            "artist": "Sandro Botticelli",
+            "year": "1482",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20009.jpg"
+        },
+        {
+            "title": "The Annunciation",
+            "artist": "Sandro Botticelli",
+            "year": "1450",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Annunciation%20MET%20DT2634.jpg"
+        },
+        {
+            "title": "The Story of Nastagio Degli Onesti, part two",
+            "artist": "Sandro Botticelli",
+            "year": "1483",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nastagio%20Degli%20Onesti%20II.jpg"
+        },
+        {
+            "title": "The Story of Nastagio Degli Onesti, part three",
+            "artist": "Sandro Botticelli",
+            "year": "1483",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20075.jpg"
+        },
+        {
+            "title": "The Last Communion of Saint Jerome",
+            "artist": "Sandro Botticelli",
+            "year": "1495",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%2C%20The%20Last%20Communion%20of%20Saint%20Jerome.png"
+        },
+        {
+            "title": "Madonna Bardi",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Madonna%20with%20Saints%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Virgin and Child with an Angel",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Isabella Stewart Gardner Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Virgin%20and%20Child%20with%20an%20Angel%20-%20P27w73%20-%20Isabella%20Stewart%20Gardner%20Museum.jpg"
+        },
+        {
+            "title": "Virgin of the Sea",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Galleria dell'Accademia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20madonna%20del%20Mare.jpg"
+        },
+        {
+            "title": "Virgin of the Sea",
+            "artist": "Sandro Botticelli",
+            "year": "1477",
+            "museum": "Galleria dell'Accademia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20madonna%20del%20Mare.jpg"
+        },
+        {
+            "title": "Madonna in Glory with Seraphim",
+            "artist": "Sandro Botticelli",
+            "year": "1469",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20Madonna%20in%20Glory%20with%20Seraphim%2C%201469%2C%20Uffizi.jpg"
+        },
+        {
+            "title": "Madonna and Child with Saint John the Baptist and Two Angels",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Galleria dell'Accademia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20The%20Virgin%20and%20Child%20with%20Two%20Angels%20and%20the%20Young%20St%20John%20the%20Baptist.jpg"
+        },
+        {
+            "title": "Madonna and Child",
+            "artist": "Sandro Botticelli",
+            "year": "1467",
+            "museum": "Mus\u00e9e du Petit Palais",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20botticelli%2C%20madonna%20col%20bambino%20%28avignone%29%2C%201467-70%20ca.%2001.jpg"
+        },
+        {
+            "title": "Madonna and Child",
+            "artist": "Sandro Botticelli",
+            "year": "1467",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20botticelli%2C%20madonna%20col%20bambino%20%28avignone%29%2C%201467-70%20ca.%2001.jpg"
+        },
+        {
+            "title": "Madonna and Child",
+            "artist": "Sandro Botticelli",
+            "year": "1467",
+            "museum": "Campana collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20botticelli%2C%20madonna%20col%20bambino%20%28avignone%29%2C%201467-70%20ca.%2001.jpg"
+        },
+        {
+            "title": "Virgin and Child with the Infant John the Baptist",
+            "artist": "Sandro Botticelli",
+            "year": "1490",
+            "museum": "S\u00e3o Paulo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20botticelli%20e%20bottega%2C%20madonna%20col%20bambino%20e%20san%20giovannino%20in%20un%20tondo%2C%201490-1500%20ca.%2001.JPG"
+        },
+        {
+            "title": "Madonna and Child with an Angel",
+            "artist": "Sandro Botticelli",
+            "year": "1465",
+            "museum": "Mus\u00e9e Fesch",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20A%20Virgem%20e%20o%20Menino%20com%20um%20anjo.jpg"
+        },
+        {
+            "title": "Madonna of the Rose Garden",
+            "artist": "Sandro Botticelli",
+            "year": "1469",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Galer%C3%ADa%20Uffizi%2C%20Florencia%2C%20Italia%2C%202022-09-18%2C%20DD%2045.jpg"
+        },
+        {
+            "title": "Portrait of Giuliano de' Medici",
+            "artist": "Sandro Botticelli",
+            "year": "1479",
+            "museum": "Accademia Carrara",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20Giuliano%20de%27%20Medici%20-%20Accademia%20Carrara%20Bergamo.jpg"
+        },
+        {
+            "title": "Portrait of Giuliano de' Medici",
+            "artist": "Sandro Botticelli",
+            "year": "1479",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuliano%20de%27%20Medici%20by%20Sandro%20Botticelli.jpeg"
+        },
+        {
+            "title": "Portrait of Giuliano de' Medici",
+            "artist": "Sandro Botticelli",
+            "year": "1479",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuliano%20de%27%20Medici%20by%20Sandro%20Botticelli.jpeg"
+        },
+        {
+            "title": "Baptism of Saint Zenobius",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Zenobius%20London.jpg"
+        },
+        {
+            "title": "The Last Moments of Saint Mary Magdalene",
+            "artist": "Sandro Botticelli",
+            "year": "1491",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/CommunionMagdalenBotticelli.jpg"
+        },
+        {
+            "title": "Ahasuerus Chooses Esther",
+            "artist": "Sandro Botticelli",
+            "year": "1480",
+            "museum": "Cond\u00e9 Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20Lippi%20-%20Esther%20choisie%20par%20Assu%C3%A9rus%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Feast in the House of Simon",
+            "artist": "Sandro Botticelli",
+            "year": "1491",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20pala%20delle%20convertite%2C%20predella%2003%2C%20festa%20in%20casa%20di%20simone.jpg"
+        },
+        {
+            "title": "Saint Mary Magdalene Listening to Christ Preach",
+            "artist": "Sandro Botticelli",
+            "year": "1491",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20pala%20delle%20convertite%2C%20predella%2002%2C%20Maddalena%20che%20ascolta%20la%20predica%20di%20Cristo.jpg"
+        },
+        {
+            "title": "Madonna and Child and the Young St John the Baptist",
+            "artist": "Sandro Botticelli",
+            "year": "1505",
+            "museum": "Galleria Palatina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MadonnaBambinoGiovanninoBotticelli.jpg"
+        },
+        {
+            "title": "Madonna delle Grazie",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "http://www.wikidata.org/.well-known/genid/442a953c07377c5686720df7831d3ce5",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20Madonna%20delle%20Grazie%20%28c.%201470%29.jpg"
+        },
+        {
+            "title": "Noli Me Tangere",
+            "artist": "Sandro Botticelli",
+            "year": "1491",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20%28Alessandro%20di%20Mariano%20Filipepi%29%2C%20Italian%20%28active%20Florence%20and%20Rome%29%20-%20%22Noli%20Me%20Tangere%22%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Agony in the Garden",
+            "artist": "Sandro Botticelli",
+            "year": "1499",
+            "museum": "Royal Chapel of Granada",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/OrazioneOrtoBotticelli.jpg"
+        },
+        {
+            "title": "San Barnaba Altarpiece",
+            "artist": "Sandro Botticelli",
+            "year": "1487",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20003.jpg"
+        },
+        {
+            "title": "Three Miracles of Saint Zenobius",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/3ZenobiusLondon.jpg"
+        },
+        {
+            "title": "Three Miracles of Saint Zenobius",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1506%20Botticelli%20Drei%20Wunder%20des%20Heiligen%20Zenobius%20anagoria.JPG"
+        },
+        {
+            "title": "Queen Vashti Leaving the Royal Palace",
+            "artist": "Sandro Botticelli",
+            "year": "1480",
+            "museum": "Museo Horne",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%2C%20la%20regina%20di%20vasti%20cacciata.jpg"
+        },
+        {
+            "title": "Idealized Portrait of a Lady (Portrait of Simonetta Vespucci as Nymph)",
+            "artist": "Sandro Botticelli",
+            "year": "1482",
+            "museum": "St\u00e4del Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Idealised%20Portrait%20of%20a%20Lady%20%28Portrait%20of%20Simonetta%20Vespucci%20as%20Nymph%29%20%28SM%20936%29.png"
+        },
+        {
+            "title": "Judgement of Paris",
+            "artist": "Sandro Botticelli",
+            "year": "1486",
+            "museum": "Cini Palace Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli-Juicio-de-Paris.jpg"
+        },
+        {
+            "title": "Judgement of Paris",
+            "artist": "Sandro Botticelli",
+            "year": "1486",
+            "museum": "Vittorio Cini collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli-Juicio-de-Paris.jpg"
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "artist": "Sandro Botticelli",
+            "year": "1483",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli-Portrait%20of%20a%20Youth.jpg"
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "artist": "Sandro Botticelli",
+            "year": "1483",
+            "museum": "Andrew W. Mellon collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli-Portrait%20of%20a%20Youth.jpg"
+        },
+        {
+            "title": "The Discovery of the Body of Holofernes",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20La%20scoperta%20del%20cadavere%20di%20Oloferne%20e%20Il%20ritorno%20di%20Giuditta%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Virgin and Child with the Young Saint John the Baptist",
+            "artist": "Sandro Botticelli",
+            "year": "1490",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Virgin%20and%20Child%20with%20the%20Young%20Saint%20John%20the%20Baptist%20-%201970.160%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Madonna and Child with the Young St. John the Baptist",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2004%20Louvre.jpg"
+        },
+        {
+            "title": "The outcast",
+            "artist": "Sandro Botticelli",
+            "year": "1480",
+            "museum": "Palazzo Pallavicini-Rospigliosi",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20025.jpg"
+        },
+        {
+            "title": "The Madonna and Child with the Young Saint John the Baptist",
+            "artist": "Sandro Botticelli",
+            "year": "1490",
+            "museum": "http://www.wikidata.org/.well-known/genid/1112e53cc28aee02597c9bc378044a0f",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20Ishizuka%20106.jpg"
+        },
+        {
+            "title": "The Story of Nastagio Degli Onesti, part four",
+            "artist": "Sandro Botticelli",
+            "year": "1483",
+            "museum": "Palazzo Pucci",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20nastagio4.jpg"
+        },
+        {
+            "title": "Madonna and Child",
+            "artist": "Sandro Botticelli",
+            "year": "1465",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Vierge%20et%20l%27Enfant%2C%20dite%20Madone%20des%20Guidi%20de%20Faenza%20-%20Sandro%20Botticelli%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%202099.jpg"
+        },
+        {
+            "title": "Madonna Adoring the Child with Five Angels",
+            "artist": "Sandro Botticelli",
+            "year": "1480",
+            "museum": "Baltimore Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20Madonna%20Adoring%20the%20Child%20with%20Five%20Angels%20-%20Baltimore%20Museum%20of%20Art%202.jpg"
+        },
+        {
+            "title": "Judit with the Head of Holofernes",
+            "artist": "Sandro Botticelli",
+            "year": "1498",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20met%20het%20hoofd%20van%20Holofernes%20Rijksmuseum%20SK-A-3381.jpeg"
+        },
+        {
+            "title": "Madonna and Child with Five Angels",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20Louvre%2011.jpg"
+        },
+        {
+            "title": "Madonna and Child with Five Angels",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Campana collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20Louvre%2011.jpg"
+        },
+        {
+            "title": "Portrait of a Young Man",
+            "artist": "Sandro Botticelli",
+            "year": "1487",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20Portrait%20young%20man%20Louvre.jpg"
+        },
+        {
+            "title": "Three Scenes from the Story of Esther",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Trois%20sc%C3%A8nes%20de%20l%27histoire%20d%27Esther%20-%20Filippino%20Lippi%20%3B%20Sandro%20Botticelli%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201972%2013.jpg"
+        },
+        {
+            "title": "Mary with the Child and Singing Angels",
+            "artist": "Sandro Botticelli",
+            "year": "1478",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Mary%20with%20the%20Child%20and%20Singing%20Angels%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Adoration of the Magi of ca. 1470-1475",
+            "artist": "Sandro Botticelli",
+            "year": "1470",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Adorazione%20dei%20Magi%20-%20National%20Gallery%20London.jpg"
+        },
+        {
+            "title": "Madonna and Child with Two Angels",
+            "artist": "Sandro Botticelli",
+            "year": "1500",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20and%20Child%20with%20Two%20Angels%20MET%20EP256.jpg"
+        }
+    ],
+    "Sofonisba Anguissola": [
+        {
+            "title": "Miniature Self Portrait (Anguissola, Boston)",
+            "artist": "Sofonisba Anguissola",
+            "year": "1556",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Self-Portrait%20-%20c.%201556.jpg"
+        },
+        {
+            "title": "Portrait of Minerva Anguissola",
+            "artist": "Sofonisba Anguissola",
+            "year": "1560",
+            "museum": "Pinacoteca di Brera",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Portrait%20of%20Minerva%20Anguissola%20-%20WGA0700.jpg"
+        },
+        {
+            "title": "Virgin and Child",
+            "artist": "Sofonisba Anguissola",
+            "year": "1570",
+            "museum": "Statens Museum for Kunst",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ubekendt%20italiensk%20KMSsp77%20-%20Virgin%20and%20Child%20-%20KMSsp77%20-%20Statens%20Museum%20for%20Kunst.jpg"
+        },
+        {
+            "title": "Portrait Group with the Artist\u2019s Father, Brother and Sister",
+            "artist": "Sofonisba Anguissola",
+            "year": "1559",
+            "museum": "Nivaagaard Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Portr%C3%A6tgruppe%20med%20kunstnerens%20fader%20Amilcare%20Anguissola%20og%20hendes%20s%C3%B8skende%20Minerva%20og%20Astrubale%2C%20ca.%201559%2C%200001NMK%2C%20Nivaagaards%20Malerisamling.jpg"
+        },
+        {
+            "title": "Portrait of a Young Woman in Profile",
+            "artist": "Sofonisba Anguissola",
+            "year": "1580",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Bildnis%20einer%20jungen%20Frau%20im%20Profil.jpeg"
+        },
+        {
+            "title": "A Man with his Daughter",
+            "artist": "Sofonisba Anguissola",
+            "year": "1580",
+            "museum": "National Museum in Warsaw",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anguissola%20A%20man%20with%20his%20daughter.jpg"
+        },
+        {
+            "title": "A Man with his Daughter",
+            "artist": "Sofonisba Anguissola",
+            "year": "1580",
+            "museum": "National Museum in Warsaw",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Portrait%20of%20a%20man%20with%20his%20daughter%20-%20M.Ob.1079%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg"
+        },
+        {
+            "title": "Portrait of the Artist's Sisters Playing Chess",
+            "artist": "Sofonisba Anguissola",
+            "year": "1555",
+            "museum": "National Museum in Pozna\u0144",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Chess%20Game%20%28Sofonisba%20Anguissola%29%201555%20%284096x3236px%29.jpg"
+        },
+        {
+            "title": "The Artist's Sister Elena in the Garb of a Nun",
+            "artist": "Sofonisba Anguissola",
+            "year": "1540",
+            "museum": "Southampton City Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Elena%20Anguissola%20-%20Sonofisba%20Anguissola%20%28Southampton%20City%20Art%20Gallery%29.jpg"
+        },
+        {
+            "title": "Self-portrait at an Easel",
+            "artist": "Sofonisba Anguissola",
+            "year": "1556",
+            "museum": "\u0141a\u0144cut Castle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
+        },
+        {
+            "title": "Three children with dog",
+            "artist": "Sofonisba Anguissola",
+            "year": "1580",
+            "museum": "Corsham Court",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20001.jpg"
+        },
+        {
+            "title": "Portrait of Elisabeth of Valois (1545-1568), Queen consort of Spain and her daughter Isabella Clara Eugenia (1566-1633)",
+            "artist": "Sofonisba Anguissola",
+            "year": "1565",
+            "museum": "Basque Museum in Bayonne",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/DianedAndouins1565.jpg"
+        },
+        {
+            "title": "Portrait of Giuliano Cesarini",
+            "artist": "Sofonisba Anguissola",
+            "year": "1586",
+            "museum": "http://www.wikidata.org/.well-known/genid/56dd9ebadd251dec6db9fa9329b2f243",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20Portrait%20Giuliano%20II%20Cesarini%20aged%2014.jpg"
+        },
+        {
+            "title": "Portrait of a Boy at the Spanish Court",
+            "artist": "Sofonisba Anguissola",
+            "year": "1567",
+            "museum": "San Diego Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Boy%20at%20the%20Spanish%20Court%20by%20Sofonisba%20Anguissola%2C%20San%20Diego%20Museum%20of%20Art.JPG"
+        },
+        {
+            "title": "Portrait of Prince Alessandro Farnese",
+            "artist": "Sofonisba Anguissola",
+            "year": "1560",
+            "museum": "National Gallery of Ireland",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Farnese%2C%20S.%20Anguisciola.jpg"
+        },
+        {
+            "title": "Portrait of Philip II of Spain",
+            "artist": "Sofonisba Anguissola",
+            "year": "1565",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Philip%20II%20of%20Spain%20by%20Sofonisba%20Anguissola%20-%20002b.jpg"
+        },
+        {
+            "title": "Self-portrait in old age",
+            "artist": "Sofonisba Anguissola",
+            "year": "1610",
+            "museum": "Gottfried Keller Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Self%20portrait%2C%201610.jpg"
+        },
+        {
+            "title": "Portrait of Anna of Austria (1549-1580)",
+            "artist": "Sofonisba Anguissola",
+            "year": "1573",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20reina%20Ana%20de%20Austria%2C%20por%20Sofonisba%20Anguissola.jpg"
+        },
+        {
+            "title": "Portrait of Elisabeth of Valois",
+            "artist": "Sofonisba Anguissola",
+            "year": "1561",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth.of.Valois.JPG"
+        },
+        {
+            "title": "Self-portrait at the Spinnet",
+            "artist": "Sofonisba Anguissola",
+            "year": "1555",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoritratto%20alla%20spinetta%2C%20Sofonisba%20Anguissola%20001.JPG"
+        },
+        {
+            "title": "Portrait of Queen Elisabeth of Spain (1545-1568)",
+            "artist": "Sofonisba Anguissola",
+            "year": "1599",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Isabel%20von%20Valois%20by%20Sofonisba%20Anguissola.jpg"
+        },
+        {
+            "title": "Portrait of Francesco Maria II della Rovere, Duke of Urbino (1549\u20131631)",
+            "artist": "Sofonisba Anguissola",
+            "year": "1600",
+            "museum": "http://www.wikidata.org/.well-known/genid/1cdea361443614021cc0a4ac2203630a",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Francesco%20Maria%20II%20della%20Rovere%2C%20Duke%20of%20Urbino%20%281549%E2%80%931631%29.jpg"
+        },
+        {
+            "title": "Portrait of Joanna of Austria with a Young Girl",
+            "artist": "Sofonisba Anguissola",
+            "year": "1561",
+            "museum": "Isabella Stewart Gardner Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Portrait%20of%20Juana%20of%20Austria%20with%20a%20Young%20Girl%2C%201561.jpg"
+        },
+        {
+            "title": "Portrait of Joanna of Austria",
+            "artist": "Sofonisba Anguissola",
+            "year": "1560",
+            "museum": "http://www.wikidata.org/.well-known/genid/23a7f81f62fa78495e07448f5f4cfb51",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20Joanna%20of%20Portugal.jpg"
+        },
+        {
+            "title": "Portrait of a Couple",
+            "artist": "Sofonisba Anguissola",
+            "year": "1570",
+            "museum": "Galleria Doria Pamphilj",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anguissola%2C%20Sofonisba%20-%20Bildnis%20eines%20Paares%20-%20c.%201570.jpg"
+        },
+        {
+            "title": "Portrait of a Monk",
+            "artist": "Sofonisba Anguissola",
+            "year": "1556",
+            "museum": "Cook collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20-%20portrait%20of%20a%20monk%20c.%201556.jpg"
+        },
+        {
+            "title": "Portrait of the Infanta Isabella Clara Eugenia",
+            "artist": "Sofonisba Anguissola",
+            "year": "1599",
+            "museum": "Embassy of Spain, Paris",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Infantin%20Isabella%20Clara%20Eugenia%2C%201599.jpg"
+        },
+        {
+            "title": "Madonna Suckling the Infant Christ",
+            "artist": "Sofonisba Anguissola",
+            "year": "1598",
+            "museum": "Museum of Fine Arts, Budapest",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20suckling%20the%20Infant%20Christ%20%28Sofonisba%20Anguissola%29-WUS09961.jpg"
+        },
+        {
+            "title": "Portrait of Giovanni Battista Caselli",
+            "artist": "Sofonisba Anguissola",
+            "year": "1557",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20Giovanni%20Battista%20Caselli.jpg"
+        },
+        {
+            "title": "Young Man",
+            "artist": "Sofonisba Anguissola",
+            "year": "1600",
+            "museum": "Detroit Institute of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Young%20Man%20-%2068.300%20-%20Detroit%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "Portrait of a Lady, presumably Maddalena Osuna Giron",
+            "artist": "Sofonisba Anguissola",
+            "year": "1600",
+            "museum": "Civic Museum of Palazzo Mosca",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Barocci%20-%20Maddalena%20Osuna%20Giron%20%28%3F%29%20-%20Musei%20Civici%20di%20Palazzo%20Mosca.png"
+        },
+        {
+            "title": "The Holy Family with Saints Anne and John the Baptist",
+            "artist": "Sofonisba Anguissola",
+            "year": "1592",
+            "museum": "Lowe Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Holy%20Family%20with%20Sts.%20Anne%20%26%20John%20the%20Baptist%27%20by%20Sofonisba%20Anguissola.JPG"
+        },
+        {
+            "title": "Portrait of Queen Anne of Austria",
+            "artist": "Sofonisba Anguissola",
+            "year": "1573",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1549%20Anna.jpg"
+        }
+    ],
+    "Reza Abbasi": [
+        {
+            "title": "Lady with a Mirror",
+            "artist": "Reza Abbasi",
+            "year": "1618",
+            "museum": "Detroit Institute of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Riza-i%20%27Abbasi%20-%20Lady%20with%20a%20Mirror%20-%2044.274%20-%20Detroit%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "Officer of the Guards",
+            "artist": "Reza Abbasi",
+            "year": "1622",
+            "museum": "Detroit Institute of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Riza-i%20Abbasi%20Young%20Man%20with%20a%20Sword%20-%20Detroit%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "Tahmuras Defeating the Divs",
+            "artist": "Reza Abbasi",
+            "year": "1590",
+            "museum": "Chester Beatty Library",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tahmuras%20Defeating%20the%20Divs.jpg"
+        },
+        {
+            "title": "Nashmi the Archer",
+            "artist": "Reza Abbasi",
+            "year": "1630",
+            "museum": "Arthur M. Sackler Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aqa%20Riza%20%28Riza%20%E2%80%98Abbasi%29%20-%20Nashmi%20the%20Archer%20-%201960.197%20-%20Harvard%20Art%20Museums.jpg"
+        },
+        {
+            "title": "Nashmi the Archer",
+            "artist": "Reza Abbasi",
+            "year": "1630",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aqa%20Riza%20%28Riza%20%E2%80%98Abbasi%29%20-%20Nashmi%20the%20Archer%20-%201960.197%20-%20Harvard%20Art%20Museums.jpg"
+        },
+        {
+            "title": "Young man in a fur hat (CBL Per 260.2)",
+            "artist": "Reza Abbasi",
+            "year": "1612",
+            "museum": "Chester Beatty Library",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20man%20in%20a%20fur%20hat%2C%20by%20Reza%20Abbasi%20%28CBL%20Per%20260.2%29.jpg"
+        },
+        {
+            "title": "Convivial Party (1)",
+            "artist": "Reza Abbasi",
+            "year": "1612",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Convivial%20Party1.Riza.Hermitage.%20S.Peterburg.jpg"
+        },
+        {
+            "title": "Convivial Party (2)",
+            "artist": "Reza Abbasi",
+            "year": "1612",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Convivial%20Party2.Riza.Hermitage.%20S.Peterburg.jpg"
+        }
+    ],
+    "Edgar Degas": [
+        {
+            "title": "Cow",
+            "artist": "Edgar Degas",
+            "year": "1876",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20Vaca.JPG"
+        },
+        {
+            "title": "The Ballet Class",
+            "artist": "Edgar Degas",
+            "year": "1878",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20083.jpg"
+        },
+        {
+            "title": "The Bellelli Sisters (Giovanna and Giuliana Bellelli)",
+            "artist": "Edgar Degas",
+            "year": "1865",
+            "museum": "Los Angeles County Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Bellelli%20Sisters%20%28Giovanna%20and%20Giuliana%20Bellelli%29%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of Mlle. Hortense Valpin\u00e7on",
+            "artist": "Edgar Degas",
+            "year": "1866",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Portrait%20of%20Mlle.%20Hortense%20Valpin%C3%A7on%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of Paul Valpin\u00e7on (d. 1894)",
+            "artist": "Edgar Degas",
+            "year": "1855",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Portrait%20of%20Paul%20Valpin%C3%A7on%20%28d.%201894%29%20-%2074.28%20-%20Minneapolis%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "At the Milliner's",
+            "artist": "Edgar Degas",
+            "year": "1882",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Dans%20la%20chapellerie.jpg"
+        },
+        {
+            "title": "The Pond in the Forest",
+            "artist": "Edgar Degas",
+            "year": "1867",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20The%20Pond%20in%20the%20Forest%2C%20ca.%201867%20-%201868.jpg"
+        },
+        {
+            "title": "Racehorses in a Landscape",
+            "artist": "Edgar Degas",
+            "year": "1894",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%2C%20Race%20Horses%20in%20a%20Landscape.jpg"
+        },
+        {
+            "title": "Melancholy",
+            "artist": "Edgar Degas",
+            "year": "1860",
+            "museum": "The Phillips Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Melancholy%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Dance Rehearsal",
+            "artist": "Edgar Degas",
+            "year": "1870",
+            "museum": "The Phillips Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20La%20R%C3%A9p%C3%A9tition%20au%20foyer%20de%20la%20danse%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Women Combing Their Hair",
+            "artist": "Edgar Degas",
+            "year": "1875",
+            "museum": "The Phillips Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Women%20Combing%20Their%20Hair%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Beach Scene",
+            "artist": "Edgar Degas",
+            "year": "1869",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20041.jpg"
+        },
+        {
+            "title": "Beach Scene",
+            "artist": "Edgar Degas",
+            "year": "1876",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20041.jpg"
+        },
+        {
+            "title": "Beach Scene",
+            "artist": "Edgar Degas",
+            "year": "1869",
+            "museum": "Hugh Lane Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20041.jpg"
+        },
+        {
+            "title": "Beach Scene",
+            "artist": "Edgar Degas",
+            "year": "1876",
+            "museum": "Hugh Lane Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20041.jpg"
+        },
+        {
+            "title": "Ukrainian Dancers",
+            "artist": "Edgar Degas",
+            "year": "1899",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Ukrainian%20Dancers%20-%20c.%201899.png"
+        },
+        {
+            "title": "Ballet Dancers",
+            "artist": "Edgar Degas",
+            "year": "1895",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20%281834-1917%29%20-%20Ballet%20Dancers%20-%20NG4168%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "At the Caf\u00e9 Ch\u00e2teaudun",
+            "artist": "Edgar Degas",
+            "year": "1870",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20%281834-1917%29%20-%20At%20the%20Caf%C3%A9%20Ch%C3%A2teaudun%20-%20NG6536%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "Princess Pauline de Metternich",
+            "artist": "Edgar Degas",
+            "year": "1865",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20086.jpg"
+        },
+        {
+            "title": "Promenade beside the Sea",
+            "artist": "Edgar Degas",
+            "year": "1860",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Promenade%20beside%20the%20Sea%20%28c.%201860%29.jpg"
+        },
+        {
+            "title": "Portrait of Elena Carafa",
+            "artist": "Edgar Degas",
+            "year": "1875",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Elena%20Carafa.jpg"
+        },
+        {
+            "title": "Portrait de Diego Martelli",
+            "artist": "Edgar Degas",
+            "year": "1879",
+            "museum": "National Museum of Fine Arts, Argentina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Diego%20Martelli%20-%20Edgar%20Degas.jpg"
+        },
+        {
+            "title": "Harlequin Dance",
+            "artist": "Edgar Degas",
+            "year": "1890",
+            "museum": "National Museum of Fine Arts, Argentina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Arlequin%20danse%20-%20Edgar%20Degas.jpg"
+        },
+        {
+            "title": "Two Dancers - Yellow and Rose",
+            "artist": "Edgar Degas",
+            "year": "1898",
+            "museum": "National Museum of Fine Arts, Argentina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Deux%20danseuses%20jaunes%20et%20roses%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "dancer in white",
+            "artist": "Edgar Degas",
+            "year": "1877",
+            "museum": "National Museum of Fine Arts, Argentina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Danseuse%20en%20blanc%20-%20Edgar%20Degas.jpg"
+        },
+        {
+            "title": "Before the Performance",
+            "artist": "Edgar Degas",
+            "year": "1896",
+            "museum": "National Galleries Scotland",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Before%20the%20Performance%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Jockeys and Race Horses",
+            "artist": "Edgar Degas",
+            "year": "1890",
+            "museum": "Barnes Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Jockeys%20and%20Race%20Horses%20-%20BF572%20-%20Barnes%20Foundation.jpg"
+        },
+        {
+            "title": "Victoria Dubourg",
+            "artist": "Edgar Degas",
+            "year": "1868",
+            "museum": "Toledo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Victoria%20Dubourg%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Woman Ironing",
+            "artist": "Edgar Degas",
+            "year": "1892",
+            "museum": "Walker Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Woman%20Ironing%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Dancers",
+            "artist": "Edgar Degas",
+            "year": "1899",
+            "museum": "Toledo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Dancers%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Ballet from \"Robert le Diable\"",
+            "artist": "Edgar Degas",
+            "year": "1876",
+            "museum": "Victoria and Albert Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20Ballet%20from%20Robert%20le%20Diable.jpg"
+        },
+        {
+            "title": "Woman ironing",
+            "artist": "Edgar Degas",
+            "year": "1869",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Women%20Ironing%20Edgar%20Degas.jpg"
+        },
+        {
+            "title": "After the Bath.",
+            "artist": "Edgar Degas",
+            "year": "1890",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20the%20Bath%20Edgar%20Degas%20c.1890.jpg"
+        },
+        {
+            "title": "Memory of Vel\u00e1zquez (\"Erinnerung an Vel\u00e1zquez\")",
+            "artist": "Edgar Degas",
+            "year": "1858",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Erinnerung%20an%20Vel%C3%A1zquez%20-%2012760%20-%20Bavarian%20State%20Painting%20Collections.jpg"
+        },
+        {
+            "title": "The Bath (Le bain)",
+            "artist": "Edgar Degas",
+            "year": "1895",
+            "museum": "Carnegie Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilaire-germain-edgar%20degas%2C%20il%20bagno%2C%201895%20ca.jpg"
+        },
+        {
+            "title": "Four Ballerinas on Stage",
+            "artist": "Edgar Degas",
+            "year": "1890",
+            "museum": "S\u00e3o Paulo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Quatro%20Bailarinas%20em%20Cena.jpg"
+        },
+        {
+            "title": "Portrait of Eug\u00e8ne Manet",
+            "artist": "Edgar Degas",
+            "year": "1874",
+            "museum": "http://www.wikidata.org/.well-known/genid/c6f6e6184d82b2a99fb0a87123dbc3bf",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Eugene%20Manet%20%281874%29%20by%20Edgar%20Degas.jpg"
+        },
+        {
+            "title": "The Ballet\u00a0Rehearsal",
+            "artist": "Edgar Degas",
+            "year": "1891",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Ballet%20Rehearsal%20-%201952.43.1%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "The\u00a0Jockey",
+            "artist": "Edgar Degas",
+            "year": "1882",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Jockey%20-%201942.302%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "The\u00a0Conversation",
+            "artist": "Edgar Degas",
+            "year": "1890",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Conversation%20-%201983.7.7%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "The False\u00a0Start",
+            "artist": "Edgar Degas",
+            "year": "1870",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20False%20Start%20-%201982.111.6%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Four\u00a0Jockeys",
+            "artist": "Edgar Degas",
+            "year": "1889",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Four%20Jockey%20-%202014.60.1%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Woman drying her left arm",
+            "artist": "Edgar Degas",
+            "year": "1884",
+            "museum": "S\u00e3o Paulo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Mulher%20Enxugando%20o%20Bra%C3%A7o%20Esquerdo.jpg"
+        },
+        {
+            "title": "Woman with Opera Glasses",
+            "artist": "Edgar Degas",
+            "year": "1877",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Dame%20aux%20jumelles%2C%201879.jpg"
+        },
+        {
+            "title": "David and Goliath",
+            "artist": "Edgar Degas",
+            "year": "1864",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20David%20et%20Goliath.jpg"
+        },
+        {
+            "title": "Castel Sant' Elmo, from Capodimonte",
+            "artist": "Edgar Degas",
+            "year": "1856",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20%281834-1917%29%20-%20The%20Castel%20Sant%20Elmo%20from%20the%20Capodimonte%2C%20Naples%20-%20PD.18-2000%20-%20Fitzwilliam%20Museum.jpg"
+        },
+        {
+            "title": "Copy after 'The Finding of Moses' by Veronese",
+            "artist": "Edgar Degas",
+            "year": "1855",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20%281834-1917%29%20-%20The%20Finding%20of%20Moses%20%28copy%20after%20Paolo%20Veronese%29%20-%20PD.10-1978%20-%20Fitzwilliam%20Museum.jpg"
+        },
+        {
+            "title": "At the Caf\u00e9",
+            "artist": "Edgar Degas",
+            "year": "1876",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20%281834-1917%29%20-%20At%20the%20Caf%C3%A9%20-%202387%20-%20Fitzwilliam%20Museum.jpg"
+        },
+        {
+            "title": "C\u00e9r\u00e9monie d'ordination dans la Cath\u00e9drale de Lyon",
+            "artist": "Edgar Degas",
+            "year": "1855",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20%281834-1917%29%20-%20Ceremony%20of%20Ordination%20in%20the%20Cathedral%20of%20Lyons%20-%20PD.11-1978%20-%20Fitzwilliam%20Museum.jpg"
+        },
+        {
+            "title": "Singer with a Glove",
+            "artist": "Edgar Degas",
+            "year": "1878",
+            "museum": "Fogg Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Cafekonzert%20S%C3%A4ngerin%20mit%20Handschuh.jpg"
+        },
+        {
+            "title": "Singer with a Glove",
+            "artist": "Edgar Degas",
+            "year": "1878",
+            "museum": "Fogg Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilaire-Germain-Edgar%20Degas%20-%20Singer%20with%20a%20Glove%20-%201951.68%20-%20Fogg%20Museum.jpg"
+        },
+        {
+            "title": "Singer with a Glove",
+            "artist": "Edgar Degas",
+            "year": "1878",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Cafekonzert%20S%C3%A4ngerin%20mit%20Handschuh.jpg"
+        },
+        {
+            "title": "Singer with a Glove",
+            "artist": "Edgar Degas",
+            "year": "1878",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilaire-Germain-Edgar%20Degas%20-%20Singer%20with%20a%20Glove%20-%201951.68%20-%20Fogg%20Museum.jpg"
+        },
+        {
+            "title": "Woman Wearing Socks",
+            "artist": "Edgar Degas",
+            "year": "1883",
+            "museum": "National Museum of Art, Architecture and Design",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20Femme%20mettant%20ses%20bas%2C%201883.jpg"
+        },
+        {
+            "title": "Woman Wearing Socks",
+            "artist": "Edgar Degas",
+            "year": "1883",
+            "museum": "National Museum of Art, Architecture and Design",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Painting%20-%20NG.M.02244%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg"
+        },
+        {
+            "title": "Lady with a Dog",
+            "artist": "Edgar Degas",
+            "year": "1800",
+            "museum": "National Museum of Art, Architecture and Design",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20La%20femme%20au%20chien%2C%20Ca.%201875%E2%80%931880.jpg"
+        },
+        {
+            "title": "Lady with a Dog",
+            "artist": "Edgar Degas",
+            "year": "1800",
+            "museum": "National Museum of Art, Architecture and Design",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Lady%20with%20a%20Dog%20-%20NG.M.01170%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg"
+        },
+        {
+            "title": "Morning Toilet",
+            "artist": "Edgar Degas",
+            "year": "1893",
+            "museum": "National Museum of Art, Architecture and Design",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Morning%20Toilet%20-%20NG.M.01292%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg"
+        },
+        {
+            "title": "Young Spartans Exercising",
+            "artist": "Edgar Degas",
+            "year": "1860",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Spartans%20Exercising%20National%20Gallery%20NG3860.jpg"
+        },
+        {
+            "title": "Count Lepic and His Daughters",
+            "artist": "Edgar Degas",
+            "year": "1871",
+            "museum": "Foundation E.G. B\u00fchrle Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Ludovic%20Lepic%20et%20ses%20Filles%20-%2036%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg"
+        },
+        {
+            "title": "Count Lepic and His Daughters",
+            "artist": "Edgar Degas",
+            "year": "1871",
+            "museum": "Kunsthaus Z\u00fcrich",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Ludovic%20Lepic%20et%20ses%20Filles%20-%2036%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg"
+        },
+        {
+            "title": "After a Bath. Woman Drying the Back of her Neck.",
+            "artist": "Edgar Degas",
+            "year": "1895",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20045.jpg"
+        },
+        {
+            "title": "L'Absinthe",
+            "artist": "Edgar Degas",
+            "year": "1875",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20In%20a%20Caf%C3%A9%20-%20Google%20Art%20Project%202.jpg"
+        },
+        {
+            "title": "L'Absinthe",
+            "artist": "Edgar Degas",
+            "year": "1876",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20In%20a%20Caf%C3%A9%20-%20Google%20Art%20Project%202.jpg"
+        },
+        {
+            "title": "The Bellelli Family",
+            "artist": "Edgar Degas",
+            "year": "1858",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Bellelli%20Family%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Bellelli Family",
+            "artist": "Edgar Degas",
+            "year": "1900",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Bellelli%20Family%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Tub",
+            "artist": "Edgar Degas",
+            "year": "1886",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Le%20Tub%20%281886%20Mus%C3%A9e%20d%27Orsay%29.jpg"
+        },
+        {
+            "title": "Le Caf\u00e9-concert aux ambassadeurs",
+            "artist": "Edgar Degas",
+            "year": "1876",
+            "museum": "Museum of Fine Arts of Lyon",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20038.jpg"
+        },
+        {
+            "title": "Fin d'arabesque",
+            "artist": "Edgar Degas",
+            "year": "1876",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fin%20d%27arabesque%2C%20Edgar%20Degas.jpg"
+        },
+        {
+            "title": "Dancer Posing for a Photographer (Dancer in Front of the Window)",
+            "artist": "Edgar Degas",
+            "year": "1875",
+            "museum": "Pushkin Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20020.jpg"
+        },
+        {
+            "title": "Dancers at the Barre",
+            "artist": "Edgar Degas",
+            "year": "1900",
+            "museum": "The Phillips Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Dancers%20at%20the%20Barre%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "At the Races in the Countryside",
+            "artist": "Edgar Degas",
+            "year": "1869",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20At%20the%20Races%20in%20the%20Countryside%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Le champ de courses. Jockeys amateurs pr\u00e8s d'une voiture",
+            "artist": "Edgar Degas",
+            "year": "1874",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20At%20the%20Races.jpg"
+        },
+        {
+            "title": "Houses at the seaside",
+            "artist": "Edgar Degas",
+            "year": "1869",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%2C%20Maisons%20au%20bord%20de%20la%20mer.gif"
+        },
+        {
+            "title": "The Parade",
+            "artist": "Edgar Degas",
+            "year": "1866",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20040.jpg"
+        },
+        {
+            "title": "At the Milliner's",
+            "artist": "Edgar Degas",
+            "year": "1882",
+            "museum": "Museum of Modern Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/At%20the%20Milliner%27s-Degas.jpg"
+        },
+        {
+            "title": "Woman in her Bath Sponging her Leg",
+            "artist": "Edgar Degas",
+            "year": "1883",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%2C%20Femme%20dans%20son%20bain%20s%27%C3%A9pongeant%20la%20jambe.jpg"
+        },
+        {
+            "title": "Woman wiping her left foot",
+            "artist": "Edgar Degas",
+            "year": "1886",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20the%20Bath%20-%20Edgar%20Degas.png"
+        },
+        {
+            "title": "Woman Combing her Hair",
+            "artist": "Edgar Degas",
+            "year": "1887",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%2C%20Femme%20se%20coiffant.gif"
+        },
+        {
+            "title": "A Woman Seated beside a Vase of Flowers",
+            "artist": "Edgar Degas",
+            "year": "1865",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%2C%20A%20Woman%20Seated%20beside%20a%20Vase%20of%20Flowers%20%28Madame%20Paul%20Valpin%C3%A7on%29.jpg"
+        },
+        {
+            "title": "Un caf\u00e9, boulevard Montmartre",
+            "artist": "Edgar Degas",
+            "year": "1877",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%2C%20femmes%20%C3%A0%20la%20terrazze%20d%27un%20caf%C3%A9%20le%20soir.gif"
+        },
+        {
+            "title": "Racehorses at Longchamp",
+            "artist": "Edgar Degas",
+            "year": "1874",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20059.jpg"
+        },
+        {
+            "title": "Orchestra Musicians",
+            "artist": "Edgar Degas",
+            "year": "1872",
+            "museum": "St\u00e4del Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Orchestra%20Musicians%20%28SM%20sg237%29.png"
+        },
+        {
+            "title": "Henri Rouart in front of his Factory",
+            "artist": "Edgar Degas",
+            "year": "1875",
+            "museum": "Carnegie Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Henri%20Rouart%20in%20front%20of%20his%20Factory.jpg"
+        },
+        {
+            "title": "H\u00e9l\u00e8ne Rouart in her Father's Study",
+            "artist": "Edgar Degas",
+            "year": "1886",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20Rouart%20in%20her%20Father%27s%20Study.jpg"
+        },
+        {
+            "title": "Dance Class at the Opera",
+            "artist": "Edgar Degas",
+            "year": "1872",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Dance%20Foyer%20at%20the%20Opera%20on%20the%20rue%20Le%20Peletier.jpg"
+        },
+        {
+            "title": "Dance Class at the Opera",
+            "artist": "Edgar Degas",
+            "year": "1873",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Dance%20Foyer%20at%20the%20Opera%20on%20the%20rue%20Le%20Peletier.jpg"
+        },
+        {
+            "title": "A Cotton Office in New Orleans",
+            "artist": "Edgar Degas",
+            "year": "1873",
+            "museum": "Mus\u00e9e des Beaux-Arts de Pau",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20016.jpg"
+        },
+        {
+            "title": "Jeantaud, Linet et Lain\u00e9",
+            "artist": "Edgar Degas",
+            "year": "1871",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeantaud%2C%20Linet%20and%20Laine.jpg"
+        }
+    ],
+    "Jean-Honor\u00e9 Fragonard": [
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Das%20Blindekuhspiel%20-%203220%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1760",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Das%20Blindekuhspiel%20-%203220%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1760",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Das%20Blindekuhspiel%20-%203220%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1760",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Das%20Blindekuhspiel%20-%203220%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1760",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "Toledo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Das%20Blindekuhspiel%20-%203220%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1760",
+            "museum": "Toledo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Das%20Blindekuhspiel%20-%203220%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "Toledo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
+        },
+        {
+            "title": "Blind Man's Bluff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1760",
+            "museum": "Toledo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
+        },
+        {
+            "title": "A Young Girl Reading",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1770",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20Reader.jpg"
+        },
+        {
+            "title": "The Swing",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1767",
+            "museum": "Wallace Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20Swing.jpg"
+        },
+        {
+            "title": "The Chemise Withdrawn",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1770",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20The%20Shirt%20Withdrawn%20-%20WGA8069.jpg"
+        },
+        {
+            "title": "Jeroboam Sacrificing to Idols",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1752",
+            "museum": "Beaux-Arts de Paris",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeroboam.jpg"
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1775",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%201775%20adoration%20des%20bergers%20Louvre.jpg"
+        },
+        {
+            "title": "The Lock",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1777",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Verrou%20-%20Jean-Honor%C3%A9%20Fragonard%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201974%202.jpg"
+        },
+        {
+            "title": "The Model's First Sitting",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Mus\u00e9e Jacquemart-Andr\u00e9",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20modele.jpg"
+        },
+        {
+            "title": "Jean-Claude Richard, abb\u00e9 of Saint-Non",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Museu Nacional d'Art de Catalunya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Col%20renaixement%20ambit%2045%202%20big.jpg"
+        },
+        {
+            "title": "The Bathers",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1765",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20ba%C3%B1istas%2C%20por%20Jean-Honor%C3%A9%20Fragonard.JPG"
+        },
+        {
+            "title": "Fanciful Figure",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20021.jpg"
+        },
+        {
+            "title": "A Visit to the Nursery",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1775",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%2C%20The%20Visit%20to%20the%20Nursery%2C%20c.%201775%2C%20NGA%2032685.jpg"
+        },
+        {
+            "title": "A Visit to the Nursery",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1775",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%2C%20The%20Visit%20to%20the%20Nursery%2C%20c.%201775%2C%20NGA%2032685.jpg"
+        },
+        {
+            "title": "The Lover Crowned",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1771",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Progress%20of%20Love%20-%20The%20Lover%20Crowned%20-%20Fragonard%201771-72.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1750",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1750",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20See-Saw.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20See-Saw.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1750",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1750",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20See-Saw.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20See-Saw.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1750",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1750",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20See-Saw.jpg"
+        },
+        {
+            "title": "The See-Saw",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1757",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20See-Saw.jpg"
+        },
+        {
+            "title": "The Swing",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1775",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20The%20Swing%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Swing",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1775",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20The%20Swing%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Presumed portrait of Louis-Fran\u00e7ois Prault, formerly known as 'The Inspiration'",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Inspiration.jpg"
+        },
+        {
+            "title": "The Progress of Love: The Meeting",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1771",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Les%20Progr%C3%A8s%20de%20l%27amour%20-%20Le%20rendez-vous%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Triumph of Venus",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1765",
+            "museum": "Mus\u00e9e des Beaux-Arts et d'Arch\u00e9ologie de Besan\u00e7on",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/FRAGONARD-Triomphe-de-V%C3%A9nus-w.png"
+        },
+        {
+            "title": "The Triumph of Venus",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1765",
+            "museum": "Biblioth\u00e8que municipale de Besan\u00e7on",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/FRAGONARD-Triomphe-de-V%C3%A9nus-w.png"
+        },
+        {
+            "title": "Le Voeu \u00e0 l'Amour",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1780",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20il%20voto%20d%27amore%2C%201780-85%20ca..JPG"
+        },
+        {
+            "title": "Curiosity",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1777",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Curieuses%20-%20Jean-Honor%C3%A9%20Fragonard%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%20860.jpg"
+        },
+        {
+            "title": "The Progress of Love: Love Letters",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1771",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Progress%20of%20Love%20-%20Love%20Letters%20-%20Fragonard%201771-72.jpg"
+        },
+        {
+            "title": "The Progress of Love: Reverie",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1771",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Progress%20of%20Love%20-%20Reverie%20-%20Fragonard%201771-72.jpg"
+        },
+        {
+            "title": "The Progress of Love: The Pursuit",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1773",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Progress%20of%20Love%20-%20The%20Pursuit%20-%20Fragonard%201771-72.jpg"
+        },
+        {
+            "title": "The Happy Mother",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1760",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Happy%20Mother%20by%20Jean-Honor%C3%A9%20Fragonard%2C%20ca.%201760%2C%20Metropolitan%20Museum%20of%20Art%2C%2046.30.jpg"
+        },
+        {
+            "title": "The Two Sisters",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/FRAGONARDsisters.jpg"
+        },
+        {
+            "title": "The Cascade",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1775",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cascade%20MET%20DP-1015-001.jpg"
+        },
+        {
+            "title": "The Love Letter",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1770",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20La%20lettre%20d%27amour.jpg"
+        },
+        {
+            "title": "A Woman with a Dog",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Woman%20with%20a%20Dog%20MET%20DP-1019-01.jpg"
+        },
+        {
+            "title": "A Woman with a Dog",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20Woman%20w%20Dog%201769%20MMA.jpg"
+        },
+        {
+            "title": "A Shaded Avenue",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1775",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Shaded%20Avenue%20%28Fragonard%29.jpg"
+        },
+        {
+            "title": "Young Woman Reading",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1772",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Allegory%20of%20Vigilance%20MET%20DP-1017-01.jpg"
+        },
+        {
+            "title": "Portrait of a Young Woman, said to be Gabrielle de Caraman, Marquise de la Fare",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1770",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Portrait%20of%20a%20Young%20Woman%27%2C%20by%20Fragonard%2C%20late%201770s%2C%20Metropolitan%20Museum%20of%20Art%2C%2065.226.JPG"
+        },
+        {
+            "title": "So-called Diderot",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20d%27homme%2C%20anciennement%20portrait%20de%20Denis%20Diderot%20par%20Fragonard.jpg"
+        },
+        {
+            "title": "Marie-Anne-\u00c9l\u00e9onore de Grave",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honore%20Fragonard%20Marie-Madeleine%20Guimard%2C%20Dancer.jpg"
+        },
+        {
+            "title": "L\u2019\u00c9tude",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20011.jpg"
+        },
+        {
+            "title": "La Musique - Monsieur de la breteche",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Monsieur%20de%20la%20Bret%C3%A8che%20%28Fanciful%20Figure%29%20-%20WGA8065.jpg"
+        },
+        {
+            "title": "Le feu aux poudres",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1778",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20feu%20aux%20poudres%20-%20Jean-Honor%C3%A9%20Fragonard%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201942%2021.jpg"
+        },
+        {
+            "title": "Portrait of a Young Artist",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1768",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Andr%C3%A9%20Naigeon.jpg"
+        },
+        {
+            "title": "Essaim d Amours - Jean-Honore Fragonard - RF 1949-2",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1767",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20lo%20sciame%20d%27amorini%2C%201767%20ca.%2001.JPG"
+        },
+        {
+            "title": "Coresus Sacrificing Himself to Save Callirhoe",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1765",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20coresus%20sacrificing%20himselt%20to%20save%20callirhoe.jpg"
+        },
+        {
+            "title": "Mercurius en Argus",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1762",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20mercurio%20e%20argo%2C%201761-62%20ca..JPG"
+        },
+        {
+            "title": "The Captured Kiss",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1756",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Captured%20kiss.jpg"
+        },
+        {
+            "title": "Diana and Endymion",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1753",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Diana%20and%20Endymion%20A31382.jpg"
+        },
+        {
+            "title": "Mountain Landscape at Sunset",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1765",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mountain%20landscape%20at%20sunset.PNG"
+        },
+        {
+            "title": "Love as Folly",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1773",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Love%20as%20Folly%20A31361.jpg"
+        },
+        {
+            "title": "Love as Folly",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1773",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Love%20as%20Folly%20A10943.jpg"
+        },
+        {
+            "title": "Love the Sentinel",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1773",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Love%20the%20Sentinel%20E10304.jpg"
+        },
+        {
+            "title": "Love the Sentinel",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1773",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Love%20the%20Sentinel%20A10945.jpg"
+        },
+        {
+            "title": "Blindman's Buff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1773",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Blind%20Man%27s%20Bluff.jpg"
+        },
+        {
+            "title": "Blindman's Buff",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1773",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Blind%20Man%27s%20Bluff.jpg"
+        },
+        {
+            "title": "A Game of Horse and Rider",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1775",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Game%20of%20Horse%20and%20Rider%20A10935.jpg"
+        },
+        {
+            "title": "A Game of Horse and Rider",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1775",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Game%20of%20Horse%20and%20Rider%20A10935.jpg"
+        },
+        {
+            "title": "A Game of Hot Cockles",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1777",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20honor%C3%A9%20fragonard%2C%20gioco%20dello%20schiaffo%20del%20soldato%2C%201775-80%20circa.JPG"
+        },
+        {
+            "title": "A Game of Hot Cockles",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1777",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20honor%C3%A9%20fragonard%2C%20gioco%20dello%20schiaffo%20del%20soldato%2C%201775-80%20circa.JPG"
+        },
+        {
+            "title": "The Happy Family",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1775",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Happy%20Family%20A26691.jpg"
+        },
+        {
+            "title": "The Fountain of Love",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1785",
+            "museum": "J. Paul Getty Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Fountain%20of%20Love%2C%20Jean-Honor%C3%A9%20Fragonard%2C%20c1785.jpg"
+        },
+        {
+            "title": "The Good Mother",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1762",
+            "museum": "Fine Arts Museums of San Francisco",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Good%20Mother%20by%20Jean-Honor%C3%A9%20Fragonard.JPG"
+        },
+        {
+            "title": "Education of the Virgin",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1773",
+            "museum": "Fine Arts Museums of San Francisco",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Education%20of%20the%20Virgin%20by%20Jean-Honor%C3%A9%20Fragonard.JPG"
+        },
+        {
+            "title": "Portrait of a Man in Spanish Costume",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20-%20Portrait%20of%20a%20Man%20in%20Spanish%20Costume%20-%201977.123%20-%20Art%20Institute%20of%20Chicago.jpg"
+        },
+        {
+            "title": "The Good Mother",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1750",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20good%20mother.jpg"
+        },
+        {
+            "title": "Aurora Triumphing over Night",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1755",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Aurora%20Triumphing%20over%20Night%20-%202013.62%20-%20Museum%20of%20Fine%20Arts.jpg"
+        },
+        {
+            "title": "Winter",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1755",
+            "museum": "Los Angeles County Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Winter%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Grand Staircase of the Villa d'Este at Tivoli",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1760",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20The%20Grand%20Staircase%20of%20the%20Villa%20d%27Este%20at%20Tivoli%20-%202001.235%20-%20Minneapolis%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "Young Woman",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1769",
+            "museum": "Dulwich Picture Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20Jean-Honor%C3%A9%20-%20Young%20Woman%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Landscape with Shepherds and Flock of Sheep",
+            "artist": "Jean-Honor\u00e9 Fragonard",
+            "year": "1763",
+            "museum": "National Museum of Western Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Landscape%20with%20Shepherds%20and%20Flock%20of%20Sheep%20-%20Google%20Art%20Project.jpg"
+        }
+    ],
+    "Gao Fenghan": [
+        {
+            "title": "Chrysanthemums by a Rock",
+            "artist": "Gao Fenghan",
+            "year": "1716",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20-%20Chrysanthemums%20by%20a%20Rock%20-%201989.363.159%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Landscapes and Calligraphy",
+            "artist": "Gao Fenghan",
+            "year": "1736",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20-%20Landscapes%20and%20Calligraphy%20-%201981.285.8a%E2%80%93f%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Flowers and Calligraphy (Hua niao za hua ce \u82b1\u9ce5\u96dc\u756b\u518a)",
+            "artist": "Gao Fenghan",
+            "year": "1737",
+            "museum": "Princeton Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20%E9%AB%98%E9%B3%B3%E7%BF%B0%20-%20Flowers%20and%20Calligraphy%20%28Hua%20niao%20za%20hua%20ce%20%E8%8A%B1%E9%B3%A5%E9%9B%9C%E7%95%AB%E5%86%8A%29%20-%20y1977-15%20a-n%20-%20Princeton%20University%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Figures in Landscapes",
+            "artist": "Gao Fenghan",
+            "year": "1723",
+            "museum": "Princeton Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20%E9%AB%98%E9%B3%B3%E7%BF%B0%20-%20Figures%20in%20Landscapes%20-%20y1947-261%20a-h%20-%20Princeton%20University%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Flowers and Calligraphy (Hua niao za hua ce \u82b1\u9ce5\u96dc\u756b\u518a)",
+            "artist": "Gao Fenghan",
+            "year": "1737",
+            "museum": "Princeton Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20%E9%AB%98%E9%B3%B3%E7%BF%B0%20-%20Flowers%20and%20Calligraphy%20%28Hua%20niao%20za%20hua%20ce%20%E8%8A%B1%E9%B3%A5%E9%9B%9C%E7%95%AB%E5%86%8A%29%20-%20y1977-15%20e%20-%20Princeton%20University%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Ink Lotus after Bada Shanren",
+            "artist": "Gao Fenghan",
+            "year": "1727",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20-%20Ink%20Lotus%20after%20Bada%20Shanren%20-%202000.38.2%20-%20Minneapolis%20Institute%20of%20Art.jpg"
+        }
+    ],
+    "Mary Cassatt": [
+        {
+            "title": "Girl Arranging Her Hair",
+            "artist": "Mary Cassatt",
+            "year": "1886",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Girl%20Arranging%20Her%20Hair%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Little Girl in a Blue Armchair",
+            "artist": "Mary Cassatt",
+            "year": "1878",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassat%20-%20Blue%20Armchair%20NGA.jpg"
+        },
+        {
+            "title": "The Toilette",
+            "artist": "Mary Cassatt",
+            "year": "1890",
+            "museum": "Brooklyn Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20La%20Toilette%20-%20Mary%20Cassatt.jpg"
+        },
+        {
+            "title": "The Loge",
+            "artist": "Mary Cassatt",
+            "year": "1878",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassat%20-%20The%20Loge%20NGA.jpg"
+        },
+        {
+            "title": "Five O'Clock Tea",
+            "artist": "Mary Cassatt",
+            "year": "1880",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20The%20Tea%20-%20MFA%20Boston%2042.178.jpg"
+        },
+        {
+            "title": "Reading \u201cLe Figaro\u201d",
+            "artist": "Mary Cassatt",
+            "year": "1878",
+            "museum": "http://www.wikidata.org/.well-known/genid/e8f5c24babebcf9eb72e73e81932cf61",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Reading%20%E2%80%9CLe%20Figaro%E2%80%9D%2C%201878%2C%20Collection%20Mrs.%20Eric%20de%20Spoelberch%2C%20Haverford%2C%20Pennsylvania.jpg"
+        },
+        {
+            "title": "The Cup of Tea",
+            "artist": "Mary Cassatt",
+            "year": "1880",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20The%20Cup%20of%20Tea%201880.jpg"
+        },
+        {
+            "title": "In the Loge",
+            "artist": "Mary Cassatt",
+            "year": "1878",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20In%20the%20Loge%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Woman with a Pearl Necklace in a Loge",
+            "artist": "Mary Cassatt",
+            "year": "1879",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%2C%20American%20-%20Woman%20with%20a%20Pearl%20Necklace%20in%20a%20Loge%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Lilacs in a Window",
+            "artist": "Mary Cassatt",
+            "year": "1880",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassat%20-%20Lilacs%20in%20a%20Window%20-%20MMA%201997.207.jpg"
+        },
+        {
+            "title": "Girl in the Garden",
+            "artist": "Mary Cassatt",
+            "year": "1880",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Girl%20in%20the%20Garden%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of an Elderly Lady in a Bonnet: Red Background",
+            "artist": "Mary Cassatt",
+            "year": "1887",
+            "museum": "Birmingham Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20an%20Elderly%20Lady%20in%20a%20Bonnet%20-%20Red%20Background%20by%20Mary%20Cassatt.jpg"
+        },
+        {
+            "title": "A Woman and a Girl Driving",
+            "artist": "Mary Cassatt",
+            "year": "1881",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%2C%20American%20-%20A%20Woman%20and%20a%20Girl%20Driving%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of a Little Girl",
+            "artist": "Mary Cassatt",
+            "year": "1879",
+            "museum": "Mus\u00e9e des Beaux-Arts de Bordeaux",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20CASSATT%2C%20Portrait%20de%20fillette.JPG"
+        },
+        {
+            "title": "Young Mother Sewing",
+            "artist": "Mary Cassatt",
+            "year": "1900",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Mother%20Sewing%20MET%20DP139632.jpg"
+        },
+        {
+            "title": "Portrait of the Artist",
+            "artist": "Mary Cassatt",
+            "year": "1874",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Portrait%20of%20the%20Artist%20-%20MMA%201975.319.1.jpg"
+        },
+        {
+            "title": "Mother and Child with a Rose Scarf",
+            "artist": "Mary Cassatt",
+            "year": "1908",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20with%20a%20Rose%20Scarf%20MET%20DT7251.jpg"
+        },
+        {
+            "title": "Lady at the Tea Table",
+            "artist": "Mary Cassatt",
+            "year": "1884",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20at%20the%20Tea%20Table%20MET%20DT516.jpg"
+        },
+        {
+            "title": "Denise at Her Dressing Table",
+            "artist": "Mary Cassatt",
+            "year": "1908",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20at%20Her%20Dressing%20Table%20MET%20DP136101.jpg"
+        },
+        {
+            "title": "Spring: Margot Standing in a Garden (Fillette dans un jardin)",
+            "artist": "Mary Cassatt",
+            "year": "1900",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Childhood%20in%20a%20Garden%20-%201901.jpg"
+        },
+        {
+            "title": "Mother and Child (Baby Getting Up from His Nap)",
+            "artist": "Mary Cassatt",
+            "year": "1899",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20%28Baby%20Getting%20Up%20from%20His%20Nap%29%20MET%20DT2028.jpg"
+        },
+        {
+            "title": "Mother and Child (The Oval Mirror)",
+            "artist": "Mary Cassatt",
+            "year": "1899",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassat1.jpg"
+        },
+        {
+            "title": "Lydia Crocheting in the Garden at Marly",
+            "artist": "Mary Cassatt",
+            "year": "1880",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lydia%20Crocheting%20in%20the%20Garden%20at%20Marly%20MET%20DP165250.jpg"
+        },
+        {
+            "title": "Young Girl at a Window",
+            "artist": "Mary Cassatt",
+            "year": "1885",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Girl%20at%20a%20Window.JPG"
+        },
+        {
+            "title": "Young Girl at a Window",
+            "artist": "Mary Cassatt",
+            "year": "1885",
+            "museum": "Corcoran Gallery of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Girl%20at%20a%20Window.JPG"
+        },
+        {
+            "title": "Children Playing on the Beach",
+            "artist": "Mary Cassatt",
+            "year": "1884",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Children%20Playing%20on%20the%20Beach%20A14816.jpg"
+        },
+        {
+            "title": "Child in a Straw Hat",
+            "artist": "Mary Cassatt",
+            "year": "1886",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Child%20in%20a%20Straw%20Hat%2C%20c.%201886%2C%20NGA%2061367.jpg"
+        },
+        {
+            "title": "Portrait of an Elderly Lady",
+            "artist": "Mary Cassatt",
+            "year": "1887",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Portrait%20of%20an%20Elderly%20Lady%20-%201963.10.7%20-%20National%20Gallery%20of%20Art.jpg"
+        },
+        {
+            "title": "Woman with a Red Zinnia",
+            "artist": "Mary Cassatt",
+            "year": "1891",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Woman%20with%20a%20Red%20Zinnia%2C%201891%2C%20NGA%2046574.jpg"
+        },
+        {
+            "title": "Woman with a Sunflower",
+            "artist": "Mary Cassatt",
+            "year": "1905",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20-%20Cassatt%201905.jpg"
+        },
+        {
+            "title": "Mrs. Robert S. Cassatt, the Artist's Mother",
+            "artist": "Mary Cassatt",
+            "year": "1889",
+            "museum": "Fine Arts Museums of San Francisco",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Mrs.%20Robert%20S.%20Cassatt%2C%20the%20Artist%27s%20Mother%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "After the Bullfight",
+            "artist": "Mary Cassatt",
+            "year": "1873",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20After%20the%20Bullfight%20-%201969.332%20-%20Art%20Institute%20of%20Chicago.jpg"
+        },
+        {
+            "title": "On a Balcony",
+            "artist": "Mary Cassatt",
+            "year": "1879",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20On%20a%20Balcony%20-%201938.18%20-%20Art%20Institute%20of%20Chicago.jpg"
+        },
+        {
+            "title": "On a Balcony",
+            "artist": "Mary Cassatt",
+            "year": "1879",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20On%20a%20Balcony%20-%201878-1879%20-%20High%20Res.jpg"
+        },
+        {
+            "title": "The Caress",
+            "artist": "Mary Cassatt",
+            "year": "1902",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20The%20Caress%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Sara in a Green Bonnet",
+            "artist": "Mary Cassatt",
+            "year": "1901",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Sara%20in%20a%20Green%20Bonnet%20-%201929.6.11%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Sara in a Green Bonnet",
+            "artist": "Mary Cassatt",
+            "year": "1901",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sara%20in%20a%20Green%20Bonnet%201929.6.11%201a.jpg"
+        },
+        {
+            "title": "Spanish Dancer Wearing a Lace Mantilla",
+            "artist": "Mary Cassatt",
+            "year": "1873",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Spanish%20Dancer%20Wearing%20a%20Lace%20Mantilla%20-%201967.40%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Spanish Dancer Wearing a Lace Mantilla",
+            "artist": "Mary Cassatt",
+            "year": "1873",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20Dancer%20Wearing%20a%20Lace%20Mantilla%2C%20SAAM-1967.40%201.jpg"
+        },
+        {
+            "title": "Head of a Young Girl",
+            "artist": "Mary Cassatt",
+            "year": "1874",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20Head%20of%20a%20Young%20Girl%20-%2027.497%20-%20Museum%20of%20Fine%20Arts.jpg"
+        },
+        {
+            "title": "Mrs. Duffee Seated on a Striped Sofa, Reading",
+            "artist": "Mary Cassatt",
+            "year": "1876",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%201876%20-%20Mrs%20Duffee%20seated%20on%20a%20striped%20sofa%2C%20reading.jpg"
+        },
+        {
+            "title": "Caresse Maternelle",
+            "artist": "Mary Cassatt",
+            "year": "1902",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20Caresse%20Maternelle%20-%201970.252%20-%20Museum%20of%20Fine%20Arts.jpg"
+        },
+        {
+            "title": "Ellen Mary in a White Coat",
+            "artist": "Mary Cassatt",
+            "year": "1896",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20Ellen%20Mary%20in%20a%20White%20Coat%20-%201982.630%20-%20Museum%20of%20Fine%20Arts.jpg"
+        },
+        {
+            "title": "Maternal Caress",
+            "artist": "Mary Cassatt",
+            "year": "1896",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maternal%20Caress%20PMA%286%29%20%2815535882880%29.jpg"
+        },
+        {
+            "title": "On the Balcony",
+            "artist": "Mary Cassatt",
+            "year": "1873",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassat2.jpg"
+        },
+        {
+            "title": "On the Balcony",
+            "artist": "Mary Cassatt",
+            "year": "1873",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Flirtation%20Mary%20Cassatt.jpg"
+        },
+        {
+            "title": "Portrait of Alexander J. Cassatt and His Son, Robert Kelso Cassatt",
+            "artist": "Mary Cassatt",
+            "year": "1884",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Portrait%20of%20Alexander%20J.%20Cassatt%20and%20His%20Son%2C%20Robert%20Kelso%20Cassatt%20-%20PMA%20W1959-1-1.jpg"
+        },
+        {
+            "title": "Mother Combing Child's Hair 1879",
+            "artist": "Mary Cassatt",
+            "year": "1879",
+            "museum": "http://www.wikidata.org/.well-known/genid/8371f780c59c4ff9112cb00927b0b97e",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20Mother%20Combing%20Child%27s%20Hair%201879.jpg"
+        },
+        {
+            "title": "Mother and two children - 1901",
+            "artist": "Mary Cassatt",
+            "year": "1901",
+            "museum": "http://www.wikidata.org/.well-known/genid/3ef5d712321d1b22a00f815ea8b95778",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Mother%20and%20two%20children%20-%201901.jpg"
+        },
+        {
+            "title": "Children in a Garden (The Nurse)",
+            "artist": "Mary Cassatt",
+            "year": "1878",
+            "museum": "Museum of Fine Arts, Houston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Children%20in%20a%20Garden%20%28The%20Nurse%29%20-%202001.471%20-%20Museum%20of%20Fine%20Arts%2C%20Houston.jpg"
+        },
+        {
+            "title": "Children in a Garden (The Nurse)",
+            "artist": "Mary Cassatt",
+            "year": "1878",
+            "museum": "Museum of Fine Arts, Houston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Children%20in%20a%20Garden%20%28The%20Nurse%29%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Susan Comforting the Baby",
+            "artist": "Mary Cassatt",
+            "year": "1881",
+            "museum": "Museum of Fine Arts, Houston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Susan%20Comforting%20the%20Baby%20-%2074.136%20-%20Museum%20of%20Fine%20Arts%2C%20Houston.jpg"
+        },
+        {
+            "title": "Susan Comforting the Baby",
+            "artist": "Mary Cassatt",
+            "year": "1881",
+            "museum": "Museum of Fine Arts, Houston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Susan%20Comforting%20the%20Baby%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Child Picking a Fruit",
+            "artist": "Mary Cassatt",
+            "year": "1893",
+            "museum": "Virginia Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/VMFA%2075-18%20v1%20TF%20x%20conflict-20131119-162201-668x1024.jpg"
+        },
+        {
+            "title": "Portrait of Reine LeFebvre Holding a Nude Baby",
+            "artist": "Mary Cassatt",
+            "year": "1902",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Reine%20LeFebvre%20Holding%20a%20Nude%20Baby%2C%201902-1903%2C%20by%20Mary%20Cassatt%20%281844-1926%29%20-%20Worcester%20Art%20Museum%20-%20IMG%207611.JPG"
+        },
+        {
+            "title": "Young Women Picking Fruit",
+            "artist": "Mary Cassatt",
+            "year": "1891",
+            "museum": "Carnegie Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeunes%20Femmes%20cueillant%20des%20fruits%2C%20par%20Mary%20Cassatt.jpg"
+        },
+        {
+            "title": "Eddy Cassatt (Edward Buchanan Cassatt)",
+            "artist": "Mary Cassatt",
+            "year": "1875",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Eddy%20Cassatt%20%28Edward%20Buchanan%20Cassatt%29%20-%202015.41.1%20-%20National%20Gallery%20of%20Art.jpg"
+        },
+        {
+            "title": "Baby in Dark Blue Suit, Looking Over His Mother's Shoulder",
+            "artist": "Mary Cassatt",
+            "year": "1889",
+            "museum": "Cincinnati Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20by%20Mary%20Cassatt%2C%20Cincinnati%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Summertime",
+            "artist": "Mary Cassatt",
+            "year": "1894",
+            "museum": "Hammer Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Summertime%20-%201894.jpg"
+        },
+        {
+            "title": "Alexander J. Cassatt",
+            "artist": "Mary Cassatt",
+            "year": "1880",
+            "museum": "Detroit Institute of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Alexander%20J.%20Cassatt%20-%201986.60%20-%20Detroit%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "Women Admiring a Child",
+            "artist": "Mary Cassatt",
+            "year": "1897",
+            "museum": "Detroit Institute of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Women%20Admiring%20a%20Child%20-%2008.8%20-%20Detroit%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "In the Garden",
+            "artist": "Mary Cassatt",
+            "year": "1903",
+            "museum": "Detroit Institute of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20In%20the%20Garden%20-%2022.6%20-%20Detroit%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "Mother and Child",
+            "artist": "Mary Cassatt",
+            "year": "1890",
+            "museum": "Wichita Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20Mother%20and%20Child%201890.jpg"
+        },
+        {
+            "title": "Children Playing with a Cat",
+            "artist": "Mary Cassatt",
+            "year": "1908",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20Children%20Playing%20with%20a%20Cat%201908.jpg"
+        },
+        {
+            "title": "Jules Being Dried by His Mother",
+            "artist": "Mary Cassatt",
+            "year": "1900",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20Jules%20Being%20Dried%20by%20His%20Mother%201900.jpg"
+        },
+        {
+            "title": "Elsie in a Blue Chair",
+            "artist": "Mary Cassatt",
+            "year": "1880",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20Elsie%20in%20a%20Blue%20Chair%201880.jpg"
+        },
+        {
+            "title": "Summertime",
+            "artist": "Mary Cassatt",
+            "year": "1894",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20L%27%C3%89t%C3%A9.jpg"
+        },
+        {
+            "title": "Sleepy Baby",
+            "artist": "Mary Cassatt",
+            "year": "1910",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20Sleepy%20Baby%201910.jpg"
+        },
+        {
+            "title": "Girl in a Bonnet Tied with a Large Pink Bow",
+            "artist": "Mary Cassatt",
+            "year": "1909",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20in%20a%20Bonnet%20Tied%20with%20a%20Large%20Pink%20Bow%20by%20Mary%20Cassatt.jpg"
+        },
+        {
+            "title": "Lydia at a Tapestry Frame",
+            "artist": "Mary Cassatt",
+            "year": "1881",
+            "museum": "Flint Institute of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Lydia%20at%20a%20Tapestry%20Frame%20%281881%29.jpg"
+        },
+        {
+            "title": "Baby Reaching for an Apple",
+            "artist": "Mary Cassatt",
+            "year": "1893",
+            "museum": "http://www.wikidata.org/.well-known/genid/6ba275ce82951aded57220cf49dbd2a5",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Baby%20Reaching%20for%20an%20Apple%20-%201893.jpg"
+        },
+        {
+            "title": "Antoinette at her dressing table",
+            "artist": "Mary Cassatt",
+            "year": "1909",
+            "museum": "http://www.wikidata.org/.well-known/genid/ec57f6e633c623f281da84ae6505de82",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Antoinette%20at%20her%20dressing%20table%20-%201909.jpg"
+        },
+        {
+            "title": "Portrait de Louise-Aurore Villeboeuf enfant",
+            "artist": "Mary Cassatt",
+            "year": "1902",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Louise-Aurore%20Villeboeuf%2C%20enfant.jpg"
+        },
+        {
+            "title": "The Family",
+            "artist": "Mary Cassatt",
+            "year": "1892",
+            "museum": "Chrysler Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Family%20Painting%20Mary%20Cassatt.jpg"
+        },
+        {
+            "title": "Portrait of Madame X Dressed for the Matin\u00e9e",
+            "artist": "Mary Cassatt",
+            "year": "1877",
+            "museum": "North Carolina Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Madame%20X%20Dressed%20for%20the%20Matinee%20by%20Mary%20Cassatt.jpg"
+        },
+        {
+            "title": "Portrait of an Italian Lady",
+            "artist": "Mary Cassatt",
+            "year": "1879",
+            "museum": "Gilcrease Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20Mary%20Portrait%20of%20an%20Italian%20Lady%201878.jpg"
+        },
+        {
+            "title": "Autumn, Portrait of Lydia Cassatt",
+            "artist": "Mary Cassatt",
+            "year": "1880",
+            "museum": "Mus\u00e9e des Beaux-Arts de la ville de Paris",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%2C%20Automne%2C%20portrait%20de%20Lydia%20Cassatt%2C%201880%2C%20ppp706%2C%20Petit%20Palais.jpg"
+        },
+        {
+            "title": "Mother and Child in the Conservatory",
+            "artist": "Mary Cassatt",
+            "year": "1906",
+            "museum": "New Orleans Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20in%20the%20Conservatory%20by%20Mary%20Cassatt.jpg"
+        },
+        {
+            "title": "H\u00e9l\u00e8ne is Restless",
+            "artist": "Mary Cassatt",
+            "year": "1890",
+            "museum": "Portland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20is%20Restless%2C%20by%20Mary%20Cassatt%2C%20c.%201890%2C%20oil%20on%20canvas%20-%20Portland%20Museum%20of%20Art%20-%20Portland%2C%20Maine%20-%20DSC04283.jpg"
+        },
+        {
+            "title": "The Child's Caress",
+            "artist": "Mary Cassatt",
+            "year": "1890",
+            "museum": "Honolulu Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20%27The%20Child%27s%20Caress%27%2C%20oil%20on%20canvas%2C%20c.%201890%2C%20Honolulu%20Academy%20of%20Arts.jpg"
+        },
+        {
+            "title": "Sara Handing a Toy to the Baby",
+            "artist": "Mary Cassatt",
+            "year": "1901",
+            "museum": "Hill-Stead Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Sara%20Handing%20a%20Toy%20to%20the%20Baby%20-%20Hill-Stead%20Museum.jpg"
+        },
+        {
+            "title": "Simone in a Blue Bonnet (No. 1)",
+            "artist": "Mary Cassatt",
+            "year": "1903",
+            "museum": "San Diego Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Simone%20in%20a%20Blue%20Bonnet%20%28No.%201%29%20by%20Mary%20Cassatt%2C%20San%20Diego%20Museum%20of%20Art.JPG"
+        },
+        {
+            "title": "The Young Girls",
+            "artist": "Mary Cassatt",
+            "year": "1885",
+            "museum": "Kelvingrove Art Gallery and Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassatt%20sisters.jpg"
+        },
+        {
+            "title": "The Reader",
+            "artist": "Mary Cassatt",
+            "year": "1877",
+            "museum": "Crystal Bridges Museum of American Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20The%20Reader%20-%20promised%20gift%2039%20the-reader%20-%20Crystal%20Bridges%20Museum%20of%20American%20Art.jpg"
+        },
+        {
+            "title": "Bathing",
+            "artist": "Mary Cassatt",
+            "year": "1910",
+            "museum": "Mus\u00e9e des Beaux-Arts de la ville de Paris",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Le%20bain%20-%20PPP742%20-%20Mus%C3%A9e%20des%20Beaux-Arts%20de%20la%20ville%20de%20Paris.jpg"
+        },
+        {
+            "title": "Offering the Panal to the Bullfighter",
+            "artist": "Mary Cassatt",
+            "year": "1873",
+            "museum": "Clark Art Institute",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Offering%20the%20Panal%20to%20the%20Bullfighter%2C%20Mary%20Cassatt.jpg"
+        },
+        {
+            "title": "Little Girl in a Large Red Hat",
+            "artist": "Mary Cassatt",
+            "year": "1881",
+            "museum": "Princeton Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Little%20Girl%20in%20a%20Large%20Red%20Hat%20-%202021-12%20-%20Princeton%20University%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Woman on a Striped Sofa with a Dog",
+            "artist": "Mary Cassatt",
+            "year": "1876",
+            "museum": "Fogg Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Woman%20on%20a%20Striped%20Sofa%20with%20a%20Dog%20-%201961.159%20-%20Fogg%20Museum.jpg"
+        },
+        {
+            "title": "Woman on a Striped Sofa with a Dog",
+            "artist": "Mary Cassatt",
+            "year": "1876",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Woman%20on%20a%20Striped%20Sofa%20with%20a%20Dog%20-%201961.159%20-%20Fogg%20Museum.jpg"
+        }
+    ],
+    "Hilma af Klint": [
+        {
+            "title": "The Ten Largest, No. 9, Old Age",
+            "artist": "Hilma af Klint",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%209%20-%201907.jpg"
+        },
+        {
+            "title": "The Ten Largest, No. 2, Childhood",
+            "artist": "Hilma af Klint",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%202%20-%20Childhood%20-%201907.jpg"
+        },
+        {
+            "title": "The Ten Largest, No. 1, Childhood",
+            "artist": "Hilma af Klint",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%201%20-%20Childhood%20-%201907.jpg"
+        },
+        {
+            "title": "The Ten Largest, No. 3, Youth",
+            "artist": "Hilma af Klint",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%203%20-%20Youth%20-%201907.jpg"
+        },
+        {
+            "title": "The Ten Largest, No. 4, Youth",
+            "artist": "Hilma af Klint",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%204%20-%20Youth%20-%201907.jpg"
+        },
+        {
+            "title": "The Ten Largest, No. 5, Adulthood",
+            "artist": "Hilma af Klint",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%205%20-%20Adulthood%20-%201907.jpg"
+        },
+        {
+            "title": "The Ten Largest, No. 6",
+            "artist": "Hilma af Klint",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%206%20-%201907.jpg"
+        },
+        {
+            "title": "The Ten Largest, No. 7, Adulthood",
+            "artist": "Hilma af Klint",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%207%20-%20Adulthood%20-%201907.jpg"
+        },
+        {
+            "title": "The Ten Largest, No. 8, Adulthood",
+            "artist": "Hilma af Klint",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%208%20-%20Adulthood%20-%201907.jpg"
+        },
+        {
+            "title": "The Ten Largest, No. 10, Old Age",
+            "artist": "Hilma af Klint",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20no.%2010%20-%20Old%20Age%20-%201907.jpg"
+        },
+        {
+            "title": "Late Summer",
+            "artist": "Hilma af Klint",
+            "year": "1903",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Eftersommar%20Hilma%20af%20Klint%201903.jpeg"
+        },
+        {
+            "title": "Tree of Knowledge, No. 1",
+            "artist": "Hilma af Klint",
+            "year": "1915",
+            "museum": "Glenstone",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tree%20of%20Knowledge%20No.%201%2C%20Hilma%20af%20Klint%2C%201913-1915%2C%20Glenstone%202023.jpg"
         }
     ]
 }
