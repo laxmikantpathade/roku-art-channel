@@ -1422,18 +1422,18 @@
             "description": "This oil painting depicts a rustic landscape of an old mill in the Basque region of Spain. Created by Catalan artist Joaquín Clausell in 1885, it showcases his mastery of light and shadow. The work is notable for its use of symbolism, with the mill representing both industry and tradition in the face of modernization. Today, the painting is considered a masterpiece of Catalan art and is cherished by art lovers worldwide."
         },
         {
+            "title": "The Sea of Ice by Ivan Aivazovsky",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_219.jpg",
+            "year": "1850",
+            "museum": "The Hermitage Museum in St. Petersburg, Russia",
+            "description": "The Sea of Ice is a captivating piece by Ivan Aivazovsky, capturing the frozen expanse of the Bosphorus Strait during the Russian Empire era. Created around 1850, this masterpiece showcases the artist's ability to evoke a sense of serenity and mystery through his use of blues and whites. As one of the most iconic works by Aivazovsky, The Sea of Ice has become an integral part of Russian cultural heritage, often symbolizing the country's rich maritime history and its struggles with climate change."
+        },
+        {
             "title": "The Buddha by Raja Ravi Varma",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_220.jpg",
             "year": "1887",
             "museum": "National Gallery of Art, Washington D.C.",
             "description": "Created in 1887, 'The Buddha' is a masterpiece of Indian Renaissance art. This painting showcases the artist's unique blend of traditional and Western styles, capturing the essence of Buddhist philosophy and symbolism. Varma's use of vibrant colors and bold brushstrokes creates a sense of dynamic energy, drawing the viewer's attention to the figure of the Buddha. The painting is considered one of Varma's most iconic works and has had a lasting impact on Indian art and culture."
-        },
-        {
-            "title": "Landscape under Snow by Gao Fenghan",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_221.jpg",
-            "year": "1913",
-            "museum": "The National Gallery of Art",
-            "description": "In this serene winter landscape, Gao Fenghan masterfully captures the tranquility of rural China. Painted in 1913, Landscape under Snow showcases the artist's unique blend of traditional Chinese motifs with modernist techniques. The subtle play of light and shadow on snow-covered trees creates a sense of depth and movement, drawing the viewer into the serene world of the painting. As one of Gao Fenghan's most celebrated works, Landscape under Snow has become an iconic representation of early 20th-century Chinese art."
         },
         {
             "title": "Madame X (Madame Pierre Gautreau) by John Singer Sargent",
@@ -2967,6 +2967,13 @@
             "year": "1609",
             "museum": "Regional museum of Messina",
             "description": "Caravaggio's 'Adoration of the Shepherds' (1609) is a seminal work in Baroque art, showcasing the artist's innovative use of chiaroscuro and dramatic composition. This painting depicts the Nativity scene from Luke 2:8-12, featuring the shepherds gathered around the manger. The work's striking contrast of light and dark highlights Caravaggio's pioneering style, influencing centuries of artistic development."
+        },
+        {
+            "title": "Primavera by Sandro Botticelli",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_426.jpg",
+            "year": "1480",
+            "museum": "Uffizi Gallery",
+            "description": "Primavera, created in 1480 by Sandro Botticelli, is one of the most iconic and influential works of the Italian Renaissance. The painting depicts a gathering of figures from classical mythology, including Venus and Cupid, amidst a lush landscape of blooming flowers and trees. This masterpiece showcases Botticelli's innovative use of composition and symbolism, solidifying his position as a leading artist of the era. With its enduring impact on art history, Primavera is a must-include in any premier collection."
         }
     ]
 }
