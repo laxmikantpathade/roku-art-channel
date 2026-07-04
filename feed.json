@@ -358,6 +358,20 @@
             "description": "This painting depicts the view from Van Gogh's bedroom window at 2 Place Lamartine in Arles, France. The scene is rendered in vivid yellow and green hues, with thick brushstrokes that give the impression of movement. Created during a period of intense mental health struggles for Van Gogh, the painting is also notable for its bold use of color and symbolism, which would later become hallmarks of his post-Impressionist style. Today, 'The Bedroom' remains one of Van Gogh's most celebrated works, with its serene yet dynamic atmosphere continuing to captivate audiences around the world."
         },
         {
+            "title": "The Flowers by Rachel Ruysch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_60.jpg",
+            "year": "1702-1715",
+            "museum": "Rijksmuseum, Amsterdam",
+            "description": "In 'The Flowers', Rachel Ruysch masterfully combines her fascination with nature and scientific curiosity. Painted around 1702-15, this depiction of flowers in a vase showcases the artist's skillful use of light and color to capture the intricate textures of the petals. By incorporating realistic depictions of botanical specimens into her still lifes, Ruysch contributed significantly to the development of Dutch Golden Age art, challenging traditional representations of nature and beauty."
+        },
+        {
+            "title": "The Tree of Life by Gustav Klimt",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_61.jpg",
+            "year": "1905-1909",
+            "museum": "Österreichische Galerie Belvedere, Vienna, Austria",
+            "description": "The Tree of Life is a symbolist painting by Austrian artist Gustav Klimt, created in the early 20th century. It is one of his most famous works and depicts a tree with roots extending into the underworld, surrounded by golden leaves and a radiant aura. The painting is believed to have been inspired by Jewish mystical traditions and represents the connection between life and death. Its intricate gold leaf decorations and symbolic imagery have made it an iconic representation of Art Nouveau and Symbolism."
+        },
+        {
             "title": "The Chess Game by Sofonisba Anguissola",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_62.jpg",
             "year": "1584",
@@ -365,11 +379,11 @@
             "description": "In this captivating portrait, Sofonisba Anguissola depicts a serene moment of leisure among her family members. The subject's father sits at the chessboard with his daughter, while their younger sister watches intently from across the table. The painting showcases Anguissola's skill in capturing subtle expressions and nuanced relationships within a domestic setting. Created during the early 17th century, The Chess Game exemplifies the artist's ability to balance realism with intimate family dynamics, providing a glimpse into the lives of Renaissance Italy's upper class."
         },
         {
-            "title": "Lake Superior by Robert S. Duncanson",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_64.jpg",
-            "year": "1837",
-            "museum": "Tulane University Museum of Art",
-            "description": "Painted during a tumultuous time in American history, Lake Superior is a nostalgic and serene portrayal of the artist's Michigan homeland. As a free black man living under slavery, Duncanson's art provided an escape from the harsh realities of his life. This painting showcases his exceptional skill as a landscape artist, captivating the viewer with its sense of tranquility and majesty."
+            "title": "The Field by Ivan Shishkin",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_63.jpg",
+            "year": "1871",
+            "museum": "Tretyakov Gallery",
+            "description": "In 'The Field', Shishkin captures the vast expanse of Russia's steppes. This landscape painting not only showcases his technical skill, but also reflects his fascination with the natural world and the experiences of the Russian peasantry during this period. The work is characteristic of the realist movement, as Shishkin sought to accurately depict everyday life in rural Russia."
         },
         {
             "title": "The Black Sea by Ivan Aivazovsky",
@@ -2008,6 +2022,13 @@
             "year": "1787",
             "museum": "Musée des Beaux-Arts de Lyon",
             "description": "This portrait of Madame Récamier, a French socialite and muse to Napoleon Bonaparte, is a quintessential example of the Rococo style. Painted in 1787, it showcases Vigée Le Brun's exceptional skill in capturing the subtleties of her subject's expression. The painting has been interpreted as a symbol of feminine beauty and elegance during the late Enlightenment era. Today, it serves as a testament to the enduring power of French art and culture."
+        },
+        {
+            "title": "The Maids by Gao Fenghan",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_291.jpg",
+            "year": "1909",
+            "museum": "Tate Britain",
+            "description": "Created in 1909, The Maids is a seminal work by Gao Fenghan that showcases his unique blend of Realist and Symbolist styles. Painted during a time of great social change in China, the piece captures the lives of rural workers toiling on a construction site, imbuing them with dignity and humanity. By depicting these women in a state of quiet contemplation, Gao Fenghan highlights the often-overlooked contributions of female laborers to China's development, offering a powerful commentary on the intersectionality of class, gender, and identity."
         }
     ]
 }
