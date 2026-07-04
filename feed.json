@@ -267,6 +267,20 @@
             "description": "Created in response to the execution of Spanish civilians by Napoleon's soldiers during the Peninsular War, this powerful and haunting painting depicts the aftermath of a massacre. The work embodies Goya's fascination with violence, death, and the human condition, showcasing his mastery of light and shadow to convey a sense of chaos and destruction."
         },
         {
+            "title": "Garden by Kim Hong-do",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_47.jpg",
+            "year": "1930",
+            "museum": "National Museum of Korea",
+            "description": "This vibrant oil painting is a window into the modernist art movement in Korea. Created by Kim Hong-do, one of the pioneers of Korean modernism, 'Garden' showcases his unique style and thematic explorations of nature and urban life. Born in 1892, Kim Hong-do was influenced by European modernism and sought to create a distinctly Korean voice through his work. This painting is a testament to his innovative spirit and enduring legacy as a key figure in Korea's modern art history."
+        },
+        {
+            "title": "Seoraksan by Jeong Seon",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_48.jpg",
+            "year": "17th century",
+            "museum": "",
+            "description": "Seoraksan is a serene landscape of a mountain in Korea, painted in the early 17th century. This work showcases Jeong Seon's mastery of traditional Korean techniques and his fascination with the natural world. As a prominent artist during the Joseon Dynasty, Jeong Seon's paintings not only reflected the beauty of Korea but also served as a means to express the spiritual connection between nature and humanity."
+        },
+        {
             "title": "Flowering Peonies by Ito Jakuchu",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_49.jpg",
             "year": "1793",
@@ -295,6 +309,13 @@
             "description": "This enigmatic portrait of a young man in armor has captivated art lovers for centuries. Created during the Dutch Golden Age, The Laughing Cavalier is believed to be a self-portrait of Leyster, who was known for her bold and witty depictions of women. The painting's mysterious subject is thought to represent a romantic ideal, while Leyster's signature smirk hints at a playful and subversive spirit."
         },
         {
+            "title": "The Birth of Venus by Gustav Klimt",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_53.jpg",
+            "year": "1907-1908",
+            "museum": "State Russian Museum in St. Petersburg",
+            "description": "Created between 1907 and 1908, The Birth of Venus is a groundbreaking work by Austrian artist Gustav Klimt. This iconic painting showcases Klimt's signature style, blending Byzantine mosaics with Art Nouveau elements. It depicts the mythological scene from Botticelli's The Birth of Venus, featuring the goddess Venus emerging from the sea surrounded by putti and symbolic creatures. As a masterpiece of early 20th-century art, The Birth of Venus has had a profound influence on modern art movements, including Art Deco and Expressionism."
+        },
+        {
             "title": "Judith and the Head of Holofernes by Gustav Klimt",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_54.jpg",
             "year": "1901",
@@ -316,6 +337,13 @@
             "description": "This painting depicts a group of eight Taoist immortals, believed to possess supernatural powers, gathered in a lush forest. Created during the Ming dynasty, it showcases Shen Zhou's mastery of landscape and figure painting. The Eight Immortals has become an iconic representation of Chinese art, symbolizing the pursuit of immortality and spiritual enlightenment."
         },
         {
+            "title": "Mother by Ram Kumar",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_57.jpg",
+            "year": "1934",
+            "museum": "National Gallery of India",
+            "description": "\"Mother\" is a powerful portrait of Ram Kumar's mother by his own hand. Painted in 1934, the artwork showcases the artist's deep love and respect for his family. The depiction of his mother's face conveys a sense of serenity and maternal devotion, evoking feelings of warmth and comfort. This piece is not only an expression of personal emotion but also a testament to the significance of family bonds in Indian culture."
+        },
+        {
             "title": "The Yellow Book by Hilma af Klint",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_58.jpg",
             "year": "1906-1915",
@@ -328,13 +356,6 @@
             "year": "1888",
             "museum": "Van Gogh Museum in Amsterdam, Netherlands",
             "description": "This painting depicts the view from Van Gogh's bedroom window at 2 Place Lamartine in Arles, France. The scene is rendered in vivid yellow and green hues, with thick brushstrokes that give the impression of movement. Created during a period of intense mental health struggles for Van Gogh, the painting is also notable for its bold use of color and symbolism, which would later become hallmarks of his post-Impressionist style. Today, 'The Bedroom' remains one of Van Gogh's most celebrated works, with its serene yet dynamic atmosphere continuing to captivate audiences around the world."
-        },
-        {
-            "title": "The Flowers by Rachel Ruysch",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_60.jpg",
-            "year": "1702-1715",
-            "museum": "Rijksmuseum, Amsterdam",
-            "description": "In 'The Flowers', Rachel Ruysch masterfully combines her fascination with nature and scientific curiosity. Painted around 1702-15, this depiction of flowers in a vase showcases the artist's skillful use of light and color to capture the intricate textures of the petals. By incorporating realistic depictions of botanical specimens into her still lifes, Ruysch contributed significantly to the development of Dutch Golden Age art, challenging traditional representations of nature and beauty."
         },
         {
             "title": "The Tree of Life by Gustav Klimt",
@@ -1994,6 +2015,13 @@
             "year": "1904",
             "museum": "Musée du Quai Branly - Jacques Chirac, Paris",
             "description": "Created during the Belle Époque era, 'The Wounded Lion' showcases Taunay's mastery of African art. The painting is believed to have been inspired by a real-life encounter between the artist and a wounded lion. It is considered one of his most iconic works, exemplifying the fusion of traditional Brazilian and African artistic styles."
+        },
+        {
+            "title": "Madame Récamier by Élisabeth Vigée Le Brun",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_290.jpg",
+            "year": "1787",
+            "museum": "Musée des Beaux-Arts de Lyon",
+            "description": "This portrait of Madame Récamier, a French socialite and muse to Napoleon Bonaparte, is a quintessential example of the Rococo style. Painted in 1787, it showcases Vigée Le Brun's exceptional skill in capturing the subtleties of her subject's expression. The painting has been interpreted as a symbol of feminine beauty and elegance during the late Enlightenment era. Today, it serves as a testament to the enduring power of French art and culture."
         }
     ]
 }
