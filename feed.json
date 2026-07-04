@@ -764,18 +764,18 @@
             "description": "In 1889, Edward Mitchell Bannister created The Rehearsal, a poignant depiction of the struggle for social justice in the United States. Painted during a tumultuous period in American history, this piece showcases Bannister's mastery of realism and his unwavering commitment to representing the African American experience. Through the figure of the African woman, Bannister conveys the resilience and determination of a community fighting for equality and respect. Today, The Rehearsal stands as a powerful testament to the enduring legacy of African American artists like Bannister, whose work continues to inspire and educate audiences around the world."
         },
         {
+            "title": "Lady with a Lute by Angelica Kauffman",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_125.jpg",
+            "year": "1768",
+            "museum": "Royal Collection, Hampton Court Palace",
+            "description": "In this captivating portrait, Lady Elizabeth Montagu is depicted playing the lute, showcasing her intellectual pursuits and artistic inclinations. Painted in 1768, 'Lady with a Lute' exemplifies Kauffman's skill in capturing the subtleties of human expression and her ability to convey a sense of elegance and refinement. As one of the few female artists of her time to achieve widespread recognition, Kauffman's work serves as a testament to the enduring power of art to celebrate women's achievements."
+        },
+        {
             "title": "Bala Hisar by Ustad Mansur",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_126.jpg",
             "year": "1799",
             "museum": "National Museum of India",
             "description": "Bala Hisar, a 19th-century painting by Ustad Mansur, is an impressive portrait of the Bala Hisar fort in Kanpur. Once a British colonial stronghold, the fort played a pivotal role in the Indian Rebellion of 1857. The painting showcases the complex history and cultural significance of this structure, which has witnessed numerous battles and events throughout its storied past."
-        },
-        {
-            "title": "Kōn by Hasegawa Tŏhaku",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_127.jpg",
-            "year": "1876",
-            "museum": "Tokyo National Museum",
-            "description": "Kōn is a beautiful ukiyo-e woodblock print created by Hasegawa Tŏhaku in 1876. It depicts a serene landscape with a majestic mountain range in the background and a few trees and birds in the foreground. The print showcases the artist's mastery of traditional Japanese art forms, blending realism with a sense of tranquility. Created during the Meiji period, Kōn reflects the changing times and the desire for a more modern Japan, while still honoring traditional aesthetics."
         },
         {
             "title": "The Peasant Wedding by Bishandas",
@@ -2316,6 +2316,13 @@
             "year": "1640",
             "museum": "http://www.wikidata.org/.well-known/genid/5b6e1ac84449644a9b6154e26731e959",
             "description": "Bathsheba, painted by Artemisia Gentileschi in 1640, is a seminal work of Baroque art that redefined the representation of women on canvas. The painting depicts the biblical scene of David and Bathsheba, where Gentileschi's subject takes center stage, defying patriarchal norms. This masterpiece showcases Gentileschi's technical prowess, emotional intensity, and feminist iconoclasm, cementing her status as a pioneering female artist in a male-dominated Renaissance landscape."
+        },
+        {
+            "title": "White fowl and pine by Ito Jakuchu",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_333.jpg",
+            "year": "1800",
+            "museum": "Museum of the Imperial Collections",
+            "description": "White Fowl and Pine (, Shirokuwa to Matsu) is a ukiyo-e woodblock print by Japanese artist Ito Jakuchu (1764-1833), created in 1800. Considered one of the most important artists of the Edo period, Jakuchu's work often depicted animals, landscapes, and scenes from daily life. This piece showcases his mastery of composition, color, and attention to detail. The serene scene of a snowy landscape with a lone white fowl amidst a pine tree has captivated art lovers for centuries, demonstrating Jakuchu's ability to convey tranquility and natural beauty."
         }
     ]
 }
