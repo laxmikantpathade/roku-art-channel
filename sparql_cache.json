@@ -1180,13 +1180,6 @@
             "artist": "Pierre-Auguste Renoir",
             "year": "1887",
             "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Renoir%20-%20Julie%20Manet%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Julie Manet",
-            "artist": "Pierre-Auguste Renoir",
-            "year": "1887",
-            "museum": "Mus\u00e9e d'Orsay",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Renoir%20-%20Julie%20Manet%20with%20Cat.jpg"
         },
         {
@@ -2018,13 +2011,6 @@
             "year": "1550",
             "museum": "National Palace Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ch%27iu%20Ying%20003.jpg"
-        },
-        {
-            "title": "\"In Exchange for Tea\" with Wen Zhengming\u2019s Calligraphy of The Heart Sutra",
-            "artist": "Qiu Ying",
-            "year": "1542",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Chou%20Ying%20and%20Wen%20Bi-1542.jpg"
         },
         {
             "title": "Shanglin Park",
@@ -3459,13 +3445,6 @@
             "year": "1897",
             "museum": "National Museum in Warsaw",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Konstantinovi%C4%8D%20Ajvazovskij%20-%20Sea%20-%20M.Ob.1152%20-%20National%20Museum%20in%20Warsaw.jpg"
-        },
-        {
-            "title": "Shepherds with a flock of sheep.",
-            "artist": "Ivan Aivazovsky",
-            "year": "1872",
-            "museum": "National Museum in Warsaw",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Konstantinovi%C4%8D%20Ajvazovskij%20-%20Shepherds%20with%20a%20flock%20of%20sheep%20-%20184559%20-%20National%20Museum%20in%20Warsaw.jpg"
         },
         {
             "title": "Seascape",
@@ -7145,25 +7124,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20-%20Landscapes%20and%20Calligraphy%20-%201981.285.8a%E2%80%93f%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "Flowers and Calligraphy (Hua niao za hua ce \u82b1\u9ce5\u96dc\u756b\u518a)",
-            "artist": "Gao Fenghan",
-            "year": "1737",
-            "museum": "Princeton Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20%E9%AB%98%E9%B3%B3%E7%BF%B0%20-%20Flowers%20and%20Calligraphy%20%28Hua%20niao%20za%20hua%20ce%20%E8%8A%B1%E9%B3%A5%E9%9B%9C%E7%95%AB%E5%86%8A%29%20-%20y1977-15%20a-n%20-%20Princeton%20University%20Art%20Museum.jpg"
-        },
-        {
             "title": "Figures in Landscapes",
             "artist": "Gao Fenghan",
             "year": "1723",
             "museum": "Princeton Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20%E9%AB%98%E9%B3%B3%E7%BF%B0%20-%20Figures%20in%20Landscapes%20-%20y1947-261%20a-h%20-%20Princeton%20University%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Flowers and Calligraphy (Hua niao za hua ce \u82b1\u9ce5\u96dc\u756b\u518a)",
-            "artist": "Gao Fenghan",
-            "year": "1737",
-            "museum": "Princeton Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20%E9%AB%98%E9%B3%B3%E7%BF%B0%20-%20Flowers%20and%20Calligraphy%20%28Hua%20niao%20za%20hua%20ce%20%E8%8A%B1%E9%B3%A5%E9%9B%9C%E7%95%AB%E5%86%8A%29%20-%20y1977-15%20e%20-%20Princeton%20University%20Art%20Museum.jpg"
         },
         {
             "title": "Ink Lotus after Bada Shanren",
@@ -9613,13 +9578,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20%28American%2C%201801-1848%29%20-%20View%20of%20Schroon%20Mountain%2C%20Essex%20County%2C%20New%20York%2C%20After%20a%20Storm%20-%201917.1335%20-%20Cleveland%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "Sunny Morning on the Hudson River",
-            "artist": "Thomas Cole",
-            "year": "1827",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Sunny%20Morning%20on%20the%20Hudson%20River%201827.jpg"
-        },
-        {
             "title": "Study for The Pilgrim of the World at the End of His Journey",
             "artist": "Thomas Cole",
             "year": "1847",
@@ -11133,13 +11091,6 @@
             "year": "1612",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20A%20Bouquet%20of%20Flowers%20-%202020.22%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Madonna And Child Within A Floral Wreath",
-            "artist": "Clara Peeters",
-            "year": "1621",
-            "museum": "http://www.wikidata.org/.well-known/genid/5a60ad9016a903170cf07ca68ed0901f",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MADONNA%20AND%20CHILD%20WITHIN%20A%20FLORAL%20WREATH%20.jpg"
         },
         {
             "title": "Still life with cheesestack, a bun and pretzels",
@@ -15671,13 +15622,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Knight%20with%20a%20clock.jpg"
         },
         {
-            "title": "Ecce Homo",
-            "artist": "Titian",
-            "year": "1546",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20Homo%20%28Tiziano%29.jpg"
-        },
-        {
             "title": "John Frederick I, Elector of Saxony",
             "artist": "Titian",
             "year": "1548",
@@ -17800,13 +17744,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kleparz%20w%20XVIw%20Wyjscie%20zakow%20z%20Krakowa.jpg"
         },
         {
-            "title": "Seweryn Bethman and Saltworks Manager Andrzej Ko\u015bcielecki descending into the Wieliczka salt mines to extinguish the fire in 1510).",
-            "artist": "Jan Matejko",
-            "year": "1879",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wieliczka%20kopalnia%20soli%20031.JPG"
-        },
-        {
             "title": "Portrait of Teodora Matejko (n\u00e9e Giebu\u0142towska) in Her Wedding Dress",
             "artist": "Jan Matejko",
             "year": "1879",
@@ -19046,13 +18983,6 @@
     ],
     "Jos\u00e9 Mar\u00eda Velasco": [
         {
-            "title": "Oaxaca Cathedral",
-            "artist": "Jos\u00e9 Mar\u00eda Velasco",
-            "year": "1887",
-            "museum": "Museo Nacional de Arte",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Velasco%20-%20Oaxaca%20Cathedral%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "The Metlac Ravine",
             "artist": "Jos\u00e9 Mar\u00eda Velasco",
             "year": "1893",
@@ -19128,6 +19058,2471 @@
             "year": "1910",
             "museum": "Veracruz State Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Cometa%20-%201882%20-%20Jos%C3%A9%20Mar%C3%ADa%20Velasco.jpg"
+        }
+    ],
+    "Judith Leyster": [
+        {
+            "title": "Merry Trio",
+            "artist": "Judith Leyster",
+            "year": "1631",
+            "museum": "Kunsthandel P. de Boer",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20Merry%20Trio.jpg"
+        },
+        {
+            "title": "Merry Trio",
+            "artist": "Judith Leyster",
+            "year": "1631",
+            "museum": "http://www.wikidata.org/.well-known/genid/6e0345e566775028f147ef6c8f716a5e",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20Merry%20Trio.jpg"
+        },
+        {
+            "title": "The Proposition",
+            "artist": "Judith Leyster",
+            "year": "1631",
+            "museum": "Mauritshuis",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Man%20Offering%20Money%20to%20a%20Young%20Woman%20-%20564%20-%20Mauritshuis.jpg"
+        },
+        {
+            "title": "The lute player",
+            "artist": "Judith Leyster",
+            "year": "1620",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Copy%20of%20Lute%20Player%20by%20Frans%20Hals%20-%20SK-A-134.JPG"
+        },
+        {
+            "title": "The Jolly Toper",
+            "artist": "Judith Leyster",
+            "year": "1629",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20vrolijke%20drinker%20Rijksmuseum%20SK-A-1685.jpeg"
+        },
+        {
+            "title": "The Jolly Toper",
+            "artist": "Judith Leyster",
+            "year": "1629",
+            "museum": "Frans Hals Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20vrolijke%20drinker%20Rijksmuseum%20SK-A-1685.jpeg"
+        },
+        {
+            "title": "The Serenade",
+            "artist": "Judith Leyster",
+            "year": "1629",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20serenade%20Rijksmuseum%20SK-A-2326.jpeg"
+        },
+        {
+            "title": "Boy with a Lute",
+            "artist": "Judith Leyster",
+            "year": "1626",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20001.png"
+        },
+        {
+            "title": "Standing Cavalier",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "Royal Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Style%20of%20Frans%20Hals%20%28Antwerp%20c.%201580-Haarlem%201666%29%20-%20Study%20of%20a%20Standing%20Man%20-%20RCIN%20404807%20-%20Royal%20Collection.jpg"
+        },
+        {
+            "title": "Boy playing the Flute",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Nationalmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20playing%20the%20Flute%20%28Judith%20Leyster%29%20-%20Nationalmuseum%20-%2018123.tif"
+        },
+        {
+            "title": "Round portrait of a boy with beret",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Nationalmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Boy%20%28Judith%20Leyster%29%20-%20Nationalmuseum%20-%2020437.tif"
+        },
+        {
+            "title": "Portrait of an unknown woman",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Frans Hals Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20portrait%20of%20a%20woman%20in%20millstone%20collar%20and%20winged%20diadem%20cap%20FHM01%20OS-65-8%20W.JPG"
+        },
+        {
+            "title": "A boy reading, possibly Nicolaes Hals",
+            "artist": "Judith Leyster",
+            "year": "1638",
+            "museum": "Kunst Museum Winterthur | Reinhart am Stadtgarten",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20023.jpg"
+        },
+        {
+            "title": "The Merry Toper",
+            "artist": "Judith Leyster",
+            "year": "1629",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leyster%2C%20Judith%20-%20The%20Merry%20Drinker%20-%20Gem%C3%A4ldegalerie%20Berlin.jpg"
+        },
+        {
+            "title": "The Merry Toper",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leyster%2C%20Judith%20-%20The%20Merry%20Drinker%20-%20Gem%C3%A4ldegalerie%20Berlin.jpg"
+        },
+        {
+            "title": "The Last Drop",
+            "artist": "Judith Leyster",
+            "year": "1639",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20The%20Last%20Drop%2C%20as%20it%20was%20in%20April%201908%2C%20cataloguedunegra00fred%200%200145.jpg"
+        },
+        {
+            "title": "The Last Drop",
+            "artist": "Judith Leyster",
+            "year": "1639",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%2C%20Dutch%20%28active%20Haarlem%20and%20Amsterdam%29%20-%20The%20Last%20Drop%20%28The%20Gay%20Cavalier%29%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Self-portrait by Judith Leyster",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20by%20Judith%20Leyster.jpg"
+        },
+        {
+            "title": "A Youth with a Jug",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "http://www.wikidata.org/.well-known/genid/fa74fbc3eb64b7b1ff1f00d6a5c0e883",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20A%20Youth%20with%20a%20Jug.jpg"
+        },
+        {
+            "title": "Carousing Couple",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Carousing%20Couple%20-%20WGA12954.jpg"
+        },
+        {
+            "title": "Rommelpot player",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Frans%20Hals%20-%20The%20Rommel-Pot%20Player%20-%201947.78%20-%20Art%20Institute%20of%20Chicago.jpg"
+        },
+        {
+            "title": "Two Children with a Cat",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "http://www.wikidata.org/.well-known/genid/379e41de1f3ea4e8c237a99bd2e9ff92",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Two%20Children%20with%20a%20Cat%20-%20WGA12955.jpg"
+        },
+        {
+            "title": "Young Boy in Profile",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Jongen%20in%20profiel%20%28c.1630%29.jpg"
+        },
+        {
+            "title": "Young Boy in Profile",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "Kunsthandel P. de Boer",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Jongen%20in%20profiel%20%28c.1630%29.jpg"
+        },
+        {
+            "title": "Unequal Love",
+            "artist": "Judith Leyster",
+            "year": "1631",
+            "museum": "Galleria Nazionale d'Arte Antica",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Unequal%20love.jpg"
+        },
+        {
+            "title": "A young lady holding a lute with a music score on her lap in a candlelit interior",
+            "artist": "Judith Leyster",
+            "year": "1631",
+            "museum": "http://www.wikidata.org/.well-known/genid/2c03668be9725981492b43961e591f77",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20A%20young%20lady%20holding%20a%20lute%20with%20a%20music%20score%20on%20her%20lap%20in%20a%20candlelit%20interior.jpg"
+        },
+        {
+            "title": "A Game of Tric Trac",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20A%20Game%20of%20Tric%20Trac.jpg"
+        },
+        {
+            "title": "Violinist with a skull and a music book",
+            "artist": "Judith Leyster",
+            "year": "1633",
+            "museum": "Bristol City Museum & Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Violinist%20with%20a%20skull%20-%201630.jpg"
+        },
+        {
+            "title": "A Game Of Cards",
+            "artist": "Judith Leyster",
+            "year": "1633",
+            "museum": "Mus\u00e9e des Beaux-Arts de Rouen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20A%20Game%20Of%20Cards.jpg"
+        },
+        {
+            "title": "Boy Playing A Violin",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Virginia Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Frans%20Hals%20-%20Virginia%20Violinist.jpg"
+        },
+        {
+            "title": "Boy Playing A Violin",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Charles Sedelmeyer collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Frans%20Hals%20-%20Virginia%20Violinist.jpg"
+        },
+        {
+            "title": "The Lute Player (facing left)",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "National Gallery of Ireland",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20of%20Frans%20Hals%20-%20The%20Lute%20Player.jpg"
+        },
+        {
+            "title": "Still life with apples and grapes in a wicker basket on a table",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Jacques Goudstikker collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Still%20life%20with%20apples%20and%20grapes%20in%20a%20wicker%20basket%2C%20with%20a%20roemer%20and%20ewer%20on%20a%20blue%20draped%20table.jpg"
+        },
+        {
+            "title": "Still life with apples and grapes in a wicker basket on a table",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Barbara Piasecka Johnson Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Still%20life%20with%20apples%20and%20grapes%20in%20a%20wicker%20basket%2C%20with%20a%20roemer%20and%20ewer%20on%20a%20blue%20draped%20table.jpg"
+        },
+        {
+            "title": "A boy and a girl with a cat and an eel",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20A%20Boy%20and%20a%20Girl%20with%20a%20Cat%20and%20an%20Eel.jpg"
+        },
+        {
+            "title": "Flower piece",
+            "artist": "Judith Leyster",
+            "year": "1654",
+            "museum": "http://www.wikidata.org/.well-known/genid/da63020bee55b244d742fceb9a165361",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Blompotje%201654.jpg"
+        },
+        {
+            "title": "Young man encouraging a girl to smoke and drink",
+            "artist": "Judith Leyster",
+            "year": "1700",
+            "museum": "http://www.wikidata.org/.well-known/genid/975d80e4e8643f745f91925b87ce4ae4",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Young%20man%20encouraging%20a%20girl%20to%20smoke%20and%20drink.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Instituut Collectie Nederland",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Instituut Collectie Nederland",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Cultural Heritage Agency of the Netherlands Art Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Cultural Heritage Agency of the Netherlands Art Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Dienst Verspreide Rijkscollecties",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Dienst Verspreide Rijkscollecties",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Stichting Nederlands Kunstbezit",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Stichting Nederlands Kunstbezit",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Rijksdienst Beeldende Kunst",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "An Artist in Her Studio",
+            "artist": "Judith Leyster",
+            "year": "1632",
+            "museum": "Rijksdienst Beeldende Kunst",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
+        },
+        {
+            "title": "Laughing boy with wineglass",
+            "artist": "Judith Leyster",
+            "year": "1628",
+            "museum": "Staatliche Kunsthalle Karlsruhe",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20von%20Honthorst%20-%20Umkreis%20-%20Lachender%20Zecher%20mit%20Weinglas%20-%20223%20-%20Staatliche%20Kunsthalle%20Karlsruhe.jpg"
+        },
+        {
+            "title": "Laughing boy with wineglass",
+            "artist": "Judith Leyster",
+            "year": "1628",
+            "museum": "Staatliche Kunsthalle Karlsruhe",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20boy%20with%20a%20wine%20glass.JPG"
+        },
+        {
+            "title": "Portrait of painter",
+            "artist": "Judith Leyster",
+            "year": "1680",
+            "museum": "http://www.wikidata.org/.well-known/genid/3453a437d08c940c03748bf4a31fc499",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20painter%20-%20copy%20after%20Frans%20Hals.jpg"
+        },
+        {
+            "title": "Young Man with a Cat",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Hessen Kassel Heritage",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20young%20man%20stroking%20a%20cat%20-%201635.jpg"
+        },
+        {
+            "title": "Boy Playing A Violin",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "http://www.wikidata.org/.well-known/genid/0b6e33c81f4cad884914e6d3ed8e91e9",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20Playing%20A%20Violin%20hq.jpg"
+        },
+        {
+            "title": "Girl in a Straw Hat",
+            "artist": "Judith Leyster",
+            "year": "1650",
+            "museum": "http://www.wikidata.org/.well-known/genid/d6716a1c9a063ae2f6a0273b88899f9f",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20Head%20of%20a%20Child.jpg"
+        },
+        {
+            "title": "Portrait of a girl seated",
+            "artist": "Judith Leyster",
+            "year": "1650",
+            "museum": "http://www.wikidata.org/.well-known/genid/10734ac8686a06c0db66ad090ccf65bf",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Portrait%20of%20a%20girl%20seated%20with%20her%20left%20hand%20on%20her%20chin.jpg"
+        },
+        {
+            "title": "Smiling boy holding grapes in his hat",
+            "artist": "Judith Leyster",
+            "year": "1629",
+            "museum": "Los Angeles County Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Smiling%20boy%20with%20grapes%20in%20his%20hat.jpg"
+        },
+        {
+            "title": "Smiling boy holding grapes in his hat",
+            "artist": "Judith Leyster",
+            "year": "1629",
+            "museum": "http://www.wikidata.org/.well-known/genid/69c579bc2f2d62f73dd18d1c751ec6c0",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Smiling%20boy%20with%20grapes%20in%20his%20hat.jpg"
+        },
+        {
+            "title": "Early Brabantsson (folio 29)",
+            "artist": "Judith Leyster",
+            "year": "1643",
+            "museum": "Frans Hals Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20tulip%20book%20folio%2029%20-%201643.jpg"
+        },
+        {
+            "title": "Lute player",
+            "artist": "Judith Leyster",
+            "year": "1629",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Lute%20player.JPG"
+        },
+        {
+            "title": "Woman sewing by lamplight",
+            "artist": "Judith Leyster",
+            "year": "1633",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20woman%20sewing%20by%20lamplight.JPG"
+        },
+        {
+            "title": "Card players by lamplight",
+            "artist": "Judith Leyster",
+            "year": "1633",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20card%20players%20by%20lamplight.JPG"
+        },
+        {
+            "title": "Lute player by lamplight (at full length)",
+            "artist": "Judith Leyster",
+            "year": "1633",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20lute%20player%20by%20lamplight%20at%20full%20length.JPG"
+        },
+        {
+            "title": "Young flute player by lamplight (with two recorders on the wall)",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "http://www.wikidata.org/.well-known/genid/97167a6932905be095ebfda31ab10208",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20young%20flute%20player%20by%20lamplight.JPG"
+        },
+        {
+            "title": "Portrait of a Lutenist",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20copy%20of%20Lute%20Player%20with%20wide%20brimmed%20hat%20and%20cut-sleeved%20jacket%20facing%20left.JPG"
+        },
+        {
+            "title": "Early Brabantson Tulip (folio 30)",
+            "artist": "Judith Leyster",
+            "year": "1643",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Early%20Brabantson%20Tulip%20-%20tulip%20book%20FHM%20-%201643.jpg"
+        },
+        {
+            "title": "A boy blowing bubbles",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "http://www.wikidata.org/.well-known/genid/41a9998ae78b8e471efd4129aee52335",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20A%20boy%20blowing%20bubbles.jpg"
+        },
+        {
+            "title": "Portrait of a boy with a cat",
+            "artist": "Judith Leyster",
+            "year": "1630",
+            "museum": "http://www.wikidata.org/.well-known/genid/591bb3f14bc627ab8d4a0db547260c61",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20%28attr.%29%20-%20Portret%20van%20een%20jongen%20met%20een%20kat%2C%20een%20rode%20hoed%20en%20een%20stuk%20brood.jpg"
+        },
+        {
+            "title": "interior with drinking people",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joueur%20de%20luth%2C%20par%20Judith%20Leyster.jpg"
+        },
+        {
+            "title": "interior with drinking people",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Mus\u00e9e Girodet",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joueur%20de%20luth%2C%20par%20Judith%20Leyster.jpg"
+        },
+        {
+            "title": "interior with drinking people",
+            "artist": "Judith Leyster",
+            "year": "1635",
+            "museum": "Mus\u00e9es Nationaux R\u00e9cup\u00e9ration",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joueur%20de%20luth%2C%20par%20Judith%20Leyster.jpg"
+        }
+    ],
+    "Vincent van Gogh": [
+        {
+            "title": "Basket of Hyacinth Bulbs",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mand%20met%20hyacintbollen%20-%20s0063V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Flowerpot with Garlic Chives",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bloempot%20met%20Chinese%20bieslook%20-%20s0183V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Dish with Citrus Fruit",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Schotel%20met%20citrusvruchten%20-%20s0193V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Carafe and Dish with Citrus Fruit",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Karaf%20en%20schotel%20met%20citrusvruchten%20-%20s0020V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Carafe and Dish with Citrus Fruit",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Karaf%20en%20schotel%20met%20citrusvruchten%20-%20s0020V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Impasse des Deux Fr\u00e8res",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Impasse%20des%20Deux%20Fr%C3%A8res%20-%20s0014V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Piles of French Novels",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stapels%20Franse%20romans%20-%20s0021V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Courtesan (after Eisen)",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Courtisane%20%28naar%20Eisen%29%20-%20s0116V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Red Cabbages and Garlic",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rode%20kolen%20en%20uien%20-%20s0082V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Sunflowers Gone to Seed",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Uitgebloeide%20zonnebloemen%20-%20s0121V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Allotment with Sunflower",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moestuin%20met%20zonnebloem%20-%20s0004V1962v%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "View of a Butcher's Shop",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gezicht%20op%20een%20slagerswinkel%20-%20s0119V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "An Old Woman of Arles",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Oude%20Arl%C3%A9sienne%20-%20s0145V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Garden with Butterflies",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuin%20met%20vlinders%20-%20s0110V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Garden with Butterflies",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuin%20met%20vlinders%20-%20s0110V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Wheatfield",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Korenveld%20-%20s0146V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Seascape near Les Saintes-Maries-de-la-Mer",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Zeegezicht%20bij%20Les%20Saintes-Maries-de-la-Mer%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Orchard in Blossom",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bloeiende%20boomgaard%20-%20s0038V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Self-Portrait with Pipe and Straw Hat",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret%20met%20pijp%20en%20strohoed%20-%20s0163V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Self-Portrait with Pipe and Straw Hat",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Stedelijk Museum Amsterdam",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret%20met%20pijp%20en%20strohoed%20-%20s0163V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Portrait of a One-Eyed Man",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20man%20met%20%C3%A9%C3%A9n%20oog%20-%20s0113V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Portrait of a One-Eyed Man",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20man%20met%20%C3%A9%C3%A9n%20oog%20-%20s0113V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Portrait of Camille Roulin",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Camille%20Roulin%20-%20Vincent%20van%20Gogh%20%28Unframed%29.jpg"
+        },
+        {
+            "title": "Portrait of Gauguin",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Paul%20Gauguin%20%28Man%20in%20a%20Red%20Beret%29.jpg"
+        },
+        {
+            "title": "Peach Tree in Blossom",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bloeiende%20perzikboom%20-%20s0035V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Peach Tree in Blossom",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bloeiende%20perzikboom%20-%20s0035V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Field with Poppies",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Veld%20met%20klaprozen%20-%20s0033V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Wild Roses",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wilde%20rozen%20-%20s0190V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Grapes",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Druiven%20-%20s0194V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "A Pair of Leather Clogs",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Een%20paar%20leren%20klompen%20-%20s0120V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Cypresses and Two Women",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cipressen%20en%20twee%20vrouwen%20-%20s0147V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Snow-Covered Field with a Harrow (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ondergesneeuwd%20veld%20met%20een%20eg%20%28naar%20Millet%29%20-%20s0175V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "The Sheepshearer (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20schapenscheerster%20%28naar%20Millet%29%20-%20s0042V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "The Sheepshearer (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20The%20sheep-shearer%20%28after%20Millet%29%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Ravine with a Small Stream",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ravijn%20met%20beekje%20-%20s0118V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Evening (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Avond%20%28naar%20Millet%29%20-%20s0174V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Evening (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Avond%20%28naar%20Millet%29%20-%20s0174V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "The Garden of Saint Paul's Hospital ('Leaf-Fall')",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuin%20van%20de%20inrichting%20Saint-Paul%20%28%27Het%20vallen%20van%20de%20bladeren%27%29%20-%20s0046V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Garden of the Asylum",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20tuin%20van%20de%20inrichting%20-%20s0196V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "The Woodcutter (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20houthakker%20%28naar%20Millet%29%20-%20s0170V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Reminiscence of Brabant",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Herinnering%20aan%20Brabant%20-%20s0112V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "The Reaper (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20maaier%20%28naar%20Millet%29%20-%20s0198V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "The Thresher (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20dorser%20%28naar%20Millet%29%20-%20s0171V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "The Sheaf-Binder (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20schovenbinder%20%28naar%20Millet%29%20-%20s0173V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Peasant Woman Bruising Flax (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20boerin%20die%20vlas%20kneust%20%28naar%20Millet%29%20-%20s0043V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Peasant Woman Binding Sheaves (after Millet)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20schovenbindster%20%28naar%20Millet%29%20-%20s0172V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Olive Grove",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Olive%20grove%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Olive Grove",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Olijfgaard%20-%20s0044V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Olive Trees on a Hillside",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Olijfbomen%20op%20een%20berghelling%20-%20s0148V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "View of the Alpilles",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gezicht%20op%20de%20Alpilles%20-%20s0417M1990%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Landscape with Rabbits",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Landschap%20met%20konijnen%20-%20s0099V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Entrance to a Quarry",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingang%20van%20een%20steengroeve%20-%20s0041V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Undergrowth",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kreupelhout%20-%20s0111V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Undergrowth",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kreupelhout%20-%20s0051V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Butterflies and Poppies",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vlinders%20en%20klaprozen%20-%20s0188V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Roses",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rozen%20-%20s0187V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Vase of Flowers",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vaas%20met%20bloemen%20-%20s0109V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Daubigny's Garden",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20tuin%20van%20Daubigny%20-%20s0104V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Ears of Wheat",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Korenaren%20-%20s0088V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Landscape at Twilight",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Landschap%20bij%20avondschemering%20-%20s0107V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "View of Auvers",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gezicht%20op%20Auvers%20-%20s0105V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "View from Vincent's Studio",
+            "artist": "Vincent van Gogh",
+            "year": "1886",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gezicht%20vanuit%20Vincents%20atelier%20-%20s0095V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Portrait of Etienne-Lucien Martin",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Etienne-Lucien%20Martin%20-%20s0125V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Undergrowth",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kreupelhout%20-%20s0079V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Undergrowth",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kreupelhout%20-%20s0079V1962%20-%20Van%20Gogh%20Museum.jpg"
+        },
+        {
+            "title": "Shelter on Montmartre",
+            "artist": "Vincent van Gogh",
+            "year": "1886",
+            "museum": "Fine Arts Museums of San Francisco",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Shelter%20on%20Montmartre%20%281887%29.jpg"
+        },
+        {
+            "title": "Roadway with Underpass",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Solomon R. Guggenheim Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Viadukt%20in%20Paris.jpeg"
+        },
+        {
+            "title": "Mountains at Saint-R\u00e9my",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Solomon R. Guggenheim Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Berglandschaft%20in%20Saint-R%C3%A9my.jpeg"
+        },
+        {
+            "title": "Roses",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Vase%20of%20Roses.jpg"
+        },
+        {
+            "title": "Peasant Woman Cooking by a Fireplace",
+            "artist": "Vincent van Gogh",
+            "year": "1885",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peasant%20Woman%20Cooking%20by%20a%20Fireplace.jpeg"
+        },
+        {
+            "title": "La Berceuse (Woman Rocking a Cradle; Augustine-Alix Pellicot Roulin, 1851\u20131930)",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20La%20Berceuse%20%28Woman%20Rocking%20a%20Cradle%3B%20Augustine-Alix%20Pellicot%20Roulin%2C%201851%E2%80%931930%29.jpg"
+        },
+        {
+            "title": "Shoes",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Van%20Gogh%20-%20Shoes%202.jpg"
+        },
+        {
+            "title": "The Flowering Orchard",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Van%20Gogh%200021.jpg"
+        },
+        {
+            "title": "Oleanders",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Oleander.jpg"
+        },
+        {
+            "title": "Irises",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Irises%20%281890%29.jpg"
+        },
+        {
+            "title": "Women Picking Olives",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Vrouwen%20olijven%20plukken.jpg"
+        },
+        {
+            "title": "Olive Trees",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Olivenhain2.jpeg"
+        },
+        {
+            "title": "Still Life with Bottle, Two Glasses, Cheese and Bread",
+            "artist": "Vincent van Gogh",
+            "year": "1886",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Stillleben%20mit%20Flasche%2C%20Zwei%20Gl%C3%A4sern%2C%20K%C3%A4se%20und%20Brot.jpeg"
+        },
+        {
+            "title": "A Weaver's Cottage",
+            "artist": "Vincent van Gogh",
+            "year": "1884",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20A%20Weaver%27s%20Cottage%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Vase with Carnations",
+            "artist": "Vincent van Gogh",
+            "year": "1886",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Vase%20mit%20Nelken1.jpeg"
+        },
+        {
+            "title": "Poplars near Nuenen",
+            "artist": "Vincent van Gogh",
+            "year": "1885",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Poplars%20near%20Nuenen%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Vase with Red and White Flowers",
+            "artist": "Vincent van Gogh",
+            "year": "1886",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Vase%20mit%20Gladiolen%20und%20Nelken1.jpeg"
+        },
+        {
+            "title": "Still Life with Potatoes",
+            "artist": "Vincent van Gogh",
+            "year": "1885",
+            "museum": "http://www.wikidata.org/.well-known/genid/93832e24757150767f9300b93e67eead",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20an%20Earthen%20Bowl%20and%20Potatoes%20by%20Vincent%20van%20Gogh.jpg"
+        },
+        {
+            "title": "Cineraria",
+            "artist": "Vincent van Gogh",
+            "year": "1886",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Cineraria%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of Armand Roulin",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Portrait%20of%20Armand%20Roulin%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Factories at Clichy",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Saint Louis Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Factories%20at%20Asni%C3%A8res%2C%20Seen%20from%20the%20Quai%20de%20Clichy.jpg"
+        },
+        {
+            "title": "The Factory at Asnieres",
+            "artist": "Vincent van Gogh",
+            "year": "1887",
+            "museum": "Barnes Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20The%20Factory%20-%20BF303%20-%20Barnes%20Foundation.jpg"
+        },
+        {
+            "title": "Vase with Cornflowers and Poppies",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "http://www.wikidata.org/.well-known/genid/c681e44ea89b773ef7abea723279e26c",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Vase%20with%20Cornflowers%20and%20Poppies%20-%20F280%20JH2032.jpg"
+        },
+        {
+            "title": "The Potato Peeler",
+            "artist": "Vincent van Gogh",
+            "year": "1885",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Potato%20Peeler.jpg"
+        },
+        {
+            "title": "Baby Marcelle Roulin",
+            "artist": "Vincent van Gogh",
+            "year": "1888",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Marcelle%20Roulin%20als%20Baby.jpeg"
+        },
+        {
+            "title": "The Olive Orchard",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20The%20Olive%20Orchard.jpg"
+        },
+        {
+            "title": "Still Life of Oranges and Lemons with Blue Gloves",
+            "artist": "Vincent van Gogh",
+            "year": "1889",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Stillleben%20mit%20Orangen%2C%20Zitronen%20und%20blauen%20Handschuhen.jpeg"
+        },
+        {
+            "title": "Green Wheat Fields, Auvers",
+            "artist": "Vincent van Gogh",
+            "year": "1890",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Gr%C3%BCnes%20Weizenfeld1.jpeg"
+        },
+        {
+            "title": "Chestnuts and Pears",
+            "artist": "Vincent van Gogh",
+            "year": "1886",
+            "museum": "Fine Arts Museums of San Francisco",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Still%20Life%20with%20Fruit%20and%20Chestnuts%20%28c.%201886%29.jpg"
+        }
+    ],
+    "Camille Pissarro": [
+        {
+            "title": "Pont Corneille, Rouen, Morning Mist",
+            "artist": "Camille Pissarro",
+            "year": "1896",
+            "museum": "http://www.wikidata.org/.well-known/genid/a42daf9827c78df1d2fe94509bbd2778",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Pont%20Corneille%20%C3%A0%20Rouen%2C%20brume%20du%20matin%201127.jpg"
+        },
+        {
+            "title": "Self-Portrait with Beret and Spectacles",
+            "artist": "Camille Pissarro",
+            "year": "1896",
+            "museum": "http://www.wikidata.org/.well-known/genid/659de10e282269e95ea07f642db151ff",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20039.jpg"
+        },
+        {
+            "title": "Self_Portrait with Palette",
+            "artist": "Camille Pissarro",
+            "year": "1896",
+            "museum": "Dallas Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Self%20Portrait%20-%201985.R.44%20-%20Dallas%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Foggy morning, Rouen",
+            "artist": "Camille Pissarro",
+            "year": "1896",
+            "museum": "Hunterian Museum and Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20Foggy-morning-rouen-1896.jpg"
+        },
+        {
+            "title": "The Big Walnut Tree, Autumn Morning, \u00c9ragny",
+            "artist": "Camille Pissarro",
+            "year": "1897",
+            "museum": "Pushkin Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Autumn%20Morning%20at%20%C3%89ragny%27%20by%20Camille%20Pissarro%2C%201897%2C%20Pushkin%20Museum.JPG"
+        },
+        {
+            "title": "Place du Th\u00e9\u00e2tre-Francais and Avenue de l'Op\u00e9ra, Fog",
+            "artist": "Camille Pissarro",
+            "year": "1897",
+            "museum": "Dallas Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Place%20du%20Theatre%20Francais%2C%20Fog%20Effect%20-%201985.R.50%20-%20Dallas%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Bath Road, London, (sketch)",
+            "artist": "Camille Pissarro",
+            "year": "1897",
+            "museum": "Ashmolean Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bath%20Road%2C%20London%20by%20Camille%20Pissarro.jpg"
+        },
+        {
+            "title": "Mardi Gras on the Boulevards",
+            "artist": "Camille Pissarro",
+            "year": "1897",
+            "museum": "Fogg Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Mardi%20Gras%20on%20the%20Boulevards%20-%201951.58%20-%20Fogg%20Museum.jpg"
+        },
+        {
+            "title": "Mardi Gras on the Boulevards",
+            "artist": "Camille Pissarro",
+            "year": "1897",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Mardi%20Gras%20on%20the%20Boulevards%20-%201951.58%20-%20Fogg%20Museum.jpg"
+        },
+        {
+            "title": "Avenue de l'Opera, Effect of Snow",
+            "artist": "Camille Pissarro",
+            "year": "1898",
+            "museum": "Pushkin Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Avenue%20de%20L%27Opera%20%28Effect%20of%20Snow%20in%20the%20Morning%29%20IMG%206902.JPG"
+        },
+        {
+            "title": "Place du Th\u00e9\u00e2tre-Fran\u00e7ais and Avenue de l'Op\u00e9ra, Winter Effect of Sunlight",
+            "artist": "Camille Pissarro",
+            "year": "1898",
+            "museum": "National Museum of Serbia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20pissaro%20place%20du%20theatre%20francais%20soleil.jpg"
+        },
+        {
+            "title": "June, Rainy Weather, \u00c9ragny",
+            "artist": "Camille Pissarro",
+            "year": "1898",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Juin%2C%20temps%20pluvieux%2C%20%C3%89ragny%20-%201214.jpg"
+        },
+        {
+            "title": "Cours-la-Reine in Rouen, Overcast Sky",
+            "artist": "Camille Pissarro",
+            "year": "1898",
+            "museum": "http://www.wikidata.org/.well-known/genid/49696ccfe5463db260c7673992a5cc38",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Le%20Cours-la-Reine%20%C3%A0%20Rouen%2C%20temps%20gris%20%281898%29.jpg"
+        },
+        {
+            "title": "Pont Boieldieu and the Gare d'Orl\u00e9ans, Rouen, Morning, Sunlight",
+            "artist": "Camille Pissarro",
+            "year": "1898",
+            "museum": "Honolulu Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20%281830-1903%29%20-%20%27View%20of%20Rouen%27%2C%201898.jpg"
+        },
+        {
+            "title": "Place du Th\u00e9\u00e2tre-Francais and the Avenue de l'Op\u00e9ra, Hazy Weather",
+            "artist": "Camille Pissarro",
+            "year": "1898",
+            "museum": "http://www.wikidata.org/.well-known/genid/0404c840690fa97f615409b07dc17777",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20opera-misty.jpg"
+        },
+        {
+            "title": "Place du Th\u00e9\u00e2tre-Francais and the Avenue de l'Op\u00e9ra, Sunlight, Winter Morning",
+            "artist": "Camille Pissarro",
+            "year": "1898",
+            "museum": "Museum of Fine Arts of Reims",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PISSARRO%20Camille%20L%27Avenue%20de%20l%27Op%C3%A9ra%20Huile%20sur%20toile.jpg"
+        },
+        {
+            "title": "Rue de l'\u00c9picerie in Rouen, Morning, Rainy Weather",
+            "artist": "Camille Pissarro",
+            "year": "1898",
+            "museum": "Yoshino Gypsum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20036.jpg"
+        },
+        {
+            "title": "The Orchard at the Manoir d'Ango with Hens, Varengeville",
+            "artist": "Camille Pissarro",
+            "year": "1899",
+            "museum": "Cincinnati Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Gray%20Day%2C%20Varengeville%2C%20Auberge%20du%20Manoir%27%20by%20Camille%20Pissarro%2C%20Cincinnati.jpg"
+        },
+        {
+            "title": "Autumn in the Meadow at \u00c9ragny",
+            "artist": "Camille Pissarro",
+            "year": "1899",
+            "museum": "Museum Langmatt Sidney and Jenny Brown Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Automne%20%C3%A1%20%C3%89ragny%2C%20Camille%20Pissarro%20-%203159%20%28cropped%29.jpg"
+        },
+        {
+            "title": "Autumn in the Meadow at \u00c9ragny",
+            "artist": "Camille Pissarro",
+            "year": "1899",
+            "museum": "Museum Langmatt Sidney and Jenny Brown Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Automne%20dans%20le%20pr%C3%A9%20%C3%A0%20%C3%89ragny%20-%201294.jpg"
+        },
+        {
+            "title": "Peasant Woman Resting at the Foot of a Tree, Effect of Sunshine, \u00c9ragny",
+            "artist": "Camille Pissarro",
+            "year": "1899",
+            "museum": "Israel Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Morning%20Sunlight%20Effect%2C%20Eragny%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Orchard and a Cow, Varengeville",
+            "artist": "Camille Pissarro",
+            "year": "1899",
+            "museum": "http://www.wikidata.org/.well-known/genid/ea4d1f053540e9910fa6761dbeb94b45",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Verger%20%C3%A0%20Varengeville%20avec%20vache%20%281899%29.jpg"
+        },
+        {
+            "title": "Jeanne Pissarro, Called Cocotte, Reading",
+            "artist": "Camille Pissarro",
+            "year": "1899",
+            "museum": "Ann & Gordon Getty Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Jeanne%20Pissarro%2C%20Called%20Cocotte%2C%20Reading%2C%201899.%20Oil%20on%20canvas.jpg"
+        },
+        {
+            "title": "Gardener Standing by a Haystack, Overcast Sky, \u00c9ragny",
+            "artist": "Camille Pissarro",
+            "year": "1899",
+            "museum": "Isabelle and Scott Black Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Jardinier%20devant%20une%20meule%2C%20temps%20gris%2C%20%C3%89ragny.jpg"
+        },
+        {
+            "title": "Woman Washing Clothes in the Garden, \u00c9ragny",
+            "artist": "Camille Pissarro",
+            "year": "1899",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Laveuse%20dans%20le%20jardin%20d%27Eragny%20%281899%29.jpg"
+        },
+        {
+            "title": "The Gardener",
+            "artist": "Camille Pissarro",
+            "year": "1899",
+            "museum": "Staatsgalerie Stuttgart",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Der%20G%C3%A4rtner%20-%20Staatsgalerie%20Stuttgart.jpg"
+        },
+        {
+            "title": "The Louvre, Afternoon, Rainy Weather (First Series)",
+            "artist": "Camille Pissarro",
+            "year": "1900",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Louvre%2C%20Afternoon%2C%20Rainy%20Weather%20NGA.jpg"
+        },
+        {
+            "title": "The Louvre, Afternoon, Rainy Weather (First Series)",
+            "artist": "Camille Pissarro",
+            "year": "1900",
+            "museum": "Corcoran Gallery of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Louvre%2C%20Afternoon%2C%20Rainy%20Weather%20NGA.jpg"
+        },
+        {
+            "title": "View of Berneval",
+            "artist": "Camille Pissarro",
+            "year": "1900",
+            "museum": "Norton Simon Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Vue%20de%20Berneval%20-%201331.jpg"
+        },
+        {
+            "title": "Statue of Henri-IV, Morning, Winter Sunlight (First Series)",
+            "artist": "Camille Pissarro",
+            "year": "1900",
+            "museum": "Krannert Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Henri%20IV%2C%20Morning%2C%20Winter%20Sunlight%2C%20by%20Camille%20Pissarro%2C%201900%2C%20oil%20on%20canvas%20-%20Krannert%20Art%20Museum%2C%20UIUC%20-%20DSC06230.jpg"
+        },
+        {
+            "title": "The Tuileries Gardens, Bright Cloudy Weather",
+            "artist": "Camille Pissarro",
+            "year": "1900",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Tuileries%20Gardens%201900%20Pissarro%20Hermitage.jpg"
+        },
+        {
+            "title": "The Tuileries Garden, Morning, Sunshine",
+            "artist": "Camille Pissarro",
+            "year": "1900",
+            "museum": "Israel Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuileries%20Gardens%2C%20Afternoon%2C%20Sun%201900%20Pissarro.jpg"
+        },
+        {
+            "title": "The Town Fair by the Church of Saint-Jacques in Dieppe, Morning, Sunlight",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20La%20Foire%20autour%20de%20l%27eglise%20Saint-Jacques%2C%20Dieppe%2C%20matin%2C%20soleil%20-%20Hermitage.jpg"
+        },
+        {
+            "title": "The Louvre, Morning, Winter Sunlight, Hoar-Frost (First Series)",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "Honolulu Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20%281830-1903%29%20-%20%27Morning%2C%20Winter%20Sunshine%2C%20Frost%2C%20the%20Pont-Neuf%2C%20the%20Seine%2C%20the%20Louvre%2C%20Soleil%20D%27hiver%20Gella%20Blanc%27%2C%20ca.%201901.jpg"
+        },
+        {
+            "title": "The Louvre, Spring, Morning, Sunlight (First Series)",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "Liege Fine Arts Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Le%20Louvre%2C%20le%20printemps.jpg"
+        },
+        {
+            "title": "The Louvre, Spring, Morning, Sunlight (First Series)",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "Mus\u00e9e d'Art moderne et d'Art contemporain",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Le%20Louvre%2C%20le%20printemps.jpg"
+        },
+        {
+            "title": "The Louvre, Foggy Morning",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "Banco de la Rep\u00fablica",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Le%20Louvre%2C%20soleil%20couchant%2C%20gel%C3%A9e%20glanche%2C%202e%20s%C3%A9rie%20-%201402.jpg"
+        },
+        {
+            "title": "The Louvre, Foggy Morning",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "Botero Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Le%20Louvre%2C%20soleil%20couchant%2C%20gel%C3%A9e%20glanche%2C%202e%20s%C3%A9rie%20-%201402.jpg"
+        },
+        {
+            "title": "The Church of Saint-Jacque in Dieppe, Sunlight, Morning",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "http://www.wikidata.org/.well-known/genid/83b9af790eed2b78c5ee2f41b10ae9df",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20L%E2%80%99%C3%89glise%20Saint-Jacques%20%C3%A0%20Dieppe%2C%20soleil%2C%20matin.jpg"
+        },
+        {
+            "title": "Statue of Henri-IV, Early Spring (First Series)",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "Museo Soumaya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Statue%20of%20Henry%20IV%2C%20Beginning%20of%20Spring%20%28First%20Series%29%27%20%281901%29%20by%20Camille%20Pissarro%20-%20Museo%20Soumaya%20-%20Mexico%202024.jpg"
+        },
+        {
+            "title": "The Pont-Neuf, Rainy Afternoon (First Series)",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "http://www.wikidata.org/.well-known/genid/934bad394347cdef8f9617d83f17cefd",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20the-pont-neuf-rainy-afternoon-1901.jpg"
+        },
+        {
+            "title": "The Pont-Neuf, Wreck of Bonne M\u00e8re",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20The-pont-neuf-shipwreck-of-the-bonne-mere-1901.jpg"
+        },
+        {
+            "title": "Apple Trees and Poplars, \u00c9ragny, Sunset",
+            "artist": "Camille Pissarro",
+            "year": "1901",
+            "museum": "MuMa Museum of modern art Andr\u00e9 Malraux",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro-Pommiers-peupliers-Le-Havre.jpg"
+        },
+        {
+            "title": "The Pont-Neuf, Sunlight (Second Series)",
+            "artist": "Camille Pissarro",
+            "year": "1902",
+            "museum": "Hungarian National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20The%20Pont-Neuf%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Peasant Women under the Trees at Moret",
+            "artist": "Camille Pissarro",
+            "year": "1902",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Paysannes%20sous%20les%20arbres%20%C3%A0%20Moret%20-%201430.jpg"
+        },
+        {
+            "title": "The Old Wine Grower, Moret",
+            "artist": "Camille Pissarro",
+            "year": "1902",
+            "museum": "http://www.wikidata.org/.well-known/genid/951ed8afbc50f7bc11416c7912b65bc6",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Vieux%20vigneron%2C%20Moret%20-%201427.jpeg"
+        },
+        {
+            "title": "The Louvre, Morning, Effect of Snow (Second Series)",
+            "artist": "Camille Pissarro",
+            "year": "1902",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Louvre%20Under%20Snow%201902.jpg"
+        },
+        {
+            "title": "The Pont-Neuf, Mist (Second Series)",
+            "artist": "Camille Pissarro",
+            "year": "1902",
+            "museum": "http://www.wikidata.org/.well-known/genid/3f9817937476909a42fbd2f03839243d",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20pont-neuf-fog-1902.jpg"
+        },
+        {
+            "title": "The Pont-Neuf, Effect of Snow (Second Series)",
+            "artist": "Camille Pissarro",
+            "year": "1902",
+            "museum": "Amgueddfa Cymru \u2013 Museum Wales",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Amgueddfa%20Cymru%20-%20Pont%20Neuf%2C%20Effaith%20Eira%2C%20ail%20gyfres%20-%20Pont%20Neuf%2C%20Snow%20Effect%2C%202nd%20series%20-%202690.jpeg"
+        },
+        {
+            "title": "The East Breakwater, Return of The Regatta, Le Havre",
+            "artist": "Camille Pissarro",
+            "year": "1903",
+            "museum": "Norton Simon Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Brise-lames%20est%2C%20relour%20des%20r%C3%A9gates%20au%20Havre%20-%201514.jpeg"
+        },
+        {
+            "title": "Entrance to the Harbour at Le Havre, Overcast Sky",
+            "artist": "Camille Pissarro",
+            "year": "1903",
+            "museum": "Dallas Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Ship%20Entering%20the%20Harbor%20at%20Le%20Havre%20-%201996.214%20-%20Dallas%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Entrance to the Harbour at Le Havre, Overcast Sky",
+            "artist": "Camille Pissarro",
+            "year": "1903",
+            "museum": "Dallas Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20havre.jpg"
+        },
+        {
+            "title": "The Quai Malaquais and the Institute  (de France), Spring, Sunlight (Fourth Series)",
+            "artist": "Camille Pissarro",
+            "year": "1903",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Quai%20Malaquais%2C%20Sunny%20Afternoon%27%20by%20Camille%20Pissarro%2C%201903%2C%20Hermitage.JPG"
+        },
+        {
+            "title": "Entrance to the Harbour at Le Havre with the West Breakwater, Sunlight, Morning",
+            "artist": "Camille Pissarro",
+            "year": "1903",
+            "museum": "Dixon Gallery and Gardens",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Entr%C3%A9e%20du%20port%20du%20Havre%20et%20le%20brise-lames%20ouest%2C%20soleil%2C%20matin%20-%201525.jpg"
+        },
+        {
+            "title": "A Wool-Carder",
+            "artist": "Camille Pissarro",
+            "year": "1880",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20A%20Wool-Carder%2C%201880%2C%20L721%2C%20National%20Gallery.png"
+        },
+        {
+            "title": "A Wool-Carder",
+            "artist": "Camille Pissarro",
+            "year": "1880",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20A%20Wool-Carder%2C%201880%2C%20L721%2C%20National%20Gallery.png"
+        },
+        {
+            "title": "Still Life with a Coffeepot",
+            "artist": "Camille Pissarro",
+            "year": "1900",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Still%20Life%20with%20a%20Coffeepot%2C%201900%2C%20%D0%97%D0%9A%D0%A0%D1%81%D1%8D-527%2C%20Hermitage%20Museum.jpg"
+        },
+        {
+            "title": "Garden in Full Sunlight (Le Jardin au grand soleil, Pontoise)",
+            "artist": "Camille Pissarro",
+            "year": "1876",
+            "museum": "Barnes Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Garden%20in%20Full%20Sunlight%20%28Le%20Jardin%20au%20grand%20soleil%2C%20Pontoise%29%2C%201876%2C%20BF324%2C%20Barnes%20Foundation.jpg"
+        },
+        {
+            "title": "The Pilots\u2019 Jetty, Le Havre, Morning, Cloudy and Misty Weather",
+            "artist": "Camille Pissarro",
+            "year": "1903",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Pilots%E2%80%99%20Jetty%2C%20Le%20Havre%2C%20Morning%2C%20Cloudy%20and%20Misty%20Weather%2C%201903.jpg"
+        },
+        {
+            "title": "The Pilots\u2019 Jetty, Le Havre, Morning, Cloudy and Misty Weather",
+            "artist": "Camille Pissarro",
+            "year": "1903",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Pilots%E2%80%99%20Jetty%2C%20Le%20Havre%2C%20Morning%2C%20Cloudy%20and%20Misty%20Weather%2C%201903.jpg"
+        },
+        {
+            "title": "A Corner of the Meadow at Eragny",
+            "artist": "Camille Pissarro",
+            "year": "1902",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20A%20Corner%20of%20the%20Meadow%20at%20Eragny%2C%201902.jpg"
+        },
+        {
+            "title": "A Corner of the Meadow at Eragny",
+            "artist": "Camille Pissarro",
+            "year": "1902",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20A%20Corner%20of%20the%20Meadow%20at%20Eragny%2C%201902.jpg"
+        },
+        {
+            "title": "The pea harvest",
+            "artist": "Camille Pissarro",
+            "year": "1887",
+            "museum": "Simon Bauer collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20La%20cueillette%20des%20pois.jpg"
+        },
+        {
+            "title": "The pea harvest",
+            "artist": "Camille Pissarro",
+            "year": "1887",
+            "museum": "http://www.wikidata.org/.well-known/genid/d0c0abd13fb902f786dd37524e89ea33",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20La%20cueillette%20des%20pois.jpg"
+        },
+        {
+            "title": "Street in Upper Norwood",
+            "artist": "Camille Pissarro",
+            "year": "1871",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Stra%C3%9Fe%20in%20Upper%20Norwood%20-%208699%20-%20Bavarian%20State%20Painting%20Collections.jpg"
+        },
+        {
+            "title": "The Artist's Palette with a Cart and Peasants",
+            "artist": "Camille Pissarro",
+            "year": "1870",
+            "museum": "Clark Art Institute",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20The%20Artist%27s%20Palette%20with%20a%20Landscape%20-%201955.827%20-%20Clark%20Art%20Institute.tiff"
+        },
+        {
+            "title": "The Great Bridge, Rouen (Le Grand Pont, Rouen)",
+            "artist": "Camille Pissarro",
+            "year": "1896",
+            "museum": "Carnegie Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Great%20Bridge%2C%20Rouen%20%28Le%20Grand%20Pont%2C%20Rouen%29%2C%201896.jpg"
+        },
+        {
+            "title": "The Crossroads, Pontoise",
+            "artist": "Camille Pissarro",
+            "year": "1872",
+            "museum": "Carnegie Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Le%20Carrefour%2C%20Pontoise%2C%201872%20-%20Carnegie%20Museum%20of%20Art%2C%20Pittsburgh%2C%202019-12-11.jpg"
+        },
+        {
+            "title": "The Crossroads, Pontoise",
+            "artist": "Camille Pissarro",
+            "year": "1872",
+            "museum": "Carnegie Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Crossroads%2C%20Pontoise%2C%20or%20Square%20at%20the%20Old%20Cemetery%2C%20Pontoise%2C%201872.jpg"
+        },
+        {
+            "title": "View from my Window",
+            "artist": "Camille Pissarro",
+            "year": "1887",
+            "museum": "Ashmolean Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20View%20from%20my%20Window%2C%20%C3%89ragny-sur-Epte%20%281888%29.jpg"
+        },
+        {
+            "title": "Chestnut Grove at Louveciennes",
+            "artist": "Camille Pissarro",
+            "year": "1872",
+            "museum": "The Nelson-Atkins Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Bois%20de%20ch%C3%A2taigniers%20%C3%A0%20Louveciennes%20%281872%29.jpg"
+        },
+        {
+            "title": "Rue Saint-Honor\u00e9, Sun Effect, Afternoon",
+            "artist": "Camille Pissarro",
+            "year": "1898",
+            "museum": "The Nelson-Atkins Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20La%20rue%20Saint-Honor%C3%A9%20%281898%29.jpg"
+        },
+        {
+            "title": "Banks of the Seine at Port Marly",
+            "artist": "Camille Pissarro",
+            "year": "1871",
+            "museum": "The Nelson-Atkins Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Au%20bord%20de%20la%20Seine%20%C3%A0%20Port%20Marly%20%281871%29.jpg"
+        },
+        {
+            "title": "Haymakers Resting",
+            "artist": "Camille Pissarro",
+            "year": "1891",
+            "museum": "McNay Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Haymakers%20Resting%20by%20Camille%20Pissarro.jpg"
+        },
+        {
+            "title": "Landscape at Melleray, Mayenne",
+            "artist": "Camille Pissarro",
+            "year": "1876",
+            "museum": "Landesmuseum Hannover",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissaro%20Camille%20Landschaft%40Nieders.%20Landesmuseum20170622.jpg"
+        },
+        {
+            "title": "Peasant woman sitting in moret",
+            "artist": "Camille Pissarro",
+            "year": "1902",
+            "museum": "Museum of Montserrat",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Paysanne%20assise%20interieur%20a%20moret.jpg"
+        },
+        {
+            "title": "A Square in Caracas",
+            "artist": "Camille Pissarro",
+            "year": "1854",
+            "museum": "Colecci\u00f3n Patricia Phelps de Cisneros",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20A%20Plaza%20in%20Caracas.jpg"
+        },
+        {
+            "title": "Ludovic-Rodolphe Pissarro reading",
+            "artist": "Camille Pissarro",
+            "year": "1899",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Rodo%20Pissarro%20reading.jpg"
+        },
+        {
+            "title": "Cabbage Patch Near the Village",
+            "artist": "Camille Pissarro",
+            "year": "1875",
+            "museum": "Cincinnati Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20399.png"
+        },
+        {
+            "title": "A Seated Peasant\u00a0Woman",
+            "artist": "Camille Pissarro",
+            "year": "1885",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20A%20Seated%20Peasant%20Woman%20-%201983.7.13%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "A Rose\u00a0Garden",
+            "artist": "Camille Pissarro",
+            "year": "1862",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20A%20Rose%20Garden%20-%201978.15.2%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "In the Garden at Pontoise: A Young Woman Washing Dishes",
+            "artist": "Camille Pissarro",
+            "year": "1882",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20In%20the%20Garden%20at%20Pontoise-%20A%20Young%20Woman%20Washing%20Dishes%2C%201882%2C%20PD.53-1947%2C%20The%20Fitzwilliam%20Museum.jpg"
+        },
+        {
+            "title": "Haymaking",
+            "artist": "Camille Pissarro",
+            "year": "1874",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Haymaking%2C%201874%2C%20PD.16-1964%2C%20The%20Fitzwilliam%20Museum.jpg"
+        },
+        {
+            "title": "Route de Port-Marly",
+            "artist": "Camille Pissarro",
+            "year": "1863",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Route%20de%20Port-Marly%2C%201860%20%E2%80%94%201867%2C%20PD.58-1958%2C%20The%20Fitzwilliam%20Museum.jpg"
+        },
+        {
+            "title": "Les bords de la Seine \u00e0 Bougival",
+            "artist": "Camille Pissarro",
+            "year": "1864",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Les%20bords%20de%20la%20Seine%20%C3%A0%20Bougival%2C%201864%2C%20PD.23-1964%2C%20The%20Fitzwilliam%20Museum.jpg"
+        },
+        {
+            "title": "Snowy landscape at Eragny with an apple tree",
+            "artist": "Camille Pissarro",
+            "year": "1895",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Snowy%20landscape%20at%20Eragny%20with%20an%20apple%20tree%2C%201896%2C%20PD.974-1963%2C%20The%20Fitzwilliam%20Museum.jpg"
+        },
+        {
+            "title": "La Maison de la Piette, Montfoucault, effet de neige",
+            "artist": "Camille Pissarro",
+            "year": "1874",
+            "museum": "Fitzwilliam Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20La%20Maison%20de%20la%20Piette%2C%20Montfoucault%2C%20effet%20de%20neige%20%281874%29%20-%20Fitzwilliam%20Museum.jpg"
+        },
+        {
+            "title": "Pariata",
+            "artist": "Camille Pissarro",
+            "year": "1853",
+            "museum": "Colecci\u00f3n Patricia Phelps de Cisneros",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%2C%20Camille-Pariata.jpg"
+        },
+        {
+            "title": "Portrait of a boy",
+            "artist": "Camille Pissarro",
+            "year": "1853",
+            "museum": "Ordrupgaard",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%2C%20Portr%C3%A6t%20af%20en%20dreng%2C%201852-1855.jpg"
+        },
+        {
+            "title": "The Stone Bridge in Rouen, Dull Weather",
+            "artist": "Camille Pissarro",
+            "year": "1896",
+            "museum": "National Gallery of Canada",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%201124.png"
+        },
+        {
+            "title": "The Old Road to Ennery at Pontoise",
+            "artist": "Camille Pissarro",
+            "year": "1877",
+            "museum": "National Gallery of Canada",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20524.png"
+        },
+        {
+            "title": "Le vieux chemin en automne, Pontoise (The Old Road in the Fall, Pontoise)",
+            "artist": "Camille Pissarro",
+            "year": "1877",
+            "museum": "Hecht Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pissarro%20and%20Durand-Ruel%20Snollaerts%2C%20535.png"
+        },
+        {
+            "title": "Autumn, Poplars, \u00c9ragny",
+            "artist": "Camille Pissarro",
+            "year": "1894",
+            "museum": "Denver Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Automne%2C%20Peupliers%2C%20Eragny%20%28Autumn%2C%20Poplars%2C%20Eragny%29%20-%20Google%20Art%20Project.jpg"
+        }
+    ],
+    "Ivan Shishkin": [
+        {
+            "title": "Morning in a Pine Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1889",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shishkin%2C%20Ivan%20-%20Morning%20in%20a%20Pine%20Forest.jpg"
+        },
+        {
+            "title": "In the Wild North\u2026",
+            "artist": "Ivan Shishkin",
+            "year": "1891",
+            "museum": "Kiev National Picture Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20%D0%98.%20%D0%98.%20%281891%29%20%D0%9D%D0%B0%20%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%B5%20%D0%B4%D0%B8%D0%BA%D0%BE%D0%BC.jpg"
+        },
+        {
+            "title": "Rye Fields",
+            "artist": "Ivan Shishkin",
+            "year": "1878",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Shishkin%20-%20%D0%A0%D0%BE%D0%B6%D1%8C%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Sun Lit Pines",
+            "artist": "Ivan Shishkin",
+            "year": "1886",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%BE%D1%81%D0%BD%D1%8B%2C%20%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5%D0%BC%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Rain in an Oak Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1891",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Iwan%20Iwanowitsch%20Schischkin%20-%20Rain%20in%20an%20Oak%20Forest.jpg"
+        },
+        {
+            "title": "Mast-Tree grove",
+            "artist": "Ivan Shishkin",
+            "year": "1898",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%BE%D1%89%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Landscape",
+            "artist": "Ivan Shishkin",
+            "year": "1900",
+            "museum": "Finnish National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Pine Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1895",
+            "museum": "Far Eastern Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pine%20Forest%20by%20Ivan%20Shishkin%201895.jpg"
+        },
+        {
+            "title": "Polesie Landscape",
+            "artist": "Ivan Shishkin",
+            "year": "1884",
+            "museum": "Belarusian National Arts Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Ivanovich%20Shishkin%20-%20Polesie%20Landscape%2C%201884.jpg"
+        },
+        {
+            "title": "Forest distant views",
+            "artist": "Ivan Shishkin",
+            "year": "1884",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Ivanovich%20Shishkin%20-%20Forest%20distant%20views%2C%201884.jpg"
+        },
+        {
+            "title": "I. I. Shishkin and A. V. Gine in the Studio on the Valaam Island",
+            "artist": "Ivan Shishkin",
+            "year": "1860",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/I.%20I.%20Shishkin%20and%20A.%20V.%20Gine%20in%20the%20Studio%20on%20the%20Valaam%20Island%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Stones in the Forest. Valaam",
+            "artist": "Ivan Shishkin",
+            "year": "1859",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stones%20in%20the%20Forest.%20Balaam%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Forest Landscape with Herons",
+            "artist": "Ivan Shishkin",
+            "year": "1870",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Forest%20Landscape%20with%20Herons%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Landscape with Walking",
+            "artist": "Ivan Shishkin",
+            "year": "1869",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20with%20Walking%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "In the Grove",
+            "artist": "Ivan Shishkin",
+            "year": "1865",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20-%20%D0%92%20%D1%80%D0%BE%D1%89%D0%B5.jpg"
+        },
+        {
+            "title": "Oaks",
+            "artist": "Ivan Shishkin",
+            "year": "1865",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Ivanovich%20Shishkin%20-%20Oaks%2C%201865.jpg"
+        },
+        {
+            "title": "For Mushrooms",
+            "artist": "Ivan Shishkin",
+            "year": "1870",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/For%20Mushrooms%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "The Path in the Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1880",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Path%20in%20the%20Forest%20%28Shishkin%29%2002.jpg"
+        },
+        {
+            "title": "Oaks",
+            "artist": "Ivan Shishkin",
+            "year": "1887",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D1%8B%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "From Neighborhoods Gurzuf. Study",
+            "artist": "Ivan Shishkin",
+            "year": "1879",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/From%20Neighborhoods%20Gurzuf%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Beech Forest in Switzerland",
+            "artist": "Ivan Shishkin",
+            "year": "1863",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Beech%20Forest%20in%20Switzerland%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "View on the Outskirts of St. Petersburg",
+            "artist": "Ivan Shishkin",
+            "year": "1856",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Shishkin%20-%20View%20on%20the%20Outskirts%20of%20St.%20Petersburg.JPG"
+        },
+        {
+            "title": "View near Dusseldorf",
+            "artist": "Ivan Shishkin",
+            "year": "1865",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20near%20D%C3%BCsseldorf%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Village Courtyard",
+            "artist": "Ivan Shishkin",
+            "year": "1860",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B4%D0%B2%D0%BE%D1%80%201860.jpg"
+        },
+        {
+            "title": "Teutoburg Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1865",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Teutoburg%20Forest%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Study for the painting \"Lumbering\"",
+            "artist": "Ivan Shishkin",
+            "year": "1867",
+            "museum": "Yekaterinburg Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AD%D1%82%D1%8E%D0%B4%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%A0%D1%83%D0%B1%D0%BA%D0%B0%20%D0%BB%D0%B5%D1%81%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Countess Mordvinova's Wood. Peterhof",
+            "artist": "Ivan Shishkin",
+            "year": "1891",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shishkin%20Ivan%20The%20Forest%20of%20Countess%20Mordvinova%201891.jpg"
+        },
+        {
+            "title": "Evening",
+            "artist": "Ivan Shishkin",
+            "year": "1871",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B5%D1%87%D0%B5%D1%80%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "In the Rye",
+            "artist": "Ivan Shishkin",
+            "year": "1866",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%D0%B2%D0%BE%20%D1%80%D0%B6%D0%B8%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Oaks",
+            "artist": "Ivan Shishkin",
+            "year": "1886",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D0%BA%D0%B8%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Oaks. Evening",
+            "artist": "Ivan Shishkin",
+            "year": "1887",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D1%8B.%20%D0%92%D0%B5%D1%87%D0%B5%D1%80%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Wilds",
+            "artist": "Ivan Shishkin",
+            "year": "1881",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%B5%D0%B1%D1%80%D0%B8%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Apiary",
+            "artist": "Ivan Shishkin",
+            "year": "1882",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B0%D1%81%D0%B5%D0%BA%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Mountain path. Crimea",
+            "artist": "Ivan Shishkin",
+            "year": "1879",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BA%D0%B0.%20%D0%9A%D1%80%D1%8B%D0%BC%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Oak Wood in a Gray Day",
+            "artist": "Ivan Shishkin",
+            "year": "1873",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%81%D0%BE%D0%BA%20%D0%B2%20%D1%81%D0%B5%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "On the outskirts of the oak forest",
+            "artist": "Ivan Shishkin",
+            "year": "1882",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B0%20%D0%BE%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B5%20%D0%B4%D1%83%D0%B1%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BB%D0%B5%D1%81%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "By the seashore",
+            "artist": "Ivan Shishkin",
+            "year": "1889",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BE%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D1%83%20%D0%BC%D0%BE%D1%80%D1%8F%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Lumbering",
+            "artist": "Ivan Shishkin",
+            "year": "1867",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D1%83%D0%B1%D0%BA%D0%B0%20%D0%BB%D0%B5%D1%81%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Noon. Neighborhoods of Moscow",
+            "artist": "Ivan Shishkin",
+            "year": "1869",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shishkin%20Polden%20Okrestnosti%20Moskvy.jpg"
+        },
+        {
+            "title": "Corner Overgrown Garden. Aegopodium-grass",
+            "artist": "Ivan Shishkin",
+            "year": "1884",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%20%D0%B7%D0%B0%D1%80%D0%BE%D1%81%D1%88%D0%B5%D0%B3%D0%BE%20%D1%81%D0%B0%D0%B4%D0%B0.%20%D0%A1%D0%BD%D1%8B%D1%82%D1%8C-%D1%82%D1%80%D0%B0%D0%B2%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Walk in the Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1869",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Walk%20in%20the%20Forest%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "A Pine Forest. Mast-Timber forest in Viatka Province",
+            "artist": "Ivan Shishkin",
+            "year": "1872",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1872%20Schischkin%20Pinienwald%20anagoria.JPG"
+        },
+        {
+            "title": "Flowers on the Edge of the Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1892",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A6%D0%B2%D0%B5%D1%82%D1%8B%20%D0%BD%D0%B0%20%D0%BE%D0%BF%D1%83%D1%88%D0%BA%D0%B5%20%D0%BB%D0%B5%D1%81%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "The Road in the Valley",
+            "artist": "Ivan Shishkin",
+            "year": "1861",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Road%20in%20the%20Valley%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Windmill in the Field",
+            "artist": "Ivan Shishkin",
+            "year": "1861",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Windmill%20in%20the%20Field%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "The Ruins of Bulgar. White House",
+            "artist": "Ivan Shishkin",
+            "year": "1861",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Ruins%20of%20Bulgar%20%28White%20House%29%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "The Ruins of the Khan's Tomb and the Small Minaret in Bulgaria",
+            "artist": "Ivan Shishkin",
+            "year": "1861",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Ruins%20of%20the%20Khan%27s%20Tomb%20and%20the%20Small%20Minaret%20in%20Bulgaria%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Hovel",
+            "artist": "Ivan Shishkin",
+            "year": "1861",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hovel%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "In Krippen. The man on the Doorstep",
+            "artist": "Ivan Shishkin",
+            "year": "1862",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/In%20Krippen.%20The%20man%20on%20the%20Doorstep%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Swiss Landscape",
+            "artist": "Ivan Shishkin",
+            "year": "1866",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Swiss%20Landscape%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Birch Grove",
+            "artist": "Ivan Shishkin",
+            "year": "1871",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Birch%20Grove%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Birches after Storm",
+            "artist": "Ivan Shishkin",
+            "year": "1871",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Birches%20after%20Storm%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Mowing in an Oak Grove",
+            "artist": "Ivan Shishkin",
+            "year": "1874",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/On%20Mowing%20in%20an%20Oak%20Grove%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Evening in a Pine Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1875",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pine%20Forest%20%28Evening%20in%20a%20Pine%20Forest%29%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "In the Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1880",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/In%20the%20Forest%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Overgrown Pond at the Edge of the Forest. Siverskaya",
+            "artist": "Ivan Shishkin",
+            "year": "1883",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D0%B0%D1%80%D0%BE%D1%81%D1%88%D0%B8%D0%B9%20%D0%BF%D1%80%D1%83%D0%B4%20%D1%83%20%D0%BE%D0%BF%D1%83%D1%88%D0%BA%D0%B8%20%D0%BB%D0%B5%D1%81%D0%B0.%20%D0%A1%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Ferns in the Forest. Siverskaya. Study",
+            "artist": "Ivan Shishkin",
+            "year": "1883",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B2%20%D0%BB%D0%B5%D1%81%D1%83.%20%D0%A1%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Spring in the Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1892",
+            "museum": "Tyumen Regional Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%B2%20%D0%BB%D0%B5%D1%81%D1%83%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Birch Grove",
+            "artist": "Ivan Shishkin",
+            "year": "1884",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%BE%D1%89%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Off the coast of the Gulf of Finland (Udrias near Narva). Study",
+            "artist": "Ivan Shishkin",
+            "year": "1888",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A3%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%20%D0%A4%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B7%D0%B0%D0%BB%D0%B8%D0%B2%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Spruce forest",
+            "artist": "Ivan Shishkin",
+            "year": "1889",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%95%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%81%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Deciduous forest",
+            "artist": "Ivan Shishkin",
+            "year": "1889",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B8%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%81%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "River backwater in the forest",
+            "artist": "Ivan Shishkin",
+            "year": "1889",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%8C%20%D0%B2%20%D0%BB%D0%B5%D1%81%D1%83%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Pines. Sunny day",
+            "artist": "Ivan Shishkin",
+            "year": "1890",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%BE%D1%81%D0%BD%D1%8B.%20%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Landscape with pine",
+            "artist": "Ivan Shishkin",
+            "year": "1890",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%20%D1%81%20%D1%81%D0%BE%D1%81%D0%BD%D0%BE%D0%B9%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Precipice",
+            "artist": "Ivan Shishkin",
+            "year": "1893",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Precipice%20%28Ravine.%20Creek%29%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "In the Dacha (Near Dacha)",
+            "artist": "Ivan Shishkin",
+            "year": "1894",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B0%20%D0%B4%D0%B0%D1%87%D0%B5%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Pine Forest. Unfinished Sketch",
+            "artist": "Ivan Shishkin",
+            "year": "1894",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pine%20Forest.%20Unfinished%20Sketch%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Pines",
+            "artist": "Ivan Shishkin",
+            "year": "1890",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pines%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Deciduous Forest. Etude",
+            "artist": "Ivan Shishkin",
+            "year": "1897",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B8%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%81%201897.jpg"
+        },
+        {
+            "title": "Glade (Forest Glade)",
+            "artist": "Ivan Shishkin",
+            "year": "1897",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Glade%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Pond in the old park",
+            "artist": "Ivan Shishkin",
+            "year": "1898",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D1%83%D0%B4%20%D0%B2%20%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BC%20%D0%BF%D0%B0%D1%80%D0%BA%D0%B5%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
+        },
+        {
+            "title": "Landscape with a Cart. Study",
+            "artist": "Ivan Shishkin",
+            "year": "1860",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%20%D1%81%20%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D0%BE%D0%B9%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29%20%28cropped%29.jpg"
+        },
+        {
+            "title": "At the Edge of the Pine Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1897",
+            "museum": "http://www.wikidata.org/.well-known/genid/ff78c2bd8da09d0af24ad38f20bc1c77",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27At%20the%20Edge%20of%20the%20Pine%20Forest%27%20by%20Ivan%20Shishkin%2C%201898.jpg"
+        },
+        {
+            "title": "Autumn",
+            "artist": "Ivan Shishkin",
+            "year": "1892",
+            "museum": "http://www.wikidata.org/.well-known/genid/3eded6eff2fd180b996bd8a3d2e2951f",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autumn%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Merikyul Landscape",
+            "artist": "Ivan Shishkin",
+            "year": "1894",
+            "museum": "http://www.wikidata.org/.well-known/genid/fe9a087477b9c78ae458fa29adb9013b",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Merikyul%20Landscape%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "At the Edge of a Birch Grove (Bridge to a Lumbering Site)",
+            "artist": "Ivan Shishkin",
+            "year": "1871",
+            "museum": "http://www.wikidata.org/.well-known/genid/296323729f28daaa157be644c07bb6b8",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/At%20the%20Edge%20of%20a%20Birch%20Grove%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "The forest brook",
+            "artist": "Ivan Shishkin",
+            "year": "1885",
+            "museum": "http://www.wikidata.org/.well-known/genid/cf616030aa80b7cb91c3b124f0d71fbf",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%98.%20%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20-%20%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9%20%D1%80%D1%83%D1%87%D0%B5%D0%B9.jpg"
+        },
+        {
+            "title": "The Mill in the Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1896",
+            "museum": "http://www.wikidata.org/.well-known/genid/f655fdb2d55bea09218a8e36799309c4",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mill%20in%20the%20Forest%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Pine Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1872",
+            "museum": "http://www.wikidata.org/.well-known/genid/d699195e5309b163974efb2a5cbf3ccd",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pine%20Forest%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Harvesting",
+            "artist": "Ivan Shishkin",
+            "year": "1850",
+            "museum": "Yelabuga State Museum-Reserve",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Harvesting%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Pine Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1897",
+            "museum": "http://www.wikidata.org/.well-known/genid/19c5abf84e54d8ba85196f12e2ab5fa6",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Ivanovich%20Shishkin%20-%20PINE%20FOREST.jpg"
+        },
+        {
+            "title": "Pine Forest",
+            "artist": "Ivan Shishkin",
+            "year": "1897",
+            "museum": "http://www.wikidata.org/.well-known/genid/19c5abf84e54d8ba85196f12e2ab5fa6",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pine%20Forest%2002%20%28Ivan%20Shishkin%29.jpg"
+        },
+        {
+            "title": "Haystacks. Preobrazhenskoe",
+            "artist": "Ivan Shishkin",
+            "year": "1890",
+            "museum": "http://www.wikidata.org/.well-known/genid/e65178ecc0cdec2ee51b1c51aa0526a2",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%98.%20%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20-%20%D0%A1%D1%82%D0%BE%D0%B3%D0%B0%2C%20%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5.jpg"
+        },
+        {
+            "title": "Sandy Coastline",
+            "artist": "Ivan Shishkin",
+            "year": "1879",
+            "museum": "http://www.wikidata.org/.well-known/genid/3c6c254df5bc18ab9cbb45eee2c78346",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandy%20Coastline%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Rowan Trees in Autumn",
+            "artist": "Ivan Shishkin",
+            "year": "1892",
+            "museum": "http://www.wikidata.org/.well-known/genid/0e34b16420ea0802ec51589496a916db",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%98.%20%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20-%20%D0%A0%D1%8F%D0%B1%D0%B8%D0%BD%D1%8B%20%D0%BE%D1%81%D0%B5%D0%BD%D1%8C%D1%8E.jpg"
+        },
+        {
+            "title": "Forest clearing",
+            "artist": "Ivan Shishkin",
+            "year": "1900",
+            "museum": "http://www.wikidata.org/.well-known/genid/4e4daf62a02b0769c21f955f507288f4",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%98.%20%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20-%20%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9%20%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B8.jpg"
+        },
+        {
+            "title": "Woodland Grove",
+            "artist": "Ivan Shishkin",
+            "year": "1900",
+            "museum": "http://www.wikidata.org/.well-known/genid/cbb0515ecb3f6a6f047407b39c309d8f",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%98.%20%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20-%20%D0%9B%D0%B5%D1%81%D0%BD%D1%8B%D0%B5%20%D1%80%D0%BE%D1%89%D0%B8.jpg"
+        },
+        {
+            "title": "The Brook",
+            "artist": "Ivan Shishkin",
+            "year": "1900",
+            "museum": "http://www.wikidata.org/.well-known/genid/e81d85ad3cb1b6f4b911826570ad94e4",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Brook%20%28Shishkin%29.jpg"
+        },
+        {
+            "title": "Flowers at the fence",
+            "artist": "Ivan Shishkin",
+            "year": "1880",
+            "museum": "Vladimir-Suzdal Museum-Reserve",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A6%D0%B2%D0%B5%D1%82%D1%8B%20%D1%83%20%D0%B7%D0%B0%D0%B1%D0%BE%D1%80%D0%B0.jpg"
+        },
+        {
+            "title": "Pine. Merikul",
+            "artist": "Ivan Shishkin",
+            "year": "1894",
+            "museum": "Vladimir-Suzdal Museum-Reserve",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%2C%20%D0%A1%D0%BE%D1%81%D0%BD%D0%B0.%20%D0%9C%D0%B5%D1%80%D0%B8%D0%BA%D1%8E%D0%BB%D1%8C%2C%201894.jpg"
         }
     ]
 }
