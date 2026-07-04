@@ -771,13 +771,6 @@
             "description": "In this captivating portrait, Lady Elizabeth Montagu is depicted playing the lute, showcasing her intellectual pursuits and artistic inclinations. Painted in 1768, 'Lady with a Lute' exemplifies Kauffman's skill in capturing the subtleties of human expression and her ability to convey a sense of elegance and refinement. As one of the few female artists of her time to achieve widespread recognition, Kauffman's work serves as a testament to the enduring power of art to celebrate women's achievements."
         },
         {
-            "title": "Bala Hisar by Ustad Mansur",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_126.jpg",
-            "year": "1799",
-            "museum": "National Museum of India",
-            "description": "Bala Hisar, a 19th-century painting by Ustad Mansur, is an impressive portrait of the Bala Hisar fort in Kanpur. Once a British colonial stronghold, the fort played a pivotal role in the Indian Rebellion of 1857. The painting showcases the complex history and cultural significance of this structure, which has witnessed numerous battles and events throughout its storied past."
-        },
-        {
             "title": "Kōn by Hasegawa Tŏhaku",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_127.jpg",
             "year": "1876",
@@ -2227,6 +2220,13 @@
             "description": "Tree of Knowledge, No. 2 (1915) is a seminal work by Swedish artist Hilma af Klint, a pioneer of abstract art. This piece showcases af Klint's unique style, blending symbolism and mysticism with geometric forms. As part of her series The Paintings for the Temple, this work demonstrates af Klint's fascination with spiritualism and the occult, influencing modern abstract expressionism. A groundbreaking example of early 20th-century avant-garde art, Tree of Knowledge, No. 2 is a must-have for any serious collection."
         },
         {
+            "title": "Portrait of a Boy at the Spanish Court by Sofonisba Anguissola",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_326.jpg",
+            "year": "1567",
+            "museum": "San Diego Museum of Art",
+            "description": "Portrait of a Boy at the Spanish Court (1567) is a seminal work by Sofonisba Anguissola, an Italian Renaissance painter. This portrait showcases Anguissola's innovative use of chiaroscuro and her ability to capture the subtleties of human emotion. The subject, believed to be the nephew of Queen Elizabeth I, embodies the Renaissance ideal of childhood innocence. As one of the first female artists to gain recognition in a male-dominated field, Anguissola's work paved the way for future generations of women artists. This painting is a testament to her skill and artistry."
+        },
+        {
             "title": "Matsuri Yatai Dragon by Katsushika Hokusai",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_327.jpg",
             "year": "1844",
@@ -2281,6 +2281,20 @@
             "year": "1879",
             "museum": "Museum of Modern Art",
             "description": "Still Life with Compotier (1879) is a seminal work by Paul Cézanne, marking the beginning of his still life series and his transition from traditional techniques to a more expressive, fragmented style. Characterized by bold brushstrokes and vibrant hues, this painting exemplifies C’s innovative approach to capturing everyday subjects and paved the way for modernist art movements."
+        },
+        {
+            "title": "Study of Deer Heads by Rosa Bonheur",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_328.jpg",
+            "year": "1900",
+            "museum": "Historical Collection",
+            "description": "Rosa Bonheur's 'Study of Deer Heads' (1860) is a seminal work showcasing her mastery of animal studies and detailed observation. A pioneering female artist, Bonheur broke conventions in the art world by depicting working animals in everyday settings, offering a glimpse into their lives. This piece, featuring intricately rendered deer heads, exemplifies her dedication to accuracy and realism, cementing her position as one of the most important animal painters of all time."
+        },
+        {
+            "title": "The Golden Knight by Gustav Klimt",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_329.jpg",
+            "year": "1903",
+            "museum": "Aichi Prefectural Museum of Art",
+            "description": "The Golden Knight is a masterpiece of Art Nouveau and Symbolism, created by Gustav Klimt in 1903. This painting showcases the artist's unique style, blending Byzantine mosaics with Expressionist techniques. The work depicts Goldener Krieg (Golden War), a recurring theme in Klimt's oeuvre, where mythological figures engage in an eternal conflict. The Golden Knight exemplifies Klimt's fascination with ancient cultures and his ability to synthesize diverse artistic influences into a distinctive narrative voice."
         }
     ]
 }

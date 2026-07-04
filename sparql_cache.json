@@ -12027,5 +12027,638 @@
             "museum": "Mus\u00e9e d'Orsay",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Table%20de%20cuisine%2C%20par%20Paul%20C%C3%A9zanne%2C%20mus%C3%A9e%20d%27Orsay%2C%20Yorck.jpg"
         }
-    ]
+    ],
+    "Gustav Klimt": [
+        {
+            "title": "Water Serpents II",
+            "artist": "Gustav Klimt",
+            "year": "1904",
+            "museum": "http://www.wikidata.org/.well-known/genid/ab00b092dc9005240ae2730cf39efee0",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Wasserschlangen%20II%20%28Freundinnen%29%20-%201904.jpeg"
+        },
+        {
+            "title": "Portrait of Friedericke Maria Beer",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "Tel Aviv Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Friedericke%20Maria%20Beer.jpg"
+        },
+        {
+            "title": "Portrait of Emilie Fl\u00f6ge",
+            "artist": "Gustav Klimt",
+            "year": "1902",
+            "museum": "Vienna Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Portr%C3%A4t%20Emilie%20Fl%C3%B6ge%20-%201902.jpeg"
+        },
+        {
+            "title": "Schubert at the Piano II",
+            "artist": "Gustav Klimt",
+            "year": "1899",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Schubert-Klimt.jpg"
+        },
+        {
+            "title": "Portrait of Ria Munch III",
+            "artist": "Gustav Klimt",
+            "year": "1917",
+            "museum": "http://www.wikidata.org/.well-known/genid/c99d3e7d47802ca8a60b45625afe1c98",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Bildnis%20Ria%20Munk.jpeg"
+        },
+        {
+            "title": "Goldfish",
+            "artist": "Gustav Klimt",
+            "year": "1902",
+            "museum": "Kunstmuseum Solothurn",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Goldfische%20-%201901-02.jpeg"
+        },
+        {
+            "title": "Apple Tree II",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "Louis Vuitton Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20013.jpg"
+        },
+        {
+            "title": "Apple Tree II",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "http://www.wikidata.org/.well-known/genid/24b1fb7bd17cbe3f471cd1e75546649e",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20013.jpg"
+        },
+        {
+            "title": "The Dancer",
+            "artist": "Gustav Klimt",
+            "year": "1910",
+            "museum": "http://www.wikidata.org/.well-known/genid/b6199bc693c2424e49d97f03063e6afc",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20The%20dancer%2C%201916%20-%201918.jpg"
+        },
+        {
+            "title": "The Dancer",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "http://www.wikidata.org/.well-known/genid/b6199bc693c2424e49d97f03063e6afc",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20The%20dancer%2C%201916%20-%201918.jpg"
+        },
+        {
+            "title": "Expectation",
+            "artist": "Gustav Klimt",
+            "year": "1911",
+            "museum": "MAK \u2013 Museum of Applied Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Expectation.jpg"
+        },
+        {
+            "title": "The Knight",
+            "artist": "Gustav Klimt",
+            "year": "1905",
+            "museum": "MAK \u2013 Museum of Applied Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%2C%20Stoclet%20Frieze%2C%20Goldener%20Ritter.jpg"
+        },
+        {
+            "title": "Fable",
+            "artist": "Gustav Klimt",
+            "year": "1883",
+            "museum": "Vienna Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Fabel.jpg"
+        },
+        {
+            "title": "Auditorium of the old Burgtheater",
+            "artist": "Gustav Klimt",
+            "year": "1888",
+            "museum": "Vienna Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Burgtheater%20Auditorium.jpg"
+        },
+        {
+            "title": "Friends I",
+            "artist": "Gustav Klimt",
+            "year": "1907",
+            "museum": "Belvedere",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Friends%20I%20%28Sisters%29%2C%201907.jpg"
+        },
+        {
+            "title": "Prince William Nii Nortey Dowuona",
+            "artist": "Gustav Klimt",
+            "year": "1898",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20pr%C3%ADncipe%20Guillermo%20Nii%20Nortey%20Dowuona%20-%20Gustav%20Klimt.jpg"
+        },
+        {
+            "title": "Schubert at the Piano I",
+            "artist": "Gustav Klimt",
+            "year": "1896",
+            "museum": "http://www.wikidata.org/.well-known/genid/15c9034dbf053115546c4146130ecf42",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Schubert%20am%20Klavier.jpeg"
+        },
+        {
+            "title": "Water Castle",
+            "artist": "Gustav Klimt",
+            "year": "1908",
+            "museum": "National Gallery Prague",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Water%20Castle%20%28Klimt%29.jpg"
+        },
+        {
+            "title": "Portrait of the pianist Joseph Pembauer",
+            "artist": "Gustav Klimt",
+            "year": "1890",
+            "museum": "Tyrolean State Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Bildnis%20Joseph%20Pembauer.jpeg"
+        },
+        {
+            "title": "Allegory of Sculpture",
+            "artist": "Gustav Klimt",
+            "year": "1889",
+            "museum": "MAK \u2013 Museum of Applied Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Allegory%20of%20Sculpture%20-%201889.jpg"
+        },
+        {
+            "title": "Church in Unterach",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20028.jpg"
+        },
+        {
+            "title": "Birch Forest",
+            "artist": "Gustav Klimt",
+            "year": "1903",
+            "museum": "Belvedere",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20klimt%20birch%20forest100550%29.jpg"
+        },
+        {
+            "title": "Birch Forest",
+            "artist": "Gustav Klimt",
+            "year": "1903",
+            "museum": "Paul G. Allen Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20klimt%20birch%20forest100550%29.jpg"
+        },
+        {
+            "title": "Birch Forest",
+            "artist": "Gustav Klimt",
+            "year": "1903",
+            "museum": "http://www.wikidata.org/.well-known/genid/803263b92f048056ce3270a1e2068da4",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20klimt%20birch%20forest100550%29.jpg"
+        },
+        {
+            "title": "Schoenbrunn landscape",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "http://www.wikidata.org/.well-known/genid/8e7d3459126a9bb3ed32f3ba6f121985",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20071.jpg"
+        },
+        {
+            "title": "Church in Cassone",
+            "artist": "Gustav Klimt",
+            "year": "1913",
+            "museum": "http://www.wikidata.org/.well-known/genid/6b97d87a4ae62bc1d1b41193b0222cb2",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Kirche%20in%20Cassone%20-%201913.jpeg"
+        },
+        {
+            "title": "Farmhouse with birch trees",
+            "artist": "Gustav Klimt",
+            "year": "1900",
+            "museum": "Belvedere",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20004.jpg"
+        },
+        {
+            "title": "The Black Feathered Hat",
+            "artist": "Gustav Klimt",
+            "year": "1910",
+            "museum": "Neue Galerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20019.jpg"
+        },
+        {
+            "title": "The Black Feathered Hat",
+            "artist": "Gustav Klimt",
+            "year": "1910",
+            "museum": "http://www.wikidata.org/.well-known/genid/f735c19fbebd06fb24a299df66dd4879",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20019.jpg"
+        },
+        {
+            "title": "Litzlbergkeller",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "Leopold Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Litzlbergkeller%20Klimt.jpg"
+        },
+        {
+            "title": "Silverfishes (Nixen, Sirens)",
+            "artist": "Gustav Klimt",
+            "year": "1899",
+            "museum": "Bank Austria Kunstforum Wien",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Nixen%20%28Silberfische%29.jpeg"
+        },
+        {
+            "title": "Lady with a Muff",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "http://www.wikidata.org/.well-known/genid/87da276809fd6e272ffbe2e52b5a2064",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20with%20a%20Muff%20Klimt.jpg"
+        },
+        {
+            "title": "Moving Water",
+            "artist": "Gustav Klimt",
+            "year": "1898",
+            "museum": "http://www.wikidata.org/.well-known/genid/3c524203231cf3c18912502f6bc72955",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20005.jpg"
+        },
+        {
+            "title": "Insel im Attersee",
+            "artist": "Gustav Klimt",
+            "year": "1901",
+            "museum": "http://www.wikidata.org/.well-known/genid/e90b04077da76a888bc1600a089a6e5e",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Insel%20im%20Attersee%20%28c.%201901-02%29.jpg"
+        },
+        {
+            "title": "Forester's House in Weissenbach II (Garden)",
+            "artist": "Gustav Klimt",
+            "year": "1914",
+            "museum": "Neue Galerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maison%20foresti%C3%A8re%20%C3%A0%20Weissenbach.jpg"
+        },
+        {
+            "title": "Park at Kammer Castle",
+            "artist": "Gustav Klimt",
+            "year": "1909",
+            "museum": "Neue Galerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Park%20at%20Kammer%20Castle.jpg"
+        },
+        {
+            "title": "Portrait of Marie Henneberg",
+            "artist": "Gustav Klimt",
+            "year": "1910",
+            "museum": "Moritzburg Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Halle%2C%20Kunstmuseum%20Moritzburg%2C%20Gustav%20Klimt%2C%20Portr%C3%A4t%20Marie%20Henneberg.jpg"
+        },
+        {
+            "title": "Portrait of Marie Henneberg",
+            "artist": "Gustav Klimt",
+            "year": "1910",
+            "museum": "Moritzburg Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Bildnis%20Marie%20Henneberg.jpg"
+        },
+        {
+            "title": "Portrait of Mathilde Trau",
+            "artist": "Gustav Klimt",
+            "year": "1893",
+            "museum": "Belvedere",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Mathilde%20Trau.png"
+        },
+        {
+            "title": "Portrait of Fr\u00e4ulein Lieser",
+            "artist": "Gustav Klimt",
+            "year": "1917",
+            "museum": "http://www.wikidata.org/.well-known/genid/0df578467c58c242460959480e813b9d",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20Fr%C3%A4ulein%20Lieser.jpg"
+        },
+        {
+            "title": "Women Friends",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20021.jpg"
+        },
+        {
+            "title": "Portrait of Barbara Fl\u00f6ge",
+            "artist": "Gustav Klimt",
+            "year": "1915",
+            "museum": "http://www.wikidata.org/.well-known/genid/7bb0e9926afa6c827f77e16cbc6f5ccf",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Portrait%20of%20Barbara%20Floge.%20Mother%20of%20Emilie%20Floge%201915.jpg"
+        },
+        {
+            "title": "Ria Munk on her Deathbed",
+            "artist": "Gustav Klimt",
+            "year": "1912",
+            "museum": "http://www.wikidata.org/.well-known/genid/cd30ac1a689f693721667d00b5118090",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Ria%20Munk%20on%20her%20Deathbed.jpg"
+        },
+        {
+            "title": "Farmhouse in Upper Austria'",
+            "artist": "Gustav Klimt",
+            "year": "1911",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Farmhouse%20in%20Upper%20Austria%2C%20by%20Gustav%20Klimt%2C%201911%2C%20oil%20on%20canvas%20-%20California%20Palace%20of%20the%20Legion%20of%20Honor%20-%20San%20Francisco%2C%20CA%20-%20DSC02778.jpg"
+        },
+        {
+            "title": "Girl\u2019s Head Turned Left",
+            "artist": "Gustav Klimt",
+            "year": "1880",
+            "museum": "Tokyo Fuji Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20M%C3%A4dchenkopf%20im%20Profil.jpg"
+        },
+        {
+            "title": "The Large Poplar I",
+            "artist": "Gustav Klimt",
+            "year": "1900",
+            "museum": "Neue Galerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Large%20Poplar%20I%20-%20Gustav%20Klimt.jpg"
+        },
+        {
+            "title": "Pale Face",
+            "artist": "Gustav Klimt",
+            "year": "1903",
+            "museum": "Neue Galerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20painting%2C%20pale%20face%20painting%2C%20pale%20face%20oil%20on%20canvas%20painting%2C%20Blasses%20Gesicht%201907%20painting%2C%20pale%20face%20Gustav%20Klimt%20painting%20in%20Museum%20of%20Art%2C%20University%20of%20Oklahoma.jpg"
+        },
+        {
+            "title": "Portrait of Elisabeth Lederer",
+            "artist": "Gustav Klimt",
+            "year": "1914",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Bildnis%20der%20Elisabeth%20Lederer%20%281914-1916%29.jpg"
+        },
+        {
+            "title": "Forest Slope in Unterach am Attersee",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20Waldabhang%20bei%20Unterach%20am%20Attersee%201916.jpeg"
+        },
+        {
+            "title": "Garden with Roosters",
+            "artist": "Gustav Klimt",
+            "year": "1917",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20034.jpg"
+        },
+        {
+            "title": "Love",
+            "artist": "Gustav Klimt",
+            "year": "1895",
+            "museum": "Vienna Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20025.jpg"
+        },
+        {
+            "title": "The Theatre at Taormina",
+            "artist": "Gustav Klimt",
+            "year": "1887",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20012.jpg"
+        },
+        {
+            "title": "Portrait of an unknown woman",
+            "artist": "Gustav Klimt",
+            "year": "1894",
+            "museum": "Vienna Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20063.jpg"
+        },
+        {
+            "title": "Sappho",
+            "artist": "Gustav Klimt",
+            "year": "1889",
+            "museum": "Vienna Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20064.jpg"
+        },
+        {
+            "title": "Portrait of Helene Klimt",
+            "artist": "Gustav Klimt",
+            "year": "1898",
+            "museum": "Kunstmuseum Bern",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20Portrait%20of%20Helene%20Klimt%20%28his%20niece%29.jpg"
+        },
+        {
+            "title": "Portrait of Rose von Rosthorn-Freidmann",
+            "artist": "Gustav Klimt",
+            "year": "1900",
+            "museum": "http://www.wikidata.org/.well-known/genid/d44a6a758d150987ce0f4027ea47272b",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Bildnis%20Rose%20von%20Rosthorn-Friedmann.jpg"
+        },
+        {
+            "title": "Irrlichter",
+            "artist": "Gustav Klimt",
+            "year": "1903",
+            "museum": "http://www.wikidata.org/.well-known/genid/dcd69f0e4adb9668874fd9653f1841b8",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Irrllichter%20Klimt.jpg"
+        },
+        {
+            "title": "Portrait of Paula Zuckerkandl",
+            "artist": "Gustav Klimt",
+            "year": "1910",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20Paula%20Zuckerkandl%201911-12.jpg"
+        },
+        {
+            "title": "Portrait of Gertrud L\u00f6w",
+            "artist": "Gustav Klimt",
+            "year": "1902",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Gerta%20Loew%20-%201902.jpeg"
+        },
+        {
+            "title": "Beech Grove II",
+            "artist": "Gustav Klimt",
+            "year": "1903",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Buchenwald%20II%20%28Buche%29.png"
+        },
+        {
+            "title": "The Music II",
+            "artist": "Gustav Klimt",
+            "year": "1898",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Die%20Musik%20II%2C%201898.jpg"
+        },
+        {
+            "title": "Head Study of a Girl from Hana",
+            "artist": "Gustav Klimt",
+            "year": "1883",
+            "museum": "Leopold Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Studienkopf%20einer%20Hannakin%2C%20um%201883%2C%20Inv.%204143.jpg"
+        },
+        {
+            "title": "Castle Kammer at Attersee IV",
+            "artist": "Gustav Klimt",
+            "year": "1910",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Schloss%20Kammer%20on%20the%20Attersee%20IV.jpg"
+        },
+        {
+            "title": "Castle Kammer at Attersee IV",
+            "artist": "Gustav Klimt",
+            "year": "1910",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Schloss%20Kammer%20on%20the%20Attersee%20IV%2C%201910.jpg"
+        },
+        {
+            "title": "Castle Kammer at Attersee II",
+            "artist": "Gustav Klimt",
+            "year": "1909",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Schloss%20Kammer%20on%20the%20Attersee%2C%20II%2C%201909.jpg"
+        },
+        {
+            "title": "Pine Forest II",
+            "artist": "Gustav Klimt",
+            "year": "1901",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pine%20Forest%20II%201901%20Klimt.jpg"
+        },
+        {
+            "title": "Seated Male Nude",
+            "artist": "Gustav Klimt",
+            "year": "1879",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20Sitzender%20m%C3%A4nnlicher%20Akt%201879-12-05.jpg"
+        },
+        {
+            "title": "The fur collar",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "unknown",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Der%20Pelzkragen.jpg"
+        },
+        {
+            "title": "Two Girls with an Oleander",
+            "artist": "Gustav Klimt",
+            "year": "1890",
+            "museum": "Wadsworth Atheneum Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20Girls%20with%20an%20Oleander%20Bush%2C%20by%20Gustav%20Klimt%2C%20c.%201890-1892%2C%20oil%20on%20canvas%20-%20California%20Palace%20of%20the%20Legion%20of%20Honor%20-%20San%20Francisco%2C%20CA%20-%20DSC02760.jpg"
+        },
+        {
+            "title": "The Polecat Fur",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "anonymous",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20The%20Polecat%20Fur%2C%201916.jpg"
+        },
+        {
+            "title": "The Polecat Fur",
+            "artist": "Gustav Klimt",
+            "year": "1916",
+            "museum": "http://www.wikidata.org/.well-known/genid/28361d2d6efef4ab35e668294bbf6f32",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20The%20Polecat%20Fur%2C%201916.jpg"
+        },
+        {
+            "title": "From the Realm of the Death",
+            "artist": "Gustav Klimt",
+            "year": "1903",
+            "museum": "unknown",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Procesi%C3%B3n%20de%20los%20muertos%20-%20Gustav%20Klimt%20-%20destruido%20en%201945.jpg"
+        },
+        {
+            "title": "Dana\u00eb",
+            "artist": "Gustav Klimt",
+            "year": "1907",
+            "museum": "Leopold Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20010.jpg"
+        },
+        {
+            "title": "Judith II",
+            "artist": "Gustav Klimt",
+            "year": "1909",
+            "museum": "Ca' Pesaro",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Gustav%20Klimt%20-%20Giuditta%20II%20%28Judith%20II%29%20-%20Museo%20d%27arte%20moderna.jpg"
+        },
+        {
+            "title": "Judith II",
+            "artist": "Gustav Klimt",
+            "year": "1909",
+            "museum": "Galleria Internazionale d'Arte Moderna",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Gustav%20Klimt%20-%20Giuditta%20II%20%28Judith%20II%29%20-%20Museo%20d%27arte%20moderna.jpg"
+        },
+        {
+            "title": "Judith I",
+            "artist": "Gustav Klimt",
+            "year": "1901",
+            "museum": "Belvedere",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%201%20%28cropped%29.jpg"
+        },
+        {
+            "title": "The Hydra",
+            "artist": "Gustav Klimt",
+            "year": "1906",
+            "museum": "Belvedere",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20067.jpg"
+        },
+        {
+            "title": "Litzlberg on the Attersee",
+            "artist": "Gustav Klimt",
+            "year": "1914",
+            "museum": "http://www.wikidata.org/.well-known/genid/9c27fc1a5fe3f7e194e55b5680294c9c",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Litzlberg%20am%20Attersee.jpg"
+        },
+        {
+            "title": "Fulfillment",
+            "artist": "Gustav Klimt",
+            "year": "1907",
+            "museum": "MAK \u2013 Museum of Applied Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/KlimtDieUmarmung.jpg"
+        },
+        {
+            "title": "Nuda Veritas",
+            "artist": "Gustav Klimt",
+            "year": "1899",
+            "museum": "Austrian Theatre Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Nuda%20Veritas%20-%201899%20%28no%20frame%29.jpeg"
+        },
+        {
+            "title": "Hope I",
+            "artist": "Gustav Klimt",
+            "year": "1903",
+            "museum": "National Gallery of Canada",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Hoffnung%20I%20-%201903.jpeg"
+        },
+        {
+            "title": "Adele Bloch-Bauer II",
+            "artist": "Gustav Klimt",
+            "year": "1912",
+            "museum": "http://www.wikidata.org/.well-known/genid/5cb94a9cbe24b9b1ddcd5d5b81fe206a",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20047.jpg"
+        },
+        {
+            "title": "The Maiden",
+            "artist": "Gustav Klimt",
+            "year": "1913",
+            "museum": "National Gallery Prague",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/KlimtPanna.jpg"
+        },
+        {
+            "title": "Apple Tree I",
+            "artist": "Gustav Klimt",
+            "year": "1912",
+            "museum": "http://www.wikidata.org/.well-known/genid/1908ee9fbb1766eff79ee0f453ecd2ae",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt-Apfelbaum%20I.jpg"
+        },
+        {
+            "title": "Pallas Athena",
+            "artist": "Gustav Klimt",
+            "year": "1899",
+            "museum": "Vienna Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Pallas%20Athene.jpeg"
+        },
+        {
+            "title": "Medicine",
+            "artist": "Gustav Klimt",
+            "year": "1907",
+            "museum": "University of Vienna",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Fakult%C3%A4tsbild%20%E2%80%9EDie%20Medizin%E2%80%9C.JPG"
+        },
+        {
+            "title": "The Quattrocento in Rome and in Venice",
+            "artist": "Gustav Klimt",
+            "year": "1850",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt-QuattrocentoRomeVenice2.jpg"
+        },
+        {
+            "title": "Pear Tree",
+            "artist": "Gustav Klimt",
+            "year": "1903",
+            "museum": "Busch\u2013Reisinger Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Pear%20Tree%20-%20BR66.4%20-%20Busch%E2%80%93Reisinger%20Museum.jpg"
+        },
+        {
+            "title": "Pear Tree",
+            "artist": "Gustav Klimt",
+            "year": "1903",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Pear%20Tree%20-%20BR66.4%20-%20Busch%E2%80%93Reisinger%20Museum.jpg"
+        },
+        {
+            "title": "Death and Life",
+            "artist": "Gustav Klimt",
+            "year": "1910",
+            "museum": "Leopold Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Death%20and%20Life%20-%20Google%20Art%20Project.jpg"
+        }
+    ],
+    "Kam\u0101l ud-D\u012bn Behz\u0101d": []
 }
