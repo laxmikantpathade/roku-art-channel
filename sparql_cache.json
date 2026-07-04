@@ -7835,13 +7835,6 @@
     ],
     "Hilma af Klint": [
         {
-            "title": "The Ten Largest, No. 9, Old Age",
-            "artist": "Hilma af Klint",
-            "year": "1907",
-            "museum": "Hilma af Klint Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%209%20-%201907.jpg"
-        },
-        {
             "title": "The Ten Largest, No. 2, Childhood",
             "artist": "Hilma af Klint",
             "year": "1907",
@@ -14340,6 +14333,477 @@
             "year": "1942",
             "museum": "\"degenerate art\" collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20860.jpg"
+        }
+    ],
+    "Ilya Repin": [
+        {
+            "title": "Portrait of Tatiana Lvovna Tolstaya, daughter of the writer",
+            "artist": "Ilya Repin",
+            "year": "1893",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/T.L.Tolstaya%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of Yefim Vasilyevich Repin, the artist's father",
+            "artist": "Ilya Repin",
+            "year": "1879",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yefim%20Vasilyevich%20by%20Repin.jpg"
+        },
+        {
+            "title": "A peasant with an evil eye.",
+            "artist": "Ilya Repin",
+            "year": "1877",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Radov%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of Alexander Borodin",
+            "artist": "Ilya Repin",
+            "year": "1888",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Borodin%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of Grand Duke Vladimir Alexandrovich",
+            "artist": "Ilya Repin",
+            "year": "1903",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vladimir%20Aleksandrovich%20by%20Repin%20%28GRM%29.jpg"
+        },
+        {
+            "title": "Portrait of member of State Council and senator Fyodor Gustavovich Turner.",
+            "artist": "Ilya Repin",
+            "year": "1901",
+            "museum": "http://www.wikidata.org/.well-known/genid/55d86a7307a5654df520481f94b73880",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of Ivan Ivanovich Tolstoy",
+            "artist": "Ilya Repin",
+            "year": "1899",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Tolstoy%20by%20Repin.jpg"
+        },
+        {
+            "title": "Sadko in the Underwater Kingdom.",
+            "artist": "Ilya Repin",
+            "year": "1875",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sadko%20sketch%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of the physiologist Ivan Petrovich Pavlov",
+            "artist": "Ilya Repin",
+            "year": "1924",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/I.P.Pavlov%20by%20Repin.jpg"
+        },
+        {
+            "title": "The Storm on the Volga",
+            "artist": "Ilya Repin",
+            "year": "1870",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Volga%20repin.JPG"
+        },
+        {
+            "title": "The Blind Bandura Player",
+            "artist": "Ilya Repin",
+            "year": "1918",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%BB%D1%8C%D1%8F%20%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%20-%20%D0%A1%D0%BB%D0%B5%D0%BF%D0%BE%D0%B9%20%D0%B1%D0%B0%D0%BD%D0%B4%D1%83%D1%80%D0%B8%D1%81%D1%82%20%281918%29.jpg"
+        },
+        {
+            "title": "Portrait of general and statesman Mikhail Ivanovich Dragomirov.",
+            "artist": "Ilya Repin",
+            "year": "1889",
+            "museum": "State Historical Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragomirov%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of Maxim Gorky",
+            "artist": "Ilya Repin",
+            "year": "1899",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gorki%20by%20Repin.jpg"
+        },
+        {
+            "title": "Get Thee Behind Me, Satan",
+            "artist": "Ilya Repin",
+            "year": "1895",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Repin%20-%20Get%20Thee%20Behind%20Me%2C%20Satan%20-%201895.png"
+        },
+        {
+            "title": "Portrait of Vasily Repin",
+            "artist": "Ilya Repin",
+            "year": "1800",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1860%D0%BA%D0%BE%D0%BD%D0%B5%D1%86%201870%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%92.%D0%95.%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%D0%B0.JPG"
+        },
+        {
+            "title": "Portrait of the painter Alexey Petrovich Bogoliubov",
+            "artist": "Ilya Repin",
+            "year": "1876",
+            "museum": "Radishchev Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bogolubov%20by%20Repin%201876.jpg"
+        },
+        {
+            "title": "Boy at the garden wall. Montmartre",
+            "artist": "Ilya Repin",
+            "year": "1876",
+            "museum": "Radishchev Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1876%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D1%81%D0%BA%D0%B8%D0%B9%D0%AD%D1%82%D1%8E%D0%B4%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD.jpg"
+        },
+        {
+            "title": "Portrait of Ivan Shishkin",
+            "artist": "Ilya Repin",
+            "year": "1876",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1876%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%98.%D0%98.%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%D0%B0.JPG"
+        },
+        {
+            "title": "Delegation of voigts before Alexander III",
+            "artist": "Ilya Repin",
+            "year": "1884",
+            "museum": "Museum of Art in \u0141\u00f3d\u017a",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Riepin%20Delegation.jpg"
+        },
+        {
+            "title": "Portr\u00e4t des Vladimir Vasilievich Stasov, russischer Kunsthistoriker &#32;und&#32; Musikkritiker",
+            "artist": "Ilya Repin",
+            "year": "1900",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilja%20Jefimowitsch%20Repin%20008.jpg"
+        },
+        {
+            "title": "Maria Andreyeva",
+            "artist": "Ilya Repin",
+            "year": "1905",
+            "museum": "Belarusian National Arts Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Andreyeva%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of an Italian woman",
+            "artist": "Ilya Repin",
+            "year": "1870",
+            "museum": "Irkutsk Regional Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Italian%20woman%20by%20Repin.jpg"
+        },
+        {
+            "title": "Black Woman",
+            "artist": "Ilya Repin",
+            "year": "1876",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20femme%20-%20Ilia%20R%C3%A9pine%20-%20Mus%C3%A9e%20russe.jpg"
+        },
+        {
+            "title": "Portrait of Poliksena Stepanovna Stasova",
+            "artist": "Ilya Repin",
+            "year": "1879",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stasova%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of actress Pelageya Antipevna Strepetova in the role of Elizabeth",
+            "artist": "Ilya Repin",
+            "year": "1881",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Strepetova%20as%20Elizabeth%20by%20Repin.jpg"
+        },
+        {
+            "title": "Alexandra Molas",
+            "artist": "Ilya Repin",
+            "year": "1883",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%BB%D1%8C%D1%8F%20%D0%95.%20%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D1%8B%20%D0%90.%20%D0%9D.%20%D0%9C%D0%BE%D0%BB%D0%B0%D1%81%2C%201883.jpg"
+        },
+        {
+            "title": "Portrait of N. V. Stasova",
+            "artist": "Ilya Repin",
+            "year": "1884",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nadezhda%20Stasova%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of V. I. Repina",
+            "artist": "Ilya Repin",
+            "year": "1886",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vera%20Repina%20by%20Repin%20%281886%29.jpg"
+        },
+        {
+            "title": "Portrait of writer, dramatist, poetess and translator Tatiana Lvovna Shchepkina-Kupernik",
+            "artist": "Ilya Repin",
+            "year": "1914",
+            "museum": "Fine Arts Museum Kharkiv",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Schepkina-Kupernik%20by%20Repin.jpg"
+        },
+        {
+            "title": "Family Portrait: The Artist's Daughter, Tatyana, and her familiy\"",
+            "artist": "Ilya Repin",
+            "year": "1905",
+            "museum": "http://www.wikidata.org/.well-known/genid/5845976d78dee2d762a7cb7fd6707734",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Efimovich%20Repin%20Family%20Portrait%201905.jpg"
+        },
+        {
+            "title": "Portrait of Sofya Dragomirova",
+            "artist": "Ilya Repin",
+            "year": "1889",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophia%20Dragomirova%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of a Neapolitan woman",
+            "artist": "Ilya Repin",
+            "year": "1894",
+            "museum": "http://www.wikidata.org/.well-known/genid/02509ea754fb97ef8ab86cb961accccf",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Neapolitan%20woman%20%281894%29%20by%20Ilya%20Repin%20-%20%D0%9D%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B0%D0%BD%D0%BA%D0%B0.jpg"
+        },
+        {
+            "title": "Maria tenisheva",
+            "artist": "Ilya Repin",
+            "year": "1893",
+            "museum": "Belarusian National Arts Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Tenisheva%20by%20I.Repin%20%281892-1893%2C%20Belarus%20museum%29.jpg"
+        },
+        {
+            "title": "Portrait of Countess Natalia Petrowna Golovina",
+            "artist": "Ilya Repin",
+            "year": "1896",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%BB%D1%8C%D1%8F%20%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BD%D0%B8%20%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D0%B8%20%D0%9F.%20%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%BE%D0%B9.jpg"
+        },
+        {
+            "title": "Portrait of Lyudmila Shestakova",
+            "artist": "Ilya Repin",
+            "year": "1899",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shestakova%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of Vera Shevtsova",
+            "artist": "Ilya Repin",
+            "year": "1869",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%BB%D1%8C%D1%8F%20%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%92%D0%B5%D1%80%D1%8B%20%D0%90.%20%D0%A8%D0%B5%D0%B2%D1%86%D0%BE%D0%B2%D0%BE%D0%B9.jpg"
+        },
+        {
+            "title": "Portrait of Vera Repina",
+            "artist": "Ilya Repin",
+            "year": "1876",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Repin%20Vera%20Repina%2C%20the%20artists%20wife.jpg"
+        },
+        {
+            "title": "Portrait of the artist's wife, Vera Repin\"",
+            "artist": "Ilya Repin",
+            "year": "1878",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%BB%D1%8C%D1%8F%20%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%B6%D0%B5%D0%BD%D1%8B%20%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0%2C%20%D0%92%D0%B5%D1%80%D0%B0%20%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%D0%B0.jpg"
+        },
+        {
+            "title": "A.B. Nentsel",
+            "artist": "Ilya Repin",
+            "year": "1908",
+            "museum": "Far Eastern Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A.B.%20Nentsel%20by%20I.%20Repin%20%281908%2C%20Khabarovsk%29.jpg"
+        },
+        {
+            "title": "Portrait of the writer Aleksey Konstantinovich Tolstoy",
+            "artist": "Ilya Repin",
+            "year": "1879",
+            "museum": "State Literature Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A.K.Tolstoy%20by%20Repin.jpg"
+        },
+        {
+            "title": "Selbstportr\u00e4t",
+            "artist": "Ilya Repin",
+            "year": "1878",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A002Self-portrait.%201878.jpg"
+        },
+        {
+            "title": "Portrait of poet and slavophile Ivan Sergeyevich Aksakov",
+            "artist": "Ilya Repin",
+            "year": "1878",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aksakov%20by%20Repin.jpg"
+        },
+        {
+            "title": "Equestrian portrait of Alexander II",
+            "artist": "Ilya Repin",
+            "year": "1913",
+            "museum": "V. V. Vereshchagin Mykolaiv Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20II%20by%20I.Repin%20%281913%29.jpg"
+        },
+        {
+            "title": "Alexey Antipov",
+            "artist": "Ilya Repin",
+            "year": "1884",
+            "museum": "Yaroslavl Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexey%20Antipov%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of writer Leonid Nikolayevich Andreyev.",
+            "artist": "Ilya Repin",
+            "year": "1904",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Andreyev%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of writer Leonid Nikolayevich Andreyev on a yacht",
+            "artist": "Ilya Repin",
+            "year": "1912",
+            "museum": "Art Gallery of Tver",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Andreyev%20by%20Repin%201912.jpg"
+        },
+        {
+            "title": "Portrait of writer Leonid Nikolayevich Andreyev (Summer break).",
+            "artist": "Ilya Repin",
+            "year": "1905",
+            "museum": "Omsk District Museum of Visual Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Andreyev%20by%20Repin%201905.jpg"
+        },
+        {
+            "title": "Andrey Alexandrovich Bobrinskiy (1844 \u2013 1930)",
+            "artist": "Ilya Repin",
+            "year": "1903",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrey%20Alexandrovich%20Bobrinskiy%20by%20Repin.png"
+        },
+        {
+            "title": "Portrait of the sculptor Mark Matveevich Antokolski.",
+            "artist": "Ilya Repin",
+            "year": "1914",
+            "museum": "Vologodskai\ufe20a\ufe21 oblastnai\ufe20a\ufe21 kartinnai\ufe20a\ufe21 galerei\ufe20a\ufe21",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Antokolski%20by%20Repin%201914.jpg"
+        },
+        {
+            "title": "Portrait of Elena Pavlovna Tarkhanova-Antokolskaya",
+            "artist": "Ilya Repin",
+            "year": "1893",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Antokolskaya%20by%20Repin.jpg"
+        },
+        {
+            "title": "Celebration of the Manifesto of October 17, 1905",
+            "artist": "Ilya Repin",
+            "year": "1906",
+            "museum": "State Central Museum of the Contemporary Russian History",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Demonstration%20on%20October%2017%2C%201905%20by%20Ilya%20Repin%20%28adumbration%201906%29.jpg"
+        },
+        {
+            "title": "A Parisian Cafe",
+            "artist": "Ilya Repin",
+            "year": "1875",
+            "museum": "Museum of Avant-Garde Mastery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Parisian%20Cafe%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portait of Nordman-Severova",
+            "artist": "Ilya Repin",
+            "year": "1903",
+            "museum": "Bashkir State Art Museum (Nesterov Museum)",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Repin%20I.E.%20Portait%20of%20Nordman%201903.png"
+        },
+        {
+            "title": "Bahaliy",
+            "artist": "Ilya Repin",
+            "year": "1906",
+            "museum": "M. F. Sumtsov Kharkiv Historical Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bahaliy%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of music editor and patron Mitrofan Petrovich Belyayev",
+            "artist": "Ilya Repin",
+            "year": "1886",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Belyayev%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of the neurophysiologist and psychiatrist Vladimir Mikhailovich Bekhterev",
+            "artist": "Ilya Repin",
+            "year": "1913",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bekhterev%20by%20Repin.jpg"
+        },
+        {
+            "title": "Pavel Blaramberg",
+            "artist": "Ilya Repin",
+            "year": "1884",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Blaramberg%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of member of State Council count Alexander Alekseyevich Bobrinsky.",
+            "artist": "Ilya Repin",
+            "year": "1902",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bobrinsky%20by%20Repin.jpg"
+        },
+        {
+            "title": "Portrait of the painter Isaak Izrailevich Brodsky",
+            "artist": "Ilya Repin",
+            "year": "1913",
+            "museum": "http://www.wikidata.org/.well-known/genid/6d32678f400bc453db7e21c461c09abc",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Brodsky%20by%20Repin.jpg"
+        },
+        {
+            "title": "Street of the Snakes in Seville. Study",
+            "artist": "Ilya Repin",
+            "year": "1883",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Calle%20de%20las%20Sierpes%20by%20Repin.jpg"
+        },
+        {
+            "title": "Rafail Levitsky",
+            "artist": "Ilya Repin",
+            "year": "1878",
+            "museum": "Ateneum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Levitsky%20by%20Repin.jpg"
+        },
+        {
+            "title": "Emilia Vasilievna Borisova",
+            "artist": "Ilya Repin",
+            "year": "1881",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Emilia%20Vasilievna%20Borisova%20%28by%20Ilya%20Efimovich%20Repin%29.jpg"
+        },
+        {
+            "title": "Negress",
+            "artist": "Ilya Repin",
+            "year": "1907",
+            "museum": "Nizhny Novgorod State Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B5%D0%B3%D1%80%D0%B8%D1%82%D1%8F%D0%BD%D0%BA%D0%B0%20%28%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%2C%201907%29.jpg"
+        },
+        {
+            "title": "Timid man",
+            "artist": "Ilya Repin",
+            "year": "1877",
+            "museum": "Nizhny Novgorod State Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Repin%20timid%20boorman.jpg"
+        },
+        {
+            "title": "Portrait of S.I. Menter",
+            "artist": "Ilya Repin",
+            "year": "1887",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1887%20Repin%20Portrait%20S.I.%20Menter%20anagoria.JPG"
+        },
+        {
+            "title": "Cossacks on the Black Sea. Zaporozhian Cossacks in a \"chaika\" boat during a storm",
+            "artist": "Ilya Repin",
+            "year": "1908",
+            "museum": "http://www.wikidata.org/.well-known/genid/34628a576f897f580ff866686160a667",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Repin-Cossacks%20on%20the%20Black%20Sea%20%281908%29.jpg"
+        },
+        {
+            "title": "Portrait of An Archdeacon",
+            "artist": "Ilya Repin",
+            "year": "1877",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Archdeacon%20by%20Repin.jpg"
         }
     ]
 }

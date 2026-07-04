@@ -834,6 +834,34 @@
             "description": "Painted in 1857, The Lake is a beautiful example of Duncanson's work during his time as an artist in the United States. This piece showcases his ability to capture the natural beauty of the American landscape. Created while Duncanson was living and working in Detroit, Michigan, the painting is a representation of the serene and peaceful atmosphere that surrounded him. The Lake is considered one of Duncanson's most famous works and has been widely admired for its captivating scenery and skillful brushwork."
         },
         {
+            "title": "The Blue Danube by Félix Émile Taunay",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_135.jpg",
+            "year": "1887",
+            "museum": "Private Collection",
+            "description": "Created in 1887, The Blue Danube is a captivating depiction of the Danube River. This stunning work showcases Taunay's mastery of light and color, capturing the serene beauty of the river at dawn. As one of the most iconic paintings by the Brazilian artist, it has had a profound impact on the development of modern art in Brazil, influencing generations of artists to come."
+        },
+        {
+            "title": "The Beehive by Ivan Shishkin",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_136.jpg",
+            "year": "1896",
+            "museum": "Tretyakov Gallery",
+            "description": "In The Beehive, a sprawling wheat field stretches towards the horizon, with a distant beehive perched atop a solitary tree. This painting showcases Shishkin's mastery of capturing rural landscapes, evoking a sense of serenity and connection to nature. Created during the late 19th century, the work reflects the artist's fascination with the natural world and his ability to convey a deep understanding of the Russian countryside."
+        },
+        {
+            "title": "Aurelia by Gao Fenghan",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_137.jpg",
+            "year": "1895",
+            "museum": "",
+            "description": "Aurelia is a captivating portrait of a young woman, showcasing Gao Fenghan's early mastery of Western-style painting. Born into a family of artists, Gao was trained in both traditional Chinese and Western techniques, which he seamlessly integrated into his work. Aurelia, created during the late Qing dynasty, exemplifies Gao's ability to blend Eastern and Western artistic influences, reflecting the cultural exchange and innovation that characterized this period in Chinese history."
+        },
+        {
+            "title": "Peach Blossom by Shen Zhou",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_138.jpg",
+            "year": "16th century",
+            "museum": "National Palace Museum, Taipei",
+            "description": "During the Ming dynasty, peach blossoms symbolized the fleeting nature of life and the inevitability of decay. This iconic painting by Shen Zhou, a renowned Chinese landscape artist, captures the delicate beauty of the peach blossom tree against a backdrop of serene mountains and misty skies. The work's tranquil atmosphere and meticulous attention to detail reflect the artist's mastery of traditional Chinese painting techniques, earning it a revered place in the history of Chinese art."
+        },
+        {
             "title": "The Return of the Prodigal Son by Rembrandt van Rijn",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_139.jpg",
             "year": "1656",
@@ -846,13 +874,6 @@
             "year": "1880s",
             "museum": "National Gallery of India",
             "description": "This enigmatic depiction of a group of blind men attempting to comprehend an elephant through touch, showcases Bishandas' unique blend of realism and symbolism. Created in the early 1880s, the painting offers a poignant commentary on the limitations of perception and the power of imagination."
-        },
-        {
-            "title": "Seonbu by Jeong Seon",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_141.jpg",
-            "year": "1516",
-            "museum": "National Museum of Korea",
-            "description": "Seonbu is a large, intricate painting created by Jeong Seon during the late Joseon Dynasty. The work features a massive tree with branches that stretch across the composition, symbolizing longevity and the connection between heaven and earth. Depicted in vivid detail are various mythical creatures and deities, showcasing Jeong Seon's mastery of traditional Korean art forms such as seonbu and bunjin. This monumental painting not only reflects the artistic values of its time but also continues to inspire generations with its profound beauty and mystique."
         },
         {
             "title": "La Sagrada Familia by Joaquín Clausell",
@@ -2337,6 +2358,20 @@
             "year": "1902",
             "museum": "Tretyakov Gallery",
             "description": "The Demon Downcast (1902) is a seminal work by Russian artist Mikhail Vrubel, showcasing his unique blend of symbolism and mysticism. This painting exemplifies the Art Nouveau movement in Russia, featuring intricate patterns and ornate details. The subject's eerie yet captivating demeanor has been interpreted as a representation of the Russian soul. As one of Vrubel's most celebrated works, it holds significant cultural importance in Russian art history, making it an ideal addition to your premium catalog."
+        },
+        {
+            "title": "Reading girl by Ilya Repin",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_339.jpg",
+            "year": "1876",
+            "museum": "Tatarstan State Museum of Fine Arts",
+            "description": "Reading Girl is a masterpiece by Russian artist Ilya Repin, created in 1876. The painting depicts a young girl reading a book, sitting on a stool with her head bent down, surrounded by the warm glow of a candle. This work showcases Repin's ability to capture the intimate moments of everyday life, highlighting the significance of education and personal growth. As a key piece of Russian Realism, it exemplifies the artist's use of light and shadow to convey emotion and atmosphere."
+        },
+        {
+            "title": "The Ten Largest, No. 9, Old Age by Hilma af Klint",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_340.jpg",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "description": "The Ten Largest, No. 9, Old Age (1907) is a seminal work by Swedish artist Hilma af Klint, considered one of the first abstract artists. This painting marks the beginning of her 'Paintings for Theosophy' series, exploring spiritual themes and mysticism through vibrant, geometric forms. Featuring intricate patterns and bold colors, the piece showcases af Klint's unique style, predating her more famous work by nearly two decades. Its significance extends beyond its artistic innovation to its cultural and historical context, reflecting the artist's interest in Theosophy and the early 20th-century avant-garde movement."
         }
     ]
 }
