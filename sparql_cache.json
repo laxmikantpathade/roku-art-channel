@@ -10021,13 +10021,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20van%20Delft%20-%20Jonge%20vrouw%20staande%20bij%20een%20virginaal%20%28ca.%201670-72%29.jpg"
         },
         {
-            "title": "Mistress and Maid",
-            "artist": "Johannes Vermeer",
-            "year": "1666",
-            "museum": "The Frick Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vermeer%20Lady%20Maidservant%20Holding%20Letter.jpg"
-        },
-        {
             "title": "The Guitar Player",
             "artist": "Johannes Vermeer",
             "year": "1672",
@@ -15436,6 +15429,645 @@
             "year": "1879",
             "museum": "http://www.wikidata.org/.well-known/genid/a298e65a8335289e71935db5a290edc1",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Dolce%20Far%20Niente%20%281879%29.jpg"
+        }
+    ],
+    "Titian": [
+        {
+            "title": "Tarquin and Lucretia",
+            "artist": "Titian",
+            "year": "1570",
+            "museum": "Mus\u00e9e des Beaux-Arts de Bordeaux",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titien%20-%20Tarquin%20et%20Lucr%C3%A8ce%2002.jpg"
+        },
+        {
+            "title": "Portrait of Charles V with a Dog",
+            "artist": "Titian",
+            "year": "1533",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20081.jpg"
+        },
+        {
+            "title": "Portrait of Pietro Aretino",
+            "artist": "Titian",
+            "year": "1537",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Pietro%20Aretino%20%28by%20Titian%29%20-%20The%20Frick%20Collection.jpg"
+        },
+        {
+            "title": "Portrait of Cardinal Filippo Archinto",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippo%20Archinto%20%28born%20about%201500%2C%20died%201558%29%2C%20Archbishop%20of%20Milan%20MET%20DT5147.jpg"
+        },
+        {
+            "title": "Venus and the Lute Player",
+            "artist": "Titian",
+            "year": "1567",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%20e%20bottega%20-%20Venere%20e%20il%20Suonatore%20di%20liuto%20%28MET-Museum%29.jpg"
+        },
+        {
+            "title": "Boy with Dogs in a Landscape",
+            "artist": "Titian",
+            "year": "1570",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titiaan%20-%20Boy%20with%20Dogs%20in%20a%20Landscape%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Nymph and Shepherd",
+            "artist": "Titian",
+            "year": "1570",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%2C%20called%20Titian%20-%20Nymph%20and%20Shepherd%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Girl in a Fur",
+            "artist": "Titian",
+            "year": "1535",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%2Ccalled%20Titian%20-%20Girl%20in%20a%20Fur%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "John Frederick, Elector of Saxony",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%2C%20gen.%20Tizian%2C%20Kunsthistorisches%20Museum%20Wien%20-%20Kurf%C3%BCrst%20Johann%20Friedrich%20von%20Sachsen%20-%20GG%20100%20-%20Kunsthistorisches%20Museum.jpg"
+        },
+        {
+            "title": "Portrait of Alfonso d'Avalos, Marchese del Vasto, in Armor with a Page",
+            "artist": "Titian",
+            "year": "1533",
+            "museum": "J. Paul Getty Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%28Tiziano%20Vecellio%29%20%28Italian%29%20-%20Portrait%20of%20Alfonso%20d%27Avalos%2C%20Marquis%20of%20Vasto%2C%20in%20Armor%20with%20a%20Page%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Vincenzo Cappello",
+            "artist": "Titian",
+            "year": "1540",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Vincenzo%20Cappello.jpg"
+        },
+        {
+            "title": "Vincenzo Cappello",
+            "artist": "Titian",
+            "year": "1540",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Vincenzo%20Cappello.jpg"
+        },
+        {
+            "title": "Doge Andrea Gritti",
+            "artist": "Titian",
+            "year": "1548",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20del%20Doge%20Andrea%20Gritti%20-%20Tiziano%20059.jpg"
+        },
+        {
+            "title": "Doge Andrea Gritti",
+            "artist": "Titian",
+            "year": "1548",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20del%20Doge%20Andrea%20Gritti%20-%20Tiziano%20059.jpg"
+        },
+        {
+            "title": "Doge Andrea Gritti",
+            "artist": "Titian",
+            "year": "1548",
+            "museum": "Collection Count Czernin von Chudenic",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20del%20Doge%20Andrea%20Gritti%20-%20Tiziano%20059.jpg"
+        },
+        {
+            "title": "Woman Holding an Apple",
+            "artist": "Titian",
+            "year": "1555",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Woman%20Holding%20an%20Apple.jpg"
+        },
+        {
+            "title": "Woman Holding an Apple",
+            "artist": "Titian",
+            "year": "1555",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Woman%20Holding%20an%20Apple.jpg"
+        },
+        {
+            "title": "The Penitent Magdalene",
+            "artist": "Titian",
+            "year": "1560",
+            "museum": "J. Paul Getty Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%28Tiziano%20Vecellio%29%20%28Italian%20-%20The%20Penitent%20Magdalene%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of a Friend of Titian, Marco Mantova Benevides",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Fine Arts Museums of San Francisco",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20a%20Friend%20of%20Titian%20%28Marco%20Mantova%20Benavides%29%2C%20ca.%201550.jpg"
+        },
+        {
+            "title": "A monk with a book",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "National Gallery of Victoria",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20A%20monk%20with%20a%20book%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of Willibald Imhoff",
+            "artist": "Titian",
+            "year": "1560",
+            "museum": "Statens Museum for Kunst",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Willibald%20Imhoff.jpeg"
+        },
+        {
+            "title": "Portrait of a Man Holding a Book",
+            "artist": "Titian",
+            "year": "1540",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20a%20Man%20Holding%20a%20Book%2C%20about%201540.jpg"
+        },
+        {
+            "title": "Saint Catherine of Alexandria at Prayer",
+            "artist": "Titian",
+            "year": "1567",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Saint%20Catherine%20of%20Alexandria%20at%20Prayer%2C%20about%201567.jpg"
+        },
+        {
+            "title": "Portrait of Cardinal Filippo Archinto",
+            "artist": "Titian",
+            "year": "1558",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20Portrait%20of%20Cardinal%20Filippo%20Archinto%201558.jpg"
+        },
+        {
+            "title": "The Temptation of Christ",
+            "artist": "Titian",
+            "year": "1520",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%28Tiziano%20Vecelli%29%20-%20The%20Temptation%20of%20Christ%20-%2025.30%20-%20Minneapolis%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "The penitent Saint Jerome",
+            "artist": "Titian",
+            "year": "1570",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20%28Tiziano%20Vecellio%29%20-%20San%20Jer%C3%B3nimo%20penitente%20-%20406%20%281933.4%29%20-%20Thyssen-Bornemisza%20Museum.jpg"
+        },
+        {
+            "title": "Portrait of Antonio Anselmi",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20-%20Ritratto-antonio-anselmi%20-%20Museo%20Thyssen-Bornemisza.jpg"
+        },
+        {
+            "title": "Portrait of Antonio Anselmi",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Museu Nacional d'Art de Catalunya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20-%20Ritratto-antonio-anselmi%20-%20Museo%20Thyssen-Bornemisza.jpg"
+        },
+        {
+            "title": "Portrait of Pope Paul III",
+            "artist": "Titian",
+            "year": "1545",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20Pope%20Paul%20III%2C%201545-1546.jpg"
+        },
+        {
+            "title": "Madonna and Child with Mary Magdalene",
+            "artist": "Titian",
+            "year": "1565",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Madonna%20and%20Child%20with%20Mary%20Magdalene%2C%201560s.jpg"
+        },
+        {
+            "title": "Portrait of Philip II",
+            "artist": "Titian",
+            "year": "1552",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20King%20Philip%20II%20of%20Spain%20%281527%E2%80%931598%29%2C%20by%20Titian%20%28National%20Museum%20of%20Capodimonte%2C%20Naples%29.jpg"
+        },
+        {
+            "title": "Portrait of Pier Luigi Farnese",
+            "artist": "Titian",
+            "year": "1546",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pier%20Luigi%20Farnese%20di%20Tiziano.jpg"
+        },
+        {
+            "title": "Girl Before the Mirror",
+            "artist": "Titian",
+            "year": "1515",
+            "museum": "Museu Nacional d'Art de Catalunya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20and%20workshop%20-%20Girl%20Before%20the%20Mirror%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Salome with the Head of John the Baptist",
+            "artist": "Titian",
+            "year": "1565",
+            "museum": "National Museum of Western Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Salome%20with%20the%20Head%20of%20John%20the%20Baptist%2C%20by%20Tiziano%20Vecellio%20and%20workshop%2C%20c.%201560-1570%2C%20oil%20on%20canvas%20-%20National%20Museum%20of%20Western%20Art%2C%20Tokyo%20-%20DSC08139.JPG"
+        },
+        {
+            "title": "Portrait of Giulio Romano",
+            "artist": "Titian",
+            "year": "1537",
+            "museum": "Gonzaga collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%2C%20ritratto%20di%20giulio%20romano%2C%201536-40%2C%2001.jpg"
+        },
+        {
+            "title": "Portrait of Giulio Romano",
+            "artist": "Titian",
+            "year": "1537",
+            "museum": "Museo di Palazzo Te",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%2C%20ritratto%20di%20giulio%20romano%2C%201536-40%2C%2001.jpg"
+        },
+        {
+            "title": "Mary Magdalene",
+            "artist": "Titian",
+            "year": "1540",
+            "museum": "Pinacoteca Ambrosiana",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%20%281480-1576%29%20e%20bottega%20-%20La%20Maddalena%20-%20208%20-%20Pinacoteca%20Ambrosiana.jpg"
+        },
+        {
+            "title": "A Boy with a Bird",
+            "artist": "Titian",
+            "year": "1524",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%28c.1488-1576%29%20%28or%20studio%20of%29%20-%20A%20Boy%20with%20a%20Bird%20-%20NG933%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "Diana and Callisto",
+            "artist": "Titian",
+            "year": "1566",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%2C%20gen.%20Tizian%20%28und%20Werkstatt%29%2C%20Kunsthistorisches%20Museum%20Wien%20-%20Diana%20und%20Callisto%20-%20GG%2071%20-%20Kunsthistorisches%20Museum.jpg"
+        },
+        {
+            "title": "Portrait of Fabrizio Salvaresio",
+            "artist": "Titian",
+            "year": "1558",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20061.jpg"
+        },
+        {
+            "title": "Christ and the Adulteress",
+            "artist": "Titian",
+            "year": "1520",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%2C%20gen.%20Tizian%2C%20Kunsthistorisches%20Museum%20Wien%20-%20Christus%20und%20die%20Ehebrecherin%20-%20GG%20114%20-%20Kunsthistorisches%20Museum.jpg"
+        },
+        {
+            "title": "Salome",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Norton Simon Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Salome%20with%20Head%20of%20John%20the%20Baptist.png"
+        },
+        {
+            "title": "Salome",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Salome%20with%20the%20head%20of%20John%20the%20Baptist%20%28Titian%29.jpg"
+        },
+        {
+            "title": "Salome with the Head of John the Baptist",
+            "artist": "Titian",
+            "year": "1570",
+            "museum": "Koelliker Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Salome%20with%20the%20head%20of%20John%20the%20Baptist%20and%20two%20assistants.jpg"
+        },
+        {
+            "title": "Salome with the Head of John the Baptist",
+            "artist": "Titian",
+            "year": "1570",
+            "museum": "http://www.wikidata.org/.well-known/genid/1588bbf9d0bb61ae313d101b3acdad82",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Salome%20with%20the%20head%20of%20John%20the%20Baptist%20and%20two%20assistants.jpg"
+        },
+        {
+            "title": "Portrait of Benedetto Varchi",
+            "artist": "Titian",
+            "year": "1540",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Benedetto%20varchi%20tiziano.jpg"
+        },
+        {
+            "title": "Daniele Barbaro, Patriarch of Aquileia",
+            "artist": "Titian",
+            "year": "1545",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniele%20Barbaro%20by%20Titian.jpg"
+        },
+        {
+            "title": "Knight with a Clock",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Knight%20with%20a%20clock.jpg"
+        },
+        {
+            "title": "Ecce Homo",
+            "artist": "Titian",
+            "year": "1546",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20Homo%20%28Tiziano%29.jpg"
+        },
+        {
+            "title": "John Frederick I, Elector of Saxony",
+            "artist": "Titian",
+            "year": "1548",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Friedrich%20%28Sachsen%29.jpg"
+        },
+        {
+            "title": "Venus with an Organist and Cupid",
+            "artist": "Titian",
+            "year": "1555",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20with%20organist%20and%20Cupid.jpg"
+        },
+        {
+            "title": "Saint John the Baptist",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20John%20the%20Baptist%20by%20Titian.%20Oil%20on%20canvas%2C%20Museo%20Nacional%20del%20Prado.jpg"
+        },
+        {
+            "title": "Saint Catherine of Alexandria",
+            "artist": "Titian",
+            "year": "1560",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Catalina%20de%20Alejandr%C3%ADa%2C%20de%20Tiziano%20%28Museo%20del%20Prado%29.jpg"
+        },
+        {
+            "title": "Saint Catherine of Alexandria",
+            "artist": "Titian",
+            "year": "1560",
+            "museum": "Fine Arts Museum of Asturias",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Catalina%20de%20Alejandr%C3%ADa%2C%20de%20Tiziano%20%28Museo%20del%20Prado%29.jpg"
+        },
+        {
+            "title": "Christ on the Way to Calvary",
+            "artist": "Titian",
+            "year": "1560",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20camino%20del%20Calvario%2C%20de%20Tiziano%20%28Museo%20del%20Prado%29.jpg"
+        },
+        {
+            "title": "Mater Dolorosa with her Hands apart",
+            "artist": "Titian",
+            "year": "1555",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Mater%20Dolorosa%20with%20her%20Hands%20apart%20%28Museo%20del%20Prado%29.jpg"
+        },
+        {
+            "title": "Christ carrying the Cross",
+            "artist": "Titian",
+            "year": "1565",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%2C%20Christ%20Carrying%20the%20Cross.%20Oil%20on%20canvas%2C%2067%20x%2077%20cm%2C%20c.%201565.%20Madrid%2C%20Museo%20Nacional%20del%20Prado.jpg"
+        },
+        {
+            "title": "Ecce Homo",
+            "artist": "Titian",
+            "year": "1565",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20Homo%2C%20atribuido%20a%20Tiziano%20%28Museo%20del%20Prado%29.jpg"
+        },
+        {
+            "title": "The Burial of Christ",
+            "artist": "Titian",
+            "year": "1572",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20027.jpg"
+        },
+        {
+            "title": "Philip II offering the Infante don Fernando to the Heavens",
+            "artist": "Titian",
+            "year": "1573",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Philip%20II%20offering%20Fernando.jpg"
+        },
+        {
+            "title": "Castello Roganzuolo Altarpiece",
+            "artist": "Titian",
+            "year": "1543",
+            "museum": "Albino Luciani Diocesan Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Trittico%20Copie.jpg"
+        },
+        {
+            "title": "Man with Ermine Coat",
+            "artist": "Titian",
+            "year": "1560",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian.ManwithErmineCoat01.jpg"
+        },
+        {
+            "title": "Secretary",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "National Museum of Fine Arts, Argentina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretario%20-%20Tiziano.jpg"
+        },
+        {
+            "title": "Adoration of the Christ Child",
+            "artist": "Titian",
+            "year": "1508",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%28Tiziano%20Vecellio%29%2C%20between%201485%20and%201490-1576%20-%20Adoration%20of%20the%20Christ%20Child%20-%20%D0%93%D0%AD-230%20-%20Hermitage%20Museum.jpg"
+        },
+        {
+            "title": "Christ Blessing",
+            "artist": "Titian",
+            "year": "1570",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%2C%20Salvator%20Mundi%20%28Christ%20Blessing%29%2C%20c.%201570%2C%20oil%20on%20canvas%2C%2096%20x%2080%20cm%2C%20Hermitage%20Museum.jpg"
+        },
+        {
+            "title": "The Son of the Orator Francesco Filetto",
+            "artist": "Titian",
+            "year": "1540",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Son%20of%20the%20Orator%20Francesco%20Filetto.jpg"
+        },
+        {
+            "title": "Portrait of the Orator Francesco Filetto",
+            "artist": "Titian",
+            "year": "1538",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%2C%20gen.%20Tizian%20-%20Der%20Orator%20Francesco%20Filetto%20%28%5E%29%20-%20GG%2072%20-%20Kunsthistorisches%20Museum.jpg"
+        },
+        {
+            "title": "Pope Paul III Farnese (1468-1549)",
+            "artist": "Titian",
+            "year": "1540",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20%28Schule%29%20001b.jpg"
+        },
+        {
+            "title": "Portrait of the Artist's daughter Lavinia",
+            "artist": "Titian",
+            "year": "1565",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20his%20daughter%20Lavinia%20GG%203379.jpg"
+        },
+        {
+            "title": "Mars, Venus and Amor",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian.MarsVenusandAmor01.jpg"
+        },
+        {
+            "title": "Madonna and Child in a Landscape with Tobias and the Angel",
+            "artist": "Titian",
+            "year": "1537",
+            "museum": "Royal Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%28c.1488-Venice%201576%29%20and%20Workshop%20-%20Madonna%20and%20Child%20in%20a%20Landscape%20with%20Tobias%20and%20the%20Angel%20-%20RCIN%20402863%20-%20Royal%20Collection.jpg"
+        },
+        {
+            "title": "Ecce Homo",
+            "artist": "Titian",
+            "year": "1560",
+            "museum": "Brukenthal National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20Homo%20by%20Titian.JPG"
+        },
+        {
+            "title": "The Resurrected Christ",
+            "artist": "Titian",
+            "year": "1511",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%20-%20Cristo%20Risorto%20-%2010093%20-%20Uffizi%20Gallery.jpg"
+        },
+        {
+            "title": "Christ on Mount Olive",
+            "artist": "Titian",
+            "year": "1561",
+            "museum": "Royal Monastery of San Lorenzo de El Escorial",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Oraci%C3%B3n%20en%20el%20Huerto%20%28Tiziano%29.jpg"
+        },
+        {
+            "title": "Portrait of a Man in Armor",
+            "artist": "Titian",
+            "year": "1530",
+            "museum": "Hammer Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20man%20in%20armor%20%28Titian%29.jpg"
+        },
+        {
+            "title": "Madonna and Child in an Evening Landscape",
+            "artist": "Titian",
+            "year": "1560",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Madone%20et%20l%27Enfant%20dans%20un%20paysage%20du%20soir%20Titien.jpg"
+        },
+        {
+            "title": "St. Magdalene as Penitent",
+            "artist": "Titian",
+            "year": "1570",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20-%20Hl.%20Magdalena%20als%20B%C3%BC%C3%9Ferin%20-%205175%20-%20Bavarian%20State%20Painting%20Collections.jpg"
+        },
+        {
+            "title": "Portrait of Pedro \u00c1lvarez de Toledo",
+            "artist": "Titian",
+            "year": "1542",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%2C%20gen.%20Tizian%20%28und%20Werkstatt%29%20-%20Bildnis%20des%20Don%20Pedro%20%C3%81lvarez%20de%20Toledo%20-%20WAF%201085%20-%20Bavarian%20State%20Painting%20Collections.jpg"
+        },
+        {
+            "title": "Portrait of a Gentleman",
+            "artist": "Titian",
+            "year": "1520",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20-%20Bildnis%20eines%20jungen%20Mannes%20-%20517%20-%20Bavarian%20State%20Painting%20Collections.jpg"
+        },
+        {
+            "title": "Ecce Homo",
+            "artist": "Titian",
+            "year": "1568",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%2C%20gen.%20Tizian%20-%20Ecce%20homo%20-%205189%20-%20Bavarian%20State%20Painting%20Collections.jpg"
+        },
+        {
+            "title": "Venus and Cupid with a Mirror",
+            "artist": "Titian",
+            "year": "1565",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%2C%20gen.%20Tizian%20-%20Venus%20und%20Cupido%20mit%20Spiegel%20-%205238%20-%20Bavarian%20State%20Painting%20Collections.jpg"
+        },
+        {
+            "title": "Portrait of a General - Man in Military Costume",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Hessen Kassel Heritage",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Man%20in%20Military%20Costume%20-%20WGA22972.jpg"
+        },
+        {
+            "title": "Perseus and Andromeda",
+            "artist": "Titian",
+            "year": "1554",
+            "museum": "Wallace Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Perseo%20y%20Andr%C3%B3meda%2C%20por%20Tiziano.jpg"
+        },
+        {
+            "title": "Portrait of Marcantonio Trevisan, Doge of Venice",
+            "artist": "Titian",
+            "year": "1553",
+            "museum": "Museum of Fine Arts, Budapest",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%E2%80%93%20Portrait%20of%20Marcantonio%20Trevisan%2C%20Doge%20of%20Venice%20%E2%80%93%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "King Philip II of Spain",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Cincinnati Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20King%20Philip%20II%20of%20Spain%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Portrait of a Venetian Gentleman (overpainted)",
+            "artist": "Titian",
+            "year": "1550",
+            "museum": "Norton Simon Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20a%20Venetian%20Gentleman%20painted%20over%20a%20copy%20of%20Giacomo%20Dolfin.jpg"
+        },
+        {
+            "title": "Portrait of Guidobaldo II della Rovere, Duke of\u00a0Urbino",
+            "artist": "Titian",
+            "year": "1545",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%28Tiziano%20Vecellio%29%20-%20Portrait%20of%20Guidobaldo%20II%20della%20Rovere%2C%20Duke%20of%20Urbino%20-%201956.7.1%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Diana and\u00a0Callisto",
+            "artist": "Titian",
+            "year": "1562",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Titian%20%28Tiziano%20Vecellio%2C%20Italian%2C%20ca.%201488%E2%80%931576%29%20-%20Diana%20and%20Callisto%20-%20ILE2014.14.1%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Madonna and Child with Saint John the Baptist",
+            "artist": "Titian",
+            "year": "1518",
+            "museum": "Mus\u00e9e Fesch",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20Vecellio%2C%20dit%20Titien%20%28Pieve%20di%20Cadore%2C%201489%20%E2%80%93%20Venise%2C%201576%29%20-%20La%20Vierge%20%C3%A0%20l%E2%80%99Enfant%20avec%20saint%20Jean-Baptiste%20-%20MFA%20852.1.266%20-%20Mus%C3%A9e%20Fesch.jpg"
+        },
+        {
+            "title": "Portrait of Lavinia",
+            "artist": "Titian",
+            "year": "1565",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20-%20Bildnis%20der%20Lavinia.jpg"
+        },
+        {
+            "title": "Portrait of the paint dealer Alvise dalla Scala",
+            "artist": "Titian",
+            "year": "1561",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20a%20Man%20with%20a%20Palm%20-%20WGA22977.jpg"
         }
     ]
 }
