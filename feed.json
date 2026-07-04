@@ -778,11 +778,18 @@
             "description": "Bala Hisar, a 19th-century painting by Ustad Mansur, is an impressive portrait of the Bala Hisar fort in Kanpur. Once a British colonial stronghold, the fort played a pivotal role in the Indian Rebellion of 1857. The painting showcases the complex history and cultural significance of this structure, which has witnessed numerous battles and events throughout its storied past."
         },
         {
-            "title": "Still Life with Apples by Rachel Ruysch",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_129.jpg",
-            "year": "1689",
-            "museum": "KunstHistorisch Museum",
-            "description": "A pioneering work by Dutch Golden Age painter Rachel Ruysch, Still Life with Apples showcases her unique blend of realism and symbolism. The painting depicts a still life arrangement featuring apples, grapes, and other fruits, set against a warm golden background. This work exemplifies Ruysch's attention to detail and her innovative use of light and shadow."
+            "title": "Kōn by Hasegawa Tŏhaku",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_127.jpg",
+            "year": "1876",
+            "museum": "Tokyo National Museum",
+            "description": "Kōn is a beautiful ukiyo-e woodblock print created by Hasegawa Tŏhaku in 1876. It depicts a serene landscape with a majestic mountain range in the background and a few trees and birds in the foreground. The print showcases the artist's mastery of traditional Japanese art forms, blending realism with a sense of tranquility. Created during the Meiji period, Kōn reflects the changing times and the desire for a more modern Japan, while still honoring traditional aesthetics."
+        },
+        {
+            "title": "The Peasant Wedding by Bishandas",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_128.jpg",
+            "year": "1877",
+            "museum": "Indian Museum, New Delhi",
+            "description": "The Indian Museum in New Delhi houses a painting called The Peasant Wedding, which showcases Bishandas' skill as an artist. Created in 1877, this painting highlights the importance of traditional Indian wedding rituals and the bond between family members. It is considered a significant piece of Indian art, offering insights into the lives of rural Indians during that era."
         },
         {
             "title": "The River of No Return by Robert S. Duncanson",
@@ -2316,6 +2323,13 @@
             "year": "1800",
             "museum": "Museum of the Imperial Collections",
             "description": "White Fowl and Pine (, Shirokuwa to Matsu) is a ukiyo-e woodblock print by Japanese artist Ito Jakuchu (1764-1833), created in 1800. Considered one of the most important artists of the Edo period, Jakuchu's work often depicted animals, landscapes, and scenes from daily life. This piece showcases his mastery of composition, color, and attention to detail. The serene scene of a snowy landscape with a lone white fowl amidst a pine tree has captivated art lovers for centuries, demonstrating Jakuchu's ability to convey tranquility and natural beauty."
+        },
+        {
+            "title": "Still life of pie and sweets with stoneware jug by Clara Peeters",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_334.jpg",
+            "year": "1612",
+            "museum": "Historical Collection",
+            "description": "Clara Peeters' Still life of pie and sweets with stoneware jug (1612) is a masterpiece of Dutch Golden Age still-life painting. The work showcases Peeters' innovative use of everyday objects as subjects, reflecting the cultural and economic significance of food in Dutch society. Peeters' precise and detailed rendering of the still life, including the intricate textures of the ceramics and the ornate sweets, demonstrates her technical skill and artistic vision, solidifying her position as one of the most prominent female artists of the era."
         }
     ]
 }
