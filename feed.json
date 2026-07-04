@@ -442,13 +442,6 @@
             "description": "One of the most iconic works of Mexican art, The Morning depicts a serene and peaceful morning scene. Created in 1887 by Velasco himself, this piece is considered one of his masterpieces and showcases his unique blend of realism and romanticism. The painting is a testament to the artist's ability to capture the essence of everyday life, highlighting the importance of light, color, and composition in creating a sense of depth and atmosphere."
         },
         {
-            "title": "Jaguar by Felix Emil Taunay",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_72.jpg",
-            "year": "1909",
-            "museum": "Bibliotheca Nacional do Rio de Janeiro",
-            "description": "Created in 1909, Jaguar is a vibrant depiction of the iconic animal, showcasing Taunay's mastery of color and composition. As one of Brazil's most celebrated artists, Taunay was instrumental in the country's art nouveau movement, influencing generations to come."
-        },
-        {
             "title": "L'Allée des Alyscamps by Rosa Bonheur",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_73.jpg",
             "year": "1856",
@@ -1023,6 +1016,13 @@
             "description": "In the late 19th century, Vincent van Gogh created a series of sunflower paintings to brighten up his lodgings at an asylum in France. These iconic works feature thick, heavy brushstrokes and vivid yellow petals, capturing the beauty and symbolism of the sunflowers in the artist's life. The Sunflowers series not only showcased Van Gogh's unique Post-Impressionist style but also conveyed his emotions and struggles during a tumultuous period in his life."
         },
         {
+            "title": "The Man in Black by Kim Hong-do",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_155.jpg",
+            "year": "1905",
+            "museum": "The Metropolitan Museum of Art, New York City",
+            "description": "A captivating portrait of a man in black attire, The Man in Black is one of Kim Hong-do's most renowned works. Created during the early 20th century, this enigmatic figure has fascinated art lovers for decades. Born in Korea, Kim Hong-do was a prominent artist known for his bold and expressive works. This painting showcases his unique style, blending traditional Korean motifs with modern influences. The Man in Black is not only an exquisite example of Kim's artistic skill but also a testament to the cultural exchange that defined the early 20th century."
+        },
+        {
             "title": "Marie Antoinette by Élisabeth Vigée Le Brun",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_156.jpg",
             "year": "1783",
@@ -1035,6 +1035,13 @@
             "year": "1892",
             "museum": "National Gallery of India",
             "description": "Created in 1892, \"Portrait of a Woman\" showcases the artist's fascination with Indian mythology and culture. The subject, believed to be a representation of Kamala, is depicted in a serene and contemplative mood, adorned in traditional attire. Varma's use of vibrant colors and dynamic composition adds an air of mystique to this iconic painting, which has become synonymous with his unique blend of European and Indian art styles."
+        },
+        {
+            "title": "Peaches by Gao Fenghan",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_158.jpg",
+            "year": "1855",
+            "museum": "Private collection",
+            "description": "In the mid-19th century, Gao Fenghan was a prominent artist in China. His painting 'Peaches' showcases his skill in capturing the beauty of nature and the serenity of Chinese culture. The subject of peaches symbolized longevity, prosperity, and good fortune in traditional Chinese art. This delicate piece highlights the artist's use of subtle colors and bold brushstrokes to convey a sense of tranquility, reflecting the peaceful atmosphere of the Qing dynasty era."
         },
         {
             "title": "Portrait of a Young Lady by Angelica Kauffman",
@@ -1366,6 +1373,13 @@
             "description": "The Pine Tree, created in 1885, is a poignant portrait of the artist's aunt and a symbol of the African American experience during the Reconstruction era. The painting showcases Bannister's unique blend of Impressionism and realism, highlighting the struggles and triumphs of his community. As a representation of hope and resilience, The Pine Tree has become an iconic work in American art history, celebrating the artist's heritage and legacy."
         },
         {
+            "title": "Café de la Paix by Félix Émile Taunay",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_206.jpg",
+            "year": "1892",
+            "museum": "Musée des Beaux-Arts, Nantes",
+            "description": "In 1892, French painter Félix Émile Taunay created Café de la Paix, a captivating depiction of the bustling atmosphere within a Parisian cafe. This painting not only showcases the artist's skill in capturing the essence of urban life but also reflects the changing values and morals of 19th-century France. The vibrant colors and lively scene evoke a sense of comfort, community, and intellectual discourse. Today, Café de la Paix is celebrated as a quintessential example of French Art Nouveau."
+        },
+        {
             "title": "Qatran by Ustad Mansur",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_207.jpg",
             "year": "16th century",
@@ -1457,6 +1471,13 @@
             "description": "The Sea of Ice is a captivating piece by Ivan Aivazovsky, capturing the frozen expanse of the Bosphorus Strait during the Russian Empire era. Created around 1850, this masterpiece showcases the artist's ability to evoke a sense of serenity and mystery through his use of blues and whites. As one of the most iconic works by Aivazovsky, The Sea of Ice has become an integral part of Russian cultural heritage, often symbolizing the country's rich maritime history and its struggles with climate change."
         },
         {
+            "title": "The Buddha by Raja Ravi Varma",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_220.jpg",
+            "year": "1887",
+            "museum": "National Gallery of Art, Washington D.C.",
+            "description": "Created in 1887, 'The Buddha' is a masterpiece of Indian Renaissance art. This painting showcases the artist's unique blend of traditional and Western styles, capturing the essence of Buddhist philosophy and symbolism. Varma's use of vibrant colors and bold brushstrokes creates a sense of dynamic energy, drawing the viewer's attention to the figure of the Buddha. The painting is considered one of Varma's most iconic works and has had a lasting impact on Indian art and culture."
+        },
+        {
             "title": "Landscape under Snow by Gao Fenghan",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_221.jpg",
             "year": "1913",
@@ -1478,6 +1499,13 @@
             "description": "Created in the late 18th century, 'The Death of Socrates' is a captivating portrait that showcases Vigée Le Brun's exceptional skill. The painting depicts Socrates, the ancient Greek philosopher, surrounded by his friends and followers, as he prepares to meet his demise. This artwork not only captures the essence of classical Greek culture but also serves as a poignant reminder of the timeless importance of intellectual inquiry and critical thinking. By depicting this pivotal moment in history, Vigée Le Brun offers a powerful commentary on the human experience, inviting viewers to contemplate the enduring power of ideas."
         },
         {
+            "title": "Cascades by Edward Mitchell Bannister",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_224.jpg",
+            "year": "1876",
+            "museum": "Tougaloo Institute in Jackson, Mississippi",
+            "description": "Cascades is a painting by Edward Mitchell Bannister created in 1876. The work depicts two African-American men and women relaxing on the banks of a waterfall. As one of the first paintings by an African-American artist to gain widespread recognition, Cascades showcases Bannister's skill with light and color, as well as his ability to capture the beauty and dignity of African-American life during the post-Civil War era in America."
+        },
+        {
             "title": "The Golden Age by Rachel Ruysch",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_225.jpg",
             "year": "1665",
@@ -1497,6 +1525,13 @@
             "year": "1889",
             "museum": "The Tretyakov Gallery",
             "description": "In 1889, Ivan Shishkin created Portrait of a Peasant Woman, a captivating portrait of a Russian peasant woman. The painting is characteristic of Shishkin's rural landscape style and showcases his ability to capture the essence of everyday life in Russia during the late 19th century. With its bold brushstrokes and vivid colors, the painting transports viewers to the rolling hills and rustic villages of rural Russia, evoking a sense of nostalgia and longing for a simpler way of life."
+        },
+        {
+            "title": "Peach Garden by Shen Zhou",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_228.jpg",
+            "year": "1590",
+            "museum": "National Palace Museum, Taipei",
+            "description": "Peach Garden is a renowned Chinese oil painting depicting a serene landscape of peaches and plum blossoms. Created by Shen Zhou in 1590 during the Ming dynasty, this work showcases his expertise in capturing the subtleties of nature. As one of China's Four Great Masters of landscape painting, Shen Zhou's use of composition and color creates an enchanting atmosphere, inviting the viewer to step into the tranquil world he has crafted."
         },
         {
             "title": "The Spirit of Peace by Edward Mitchell Bannister",
@@ -1562,11 +1597,25 @@
             "description": "Portraits of peasant girls were a recurring theme in Vrubel's work, as he sought to capture the beauty and dignity of everyday women from rural Russia. 'Portrait of a Peasant Girl' showcases this talent, depicting a young woman with striking blue eyes and an elegant smile. The painting reflects the artist's fascination with the intersection of nature and humanity, inviting viewers to contemplate the life and struggles of ordinary people."
         },
         {
+            "title": "The River by Robert S. Duncanson",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_238.jpg",
+            "year": "1851",
+            "museum": "Detroit Institute of Arts",
+            "description": "The River is a landscape painting by American artist Robert S. Duncanson, created in 1851. Born into slavery in 1821, Duncanson was apprenticed to a white painter and later moved to Detroit, where he became one of the first African American artists to gain recognition. The painting depicts a serene river scene with a distant mountain range, showcasing Duncanson's mastery of light and color. As a prominent figure in the development of African American art, The River demonstrates his unique perspective and contribution to the genre."
+        },
+        {
             "title": "Self-Portrait with Blue Background by Élisabeth Vigée Le Brun",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_239.jpg",
             "year": "1781",
             "museum": "Musée d'Orsay (Paris)",
             "description": "This portrait of Élisabeth Vigée Le Brun, painted in 1781, showcases the artist's skillful use of light and shadow. At just 19 years old, she had already gained recognition for her talent, becoming one of the first women to be appointed as a painter to the royal courts of Europe. This work exemplifies her ability to capture the subtleties of human expression, a quality that would serve her well throughout her career."
+        },
+        {
+            "title": "The Ophelia by Edward Mitchell Bannister",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_240.jpg",
+            "year": "1865",
+            "museum": "Torrance Art Museum",
+            "description": "In 1865, Edward Mitchell Bannister painted The Ophelia, a captivating portrait of the tragic heroine from Shakespeare's Hamlet. This work showcases Bannister's unique blend of Neoclassicism and African-American influences, reflecting his own experiences as a black artist in a predominantly white society. The painting's somber tones and elegant composition evoke a sense of melancholy and introspection, inviting viewers to ponder the complexities of racial identity and artistic expression during the American Civil War era."
         },
         {
             "title": "Hayreddin Barbarossa by Ustad Mansur",
@@ -1595,6 +1644,20 @@
             "year": "1516",
             "museum": "National Museum of Korea",
             "description": "This iconic oil-on-cotton painting depicts three wise men visiting the newborn Buddha, showcasing Kim Hong-do's mastery of Eastern and Western artistic styles. Created during the Joseon dynasty, it reflects the artist's fascination with Buddhist culture and his ability to blend traditional Korean motifs with European techniques. As one of Korea's most celebrated artists, Kim Hong-do's work continues to captivate audiences worldwide with its timeless beauty and spiritual significance."
+        },
+        {
+            "title": "Hayat by Reza Abbasi",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_245.jpg",
+            "year": "1537-40",
+            "museum": "Hermitage Museum",
+            "description": "This exquisite miniature painting of a young woman sitting on a couch, surrounded by symbolic objects and fantastical creatures, is a masterpiece of 16th-century Persian art. Created during the Safavid dynasty, Hayat showcases Abbasi's exceptional skill in capturing the essence of his subjects, blending realism with mythical elements. The painting has been interpreted as a representation of femininity, beauty, and spirituality, reflecting the cultural values of its time."
+        },
+        {
+            "title": "Bator by Ilya Repin",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_246.jpg",
+            "year": "1888",
+            "museum": "Ermitage Museum in St. Petersburg, Russia",
+            "description": "Bator is a 1888 painting by Russian artist Ilya Repin that showcases the brutal suppression of the Buryat people by Cossack hunters in Siberia during the late 19th century. The artwork depicts Bator, a Buryat chieftain, as he fights against his oppressors. Repin's powerful depiction of this tragic event sparked widespread outrage and helped to fuel public opinion against colonialism and Cossack brutality."
         },
         {
             "title": "The Old Oak by Ivan Shishkin",
@@ -1630,6 +1693,20 @@
             "year": "1589",
             "museum": "Rijksmuseum",
             "description": "The Goldsmith is a still life painting depicting a goldsmith at work, showcasing the artist's skill in capturing everyday scenes. Created during the Dutch Golden Age, this masterpiece reflects the cultural values of industry, craftsmanship, and attention to detail. As one of Peeters' most famous works, it exemplifies the influence of Netherlandish art on the development of European still life painting."
+        },
+        {
+            "title": "The Coffee Shop by Félix êmile Taunay",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_252.jpg",
+            "year": "1876",
+            "museum": "Museu Paulista, São Paulo",
+            "description": "Created in 1876, The Coffee Shop showcases Taunay's ability to capture everyday life in Brazil. This vibrant painting depicts a bustling coffee shop, highlighting the country's cultural identity during the late 19th century. As a prominent figure of the Brazilian Academy of Fine Arts, Taunay's work not only reflected his fascination with the coffee trade but also played a significant role in shaping the nation's artistic identity."
+        },
+        {
+            "title": "Nastagio degli Onesti by Qiu Ying",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_253.jpg",
+            "year": "1514",
+            "museum": "The Metropolitan Museum of Art",
+            "description": "Created during the Ming dynasty in China, Nastagio degli Onesti is a poignant allegorical painting that exemplifies Qiu Ying's mastery of Chinese art. Depicting an Italian knight named Nastagio who becomes disillusioned with love and wealth, the painting showcases Qiu Ying's unique blend of traditional Chinese motifs and European Renaissance influences. The work's somber tone and symbolism have captivated art historians for centuries, offering a window into the cultural exchange between East and West during this period."
         },
         {
             "title": "Nataraja by Raja Ravi Varma",
@@ -1700,6 +1777,13 @@
             "year": "1480-1490",
             "museum": "Prado Museum, Madrid, Spain",
             "description": "A triptych masterpiece depicting a surreal landscape of fantastical creatures and intricate symbolism. Painted in the late 15th century, The Garden of Earthly Delights is considered one of Bosch's most enigmatic works, reflecting his fascination with the human condition and the mysteries of the universe."
+        },
+        {
+            "title": "The Flower by Shin Yun-bok",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_264.jpg",
+            "year": "1908",
+            "museum": "National Museum of Korea",
+            "description": "In 'The Flower', Shin Yun-bok captures the essence of traditional Korean culture through his depiction of a single, exquisite bloom. Created during the early 20th century, this painting reflects the artist's interest in exploring the intersection of nature and human experience. A symbol of resilience and hope, 'The Flower' offers a glimpse into the life and works of Shin Yun-bok, who was one of Korea's most celebrated artists of his time."
         },
         {
             "title": "Lotus Blossom by Qiu Ying",
@@ -1786,6 +1870,13 @@
             "description": "This 1632 painting by Rachel Ruysch is a rare example of a female artist's work in the Dutch Golden Age. It depicts a somber anatomical lecture led by Dr. Nicolaes Tulp, with his students observing the human body. The scene captures the sense of scientific curiosity and fascination that defined the era. Ruysch's masterful use of light and shadow creates a sense of tension and drama, drawing the viewer into the world of 17th-century medicine."
         },
         {
+            "title": "In der Stille by Tivadar Csontváry Kosztka",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_277.jpg",
+            "year": "1903",
+            "museum": "Munich Pinakothek",
+            "description": "In der Stille, painted in 1903 by Hungarian artist Tivadar Csontváry Kosztka, is a striking example of the artist's unique style, which blended elements of Impressionism and Symbolism. The painting depicts a serene landscape with a winding path, distant mountains, and a vast sky. Created during a pivotal moment in his career, In der Stille showcases Kosztka's ability to evoke emotions through subtle color palettes and textures. Today, the work is celebrated for its contribution to the development of modern art and its enduring appeal as a symbol of peace and contemplation."
+        },
+        {
             "title": "The Blue Room by Rachel Ruysch",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_278.jpg",
             "year": "1708-1711",
@@ -1798,6 +1889,20 @@
             "year": "1623",
             "museum": "Mauritshuis, The Hague, Netherlands",
             "description": "Created in 1623, Peasant Woman Digging Up Potatoes is a seminal work by Clara Peeters that showcases the Dutch Golden Age of painting. This captivating portrait of a peasant woman engaging in everyday life reflects the artist's interest in depicting ordinary subjects and exploring themes of labor, social hierarchy, and cultural identity. The Mauritshuis, where the painting has been on display since its acquisition in 1862, is one of the premier art institutions in the Netherlands, providing a fitting showcase for Peeters' nuanced portrayal of rural life."
+        },
+        {
+            "title": "The Still Life by Rachel Ruysch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_280.jpg",
+            "year": "1666",
+            "museum": "Nederlandische Koninklijke Academie van Beeldende Kunsten (Royal Academy of Art) in The Hague",
+            "description": "This painting, created by the Dutch Golden Age still life master Rachel Ruysch, is a quintessential example of 17th-century Dutch art. The work showcases a beautifully arranged bouquet of flowers and fruit, expertly balanced on a decorative table. As a prominent female artist during an era dominated by men, Ruysch's Still Life reflects her skill in capturing the subtleties of light and color, while also embodying the values of order and precision that characterized Dutch domestic life."
+        },
+        {
+            "title": "La Granja de San Ildefonso by José María Velasco",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_281.jpg",
+            "year": "1880s",
+            "museum": "Museo Nacional de Bellas Artes (Mexico City)",
+            "description": "In this captivating portrait, Velasco captures the serene and dignified presence of the San Ildefonso abbess. A masterpiece of late 19th-century Mexican art, La Granja de San Ildefonso embodies the country's rich cultural heritage and its complex blend of indigenous and European influences. The painting showcases Velasco's innovative use of light and shadow, imbuing the scene with a sense of depth and atmosphere that draws the viewer into the world of the subject."
         },
         {
             "title": "Still Life with Flowers by Rachel Ruysch",
@@ -1819,6 +1924,13 @@
             "year": "1897-1905",
             "museum": "National Museum in Warsaw",
             "description": "In 1897, Józef Chełmoński began his 'Street' series to depict the struggles of everyday life among working-class people. The painting showcases a somber scene of a street vendor struggling under the weight of his heavy cart. Through this work, Chełmoński aimed to highlight the hardships faced by Poland's lower class during the late 19th century. His portrayal of realism and emotion garnered significant attention, solidifying his position as a prominent figure in Polish art."
+        },
+        {
+            "title": "The Oak by Ivan Shishkin",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_285.jpg",
+            "year": "1888",
+            "museum": "The Tretyakov Gallery",
+            "description": "In 1888, Ivan Shishkin painted The Oak, a serene and contemplative portrait of nature. Set in the Russian countryside, the painting depicts a solitary oak tree standing tall amidst an expanse of rolling hills and greenery. With its muted colors and intricate textures, The Oak invites the viewer to step into the peaceful world of 19th-century Russian landscape art. Shishkin's masterful use of light and shadow creates a sense of depth and dimensionality, drawing the viewer's eye to the tree at the painting's center."
         },
         {
             "title": "The Twelve Months by Shen Zhou",
@@ -1877,6 +1989,13 @@
             "description": "In 1895, Józef Cheńmoński painted a poignant scene of love and tradition. The Wedding depicts a young couple exchanging vows amidst the bustle of a Polish wedding celebration. Capturing the warmth and joy of this momentous occasion, the painting showcases Cheńmoński's unique blend of realism and romanticism. As one of Poland's most renowned artists, he wove a narrative of love, family, and cultural heritage into The Wedding, forever etching it in the hearts of Poles and art lovers alike."
         },
         {
+            "title": "The Quarrel by Józef Cheńmoński",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_294.jpg",
+            "year": "1888",
+            "museum": "National Museum in Warsaw",
+            "description": "Created during the late 19th century Polish Renaissance, The Quarrel is a seminal work by Józef Cheńmoński. Depicting a tumultuous scene of two young men engaging in a heated argument, the painting serves as a powerful commentary on the struggles and social tensions of post-revolutionary Poland. Cheńmoński's bold use of color and his focus on capturing the emotional intensity of human conflict make The Quarrel a landmark piece of Polish art."
+        },
+        {
             "title": "Vase with Lilies by Félix Émile Taunay",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_295.jpg",
             "year": "1894",
@@ -1931,6 +2050,13 @@
             "year": "1884",
             "museum": "Musée d'Orsay",
             "description": "Created in 1884, Madame X is a portrait of Virginie Amélie Avegno Gautreau, an American socialite who sat for the painting. The painting was initially considered scandalous due to its revealing attire and Sargent's innovative use of color. It sparked controversy among art critics at the time, with some labeling it immoral. Today, Madame X is celebrated as a pioneering work of American art, showcasing Sargent's technical skill and his ability to capture the essence of his subjects."
+        },
+        {
+            "title": "Flower View by Ito Jakuchu",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_295.jpg",
+            "year": "1792",
+            "museum": "Metropolitan Museum of Art",
+            "description": "In this serene landscape, Ito Jakuchu masterfully captures the tranquility of a Japanese garden, inviting the viewer to step into a world of natural beauty. Created during Japan's Edo period, Flower View exemplifies the artist's skill in depicting the fleeting moments of life, as the changing seasons influence the delicate balance of nature."
         }
     ]
 }
