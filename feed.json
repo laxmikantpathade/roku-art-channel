@@ -624,6 +624,13 @@
             "description": "In 1779, Swiss-born Angelica Kauffman painted 'The Embarkation for Cythera', a captivating depiction of the arrival of a young couple on the Greek island of Cythera. This work showcases Kauffman's exceptional skill in capturing the subtleties of human emotion and the nuances of 18th-century European art. As one of her most celebrated works, 'The Embarkation for Cythera' exemplifies the Rococo style, characterized by lightheartedness, playfulness, and a focus on beauty and elegance. This painting not only demonstrates Kauffman's technical prowess but also reveals her unique perspective on the human experience."
         },
         {
+            "title": "The Plum Blossom by Gao Fenghan",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_100.jpg",
+            "year": "1790s",
+            "museum": "Private collection",
+            "description": "This serene and delicate plum blossom painting, created by Gao Fenghan during the Qing dynasty, symbolizes the fleeting nature of life and beauty in traditional Chinese culture. The intricate brushwork and subtle color palette evoke a sense of tranquility, inviting viewers to contemplate the passage of time. As one of China's most celebrated landscape painters, Gao Fenghan's work continues to inspire art lovers and scholars alike with its timeless elegance."
+        },
+        {
             "title": "Peonies by Ito Jakuchu",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_101.jpg",
             "year": "1822",
@@ -685,6 +692,13 @@
             "year": "1489",
             "museum": "Czartoryski Museum in Krakow",
             "description": "Created for the wife of a Polish king, Lady with an Ermini is a captivating portrait that showcases Leonardo da Vinci's mastery of Renaissance portraiture. The painting depicts a young woman holding an ermine, a symbol of purity and nobility. This work of art not only demonstrates da Vinci's technical skill but also offers a glimpse into the cultural and social values of 15th-century Europe. As one of da Vinci's most famous portraits, Lady with an Ermini continues to inspire artists and art lovers alike with its timeless beauty and intricate details."
+        },
+        {
+            "title": "The White Horse by Kim Hong-do",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_110.jpg",
+            "year": "1910",
+            "museum": "National Museum of Korea",
+            "description": "In this striking black-and-white etching, Kim Hong-do depicts a majestic white horse against a dark blue background. Created during the Joseon Dynasty, The White Horse showcases the artist's exceptional skill in conveying power and movement through simple yet evocative lines. As one of the most iconic works of Korean art, it has been celebrated for its beauty and historical significance, inspiring countless adaptations and interpretations."
         },
         {
             "title": "La Gioconda by Leonardo da Vinci",
@@ -1224,13 +1238,6 @@
             "year": "1860",
             "museum": "National Gallery of Art",
             "description": "Aivazovsky's masterpiece depicts a serene sea scene with soft, calming blues and greens. Created during the Golden Age of Russian Romanticism, this painting exemplifies the artist's ability to capture the power and beauty of nature. Aivazovsky's innovative use of color and light techniques raised the bar for marine art, influencing generations of artists to come."
-        },
-        {
-            "title": "On a Summer Day by Ivan Shishkin",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_193.jpg",
-            "year": "1894",
-            "museum": "Tretyakov Gallery",
-            "description": "In 1894, Ivan Shishkin captured the serene atmosphere of a summer day in the Russian countryside. This enchanting painting depicts a tranquil scene with children playing by a pond, surrounded by lush greenery and vibrant wildflowers. The artist's masterful use of light and color evokes a sense of serenity and joy, inviting the viewer to step into the idyllic world he has created."
         },
         {
             "title": "The Slave Ship by J.M.W. Turner",
@@ -2764,6 +2771,13 @@
             "year": "1710",
             "museum": "http://www.wikidata.org/.well-known/genid/aa2520567b9aaf6799060bf11e6bcc05",
             "description": "Still life of roses, tulips, a sunflower and other flowers in a glass vase with a bee, butterfly and other insects upon a marble ledge by Rachel Ruysch (1710). This iconic Dutch Golden Age painting showcases Ruysch's mastery of botanical illustration and intricate compositional details. The artwork features an array of exotic flowers arranged on a marble shelf, teeming with life thanks to the busy insect population. Considered one of the most celebrated female painters of the 17th century, Ruysch's work continues to inspire artists and art lovers alike."
+        },
+        {
+            "title": "Destiny by John William Waterhouse",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_398.jpg",
+            "year": "1900",
+            "museum": "Towneley Hall Art Gallery and Museum",
+            "description": "Destiny is an oil painting by John William Waterhouse, created in 1903 (not 1900), depicting a reclining female figure surrounded by lush foliage and symbolizing the concept of destiny or fate. The work showcases Waterhouse's Pre-Raphaelite style, characterized by vibrant colors, intricate details, and sensual subjects. Considered one of his most iconic works, Destiny has contributed significantly to the development of the Pre-Raphaelite movement and continues to be celebrated for its beauty, symbolism, and historical significance."
         }
     ]
 }
