@@ -764,11 +764,11 @@
             "description": "In 1889, Edward Mitchell Bannister created The Rehearsal, a poignant depiction of the struggle for social justice in the United States. Painted during a tumultuous period in American history, this piece showcases Bannister's mastery of realism and his unwavering commitment to representing the African American experience. Through the figure of the African woman, Bannister conveys the resilience and determination of a community fighting for equality and respect. Today, The Rehearsal stands as a powerful testament to the enduring legacy of African American artists like Bannister, whose work continues to inspire and educate audiences around the world."
         },
         {
-            "title": "Lady with a Lute by Angelica Kauffman",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_125.jpg",
-            "year": "1768",
-            "museum": "Royal Collection, Hampton Court Palace",
-            "description": "In this captivating portrait, Lady Elizabeth Montagu is depicted playing the lute, showcasing her intellectual pursuits and artistic inclinations. Painted in 1768, 'Lady with a Lute' exemplifies Kauffman's skill in capturing the subtleties of human expression and her ability to convey a sense of elegance and refinement. As one of the few female artists of her time to achieve widespread recognition, Kauffman's work serves as a testament to the enduring power of art to celebrate women's achievements."
+            "title": "Bala Hisar by Ustad Mansur",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_126.jpg",
+            "year": "1799",
+            "museum": "National Museum of India",
+            "description": "Bala Hisar, a 19th-century painting by Ustad Mansur, is an impressive portrait of the Bala Hisar fort in Kanpur. Once a British colonial stronghold, the fort played a pivotal role in the Indian Rebellion of 1857. The painting showcases the complex history and cultural significance of this structure, which has witnessed numerous battles and events throughout its storied past."
         },
         {
             "title": "Kōn by Hasegawa Tŏhaku",
@@ -2309,6 +2309,13 @@
             "year": "1485",
             "museum": "Biblioteca Ambrosiana",
             "description": "Codex Atlanticus is a comprehensive collection of Leonardo da Vinci's notes, drawings, and designs for various inventions, machines, and anatomical studies. Created between 1478-1508, this manuscript showcases Da Vinci's fascination with engineering, mathematics, and the natural world. Its historical significance lies in its insight into Renaissance-era scientific thought and innovative ideas that would influence future inventors and thinkers."
+        },
+        {
+            "title": "Bathsheba by Artemisia Gentileschi",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_332.jpg",
+            "year": "1640",
+            "museum": "http://www.wikidata.org/.well-known/genid/5b6e1ac84449644a9b6154e26731e959",
+            "description": "Bathsheba, painted by Artemisia Gentileschi in 1640, is a seminal work of Baroque art that redefined the representation of women on canvas. The painting depicts the biblical scene of David and Bathsheba, where Gentileschi's subject takes center stage, defying patriarchal norms. This masterpiece showcases Gentileschi's technical prowess, emotional intensity, and feminist iconoclasm, cementing her status as a pioneering female artist in a male-dominated Renaissance landscape."
         }
     ]
 }

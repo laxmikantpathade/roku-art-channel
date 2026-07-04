@@ -12653,5 +12653,947 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Death%20and%20Life%20-%20Google%20Art%20Project.jpg"
         }
     ],
-    "Kam\u0101l ud-D\u012bn Behz\u0101d": []
+    "Kam\u0101l ud-D\u012bn Behz\u0101d": [],
+    "Artemisia Gentileschi": [
+        {
+            "title": "Judith and Her Maidservant",
+            "artist": "Artemisia Gentileschi",
+            "year": "1610",
+            "museum": "Galleria Palatina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%20judith1.jpg"
+        },
+        {
+            "title": "Judith Slaying Holofernes",
+            "artist": "Artemisia Gentileschi",
+            "year": "1613",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Judith%20Beheading%20Holofernes%20-%20WGA8563.jpg"
+        },
+        {
+            "title": "Adoration of the Magi",
+            "artist": "Artemisia Gentileschi",
+            "year": "1636",
+            "museum": "Pozzuoli Cathedral",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Adoration%20of%20the%20Magi%20by%20Artemisia%20Gentileschi.jpg"
+        },
+        {
+            "title": "Allegory of Inclination",
+            "artist": "Artemisia Gentileschi",
+            "year": "1615",
+            "museum": "Casa Buonarroti",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Gentileschi%20Allegoria%20dell%27inclinazione.jpg"
+        },
+        {
+            "title": "Self-Portrait as a Female Martyr",
+            "artist": "Artemisia Gentileschi",
+            "year": "1615",
+            "museum": "http://www.wikidata.org/.well-known/genid/48e5f62a0525ada851612f735e208c02",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg"
+        },
+        {
+            "title": "Cleopatra",
+            "artist": "Artemisia Gentileschi",
+            "year": "1620",
+            "museum": "Cavallini Sgarbi Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Cleopatra%20Ferrara.jpg"
+        },
+        {
+            "title": "Conversion of the Magdalene",
+            "artist": "Artemisia Gentileschi",
+            "year": "1620",
+            "museum": "Galleria Palatina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Mary%20Magdalene%20Pitti.jpg"
+        },
+        {
+            "title": "Conversion of the Magdalene",
+            "artist": "Artemisia Gentileschi",
+            "year": "1620",
+            "museum": "Galleria Palatina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selbstbildnis%20als%20Maria%20Magdalena.jpg"
+        },
+        {
+            "title": "Dana\u00eb",
+            "artist": "Artemisia Gentileschi",
+            "year": "1612",
+            "museum": "Saint Louis Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Dana%C3%AB%20-%2093-1986%20-%20Saint%20Louis%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Esther before Ahasuerus",
+            "artist": "Artemisia Gentileschi",
+            "year": "1629",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%2C%20Artemisia%20-%20Esther%20before%20Ahasuerus%20-%20c.%201628%E2%80%931635.jpg"
+        },
+        {
+            "title": "Jael and Sisera",
+            "artist": "Artemisia Gentileschi",
+            "year": "1620",
+            "museum": "Museum of Fine Arts, Budapest",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Giaele%20e%20Sisara%20%28ca.1620%29%20-%20Artemisia%20Gentileschi%20%28Museum%20of%20Fine%20Arts%2C%20Budapest%29.jpg"
+        },
+        {
+            "title": "Judith and Maidservant with Head of Holofernes",
+            "artist": "Artemisia Gentileschi",
+            "year": "1623",
+            "museum": "Detroit Institute of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Judith%20and%20Her%20Maidservant%20with%20the%20Head%20of%20Holofernes%20-%2052.253%20-%20Detroit%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "Madonna and Child",
+            "artist": "Artemisia Gentileschi",
+            "year": "1612",
+            "museum": "Galleria Spada",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna-and-child-Gentileschi.jpg"
+        },
+        {
+            "title": "Madonna and Child",
+            "artist": "Artemisia Gentileschi",
+            "year": "1612",
+            "museum": "Spada collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna-and-child-Gentileschi.jpg"
+        },
+        {
+            "title": "Portrait of a Gonfaloniere",
+            "artist": "Artemisia Gentileschi",
+            "year": "1622",
+            "museum": "Palazzo d'Accursio",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Condottiero%20Bologna.jpg"
+        },
+        {
+            "title": "The Martyrdom of St Januarius in the Amphitheatre at Pozzuoli",
+            "artist": "Artemisia Gentileschi",
+            "year": "1636",
+            "museum": "Pozzuoli Cathedral",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Martyrdom%20of%20St%20Januarius%20in%20the%20Amphitheatre%20at%20Pozzuoli.jpg"
+        },
+        {
+            "title": "Saint Cecilia",
+            "artist": "Artemisia Gentileschi",
+            "year": "1620",
+            "museum": "Galleria Spada",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Cecilia%20by%20Artemisia%20Gentileschi.jpg"
+        },
+        {
+            "title": "Saint Cecilia",
+            "artist": "Artemisia Gentileschi",
+            "year": "1620",
+            "museum": "Spada collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Cecilia%20by%20Artemisia%20Gentileschi.jpg"
+        },
+        {
+            "title": "Susanna and the Elders",
+            "artist": "Artemisia Gentileschi",
+            "year": "1622",
+            "museum": "Burghley House",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20et%20les%20Vieillards%2C%20par%20Artemisia%20Gentileschi.jpg"
+        },
+        {
+            "title": "Susanna and the Elders",
+            "artist": "Artemisia Gentileschi",
+            "year": "1649",
+            "museum": "Moravian Gallery in Brno",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20and%20the%20Elders.jpg"
+        },
+        {
+            "title": "Susanna and the Elders",
+            "artist": "Artemisia Gentileschi",
+            "year": "1610",
+            "museum": "Schloss Wei\u00dfenstein",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20and%20the%20Elders%20%281610%29%2C%20Artemisia%20GentileschiFXD.jpg"
+        },
+        {
+            "title": "Nativity of St. John the Baptist",
+            "artist": "Artemisia Gentileschi",
+            "year": "1635",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nacimiento%20de%20San%20Juan%20Bautista%20%28Artemisia%20Gentileschi%29.jpg"
+        },
+        {
+            "title": "Mary Magdalene as Melancholy",
+            "artist": "Artemisia Gentileschi",
+            "year": "1620",
+            "museum": "Museo Soumaya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/3415%20Mar%C3%ADa%20Magdalena%20como%20melancol%C3%ADa.jpg"
+        },
+        {
+            "title": "Bathsheba",
+            "artist": "Artemisia Gentileschi",
+            "year": "1645",
+            "museum": "Prussian Palaces and Gardens Foundation Berlin-Brandenburg",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Bathsheba%20-%20WGA08558.jpg"
+        },
+        {
+            "title": "The Triumph of Galatea",
+            "artist": "Artemisia Gentileschi",
+            "year": "1650",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Triumph%20of%20Galatea%20by%20Bernardo%20Cavallino%20or%20Artemisia%20Gentileschi%20ca.%201650.jpg"
+        },
+        {
+            "title": "Self-Portrait as a Lute Player",
+            "artist": "Artemisia Gentileschi",
+            "year": "1616",
+            "museum": "Wadsworth Atheneum Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Autoritratto%20come%20suonatrice%20di%20liuto%20%28ca.%201615-18%29.jpg"
+        },
+        {
+            "title": "Venus and Cupid (Sleeping Venus)",
+            "artist": "Artemisia Gentileschi",
+            "year": "1627",
+            "museum": "Virginia Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%20-%20Venus%20and%20Cupid%20%28c.%201625-30%20VMFA%29.jpg"
+        },
+        {
+            "title": "Saint Apollonia",
+            "artist": "Artemisia Gentileschi",
+            "year": "1642",
+            "museum": "Museo Soumaya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Apollonia%20by%20Artemisia%20Gentileschi%20ca.%201642-1644.jpg"
+        },
+        {
+            "title": "Saint Apollonia",
+            "artist": "Artemisia Gentileschi",
+            "year": "1644",
+            "museum": "Museo Soumaya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Apollonia%20by%20Artemisia%20Gentileschi%20ca.%201642-1644.jpg"
+        },
+        {
+            "title": "Saint Lucy",
+            "artist": "Artemisia Gentileschi",
+            "year": "1642",
+            "museum": "Museo Soumaya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Lucy%20by%20Artemisia%20Gentileschi%20ca.%201642-1644.jpg"
+        },
+        {
+            "title": "Saint Lucy",
+            "artist": "Artemisia Gentileschi",
+            "year": "1644",
+            "museum": "Museo Soumaya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Lucy%20by%20Artemisia%20Gentileschi%20ca.%201642-1644.jpg"
+        },
+        {
+            "title": "Bathsheba",
+            "artist": "Artemisia Gentileschi",
+            "year": "1640",
+            "museum": "http://www.wikidata.org/.well-known/genid/3f12d4edfc4514708efcb6badf552b41",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Bathsheba%20at%20Her%20Bath%20%28ca.%201640-1645%29.jpg"
+        },
+        {
+            "title": "Bathsheba",
+            "artist": "Artemisia Gentileschi",
+            "year": "1645",
+            "museum": "http://www.wikidata.org/.well-known/genid/3f12d4edfc4514708efcb6badf552b41",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Bathsheba%20at%20Her%20Bath%20%28ca.%201640-1645%29.jpg"
+        },
+        {
+            "title": "Madonna and Child",
+            "artist": "Artemisia Gentileschi",
+            "year": "1610",
+            "museum": "Galleria Palatina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Madonna%20con%20Bambino%20%281609-1610%29.jpg"
+        },
+        {
+            "title": "Madonna and Child",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "Galleria Palatina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Madonna%20con%20Bambino%20%281609-1610%29.jpg"
+        },
+        {
+            "title": "Bathsheba",
+            "artist": "Artemisia Gentileschi",
+            "year": "1645",
+            "museum": "http://www.wikidata.org/.well-known/genid/5b6e1ac84449644a9b6154e26731e959",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bathsheba%20at%20Her%20Bath%20by%20Artemisia%20Gentileschi%20ca.%201640-1645%20%28Vienna%29.jpg"
+        },
+        {
+            "title": "Saint Catherine of Alexandria",
+            "artist": "Artemisia Gentileschi",
+            "year": "1615",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20St%20Catherine%20of%20Alexandria%20-%20WGA8560.jpg"
+        },
+        {
+            "title": "Minerva",
+            "artist": "Artemisia Gentileschi",
+            "year": "1635",
+            "museum": "Uffizi Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Minerva%20-%20WGA8568.jpg"
+        },
+        {
+            "title": "Repentant Mary Magdalene",
+            "artist": "Artemisia Gentileschi",
+            "year": "1625",
+            "museum": "Seville Cathedral",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20%E2%80%94%20Conversione%20della%20Maddalena%20%28Maria%20Maddalena%20penitente.jpg"
+        },
+        {
+            "title": "Lucretia",
+            "artist": "Artemisia Gentileschi",
+            "year": "1625",
+            "museum": "Palazzo Cattaneo Adorno",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucretia%20by%20Artemisia%20Gentileschi.jpg"
+        },
+        {
+            "title": "Lucretia",
+            "artist": "Artemisia Gentileschi",
+            "year": "1643",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucretia%20by%20Artemisia%20Gentileschi2.jpg"
+        },
+        {
+            "title": "Lucretia",
+            "artist": "Artemisia Gentileschi",
+            "year": "1626",
+            "museum": "New Palace",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi-Lucrezia-Potsdam.jpg"
+        },
+        {
+            "title": "Corisca and the Satyr",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "http://www.wikidata.org/.well-known/genid/7771fcd6a740e6c1e150d537e81ad7a0",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Corisca%20and%20the%20Satyr%20by%20Artemisia%20Gentileschi.jpg"
+        },
+        {
+            "title": "Lot and his Daughters",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "Toledo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%2C%20Artemisia%20-%20Lot%20and%20his%20Daughters%20-%201635-1638.jpg"
+        },
+        {
+            "title": "Virgin and Child with a Rosary",
+            "artist": "Artemisia Gentileschi",
+            "year": "1651",
+            "museum": "Royal Monastery of San Lorenzo de El Escorial",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Vergine%20e%20il%20Bambino%20con%20il%20rosario%20Artemisia.jpg"
+        },
+        {
+            "title": "An Allegory of Painting",
+            "artist": "Artemisia Gentileschi",
+            "year": "1640",
+            "museum": "Mus\u00e9e de Tess\u00e9",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi-allegoria.jpg"
+        },
+        {
+            "title": "David and Bathsheba",
+            "artist": "Artemisia Gentileschi",
+            "year": "1645",
+            "museum": "Galleria Palatina",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%20palatina%20betsabe.jpg"
+        },
+        {
+            "title": "Bathsheba",
+            "artist": "Artemisia Gentileschi",
+            "year": "1637",
+            "museum": "Columbus Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20and%20Bathsheba%20by%20Artemisia%20Gentileschi.jpg"
+        },
+        {
+            "title": "Bathsheba at Her Bath",
+            "artist": "Artemisia Gentileschi",
+            "year": "1638",
+            "museum": "http://www.wikidata.org/.well-known/genid/d10796c3d2ca5aede1bd86c4edb003e9",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Bathsheba%20at%20Her%20Bath%20%28ca.%201637-1638%29.jpg"
+        },
+        {
+            "title": "Mary Magdalene holding a Skull",
+            "artist": "Artemisia Gentileschi",
+            "year": "1631",
+            "museum": "http://www.wikidata.org/.well-known/genid/a4744e9854991c57aa20673e5d0cdcdc",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Mary%20Magdalene3.jpg"
+        },
+        {
+            "title": "Venus Embracing Cupid",
+            "artist": "Artemisia Gentileschi",
+            "year": "1640",
+            "museum": "http://www.wikidata.org/.well-known/genid/4329fb6d53203cda4d2dea392be4e81c",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20gentileschi%20venus%20and%20cupid060552%29.jpg"
+        },
+        {
+            "title": "Susannah and the Elders",
+            "artist": "Artemisia Gentileschi",
+            "year": "1650",
+            "museum": "Bassano Civic Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20e%20i%20vecchioni%20di%20Artemisia%20Gentileschi%2C%20Museo%20Civico%20di%20Bassano%20del%20Grappa.JPG"
+        },
+        {
+            "title": "Cleopatra discovered by her servants",
+            "artist": "Artemisia Gentileschi",
+            "year": "1635",
+            "museum": "http://www.wikidata.org/.well-known/genid/a8ff9e6de4673eb61133466a77fa3c3e",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Cleopatra3.jpg"
+        },
+        {
+            "title": "Susanna and the Elders",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "Nottingham Castle Ducal Mansion",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Susanna%20and%20the%20Elders%20NOT%20NCMG%201964%2077.jpg"
+        },
+        {
+            "title": "Aurora",
+            "artist": "Artemisia Gentileschi",
+            "year": "1627",
+            "museum": "http://www.wikidata.org/.well-known/genid/96a2991be0ac7797737fe0cecde6c5e3",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aurora-Gentileschi.jpg"
+        },
+        {
+            "title": "Saint Proculus of Pozzuoli and his mother Santa Nicaea",
+            "artist": "Artemisia Gentileschi",
+            "year": "1637",
+            "museum": "Pozzuoli Cathedral",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20gentileschi%2C%20i%20santi%20procolo%20e%20nicea%2C%201631%20ca..JPG"
+        },
+        {
+            "title": "Portrait of a nun",
+            "artist": "Artemisia Gentileschi",
+            "year": "1618",
+            "museum": "http://www.wikidata.org/.well-known/genid/9a4d20f21a898d43c113c384e08ddd12",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20nun%20by%20Artemisia%20Gentileschi%20ca.%201613-1618.jpg"
+        },
+        {
+            "title": "Judith and Maidservant with Head of Holofernes",
+            "artist": "Artemisia Gentileschi",
+            "year": "1645",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20gentileschi%2C%20giuditta%20e%20la%20fantesca%20abra%20con%20la%20testa%20recisa%20di%20oloferne%2C%201645-50%2C%20Q377.JPG"
+        },
+        {
+            "title": "Judith and Maidservant with Head of Holofernes",
+            "artist": "Artemisia Gentileschi",
+            "year": "1650",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20gentileschi%2C%20giuditta%20e%20la%20fantesca%20abra%20con%20la%20testa%20recisa%20di%20oloferne%2C%201645-50%2C%20Q377.JPG"
+        },
+        {
+            "title": "Judith and Maidservant with Head of Holofernes",
+            "artist": "Artemisia Gentileschi",
+            "year": "1645",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20and%20her%20maid%20Abra%20with%20the%20Head%20of%20Holofernes%20by%20Artemisia%20Gentileschi%20ca.%201645-1650.jpg"
+        },
+        {
+            "title": "Judith and Maidservant with Head of Holofernes",
+            "artist": "Artemisia Gentileschi",
+            "year": "1650",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20and%20her%20maid%20Abra%20with%20the%20Head%20of%20Holofernes%20by%20Artemisia%20Gentileschi%20ca.%201645-1650.jpg"
+        },
+        {
+            "title": "Judith and Maidservant with Head of Holofernes",
+            "artist": "Artemisia Gentileschi",
+            "year": "1645",
+            "museum": "Mus\u00e9e des Explorations du Monde",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20and%20her%20maid%20with%20the%20Head%20of%20Holofernes%20by%20Artemisia%20Gentileschi%20ca.%201645-1650.jpg"
+        },
+        {
+            "title": "Christ Blessing the Children",
+            "artist": "Artemisia Gentileschi",
+            "year": "1626",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sinite%20Parvulos%20-%20A.%20Gentileschi.png"
+        },
+        {
+            "title": "Christ Blessing the Children",
+            "artist": "Artemisia Gentileschi",
+            "year": "1640",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sinite%20Parvulos%20-%20A.%20Gentileschi.png"
+        },
+        {
+            "title": "Christ Blessing the Children",
+            "artist": "Artemisia Gentileschi",
+            "year": "1626",
+            "museum": "San Carlo al Corso",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sinite%20Parvulos%20-%20A.%20Gentileschi.png"
+        },
+        {
+            "title": "Christ Blessing the Children",
+            "artist": "Artemisia Gentileschi",
+            "year": "1640",
+            "museum": "San Carlo al Corso",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sinite%20Parvulos%20-%20A.%20Gentileschi.png"
+        },
+        {
+            "title": "Samson and Delilah",
+            "artist": "Artemisia Gentileschi",
+            "year": "1638",
+            "museum": "Museo di Capodimonte",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Samson%20und%20delilah.jpg"
+        },
+        {
+            "title": "Samson and Delilah",
+            "artist": "Artemisia Gentileschi",
+            "year": "1638",
+            "museum": "Gallerie d'Italia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Samson%20und%20delilah.jpg"
+        },
+        {
+            "title": "Judith and her Servant with the Head of Holofernes",
+            "artist": "Artemisia Gentileschi",
+            "year": "1610",
+            "museum": "http://www.wikidata.org/.well-known/genid/33441a72dd5d052299d963938ce73a28",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%20Judith%20Lemme.jpg"
+        },
+        {
+            "title": "Mary Magdalene in Ecstasy",
+            "artist": "Artemisia Gentileschi",
+            "year": "1625",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Mary%20Magdalene%20in%20Ecstasy%202025.88.1.jpg"
+        },
+        {
+            "title": "Penitent Magdalene",
+            "artist": "Artemisia Gentileschi",
+            "year": "1629",
+            "museum": "Museum Correale",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maddalena%20penitente%20Artemisia.jpg"
+        },
+        {
+            "title": "Penitent Magdalene",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "Museum Correale",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maddalena%20penitente%20Artemisia.jpg"
+        },
+        {
+            "title": "St Catherine of Alexandria",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "http://www.wikidata.org/.well-known/genid/5a053632ba865fc844d624de5f6ec253",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20St%20Catherine%20of%20Alexandria%20-%20WGA8571.jpg"
+        },
+        {
+            "title": "St Catherine of Alexandria",
+            "artist": "Artemisia Gentileschi",
+            "year": "1700",
+            "museum": "http://www.wikidata.org/.well-known/genid/5a053632ba865fc844d624de5f6ec253",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20St%20Catherine%20of%20Alexandria%20-%20WGA8571.jpg"
+        },
+        {
+            "title": "Allegory of painting (oval)",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "http://www.wikidata.org/.well-known/genid/db898b1e82ee6088a5dacf400c87852b",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Allegory%20of%20Painting.png"
+        },
+        {
+            "title": "The Penitent Magdalene in a Landscape",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "http://www.wikidata.org/.well-known/genid/4937015df91c9fc881a53e7543133717",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia-gentileschi-the-penitent-magdalene-in-a-landscape.jpg"
+        },
+        {
+            "title": "St. Catherine of Alexandria",
+            "artist": "Artemisia Gentileschi",
+            "year": "1620",
+            "museum": "El Paso Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20%27Saint%20Catherine%20of%20Alexandria%27%2C%20oil%20on%20canvas%20painting%2C%20c.%201620%2C%20El%20Paso%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Salome with the Head of Saint John the Baptist",
+            "artist": "Artemisia Gentileschi",
+            "year": "1615",
+            "museum": "Museum of Fine Arts, Budapest",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Salome%20with%20the%20Head%20of%20Saint%20John%20the%20Baptist%20by%20Artemisia%20Gentileschi%20ca.%201610-1615.jpg"
+        },
+        {
+            "title": "Judith and her maidservant with the head of Holofernes",
+            "artist": "Artemisia Gentileschi",
+            "year": "1608",
+            "museum": "National Museum of Art, Architecture and Design",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%2C%20Artemisia%20Gentileschi%20-%20Judith%20and%20her%20Maidservant%20with%20the%20Head%20of%20Holofernes%20-%20NG.M.02073%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg"
+        },
+        {
+            "title": "Medea",
+            "artist": "Artemisia Gentileschi",
+            "year": "1620",
+            "museum": "http://www.wikidata.org/.well-known/genid/a04c09402029ba10ab7c8b502b947156",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Medea%20-%20A.%20Gentileschi.jpg"
+        },
+        {
+            "title": "Christ and the Samaritan Woman",
+            "artist": "Artemisia Gentileschi",
+            "year": "1637",
+            "museum": "http://www.wikidata.org/.well-known/genid/6be3f119fd832a6a27643739a6530bab",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20e%20la%20samaritana%20al%20pozzo%20%281637%29%20-%20Artemisia%20Gentileschi.jpg"
+        },
+        {
+            "title": "Susanna and the Elders",
+            "artist": "Artemisia Gentileschi",
+            "year": "1652",
+            "museum": "Pinacoteca Nazionale di Bologna",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Susanna%20and%20the%20Elders%20near%20a%20Balcony.jpg"
+        },
+        {
+            "title": "A Woman Painting a Man (Autoritratto - Allegoria della Pittura)",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "Galleria Nazionale d'Arte Antica",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Autoritratto%20%28Palazzo%20Barberini%29.jpg"
+        },
+        {
+            "title": "Mary Magdalene penitent",
+            "artist": "Artemisia Gentileschi",
+            "year": "1640",
+            "museum": "National Museum of Art, Architecture and Design",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Mary%20Magdalene%20penitent%20-%20NG.M.00236%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg"
+        },
+        {
+            "title": "Saint Sebastian tended by Saint Irene",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "http://www.wikidata.org/.well-known/genid/54de80558fa136b3277420ef2c3c6485",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Saint%20Sebastian%20tended%20by%20Saint%20Irene%20271N10007%20B2JNL.jpg"
+        },
+        {
+            "title": "Lucretia",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "J. Paul Getty Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Lucretia%20-%20J.%20Paul%20Getty%20Museum.jpg"
+        },
+        {
+            "title": "Saint Cecilia",
+            "artist": "Artemisia Gentileschi",
+            "year": "1640",
+            "museum": "John and Mable Ringling Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Cecilia%2C%20ca.%201640s%2C%20SN134.jpg"
+        },
+        {
+            "title": "David and Goliath",
+            "artist": "Artemisia Gentileschi",
+            "year": "1630",
+            "museum": "http://www.wikidata.org/.well-known/genid/d032a2d743510cbd663d9dd09533ce54",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20with%20the%20head%20of%20Goliath%29.jpg"
+        },
+        {
+            "title": "Portrait of a Lady Holding a Fan",
+            "artist": "Artemisia Gentileschi",
+            "year": "1620",
+            "museum": "Sovereign Military Order of Malta",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Lady%20with%20a%20Fan%20by%20Artemisia%20Gentileschi%20ca.%201620-1625.jpg"
+        },
+        {
+            "title": "Portrait of a Gentleman, probably Antoine de Ville",
+            "artist": "Artemisia Gentileschi",
+            "year": "1626",
+            "museum": "http://www.wikidata.org/.well-known/genid/b1167bf61b9c7ae0be411b32a254ba9f",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PORTRAIT%20OF%20A%20GENTLEMAN%2C%20PROBABLY%20ANTOINE%20DE%20VILLE.PNG"
+        },
+        {
+            "title": "Saint Lucy",
+            "artist": "Artemisia Gentileschi",
+            "year": "1637",
+            "museum": "http://www.wikidata.org/.well-known/genid/c3e7291fd2486012bea67fd79effdbfd",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Lucy%20by%20Artemisia%20Gentileschi%20ca.%201636-1638.jpg"
+        }
+    ],
+    "Ito Jakuchu": [
+        {
+            "title": "Cranes",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Freer Gallery of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakuchu%20-%20Cranes%20%281%29%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Cranes, one of a pair",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Freer Gallery of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakuchu%20-%20Cranes%20%282%29%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Chrysanthemums and Rock",
+            "artist": "Ito Jakuchu",
+            "year": "1750",
+            "museum": "Los Angeles County Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Chrysanthemums%20and%20Rock%20LACMA%20AC1994.185.1.jpg"
+        },
+        {
+            "title": "The Thirty-Six Immortal Poets (1 of a pair)",
+            "artist": "Ito Jakuchu",
+            "year": "1798",
+            "museum": "Denver Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ito%20Jakuchu%20-%20The%20Thirty-Six%20Immortal%20Poets%20%281%20of%20a%20pair%29%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "White Cockatoo on a Pine Branch",
+            "artist": "Ito Jakuchu",
+            "year": "1750",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20White%20Cockatoo%20on%20a%20Pine%20Branch%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "White\u00a0Cockatoo",
+            "artist": "Ito Jakuchu",
+            "year": "1755",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ito%20Jakuchu%20-%20White%20Cockatoo%20-%202006.210.7a-b%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Chicken",
+            "artist": "Ito Jakuchu",
+            "year": "1775",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ito%20Jakuchu%20-%20Chicken%20-%202006.210.9%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Lotu",
+            "artist": "Ito Jakuchu",
+            "year": "1767",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ito%20Jakuchu%20-%20Lotu%20-%202006.210.8a-b%20-%20Yale%20University%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Hanshan and Shide (Japanese: Kanzan and Jittoku)",
+            "artist": "Ito Jakuchu",
+            "year": "1783",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Hanshan%20and%20Shide%20%28Japanese%2C%20Kanzan%20and%20Jittoku%29%20-%202015.300.215%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Two Cranes",
+            "artist": "Ito Jakuchu",
+            "year": "1725",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Two%20Cranes%20-%202015.300.214%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "White Plum Blossoms and Moon",
+            "artist": "Ito Jakuchu",
+            "year": "1755",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20White%20Plum%20Blossoms%20and%20Moon%20-%202015.300.213%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Bean Vine",
+            "artist": "Ito Jakuchu",
+            "year": "1750",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP-13583-002.jpg"
+        },
+        {
+            "title": "Hen and Rooster with Grapevine",
+            "artist": "Ito Jakuchu",
+            "year": "1792",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Hen%20and%20Rooster%20with%20Grapevine%20-%201975.268.69%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Old Pine",
+            "artist": "Ito Jakuchu",
+            "year": "1796",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20%E4%BC%8A%E8%97%A4%E8%8B%A5%E5%86%B2%20-%20Old%20Pine%20-%20TL42147.7%20-%20Harvard%20Art%20Museums.jpg"
+        },
+        {
+            "title": "Roosters, Hen, and Chicks [right of a pair]",
+            "artist": "Ito Jakuchu",
+            "year": "1795",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Roosters%2C%20Hen%2C%20and%20Chicks%20%28right%20of%20a%20pair%29%20-%202013.29.311.2%20-%20Minneapolis%20Institute%20of%20Art.jpg"
+        },
+        {
+            "title": "Roosters, Hen, and Chicks [left of a pair]",
+            "artist": "Ito Jakuchu",
+            "year": "1795",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Roosters%2C%20Hen%2C%20and%20Chicks%20%28left%20of%20a%20pair%29%20-%202013.29.311.1%20-%20Minneapolis%20Institute%20of%20Art.jpg"
+        },
+        {
+            "title": "Birds on a Plum Tree",
+            "artist": "Ito Jakuchu",
+            "year": "1795",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Birds%20on%20a%20Plum%20Tree%20-%202017.146.3%20-%20Minneapolis%20Institute%20of%20Art.jpg"
+        },
+        {
+            "title": "Cockerel and Tengu-Mask",
+            "artist": "Ito Jakuchu",
+            "year": "1775",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Cockerel%20and%20Tengu-Mask%20-%2074.1.121%20-%20Minneapolis%20Institute%20of%20Art.jpg"
+        },
+        {
+            "title": "Rooster and Family",
+            "artist": "Ito Jakuchu",
+            "year": "1797",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Rooster%20and%20Family%20-%202015.79.181%20-%20Minneapolis%20Institute%20of%20Art.jpg"
+        },
+        {
+            "title": "New Year's Sun and Old Pine Tree",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20New%20Year%27s%20Sun%20and%20Old%20Pine%20Tree%20-%202013.29.9%20-%20Minneapolis%20Institute%20of%20Art.jpg"
+        },
+        {
+            "title": "Shells",
+            "artist": "Ito Jakuchu",
+            "year": "1700",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Shells%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Rooster and Hen with Hydrangeas",
+            "artist": "Ito Jakuchu",
+            "year": "1759",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Rooster%20and%20Hen%20with%20Hydrangeas%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Golden Pheasants in Snow",
+            "artist": "Ito Jakuchu",
+            "year": "1700",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Setch%C5%AB%20Kinkei-zu%20by%20It%C5%8D%20Jakuch%C5%AB.jpg"
+        },
+        {
+            "title": "Rooster and Sunflowers",
+            "artist": "Ito Jakuchu",
+            "year": "1759",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Rooster%20and%20Sunflowers%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Fish",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Fish%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Blossoming plum under the moon",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Blossoming%20plum%20under%20the%20moon%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Birds on blossoming plum",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Birds%20on%20blossoming%20plum%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Rooster and hen",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Rooster%20and%20hen%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Rose mallows and fowl",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-Rose%20mallows%20and%20fowl%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Cockatoos in an old pine",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Cockatoos%20in%20an%20old%20pine%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "White goose and reeds",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20White%20goose%20and%20reeds%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Birds on blossoming peach tree",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Birds%20on%20blossoming%20peach%20tree%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Peonies and birds",
+            "artist": "Ito Jakuchu",
+            "year": "1800",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Peonies%20and%20birds%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Fish and octopus",
+            "artist": "Ito Jakuchu",
+            "year": "1765",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Fish%20and%20octopus%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Herbaceous peonies and butterflies",
+            "artist": "Ito Jakuchu",
+            "year": "1758",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Herbaceous%20peonies%20and%20butterflies%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Fish in a lotus pond",
+            "artist": "Ito Jakuchu",
+            "year": "1763",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Fish%20in%20a%20lotus%20pond%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Mandarin ducks in the snow",
+            "artist": "Ito Jakuchu",
+            "year": "1759",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Mandarin%20ducks%20in%20the%20snow%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Black rooster and nandin",
+            "artist": "Ito Jakuchu",
+            "year": "1763",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Black%20rooster%20and%20nandin%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
+        },
+        {
+            "title": "Crabs and Peonies",
+            "artist": "Ito Jakuchu",
+            "year": "1749",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20%E4%BC%8A%E8%97%A4%E8%8B%A5%E5%86%B2%20-%20Crabs%20and%20Peonies%20-%202022.166a%E2%80%93c%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Banana Leaves",
+            "artist": "Ito Jakuchu",
+            "year": "1794",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20%E4%BC%8A%E8%97%A4%E8%8B%A5%E5%86%B2%20-%20Banana%20Leaves%20-%202020.396.35%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Autumn Millet and Sparrows",
+            "artist": "Ito Jakuchu",
+            "year": "1759",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autumn%20Millet%20and%20Sparrows%20by%20Ito%20Jakuchu%20%28Sannomaru%20Shozokan%29.jpg"
+        },
+        {
+            "title": "Elephant and Whale",
+            "artist": "Ito Jakuchu",
+            "year": "1795",
+            "museum": "Miho Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elephant%20and%20Whale%20Screens%20by%20Ito%20Jakuchu%20%28Miho%20Museum%29R.jpg"
+        },
+        {
+            "title": "Elephant and Whale",
+            "artist": "Ito Jakuchu",
+            "year": "1795",
+            "museum": "Miho Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elephant%20and%20Whale%20Screens%20by%20Ito%20Jakuchu%20%28Miho%20Museum%29L.jpg"
+        }
+    ]
 }
