@@ -2,11 +2,6 @@ import os
 import warnings
 import urllib.parse
 import re
-
-# --- FORCE SUPPRESS MAC LIBRESSL WARNINGS ---
-warnings.filterwarnings("ignore", module="urllib3")
-warnings.simplefilter("ignore")
-
 import json
 import time
 import requests
@@ -15,68 +10,69 @@ import subprocess
 from io import BytesIO
 from PIL import Image, ImageDraw, ImageFont
 
+# --- FORCE SUPPRESS MAC LIBRESSL WARNINGS ---
+warnings.filterwarnings("ignore", module="urllib3")
+warnings.simplefilter("ignore")
+
 # --- CONFIGURATION ---
 TARGET_IMAGES = 2000
 GITHUB_PAGES_URL = "https://laxmikantpathade.com/roku-art-channel"
-DELAY_BETWEEN_DOWNLOADS = 5 
+DELAY_BETWEEN_DOWNLOADS = 10 
+SPARQL_CACHE_FILE = "sparql_cache.json"
 
-# Polite header for the JSON API
+# Polite headers for the data search (Wikidata loves Bots)
 API_HEADERS = {
-    "User-Agent": "RokuArtChannel/1.0 (https://laxmikantpathade.com; lpathade@example.com)"
+    "User-Agent": "RokuArtChannel/2.0 (https://laxmikantpathade.com; lpathade@example.com) Python-requests/2.31"
 }
 
-# Chrome browser disguise to bypass the 403 CDN blocks on the image server
+# Browser mask for the heavy image CDN (Wikimedia Commons hates Bots)
 DOWNLOAD_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://commons.wikimedia.org/"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "image/jpeg,image/png,image/webp,*/*;q=0.8"
 }
 
-# Massive, diverse list of Public Domain artists spanning historical importance
 PUBLIC_DOMAIN_ARTISTS = [
-    # --- The European Classics ---
     "Leonardo da Vinci", "Rembrandt", "Johannes Vermeer", "Claude Monet", 
     "Vincent van Gogh", "Diego Velázquez", "Caravaggio", "Titian", 
     "J.M.W. Turner", "Gustav Klimt", "Georges Seurat", "Francisco Goya",
     "Jean-Honoré Fragonard", "Sandro Botticelli", "Edgar Degas", "John William Waterhouse",
     "Pierre-Auguste Renoir", "Wassily Kandinsky", "Camille Pissarro", "Paul Cézanne",
-    
-    # --- East Asian Masters ---
-    "Katsushika Hokusai", "Utagawa Hiroshige", "Katsushika Ōi", 
-    "Hasegawa Tōhaku", "Kuroda Seiki", "Ito Jakuchu",
-    "Shen Zhou", "Ma Yuan", "Qiu Ying", "Gao Fenghan", 
-    "Jeong Seon", "Kim Hong-do", "Shin Yun-bok", 
-    
-    # --- South Asian & Islamic World ---
-    "Raja Ravi Varma", "Nainsukh", "Bishandas", "Ustad Mansur", 
-    "Kamāl ud-Dīn Behzād", "Reza Abbasi", "Mahmud al-Wasiti", 
-    
-    # --- The Americas & Pioneers ---
-    "José María Velasco", "Joaquín Clausell", "Félix Émile Taunay", 
-    "Robert S. Duncanson", "Edward Mitchell Bannister", 
-    "Mary Cassatt", "Winslow Homer", "Thomas Cole", "John Singer Sargent",
-    
-    # --- Female Masters ---
-    "Artemisia Gentileschi", "Élisabeth Vigée Le Brun", "Sofonisba Anguissola", 
-    "Judith Leyster", "Rosa Bonheur", "Clara Peeters", "Rachel Ruysch", 
-    "Hilma af Klint", "Berthe Morisot", "Angelica Kauffman",
-    
-    # --- Eastern European & Russian ---
+    "Katsushika Hokusai", "Utagawa Hiroshige", "Katsushika Ōi", "Hasegawa Tōhaku", 
+    "Kuroda Seiki", "Ito Jakuchu", "Shen Zhou", "Ma Yuan", "Qiu Ying", "Gao Fenghan", 
+    "Jeong Seon", "Kim Hong-do", "Shin Yun-bok", "Raja Ravi Varma", "Nainsukh", 
+    "Bishandas", "Ustad Mansur", "Kamāl ud-Dīn Behzād", "Reza Abbasi", "Mahmud al-Wasiti", 
+    "José María Velasco", "Joaquín Clausell", "Félix Émile Taunay", "Robert S. Duncanson", 
+    "Edward Mitchell Bannister", "Mary Cassatt", "Winslow Homer", "Thomas Cole", 
+    "John Singer Sargent", "Artemisia Gentileschi", "Élisabeth Vigée Le Brun", 
+    "Sofonisba Anguissola", "Judith Leyster", "Rosa Bonheur", "Clara Peeters", 
+    "Rachel Ruysch", "Hilma af Klint", "Berthe Morisot", "Angelica Kauffman",
     "Ilya Repin", "Ivan Aivazovsky", "Ivan Shishkin", "Mikhail Vrubel",
     "Józef Chełmoński", "Jan Matejko", "Tivadar Csontváry Kosztka"
 ]
 
 session = requests.Session()
 
-def safe_get(url, headers, params=None, timeout=15):
-    max_retries = 3
-    for attempt in range(max_retries):
+def load_json_file(filename, default_val):
+    if os.path.exists(filename):
+        with open(filename, "r") as f:
+            try:
+                return json.load(f)
+            except json.JSONDecodeError:
+                pass
+    return default_val
+
+def save_json_file(data, filename):
+    with open(filename, "w") as f:
+        json.dump(data, f, indent=4)
+
+def safe_get(url, headers, params=None, timeout=20):
+    for attempt in range(4):
         try:
-            res = session.get(url, headers=headers, params=params, timeout=timeout)
+            res = session.get(url, headers=headers, params=params, timeout=timeout, allow_redirects=True)
             if res.status_code == 429:
-                wait_time = (attempt + 1) * 10  
-                print(f"   ⏳ Rate limited (HTTP 429). Waiting {wait_time}s...")
+                retry_after = res.headers.get("Retry-After")
+                wait_time = int(retry_after) if retry_after else (attempt + 1) * 30
+                print(f"   ⏳ Rate Limit hit (HTTP 429). Pausing strictly for {wait_time}s...")
                 time.sleep(wait_time)
                 continue
             return res
@@ -85,64 +81,119 @@ def safe_get(url, headers, params=None, timeout=15):
             time.sleep(5)
     return None
 
-def load_existing_progress():
-    if os.path.exists("feed.json"):
-        with open("feed.json", "r") as f:
-            try:
-                data = json.load(f)
-                if "artwork_list" in data:
-                    return data["artwork_list"]
-            except json.JSONDecodeError:
-                pass
-    return []
-
-def save_progress(artwork_list):
-    with open("feed.json", "w") as f:
-        json.dump({"artwork_list": artwork_list}, f, indent=4)
-
 def normalize_title(title):
     title = str(title).lower()
     title = re.sub(r'\b(the|a|an)\b', '', title)
     title = re.sub(r'[^a-z0-9]', '', title)
     return title
 
-def get_curated_art_suggestion():
-    """Asks Ollama to choose a masterpiece and grade its global artistic importance."""
-    artist = random.choice(PUBLIC_DOMAIN_ARTISTS)
+def get_real_painting_from_wikidata(artist_name, seen_titles, sparql_cache):
+    """Pulls from local hard-drive cache first. Uses SPARQL only if cache is empty."""
     
+    # 1. Check our persistent cache first
+    if artist_name in sparql_cache:
+        if sparql_cache[artist_name]: # We have paintings!
+            idx = random.randint(0, len(sparql_cache[artist_name]) - 1)
+            painting = sparql_cache[artist_name].pop(idx)
+            save_json_file(sparql_cache, SPARQL_CACHE_FILE) # Update the file
+            return painting
+        else:
+            return None
+
+    print(f"   🌐 Cache miss for {artist_name}. Executing SPARQL query to Wikidata...")
+    time.sleep(5) # Polite delay before SPARQL
+
+    # 2. Look up the artist's QID
+    search_params = {"action": "wbsearchentities", "search": artist_name, "language": "en", "format": "json", "limit": 1}
+    res = safe_get("https://www.wikidata.org/w/api.php", headers=API_HEADERS, params=search_params)
+    if not res or not res.json().get('search'): 
+        sparql_cache[artist_name] = [] 
+        save_json_file(sparql_cache, SPARQL_CACHE_FILE)
+        return None
+        
+    artist_qid = res.json()['search'][0]['id']
+
+    # 3. Pull 100 paintings at once via SPARQL
+    query = f"""
+    SELECT ?artworkLabel ?year ?museumLabel ?image WHERE {{
+      ?artwork wdt:P31 wd:Q3305213;
+               wdt:P170 wd:{artist_qid};
+               wdt:P18 ?image;
+               wdt:P571 ?date.
+      BIND(YEAR(?date) AS ?year)
+      OPTIONAL {{ ?artwork wdt:P195 ?museum. }}
+      SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+    }} LIMIT 100
+    """
+    
+    headers = {"Accept": "application/sparql-results+json", **API_HEADERS}
+    res = safe_get("https://query.wikidata.org/sparql", headers=headers, params={'query': query})
+    
+    if not res: 
+        return None
+    
+    results = res.json().get('results', {}).get('bindings', [])
+    valid_paintings = []
+    
+    # 4. Clean up the data
+    for r in results:
+        title = r.get('artworkLabel', {}).get('value', '')
+        if not title or re.match(r'^Q\d+', title): 
+            continue
+            
+        norm_title = normalize_title(title)
+        if norm_title in seen_titles:
+            continue
+
+        museum = r.get('museumLabel', {}).get('value', 'Historical Collection')
+        if re.match(r'^Q\d+', museum):
+            museum = "Historical Collection"
+            
+        valid_paintings.append({
+            'title': title,
+            'artist': artist_name,
+            'year': r.get('year', {}).get('value', 'Unknown'),
+            'museum': museum,
+            'image_url': r.get('image', {}).get('value', '')
+        })
+        
+    # 5. Store them permanently on the hard drive and return one
+    sparql_cache[artist_name] = valid_paintings
+    save_json_file(sparql_cache, SPARQL_CACHE_FILE)
+    
+    if valid_paintings:
+        idx = random.randint(0, len(sparql_cache[artist_name]) - 1)
+        painting = sparql_cache[artist_name].pop(idx)
+        save_json_file(sparql_cache, SPARQL_CACHE_FILE)
+        return painting
+        
+    return None
+
+def review_painting_with_ollama(painting_meta):
     prompt = (
-        f"You are an expert art curator channeling catalog metrics from top replication indexing resources like TOPofART.\n"
-        f"Select one real, highly-famed painting by the artist: {artist}.\n"
+        f"You are an expert art curator.\n"
+        f"Review this REAL artwork for inclusion in our premium catalog:\n"
+        f"Title: {painting_meta['title']}\n"
+        f"Artist: {painting_meta['artist']}\n"
+        f"Year: {painting_meta['year']}\n\n"
         "REQUIREMENTS:\n"
-        "1. It MUST be created before 1920 (strictly public domain).\n"
-        "2. Evaluate the artwork's global recognition, reproductive popularity, and historic impact on a scale from 0.0 to 10.0 (where 10.0 are elite masterworks like Mona Lisa, Starry Night, or The Kiss).\n"
-        "3. Provide a high-quality, engaging 100-word history and description.\n"
-        "You must respond ONLY with a raw JSON object matching this exact structure:\n"
+        "1. Evaluate its global historical importance on a scale from 0.0 to 10.0.\n"
+        "2. Provide a high-quality, engaging 100-word history and description.\n"
+        "Respond ONLY with a raw JSON object matching this exact structure:\n"
         '{\n'
-        '  "title": "Exact Artwork Title",\n'
-        '  "artist": "Exact Artist Name",\n'
-        '  "year": "Year Created",\n'
-        '  "museum": "Current Location/Museum",\n'
         '  "importance_rating": 8.5,\n'
-        '  "description": "A deep and beautiful background story about the painting\'s meaning and cultural legacy."\n'
+        '  "description": "..."\n'
         '}\n'
     )
     
     try:
         response = requests.post("http://localhost:11434/api/generate", 
-                                 json={
-                                     "model": "llama3.2", 
-                                     "prompt": prompt, 
-                                     "stream": False,
-                                     "format": "json", 
-                                     "options": {"temperature": 0.75}
-                                 }, timeout=120) 
-        
+                                 json={"model": "llama3.2", "prompt": prompt, "stream": False, "format": "json"}, 
+                                 timeout=60)
         if response.status_code == 200:
-            raw_response = response.json().get("response", "").strip()
-            return json.loads(raw_response)
+            return json.loads(response.json().get("response", "").strip())
     except Exception as e:
-        print(f"⚠️ Error contacting Ollama: {e}")
+        print(f"⚠️ Ollama Error: {e}")
     return None
 
 def pad_and_resize_16_9(img):
@@ -197,118 +248,6 @@ def stamp_image(img_bytes, metadata, output_filename):
         print(f"❌ Failed to stamp image layouts: {e}")
         return False
 
-def fetch_and_stamp_image(metadata, image_filename):
-    """Searches text natively on Wikidata, then validates structure (P31) and decade era (P571) in code."""
-    title_clean = str(metadata.get('title', '')).strip()
-    artist_clean = str(metadata.get('artist', '')).strip()
-    
-    try:
-        target_year = int(re.search(r'\d{4}', str(metadata.get('year', ''))).group())
-    except (ValueError, TypeError, AttributeError):
-        target_year = None
-
-    # Artwork / Painting unique identification signatures
-    PAINTING_SIGNATURES = ["Q3305213", "Q838948"]
-
-    try:
-        # Step 1: Query natively via clean text match terms (no syntax injection to prevent default fallback)
-        search_query = f"{title_clean} {artist_clean}"
-        search_params = {"action": "wbsearchentities", "search": search_query, "language": "en", "format": "json", "limit": 7}
-        
-        search_res = safe_get("https://www.wikidata.org/w/api.php", headers=API_HEADERS, params=search_params)
-        if not search_res or search_res.status_code != 200:
-            return False
-        search_data = search_res.json()
-        
-        # Fallback 1: Try searching for just the painting name if artist pairing limits results
-        if not search_data.get("search"):
-            search_params["search"] = title_clean
-            search_res = safe_get("https://www.wikidata.org/w/api.php", headers=API_HEADERS, params=search_params)
-            if search_res and search_res.status_code == 200:
-                search_data = search_res.json()
-
-        if not search_data.get("search"):
-            return False
-        
-        q_ids = [res["id"] for res in search_data["search"]]
-        
-        # Step 2: Grab the entity details to inspect P31 (type), P18 (image), and P571 (date)
-        entity_params = {
-            "action": "wbgetentities",
-            "ids": "|".join(q_ids),
-            "props": "claims",
-            "format": "json"
-        }
-        entity_res = safe_get("https://www.wikidata.org/w/api.php", headers=API_HEADERS, params=entity_params)
-        if not entity_res or entity_res.status_code != 200:
-            return False
-            
-        entities = entity_res.json().get("entities", {})
-        file_name = None
-        
-        # Step 3: Loop through candidates and validate their inner properties programmatically
-        for q_id in q_ids:
-            claims = entities.get(q_id, {}).get("claims", {})
-            
-            # Guard A: It MUST have an attached image
-            if "P18" not in claims:
-                continue
-                
-            # Guard B: Ensure it is an instance of a painting or visual art work (P31)
-            if "P31" in claims:
-                instance_ids = [c["mainsnak"]["datavalue"]["value"]["id"] for c in claims["P31"] if "datavalue" in c["mainsnak"]]
-                if not any(idx in PAINTING_SIGNATURES for idx in instance_ids):
-                    continue  # Drops books, biographies, etc.
-            
-            # Guard C: Historical Decade Validation Check (P571)
-            if target_year and "P571" in claims:
-                try:
-                    time_datavalue = claims["P571"][0]["mainsnak"]["datavalue"]["value"]
-                    wikidata_time_str = time_datavalue.get("time", "")
-                    
-                    year_match = re.search(r'\+?(-?\d{4})', wikidata_time_str)
-                    if year_match:
-                        wikidata_year = int(year_match.group(1))
-                        # Skip if there's an anachronistic era drift of more than 15 years
-                        if abs(wikidata_year - target_year) > 15:
-                            print(f"   ⏳ Era Mismatch: Found matching text title, but Wikidata year ({wikidata_year}) drops out of target range ({target_year}). Skipping candidate...")
-                            continue
-                except Exception:
-                    pass
-
-            # Found a match that passes our programmatic check criteria!
-            file_name = claims["P18"][0]["mainsnak"]["datavalue"]["value"]
-            break
-                
-        if not file_name:
-            print("   ❌ Match Error: None of the visual text matches fit your structural or era criteria.")
-            return False
-        
-        # Step 4: Ask Wikimedia Commons for the 1920px rendering layout pipeline URL
-        commons_params = {"action": "query", "titles": f"File:{file_name}", "prop": "imageinfo", "iiprop": "url", "iiurlwidth": "1920", "format": "json"}
-        commons_res = safe_get("https://commons.wikimedia.org/w/api.php", headers=API_HEADERS, params=commons_params)
-        if not commons_res or commons_res.status_code != 200:
-            return False
-            
-        img_url = None
-        pages = commons_res.json().get("query", {}).get("pages", {})
-        for page_id, page_info in pages.items():
-            if "imageinfo" in page_info:
-                info = page_info["imageinfo"][0]
-                img_url = info.get("thumburl") or info.get("url")
-                break
-                
-        if img_url:
-            img_res = safe_get(img_url, headers=DOWNLOAD_HEADERS, timeout=20)
-            if img_res and img_res.status_code == 200:
-                img_data = img_res.content
-                if len(img_data) >= 15000:
-                    return stamp_image(img_data, metadata, image_filename)
-        
-    except Exception as e:
-        print(f"   ❌ Processing Error: {e}")
-    return False
-
 def push_to_github():
     print("\n🚀 Pushing progress milestone batch to GitHub...")
     try:
@@ -321,66 +260,96 @@ def push_to_github():
 
 def run_bulk_collector():
     print("🤖 Smart Curated Bulk Collector initializing...")
-    artwork_list = load_existing_progress()
+    
+    # Load primary feed and build seen titles
+    feed_data = load_json_file("feed.json", {"artwork_list": []})
+    artwork_list = feed_data.get("artwork_list", [])
     current_count = len(artwork_list)
     
     seen_titles = set()
     for art in artwork_list:
         raw_title = art["title"].split(" by ")[0] 
         seen_titles.add(normalize_title(raw_title))
+        
+    # Load persistent SPARQL Cache
+    sparql_cache = load_json_file(SPARQL_CACHE_FILE, {})
     
     print(f"📂 Found {current_count} existing artworks in feed.json.")
+    print(f"🗃️ Loaded SPARQL Cache containing data for {len(sparql_cache.keys())} artists.")
     
     while current_count < TARGET_IMAGES:
-        print(f"\n[{current_count + 1}/{TARGET_IMAGES}] 🧠 Asking Ollama for a curated masterpiece suggestion...")
-        meta = get_curated_art_suggestion()
+        artist = random.choice(PUBLIC_DOMAIN_ARTISTS)
+        print(f"\n[{current_count + 1}/{TARGET_IMAGES}] 🔍 Processing {artist}...")
         
-        if not meta or not meta.get("title") or not meta.get("artist"):
+        painting_meta = get_real_painting_from_wikidata(artist, seen_titles, sparql_cache)
+        
+        if not painting_meta:
+            print("   ⏭️ No historical assets found for this artist. Skipping...")
+            if artist in PUBLIC_DOMAIN_ARTISTS:
+                PUBLIC_DOMAIN_ARTISTS.remove(artist)
             time.sleep(1)
             continue
             
-        raw_new_title = meta.get("title", "")
-        normalized_new_title = normalize_title(raw_new_title)
+        print(f"   🖼️ Found verified piece: '{painting_meta['title']}' ({painting_meta['year']})")
+        print(f"   🧠 Asking Ollama to review and write a catalog description...")
         
-        if normalized_new_title in seen_titles:
-            print(f"⚠️ Already tracked '{raw_new_title}'. Skipping...")
+        ollama_review = review_painting_with_ollama(painting_meta)
+        if not ollama_review:
             continue
             
         try:
-            rating = float(meta.get("importance_rating", 0))
+            rating = float(ollama_review.get("importance_rating", 0))
         except (ValueError, TypeError):
             rating = 0
             
-        print(f"📋 Curation Review: '{raw_new_title}' by {meta.get('artist')} graded at a {rating}/10 importance.")
+        print(f"📋 Curation Review Graded at: {rating}/10 importance.")
         
         if rating < 8.0:
-            print(f"🛑 Dropped. Score is below the 8.0 quality threshold for the prime collection.")
+            print(f"🛑 Dropped. Score is below the 8.0 quality threshold.")
+            seen_titles.add(normalize_title(painting_meta['title']))
             continue
             
-        full_title_string = f"{raw_new_title} by {meta.get('artist')}"
-        print(f"🌟 High-tier Masterpiece Accepted! Initiating fetch protocol...")
+        print(f"🌟 High-tier Masterpiece Accepted! Downloading asset...")
         image_filename = f"art_{current_count + 1}.jpg"
+        base_image_url = painting_meta['image_url']
+        download_url = f"{base_image_url}?width=1920"
         
-        success = fetch_and_stamp_image(meta, image_filename)
+        # 1. Try fetching the 1920px thumbnail
+        img_res = safe_get(download_url, headers=DOWNLOAD_HEADERS, timeout=20)
         
-        if success:
-            print(f"✅ Successfully stamped and saved as {image_filename}")
-            new_entry = {
-                "title": full_title_string,
-                "image_url": f"{GITHUB_PAGES_URL}/{image_filename}",
-                "year": meta.get("year"),
-                "museum": meta.get("museum"),
-                "description": meta.get("description", "")
-            }
-            artwork_list.append(new_entry)
-            seen_titles.add(normalized_new_title) 
-            save_progress(artwork_list)
-            current_count += 1
-            
-            if current_count % 25 == 0:
-                push_to_github()
+        # 2. Fallback Mechanism: If the thumbnail fails or is too small, fetch the raw original image
+        if img_res is None or img_res.status_code != 200 or len(img_res.content) < 10000:
+            print("   ⚠️ 1920px thumbnail failed or is too small. Attempting original full-size image fallback...")
+            img_res = safe_get(base_image_url, headers=DOWNLOAD_HEADERS, timeout=30)
+        
+        # 3. Comprehensive Error Checking
+        if img_res is None:
+            print("   ❌ Network completely failed to connect to Wikimedia Commons.")
+        elif img_res.status_code != 200:
+            print(f"   ❌ Wikimedia Image CDN rejected the request (HTTP {img_res.status_code}).")
+        elif len(img_res.content) < 10000:
+            print(f"   ❌ Downloaded file is too small ({len(img_res.content)} bytes). Image likely corrupted or protected.")
         else:
-            print(f"⏭️ Media asset unretrievable on Wikidata. Skipping.")
+            success = stamp_image(img_res.content, painting_meta, image_filename)
+            
+            if success:
+                print(f"✅ Successfully stamped and saved as {image_filename}")
+                new_entry = {
+                    "title": f"{painting_meta['title']} by {painting_meta['artist']}",
+                    "image_url": f"{GITHUB_PAGES_URL}/{image_filename}",
+                    "year": painting_meta['year'],
+                    "museum": painting_meta['museum'],
+                    "description": ollama_review.get("description", "")
+                }
+                artwork_list.append(new_entry)
+                seen_titles.add(normalize_title(painting_meta['title']))
+                
+                # Save progress
+                save_json_file({"artwork_list": artwork_list}, "feed.json")
+                current_count += 1
+                
+                if current_count % 25 == 0:
+                    push_to_github()
         
         time.sleep(DELAY_BETWEEN_DOWNLOADS)
         
