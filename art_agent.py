@@ -81,7 +81,7 @@ def safe_get(url, headers, params=None, timeout=15):
                 continue
             return res
         except requests.exceptions.RequestException as e:
-            print(f"   ⚠️ Connection hiccup: {e}. Retrying...")
+            print(f"   ⚠️ Connection hiccup: {e}. Retrying in 5s...")
             time.sleep(5)
     return None
 
@@ -101,7 +101,7 @@ def save_progress(artwork_list):
         json.dump({"artwork_list": artwork_list}, f, indent=4)
 
 def normalize_title(title):
-    title = title.lower()
+    title = str(title).lower()
     title = re.sub(r'\b(the|a|an)\b', '', title)
     title = re.sub(r'[^a-z0-9]', '', title)
     return title
@@ -185,10 +185,10 @@ def stamp_image(img_bytes, metadata, output_filename):
         img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
         
         draw = ImageDraw.Draw(img)
-        line_1_text = f"{metadata.get('title', '').strip()}  ·  {metadata.get('artist', '').strip()}"
+        line_1_text = f"{str(metadata.get('title', '')).strip()}  ·  {str(metadata.get('artist', '')).strip()}"
         draw.text((50, height - banner_height + 25), line_1_text, font=title_font, fill="white")
         
-        line_2_text = f"{metadata.get('year', '').strip()}  ·  {metadata.get('museum', '').strip()}"
+        line_2_text = f"{str(metadata.get('year', '')).strip()}  ·  {str(metadata.get('museum', '')).strip()}"
         draw.text((50, height - banner_height + 80), line_2_text, font=sub_font, fill="rgb(225,225,225)")
         
         img.save(output_filename, "JPEG", quality=90)
@@ -198,44 +198,93 @@ def stamp_image(img_bytes, metadata, output_filename):
         return False
 
 def fetch_and_stamp_image(metadata, image_filename):
-    title_clean = metadata.get('title', '').strip()
-    artist_clean = metadata.get('artist', '').strip()
+    """Searches text natively on Wikidata, then validates structure (P31) and decade era (P571) in code."""
+    title_clean = str(metadata.get('title', '')).strip()
+    artist_clean = str(metadata.get('artist', '')).strip()
+    
+    try:
+        target_year = int(re.search(r'\d{4}', str(metadata.get('year', ''))).group())
+    except (ValueError, TypeError, AttributeError):
+        target_year = None
+
+    # Artwork / Painting unique identification signatures
+    PAINTING_SIGNATURES = ["Q3305213", "Q838948"]
 
     try:
+        # Step 1: Query natively via clean text match terms (no syntax injection to prevent default fallback)
         search_query = f"{title_clean} {artist_clean}"
-        search_params = {"action": "wbsearchentities", "search": search_query, "language": "en", "format": "json", "limit": 5}
-        search_res = safe_get("https://www.wikidata.org/w/api.php", headers=API_HEADERS, params=search_params)
+        search_params = {"action": "wbsearchentities", "search": search_query, "language": "en", "format": "json", "limit": 7}
         
+        search_res = safe_get("https://www.wikidata.org/w/api.php", headers=API_HEADERS, params=search_params)
         if not search_res or search_res.status_code != 200:
             return False
         search_data = search_res.json()
         
+        # Fallback 1: Try searching for just the painting name if artist pairing limits results
         if not search_data.get("search"):
             search_params["search"] = title_clean
             search_res = safe_get("https://www.wikidata.org/w/api.php", headers=API_HEADERS, params=search_params)
-            if not search_res or search_res.status_code != 200:
-                return False
-            search_data = search_res.json()
-            if not search_data.get("search"):
-                return False
+            if search_res and search_res.status_code == 200:
+                search_data = search_res.json()
+
+        if not search_data.get("search"):
+            return False
         
-        q_ids = [res["id"] for res in search_data["search"][:5]]
-        entity_params = {"action": "wbgetentities", "ids": "|".join(q_ids), "props": "claims", "format": "json"}
+        q_ids = [res["id"] for res in search_data["search"]]
+        
+        # Step 2: Grab the entity details to inspect P31 (type), P18 (image), and P571 (date)
+        entity_params = {
+            "action": "wbgetentities",
+            "ids": "|".join(q_ids),
+            "props": "claims",
+            "format": "json"
+        }
         entity_res = safe_get("https://www.wikidata.org/w/api.php", headers=API_HEADERS, params=entity_params)
         if not entity_res or entity_res.status_code != 200:
             return False
             
         entities = entity_res.json().get("entities", {})
         file_name = None
+        
+        # Step 3: Loop through candidates and validate their inner properties programmatically
         for q_id in q_ids:
             claims = entities.get(q_id, {}).get("claims", {})
-            if "P18" in claims:
-                file_name = claims["P18"][0]["mainsnak"]["datavalue"]["value"]
-                break
+            
+            # Guard A: It MUST have an attached image
+            if "P18" not in claims:
+                continue
+                
+            # Guard B: Ensure it is an instance of a painting or visual art work (P31)
+            if "P31" in claims:
+                instance_ids = [c["mainsnak"]["datavalue"]["value"]["id"] for c in claims["P31"] if "datavalue" in c["mainsnak"]]
+                if not any(idx in PAINTING_SIGNATURES for idx in instance_ids):
+                    continue  # Drops books, biographies, etc.
+            
+            # Guard C: Historical Decade Validation Check (P571)
+            if target_year and "P571" in claims:
+                try:
+                    time_datavalue = claims["P571"][0]["mainsnak"]["datavalue"]["value"]
+                    wikidata_time_str = time_datavalue.get("time", "")
+                    
+                    year_match = re.search(r'\+?(-?\d{4})', wikidata_time_str)
+                    if year_match:
+                        wikidata_year = int(year_match.group(1))
+                        # Skip if there's an anachronistic era drift of more than 15 years
+                        if abs(wikidata_year - target_year) > 15:
+                            print(f"   ⏳ Era Mismatch: Found matching text title, but Wikidata year ({wikidata_year}) drops out of target range ({target_year}). Skipping candidate...")
+                            continue
+                except Exception:
+                    pass
+
+            # Found a match that passes our programmatic check criteria!
+            file_name = claims["P18"][0]["mainsnak"]["datavalue"]["value"]
+            break
                 
         if not file_name:
+            print("   ❌ Match Error: None of the visual text matches fit your structural or era criteria.")
             return False
         
+        # Step 4: Ask Wikimedia Commons for the 1920px rendering layout pipeline URL
         commons_params = {"action": "query", "titles": f"File:{file_name}", "prop": "imageinfo", "iiprop": "url", "iiurlwidth": "1920", "format": "json"}
         commons_res = safe_get("https://commons.wikimedia.org/w/api.php", headers=API_HEADERS, params=commons_params)
         if not commons_res or commons_res.status_code != 200:
@@ -257,7 +306,7 @@ def fetch_and_stamp_image(metadata, image_filename):
                     return stamp_image(img_data, metadata, image_filename)
         
     except Exception as e:
-        print(f"   ❌ Network/Processing Error: {e}")
+        print(f"   ❌ Processing Error: {e}")
     return False
 
 def push_to_github():
@@ -293,13 +342,10 @@ def run_bulk_collector():
         raw_new_title = meta.get("title", "")
         normalized_new_title = normalize_title(raw_new_title)
         
-        # Check for duplicates
         if normalized_new_title in seen_titles:
             print(f"⚠️ Already tracked '{raw_new_title}'. Skipping...")
             continue
             
-        # --- THE CURATOR RATING FILTER ---
-        # Read the scale assessment rating provided by Ollama
         try:
             rating = float(meta.get("importance_rating", 0))
         except (ValueError, TypeError):
