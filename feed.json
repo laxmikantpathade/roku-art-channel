@@ -484,6 +484,13 @@
             "description": "Created in 1906, The Blue Mountain is one of Hilma af Klint\\u2019s most iconic works. This enigmatic painting represents the artist\\u2019s spiritual explorations and her connection to nature. Af Klint believed that she was receiving visions from the spirit world, which she depicted through bold brushstrokes and vivid colors. The Blue Mountain is a testament to af Klint\\u2019s unique style and her place as a pioneer of abstract art."
         },
         {
+            "title": "Madame du Barry by \\u00c9lisabeth Vigêre Le Brun",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_78.jpg",
+            "year": "1782",
+            "museum": "Musée Condé National d'Art Ancien et Moderne de Sévres",
+            "description": "Madame du Barry, painted in 1782, is a captivating portrait of Marie Jeanne Bouchard de Brinvilliers, the last mistress of King Louis XV of France. This enigmatic portrait showcases Vigêre Le Brun's mastery of capturing the subtleties of her subject's character and elegance. The painting's significance extends beyond its aesthetic appeal, as it offers a glimpse into the intricacies of 18th-century French court politics and the complex relationships between monarchs and their mistresses."
+        },
+        {
             "title": "A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_79.jpg",
             "year": "1886",
@@ -496,13 +503,6 @@
             "year": "1882",
             "museum": "National Gallery of Art",
             "description": "A vibrant depiction of a Spanish dance performance, El Jaleo captures the dynamic energy and color of 19th-century Spain. Created during Sargent's time in Madrid, the painting showcases his fascination with the country's rich cultural heritage. The National Gallery of Art's acquisition of the work in 1942 highlighted its significance as a masterpiece of American Impressionism."
-        },
-        {
-            "title": "The Virgin and Child with Saint John the Baptist by Rachel Ruysch",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_81.jpg",
-            "year": "1669",
-            "museum": "Rijksmuseum (Amsterdam)",
-            "description": "This 17th-century painting is a masterpiece of Dutch Golden Age art. Created in 1669, it showcases Ruysch's exceptional skill in capturing the intimacy between the Virgin and Child. The serene atmosphere and delicate lighting create a sense of quiet reverence, inviting viewers to contemplate the divine relationship. As one of the few female artists of her time to gain recognition, Ruysch's work continues to inspire admiration for its beauty and emotional depth."
         },
         {
             "title": "The Battle of Karbala by Reza Abbasi",
@@ -2064,6 +2064,13 @@
             "year": "1870",
             "museum": "National Museum of Western Art",
             "description": "Created during Japan's Meiji period, Kokka is a landmark painting showcasing the artist's unique blend of traditional and modern elements. The vibrant, abstracted landscape evokes the tumultuous emotions of a nation undergoing rapid change. This groundbreaking work helped establish Hasegawa as one of Japan's leading artists of the time, paving the way for future generations of Japanese modernists."
+        },
+        {
+            "title": "Self-Portrait as the Allegory of Painting by Artemisia Gentileschi",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_297.jpg",
+            "year": "1638",
+            "museum": "Galleria Nazionale d'Arte Antica, Rome",
+            "description": "In this iconic self-portrait, Artemisia Gentileschi depicts herself as a strong and determined woman, subverting the conventions of Renaissance art. Created in 1638, the painting showcases her exceptional skill as an artist and her ability to convey emotion and depth through her work. As one of the first female artists to achieve widespread recognition during the Baroque period, Gentileschi's self-portrait continues to inspire and captivate audiences today."
         }
     ]
 }
