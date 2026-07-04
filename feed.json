@@ -1345,6 +1345,13 @@
             "description": "Qatran is a 16th-century Persian miniature painting attributed to Ustad Mansur. The intricate work of art depicts a court scene with figures dancing and playing musical instruments. Qatran showcases the rich cultural heritage of ancient Persia, with its vibrant colors and delicate details reflecting the artistic sophistication of the Safavid period. As one of the most renowned artists of his time, Ustad Mansur's Qatran is a testament to the enduring legacy of Persian art."
         },
         {
+            "title": "Flower Arrangement by Kuroda Seiki",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_208.jpg",
+            "year": "1880",
+            "museum": "Tokyo National Museum",
+            "description": "Created in 1880, Flower Arrangement is a stunning example of Japanese art during the Meiji period. This painting showcases Kuroda Seiki's skillful brushstrokes and attention to detail. A popular subject in Japanese culture, flower arrangements are often seen as a symbol of peace, harmony, and nature. As a work of art, Flower Arrangement embodies the beauty and serenity of Japanese aesthetics, captivating viewers with its serene composition and vibrant colors."
+        },
+        {
             "title": "The Portuguese by Félix êmile Taunay",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_209.jpg",
             "year": "1893",
@@ -1359,11 +1366,18 @@
             "description": "A pioneering representation of rural French life, The Haulers showcases Rosa Bonheur's intimate portrayal of peasant labor. This 1857 masterpiece captures the struggle and dignity of rural workers, reflecting her empathetic understanding of their plight. Commissioned by Napoleon III, the painting exemplifies Bonheur's exceptional skill in capturing the essence of the human experience through naturalistic depictions."
         },
         {
-            "title": "The Lady with a Fan by Shen Zhou",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_213.jpg",
-            "year": "1777",
-            "museum": "National Palace Museum",
-            "description": "This captivating portrait of a Chinese woman playing the zither is a masterpiece of Qing dynasty art. Created in 1777, it showcases Shen Zhou's exceptional skill in capturing the subtle expressions and elegant demeanor of his subjects. The painting is a testament to the cultural significance of music and leisure in traditional Chinese society, and its beauty continues to inspire art lovers around the world."
+            "title": "Still Life with Flowers in a Vase by Rachel Ruysch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_211.jpg",
+            "year": "1666",
+            "museum": "Hermitage Museum",
+            "description": "Still Life with Flowers in a Vase is a beautiful and intricate painting by Dutch Golden Age artist Rachel Ruysch. Created in 1666, the artwork features a stunning arrangement of flowers in a vase, set against a warm and inviting background. The painting is notable for its delicate use of light and shadow, which creates a sense of depth and dimensionality. This masterpiece is considered one of Ruysch's most important works, showcasing her skill as a still-life painter and her ability to capture the beauty of everyday objects."
+        },
+        {
+            "title": "Mountains and Valley by Robert S. Duncanson",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_212.jpg",
+            "year": "1838",
+            "museum": "National Gallery of Art",
+            "description": "In 1838, Robert S. Duncanson painted 'Mountains and Valley', a stunning landscape that showcases his mastery of American art during the mid-19th century. The painting is characterized by its serene and idyllic depiction of nature, with towering mountains and rolling hills in the background. This work not only reflects Duncanson's skill as an artist but also provides valuable insight into the lives and experiences of African Americans during this period."
         },
         {
             "title": "Ganesha by Bishandas",
@@ -2778,6 +2792,13 @@
             "year": "1775",
             "museum": "Historical Collection",
             "description": "The Happy Family (La Famille Heureuse) is a captivating painting by French Rococo artist Jean-Honoré Fragonard, created in 1775. The work depicts a serene domestic scene of a young couple and their two children at play, surrounded by lush greenery and ornate furnishings. With its masterful use of light and color, the painting exemplifies the sensuality and joie de vivre characteristic of Rococo art. Fragonard's innovative techniques and compositions further solidified his position as one of the leading artists of the era."
+        },
+        {
+            "title": "The Ten Largest, No. 1, Childhood by Hilma af Klint",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_401.jpg",
+            "year": "1907",
+            "museum": "Hilma af Klint Foundation",
+            "description": "The Ten Largest, No. 1: Childhood is an abstract painting by Swedish artist Hilma af Klint, created in 1907. As one of the first examples of abstract art, it showcases af Klint's innovative style and spiritual themes. Characterized by bold geometric shapes and vibrant colors, this piece marks a pivotal moment in modern art history. It was included in the 1914 group exhibition 'Die Blaue Zeit' (The Blue Period) which introduced the work to European audiences. Today, it is considered a landmark of early abstraction and a testament to af Klint's groundbreaking vision."
         }
     ]
 }
