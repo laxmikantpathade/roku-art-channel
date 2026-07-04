@@ -386,11 +386,25 @@
             "description": "In 'The Field', Shishkin captures the vast expanse of Russia's steppes. This landscape painting not only showcases his technical skill, but also reflects his fascination with the natural world and the experiences of the Russian peasantry during this period. The work is characteristic of the realist movement, as Shishkin sought to accurately depict everyday life in rural Russia."
         },
         {
+            "title": "Lake Superior by Robert S. Duncanson",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_64.jpg",
+            "year": "1837",
+            "museum": "Tulane University Museum of Art",
+            "description": "Painted during a tumultuous time in American history, Lake Superior is a nostalgic and serene portrayal of the artist's Michigan homeland. As a free black man living under slavery, Duncanson's art provided an escape from the harsh realities of his life. This painting showcases his exceptional skill as a landscape artist, captivating the viewer with its sense of tranquility and majesty."
+        },
+        {
             "title": "The Black Sea by Ivan Aivazovsky",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_65.jpg",
             "year": "1879",
             "museum": "Hermitage Museum in St. Petersburg",
             "description": "This iconic seascape painting depicts the black sea at sunset, showcasing Aivazovsky's mastery of color and light. The work was inspired by his travels to the Crimean Peninsula and reflects the artist's fascination with the natural world. Considered one of the greatest sea paintings ever created, 'The Black Sea' continues to captivate audiences with its breathtaking beauty and sense of movement."
+        },
+        {
+            "title": "Forest by Ivan Shishkin",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_66.jpg",
+            "year": "1903",
+            "museum": "Tate Britain",
+            "description": "Forest is a notable landscape painting by Ivan Shishkin, created in 1903. This piece showcases the artist's unique blend of realism and naturalism, capturing the essence of Russia's vast forests during the late 19th century. The work features dense foliage, towering trees, and a winding path, evoking a sense of tranquility and connection to nature. As one of Shishkin's most famous works, Forest has become an iconic representation of Russian art and continues to inspire artists and art lovers alike."
         },
         {
             "title": "Judith Beheading Holofernes by Artemisia Gentileschi",
@@ -405,13 +419,6 @@
             "year": "1888",
             "museum": "Moscow State Museum of Fine Arts",
             "description": "In 1888, Ivan Shishkin traveled to rural Russia to study the effects of light and color in his landscapes. The Village Inn is one of his most iconic works, showcasing a small Russian village nestled among rolling hills and forests. The painting's warm colors and gentle atmosphere evoke a sense of peace and tranquility, offering a glimpse into rural Russian life during this period."
-        },
-        {
-            "title": "Fifty-three Stations of the Tokaido by Utagawa Hiroshige",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_69.jpg",
-            "year": "1833-1834",
-            "museum": "Tokyo National Museum",
-            "description": "Fifty-three Stations of the Tokaido is a seminal work by Utagawa Hiroshige, created during the early 19th century. This series of ukiyo-e woodblock prints documents the most popular route in Japan from Edo to Kyoto, showcasing breathtaking landscapes and vibrant cityscapes. The artwork not only provides an insight into Japanese culture during the Edo period but also highlights Hiroshige's exceptional skill as a landscape artist."
         },
         {
             "title": "The Death of General Wolfe by Angelica Kauffman",
@@ -2022,6 +2029,20 @@
             "year": "1909",
             "museum": "Tate Britain",
             "description": "Created in 1909, The Maids is a seminal work by Gao Fenghan that showcases his unique blend of Realist and Symbolist styles. Painted during a time of great social change in China, the piece captures the lives of rural workers toiling on a construction site, imbuing them with dignity and humanity. By depicting these women in a state of quiet contemplation, Gao Fenghan highlights the often-overlooked contributions of female laborers to China's development, offering a powerful commentary on the intersectionality of class, gender, and identity."
+        },
+        {
+            "title": "Christ in the House of his Parents by Mikhail Vrubel",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_292.jpg",
+            "year": "1889",
+            "museum": "Russian Museum, St. Petersburg",
+            "description": "Christ in the House of his Parents is a poignant and emotive painting by Mikhail Vrubel, created in 1889. The piece depicts Christ as an infant lying in the manger, surrounded by Mary and Joseph, evoking feelings of intimacy and vulnerability. This work showcases Vrubel's mastery of capturing subtle emotions and textures, highlighting the artist's influence on Russian art movements of the late 19th century."
+        },
+        {
+            "title": "The Death of Cleopatra by Joaquín Clausell",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_293.jpg",
+            "year": "1905",
+            "museum": "Prado Museum",
+            "description": "This masterpiece by Joaquín Clausell depicts the tragic demise of the legendary Egyptian queen Cleopatra. Created in 1905, The Death of Cleopatra showcases the artist's skillful handling of light and shadow, drawing the viewer into a world of drama and intensity. A pivotal work in the Prado Museum's collection, this painting serves as a testament to Clausell's innovative style and his ability to capture the essence of historical figures on canvas."
         }
     ]
 }
