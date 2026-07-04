@@ -23410,5 +23410,35 @@
             "museum": "The University Art Museum, Tokyo University of the Arts",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Copy%20by%20Kuroda%20Seiki%20of%20Rembrandt%27s%20Tronie%20of%20a%20Man%20with%20Feathered%20Beret%20%28Geidai%20Museum%29.jpg"
         }
+    ],
+    "Ustad Mansur": [
+        {
+            "title": "Pigeons Around a Dovecote",
+            "artist": "Ustad Mansur",
+            "year": "1650",
+            "museum": "Museum of Fine Arts, Houston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pigeons%20around%20a%20dovecote.jpg"
+        },
+        {
+            "title": "Jurra",
+            "artist": "Ustad Mansur",
+            "year": "1700",
+            "museum": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peregrine%20Falcon%20on%20Perch%20%28CSMVS%2015.302%29.jpg"
+        },
+        {
+            "title": "Busterd",
+            "artist": "Ustad Mansur",
+            "year": "1610",
+            "museum": "Indian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Busterd.jpg"
+        },
+        {
+            "title": "Siberian Crane",
+            "artist": "Ustad Mansur",
+            "year": "1610",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Siberian%20Crane%20Mughal%20Painting.jpg"
+        }
     ]
 }
