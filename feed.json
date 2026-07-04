@@ -1,12 +1,179 @@
 {
-    "channelName": "AI Masterpiece Curator",
-    "lastUpdated": "2026-07-03T19:24:33.798239Z",
-    "currentArtwork": {
-        "title": "Girl with a Pearl Earring",
-        "artist": "Vermeer",
-        "year": "1665",
-        "museum": "Mauritshuis",
-        "image_url": "https://laxmikantpathade.com/roku-art-channel/stamped_masterpiece.jpg",
-        "essay": "In 1665, Johannes Vermeer painted 'Girl with a Pearl Earring', a masterpiece of Dutch Golden Age art. The enigmatic portrait is historically significant as one of the few known works by the renowned master still in its original state. The painting's captivating gaze and luminous pearl earring have inspired generations of artists and art lovers alike. Its remarkable preservation is a testament to Vermeer's innovative techniques and the quality of his studio. As a window into 17th-century Dutch culture, 'Girl with a Pearl Earring' continues to captivate audiences worldwide, cementing its place as one of the most celebrated works in history."
-    }
+    "artwork_list": [
+        {
+            "title": "Campbell's Soup Cans by Andy Warhol",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1.jpg",
+            "year": "1962",
+            "museum": "Museum of Modern Art (MoMA)",
+            "description": "In 1962, Andy Warhol created a series of silkscreen prints featuring images of Campbell's soup cans, which became an instant icon of American pop culture. By appropriating consumerist imagery and mass-producing it, Warhol challenged traditional notions of art and high-brow culture. The work also reflected the rise of consumerism in post-war America, where everyday objects became symbols of status and identity. Today, Campbell's Soup Cans is a quintessential example of Pop Art, showcasing Warhol's innovative use of technology and his ability to tap into the zeitgeist of modern society."
+        },
+        {
+            "title": "Starry Night by Vincent van Gogh",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_2.jpg",
+            "year": "1889",
+            "museum": "Museum of Modern Art (MoMA), New York City",
+            "description": "In the late 19th century, Vincent van Gogh struggled with mental illness and feelings of isolation. During his time at an asylum in France, he created this iconic painting, which has become synonymous with the Post-Impressionist movement. The swirling clouds and stars in the night sky evoke a sense of dynamic energy and emotional turmoil, reflecting Van Gogh's own inner world. Today, Starry Night is considered one of the most influential works of art of all time, inspiring generations of artists and continuing to captivate audiences worldwide with its beauty and complexity."
+        },
+        {
+            "title": "The Starry Night by Vincent van Gogh",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_3.jpg",
+            "year": "1889",
+            "museum": "Museum of Modern Art (MoMA), New York City",
+            "description": "Created during a tumultuous period in Van Gogh's life, The Starry Night is a poignant representation of the artist's struggles with mental illness and his deep connection to nature. This swirling, dreamlike depiction of the night sky has captivated art lovers for centuries, inspiring countless interpretations and parodies. As one of the most iconic works of Post-Impressionism, The Starry Night continues to evoke feelings of wonder, peace, and the infinite possibilities of the universe."
+        },
+        {
+            "title": "Composition II by Kazimir Malevich",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_4.jpg",
+            "year": "1913",
+            "museum": "Tate Modern, London",
+            "description": "A seminal work of Suprematism, Composition II is a radical departure from traditional representation. Created during the Russian Revolution, it embodies the ideals of geometric abstraction and the rejection of materialism. As the first solo exhibition by Malevich at the Der Blaue Reiter gallery in Munich, Composition II solidified his position as a leading figure in the avant-garde movement. Its influence can be seen in the development of modern art, from De Stijl to Constructivism."
+        },
+        {
+            "title": "The Scream by Edvard Munch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_5.jpg",
+            "year": "1893",
+            "museum": "National Gallery of Norway, Oslo",
+            "description": "Created in 1893, The Scream is a seminal work of Expressionism that has become an icon of modern anxiety. Originally painted twice, with the first version sold for a mere 25 Norwegian kroner, it was later lost and rediscovered in 1910. Munch's bold, distorted form has been interpreted as a reflection of existential dread, melancholy, or even ecstatic fury \u2013 its raw emotion continues to captivate audiences worldwide."
+        },
+        {
+            "title": "Impression, Sunrise by Claude Monet",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_6.jpg",
+            "year": "1872",
+            "museum": "Mus\u00e9e Marmottan Monet in Paris, France",
+            "description": "Depicting a hazy, dreamy portrayal of a sunrise in the harbor of Le Havre, Impression, Sunrise marked a pivotal moment in the development of Impressionist art. Painted by Claude Monet, this seminal work captured the fleeting effects of light and color, challenging traditional representations of reality. The painting's innovative technique and bold, expressive brushstrokes paved the way for the Impressionist movement, influencing generations of artists to come."
+        },
+        {
+            "title": "The Great Wave off Kanagawa by Hokusai",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_7.jpg",
+            "year": "1830-1833",
+            "museum": "The Metropolitan Museum of Art",
+            "description": "Created in 19th century Japan, The Great Wave off Kanagawa is a seminal Ukiyo-e woodblock print that has captivated audiences for centuries. This iconic depiction of a massive wave about to break over the shore was meant to symbolize the power and fury of nature. As one of Hokusai's most famous works, it not only showcased his artistic skill but also played a significant role in popularizing Ukiyo-e throughout Japan. Today, The Great Wave off Kanagawa is considered an enduring masterpiece, celebrated for its dynamic composition and vibrant colors."
+        },
+        {
+            "title": "The Oath of the Horatii by Jacques-Louis David",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_8.jpg",
+            "year": "1784",
+            "museum": "Louvre Museum, Paris",
+            "description": "In this iconic painting, Jacques-Louis David masterfully captures the intensity of a pivotal moment in ancient Roman history. The Oath of the Horatii depicts three brothers vowing to defend Rome against their enemies, exemplifying the values of patriotism and duty that defined the Romantic era's emphasis on individualism and national identity. As a cornerstone of Neoclassicism, this work not only showcased David's skill as a painter but also cemented his status as a leading figure in 18th-century French art, influencing generations to come."
+        },
+        {
+            "title": "The Lady of Shalott by William Holman Hunt",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_9.jpg",
+            "year": "1850-1852",
+            "museum": "Tate Britain, London",
+            "description": "In the late 19th century, British artist William Holman Hunt created 'The Lady of Shalott', a seminal work of Romanticism. Inspired by Alfred, Lord Tennyson's poem of the same name, this painting depicts the isolated and doomed Lady of Shalott, surrounded by symbols of nature and mythological references. The artwork has been interpreted as a critique of societal expectations placed on women during the Victorian era. Its captivating imagery continues to captivate audiences, solidifying its place in the pantheon of Romantic art."
+        },
+        {
+            "title": "The Dance by Henri Matisse",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_10.jpg",
+            "year": "1909-1910",
+            "museum": "Mus\u00e9e Marmottan Monet in Paris, France",
+            "description": "In 'The Dance', Henri Matisse captures the vibrant energy of a dynamic gathering. The work is part of his Fauvist period, characterized by bold, clashing colors and sinuous lines. Created during a time of great artistic innovation, 'The Dance' embodies the movement's spirit of experimentation and liberation. As the figures move in rhythmic motion, Matisse invites the viewer to immerse themselves in the music and let go of inhibitions. This iconic painting not only showcases Matisse's unique style but also paved the way for future generations of artists to push boundaries and challenge conventions."
+        },
+        {
+            "title": "Dance at Le Moulin de la Galette by Pierre-Auguste Renoir",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_11.jpg",
+            "year": "1876",
+            "museum": "Mus\u00e9e d'Orsay, Paris, France",
+            "description": "This painting is one of the most iconic works of Impressionism, capturing a joyful summer evening in Paris. Created by Pierre-Auguste Renoir, it depicts a group of people dancing and socializing at Le Moulin de la Galette, a popular dance hall in the city. The painting's dreamy, impressionistic style and emphasis on everyday life and leisure activities helped define the Impressionist movement. It is widely considered one of the greatest works of French art and a masterpiece of Impressionism, showcasing Renoir's unique ability to capture the beauty of modern urban life."
+        },
+        {
+            "title": "Mona Lisa by Leonardo da Vinci",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_12.jpg",
+            "year": "1503-1506",
+            "museum": "Louvre Museum, Paris",
+            "description": "Painted in the early 16th century, the enigmatic portrait of a woman has captivated art lovers for centuries. The subject, believed to be Lisa del Giocondo, is thought to have been commissioned by her husband, Francesco. Da Vinci's masterful use of sfumato and chiaroscuro creates an air of mystery, drawing viewers in with an unblinking gaze. As one of the most famous paintings in the world, the Mona Lisa has transcended art to become a cultural icon, sparking countless parodies, spoofs, and references in popular culture."
+        },
+        {
+            "title": "The Potato Eaters by Rembrandt van Rijn",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_13.jpg",
+            "year": "c. 1885",
+            "museum": "Rijksmuseum, Amsterdam",
+            "description": "This painting depicts a group of peasants sitting around a table eating potatoes and drinking coffee. Created in the mid-19th century, The Potato Eaters is considered one of the most important works of Dutch Realism. It showcases the harsh realities of rural life during that time period, highlighting the struggles faced by ordinary people. The use of chiaroscuro and detailed textures creates a sense of depth and atmosphere, drawing the viewer into the intimate setting."
+        },
+        {
+            "title": "Girl with a Pearl Earring by Johannes Vermeer",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_14.jpg",
+            "year": "1665",
+            "museum": "Mauritshuis, The Hague",
+            "description": "Created in the 17th century, Girl with a Pearl Earring is one of the most iconic works of Dutch Golden Age painting. The enigmatic subject, believed to be a young girl from Vermeer's community, gazes directly at the viewer with an air of quiet contemplation. The painting's use of light and shadow creates a sense of depth and mystery, drawing the viewer into the world of the subject. As a masterpiece of subtlety and restraint, Girl with a Pearl Earring continues to captivate audiences with its timeless beauty and emotional resonance."
+        },
+        {
+            "title": "Liberty Leading the People by Eug\u00e8ne Delacroix",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_15.jpg",
+            "year": "1830",
+            "museum": "Mus\u00e9e d'Orsay, Paris, France",
+            "description": "Painted in response to the July Revolution of 1830, 'Liberty Leading the People' embodies the spirit of Romanticism. This iconic piece depicts Marianne, a personification of the French Republic, standing victorious over the bodies of fallen soldiers. With bold brushstrokes and vivid colors, Delacroix captures the tumultuous emotions of the era, as the people rise up against tyranny. The painting has become an enduring symbol of freedom and democracy, inspiring generations to fight for their rights and challenge the status quo."
+        },
+        {
+            "title": "A Bar at the Folies-Berg\u00e8re by \u00c9douard Manet",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_16.jpg",
+            "year": "1882",
+            "museum": "Mus\u00e9e d'Orsay, Paris",
+            "description": "In this seminal work of Realism, \u00c9douard Manet challenges traditional representations of women and public spaces. Painted in a style that blended the everyday with high art, 'A Bar at the Folies-Berg\u00e8re' captures the intimacy of a late-night encounter between two patrons. The painting's deliberate use of light and shadow creates a sense of quiet contemplation, inviting viewers to reflect on the social norms of 19th-century Paris."
+        },
+        {
+            "title": "The Night Watch by Rembrandt van Rijn",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_17.jpg",
+            "year": "1642",
+            "museum": "Rijksmuseum, Amsterdam",
+            "description": "Painted in 1642, The Night Watch is one of the most iconic works by Rembrandt van Rijn. This grand composition showcases a militia company preparing to march out, with dramatic lighting and intense emotions. The painting's masterful use of chiaroscuro and its complex, layered narrative have made it a cultural touchstone. Once owned by King William III of England, the painting was later acquired by the Dutch state and is now considered one of the Netherlands' greatest treasures."
+        },
+        {
+            "title": "The Weeping Woman by Pablo Picasso",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_18.jpg",
+            "year": "1937",
+            "museum": "Tate Modern, London",
+            "description": "Created during a tumultuous period in Spanish history, The Weeping Woman showcases Picasso's Cubist style and his fascination with the human form. This portrait of Dora Maar, a French artist and photographer, is characterized by bold geometric shapes and fragmented forms, reflecting the chaos and disorder of the time. As one of the most iconic works from this era, it not only solidified Picasso's status as a pioneer of modern art but also continues to captivate audiences with its emotional intensity and technical innovation."
+        },
+        {
+            "title": "The Dance by Hugo van der Goes",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_19.jpg",
+            "year": "1450-1470",
+            "museum": "Koninklijk Museum voor Schone Kunsten, Antwerp",
+            "description": "The Dance is a masterpiece of Early Netherlandish Art Nouveau. Painted around 1450-1470, it showcases the artist's innovative use of perspective and composition. This intricate work of art depicts a fantastical scene from the Apocalypse, featuring a procession of figures in elaborate attire. The painting's dreamlike quality and attention to detail have captivated art lovers for centuries, solidifying its place as one of the most iconic works of the Art Nouveau movement."
+        },
+        {
+            "title": "The Kiss by Gustav Klimt",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_20.jpg",
+            "year": "1907-1908",
+            "museum": "\u00d6sterreichische Galerie Belvedere (Vienna)",
+            "description": "This iconic painting is a prime example of Art Nouveau's sinuous, organic forms and its fascination with the human experience. Created by Gustav Klimt in 1907-1908, The Kiss depicts a couple embracing, their bodies intertwined in a sensual, dreamlike state. The work's use of gold leaf and ornate patterns pays homage to Byzantine mosaics, while its symbolism reflects the artist's interest in spirituality and the human condition. As one of Klimt's most celebrated works, The Kiss has become an enduring symbol of the Art Nouveau movement."
+        },
+        {
+            "title": "Reclining Woman by Kuroda Seiki",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_21.jpg",
+            "year": "1897",
+            "museum": "The Art Institute of Chicago",
+            "description": "Created during Japan's Meiji period, Reclining Woman is a poignant representation of traditional Japanese beauty. The painting depicts a reclining woman with a serene expression, showcasing the artist's mastery of Western-style portraiture while incorporating elements of traditional Japanese art. This work was part of Seiki's early attempts to modernize Japanese art and establish himself as a prominent figure in the country's rapidly changing artistic landscape."
+        },
+        {
+            "title": "The Story of Joseph by Reza Abbasi",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_22.jpg",
+            "year": "1598-1600",
+            "museum": "Victoria and Albert Museum",
+            "description": "This 16th-century Persian painting depicts the story of Joseph, a biblical figure, from the Book of Genesis. Created during the Safavid dynasty, it showcases Abbasi's mastery of traditional Persian art forms, blending realism with symbolic elements. The work offers insight into the cultural exchange between Persia and Europe during the Renaissance, while its narrative and visual motifs continue to captivate audiences, inspiring artistic interpretations for centuries."
+        },
+        {
+            "title": "The Feast of Saint Nicholas by Clara Peeters",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_23.jpg",
+            "year": "1575",
+            "museum": "Museum van Hedendaags Kunst (Museum of Modern Art), Amsterdam",
+            "description": "This painting is one of the earliest known works by Clara Peeters, a Flemish artist from the Northern Renaissance. Created in 1575, it depicts a lively scene of Saint Nicholas distributing gifts to children during the Sinterklaas festivities. The vibrant colors and playful atmosphere of the painting showcase Peeters' skill in capturing everyday life and social interactions. As one of the first women artists to achieve recognition in the art world, Clara Peeters' works offer a fascinating glimpse into the lives of ordinary people during the 16th century."
+        },
+        {
+            "title": "The Oxbow by Thomas Cole",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_24.jpg",
+            "year": "1836",
+            "museum": "Mus\u00e9e d'Orsay, Paris",
+            "description": "The Oxbow is a seminal work by Thomas Cole, an American landscape painter. Created in 1836, the painting captures a serene moment of tranquility, where the winding River Hudson flows beneath a majestic oak tree. This masterpiece exemplifies Cole's vision for the idealized America, reflecting his fascination with the interplay between nature and human presence. By exploring the harmonious coexistence of these elements, The Oxbow has become an iconic representation of American art and a testament to Cole's enduring legacy."
+        },
+        {
+            "title": "Bacchus and Ariadne by Titian",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_25.jpg",
+            "year": "1520-1523",
+            "museum": "National Gallery, London",
+            "description": "This painting depicts the mythical lovers Bacchus and Ariadne in a romantic, golden light. Created during Titian's Italian period, it showcases his mastery of rich colors and emotive expressions. The work was later acquired by King Charles I of England in 1627 and hung in Whitehall Palace before being transferred to the National Gallery in London in 1842, where it remains one of the institution's most prized possessions."
+        }
+    ]
 }
