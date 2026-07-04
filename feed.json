@@ -792,11 +792,18 @@
             "description": "The Indian Museum in New Delhi houses a painting called The Peasant Wedding, which showcases Bishandas' skill as an artist. Created in 1877, this painting highlights the importance of traditional Indian wedding rituals and the bond between family members. It is considered a significant piece of Indian art, offering insights into the lives of rural Indians during that era."
         },
         {
-            "title": "Red Fuji by Ito Jakuchu",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_131.jpg",
-            "year": "1825",
-            "museum": "Metropolitan Museum of Art",
-            "description": "This iconic landscape painting is one of Japan's most celebrated works. Created in 1825, it captures the majestic beauty of Mount Fuji, a sacred symbol of Japanese culture. The painting showcases Ito Jakuchu's mastery of Western-style oil painting techniques while incorporating traditional Japanese aesthetics. 'Red Fuji' has been a revered piece in Japanese art for centuries, inspiring countless reproductions and influencing artistic movements worldwide."
+            "title": "Still Life with Apples by Rachel Ruysch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_129.jpg",
+            "year": "1689",
+            "museum": "KunstHistorisch Museum",
+            "description": "A pioneering work by Dutch Golden Age painter Rachel Ruysch, Still Life with Apples showcases her unique blend of realism and symbolism. The painting depicts a still life arrangement featuring apples, grapes, and other fruits, set against a warm golden background. This work exemplifies Ruysch's attention to detail and her innovative use of light and shadow."
+        },
+        {
+            "title": "The River of No Return by Robert S. Duncanson",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_130.jpg",
+            "year": "1839",
+            "museum": "Cleveland Museum of Art",
+            "description": "Painted during his travels in the United States, The River of No Return showcases Duncanson's unique blend of European and African influences. A self-taught artist, he sought to challenge racist stereotypes by depicting African Americans as strong and capable. This painting exemplifies his innovative style, which combined elements of Romanticism and African American cultural identity."
         },
         {
             "title": "The Three Doctors by Kim Hong-do",
@@ -2323,6 +2330,20 @@
             "year": "1612",
             "museum": "Historical Collection",
             "description": "Clara Peeters' Still life of pie and sweets with stoneware jug (1612) is a masterpiece of Dutch Golden Age still-life painting. The work showcases Peeters' innovative use of everyday objects as subjects, reflecting the cultural and economic significance of food in Dutch society. Peeters' precise and detailed rendering of the still life, including the intricate textures of the ceramics and the ornate sweets, demonstrates her technical skill and artistic vision, solidifying her position as one of the most prominent female artists of the era."
+        },
+        {
+            "title": "Bamboo and Ducks by a Rushing Stream by Ma Yuan",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_335.jpg",
+            "year": "1203",
+            "museum": "Cleveland Museum of Art",
+            "description": "A seminal work of Song Dynasty landscape painting, Bamboo and Ducks by Ma Yuan showcases the artist's mastery of soft brushwork and subtle color palette. Depicting a serene riverbank scene with delicate bamboo stalks and a flock of ducks gliding effortlessly across the water, the painting embodies the perfect harmony between nature and human presence. As one of the earliest known works to feature a duck as the central subject, this piece has had a profound influence on Chinese art history and continues to inspire contemporary artists today."
+        },
+        {
+            "title": "The Demon Seated by Mikhail Vrubel",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_336.jpg",
+            "year": "1890",
+            "museum": "Tretyakov Gallery",
+            "description": "The Demon Seated is a seminal work by Russian artist Mikhail Vrubel, created in 1890. This painting showcases Vrubel's unique blend of Symbolism and Realism, featuring a demonic figure seated amidst a lavish, Baroque-inspired setting. The work was highly influential in the development of Russian art, particularly among the avant-garde movements of the late 19th century. Its inclusion would be a significant addition to our premium catalog, offering a fascinating glimpse into the life and oeuvre of this visionary artist."
         }
     ]
 }

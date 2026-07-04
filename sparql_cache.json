@@ -1034,13 +1034,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Vrubel%20-%20The%20Girl%20Against%20the%20Background%20of%20Persian%20Carpet.png"
         },
         {
-            "title": "The Demon Seated",
-            "artist": "Mikhail Vrubel",
-            "year": "1890",
-            "museum": "Tretyakov Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vrubel%20Demon.jpg"
-        },
-        {
             "title": "Pan",
             "artist": "Mikhail Vrubel",
             "year": "1899",
@@ -13587,6 +13580,85 @@
             "year": "1795",
             "museum": "Miho Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elephant%20and%20Whale%20Screens%20by%20Ito%20Jakuchu%20%28Miho%20Museum%29L.jpg"
+        }
+    ],
+    "Ma Yuan": [
+        {
+            "title": "Walking on a Mountain Path in Spring",
+            "artist": "Ma Yuan",
+            "year": "1190",
+            "museum": "National Palace Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%8D%E7%BB%98%E9%9B%86%E7%8F%8D%E5%86%8C%2013%20%E5%8D%97%E5%AE%8B%20%E9%A9%AC%E8%BF%9C%20%E5%B1%B1%E5%BE%84%E6%98%A5%E8%A1%8C.jpg"
+        },
+        {
+            "title": "The Football Players",
+            "artist": "Ma Yuan",
+            "year": "1207",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20The%20Football%20Players%20-%201971.26%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Watching the Deer by a Pine Shaded Stream",
+            "artist": "Ma Yuan",
+            "year": "1203",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Watching%20the%20Deer%20by%20a%20Pine%20Shaded%20Stream%20-%201997.88%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Drinking in the Moonlight",
+            "artist": "Ma Yuan",
+            "year": "1189",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201997.89.jpg"
+        },
+        {
+            "title": "Drinking in the Moonlight",
+            "artist": "Ma Yuan",
+            "year": "1189",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Drinking%20in%20the%20Moonlight%20-%201997.89%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Viewing plum blossoms by moonlight",
+            "artist": "Ma Yuan",
+            "year": "1216",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Viewing%20plum%20blossoms%20by%20moonlight%20-%201986.493.2%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Scholar viewing a waterfall",
+            "artist": "Ma Yuan",
+            "year": "1207",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Scholar%20viewing%20a%20waterfall%20-%201973.120.9%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Conversation in a Cave",
+            "artist": "Ma Yuan",
+            "year": "1212",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E5%AE%8B%20%E4%BD%9A%E5%90%8D%20%E5%80%A3%E9%A6%AC%E9%81%A0%20%E6%B4%9E%E5%A4%A9%E8%AB%96%E9%81%93%E5%9C%96%20%E5%9C%98%E6%89%87-Conversation%20in%20a%20Cave%20MET%20DP153499.jpg"
+        },
+        {
+            "title": "Viewing the Moon under a Pine Tree",
+            "artist": "Ma Yuan",
+            "year": "1216",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E5%AE%8B%20%E4%BD%9A%E5%90%8D%20%E5%80%A3%E9%A6%AC%E9%81%A0%20%E6%9D%BE%E9%99%B0%E7%8E%A9%E6%9C%88%E5%9C%96%20%E5%86%8A%E9%A0%81-Viewing%20the%20Moon%20under%20a%20Pine%20Tree%20MET%20DP153498.jpg"
+        },
+        {
+            "title": "White Rose",
+            "artist": "Ma Yuan",
+            "year": "1203",
+            "museum": "The Palace Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%A9%AC%E8%BF%9C%E7%99%BD%E8%94%B7%E8%96%87%E5%9B%BE%E9%A1%B5.png"
+        },
+        {
+            "title": "Attending an Imperial Banquet",
+            "artist": "Ma Yuan",
+            "year": "1200",
+            "museum": "National Palace Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan-Banquet%20by%20Lantern%20Light%20%28large%29.jpg"
         }
     ]
 }
