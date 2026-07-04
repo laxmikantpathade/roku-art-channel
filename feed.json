@@ -421,6 +421,13 @@
             "description": "In 1888, Ivan Shishkin traveled to rural Russia to study the effects of light and color in his landscapes. The Village Inn is one of his most iconic works, showcasing a small Russian village nestled among rolling hills and forests. The painting's warm colors and gentle atmosphere evoke a sense of peace and tranquility, offering a glimpse into rural Russian life during this period."
         },
         {
+            "title": "Fifty-three Stations of the Tokaido by Utagawa Hiroshige",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_69.jpg",
+            "year": "1833-1834",
+            "museum": "Tokyo National Museum",
+            "description": "Fifty-three Stations of the Tokaido is a seminal work by Utagawa Hiroshige, created during the early 19th century. This series of ukiyo-e woodblock prints documents the most popular route in Japan from Edo to Kyoto, showcasing breathtaking landscapes and vibrant cityscapes. The artwork not only provides an insight into Japanese culture during the Edo period but also highlights Hiroshige's exceptional skill as a landscape artist."
+        },
+        {
             "title": "The Death of General Wolfe by Angelica Kauffman",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_70.jpg",
             "year": "1762",
@@ -1989,13 +1996,6 @@
             "description": "In 1895, Józef Cheńmoński painted a poignant scene of love and tradition. The Wedding depicts a young couple exchanging vows amidst the bustle of a Polish wedding celebration. Capturing the warmth and joy of this momentous occasion, the painting showcases Cheńmoński's unique blend of realism and romanticism. As one of Poland's most renowned artists, he wove a narrative of love, family, and cultural heritage into The Wedding, forever etching it in the hearts of Poles and art lovers alike."
         },
         {
-            "title": "The Quarrel by Józef Cheńmoński",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_294.jpg",
-            "year": "1888",
-            "museum": "National Museum in Warsaw",
-            "description": "Created during the late 19th century Polish Renaissance, The Quarrel is a seminal work by Józef Cheńmoński. Depicting a tumultuous scene of two young men engaging in a heated argument, the painting serves as a powerful commentary on the struggles and social tensions of post-revolutionary Poland. Cheńmoński's bold use of color and his focus on capturing the emotional intensity of human conflict make The Quarrel a landmark piece of Polish art."
-        },
-        {
             "title": "Vase with Lilies by Félix Émile Taunay",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_295.jpg",
             "year": "1894",
@@ -2043,6 +2043,13 @@
             "year": "1905",
             "museum": "Prado Museum",
             "description": "This masterpiece by Joaquín Clausell depicts the tragic demise of the legendary Egyptian queen Cleopatra. Created in 1905, The Death of Cleopatra showcases the artist's skillful handling of light and shadow, drawing the viewer into a world of drama and intensity. A pivotal work in the Prado Museum's collection, this painting serves as a testament to Clausell's innovative style and his ability to capture the essence of historical figures on canvas."
+        },
+        {
+            "title": "Madame X by John Singer Sargent",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_294.jpg",
+            "year": "1884",
+            "museum": "Musée d'Orsay",
+            "description": "Created in 1884, Madame X is a portrait of Virginie Amélie Avegno Gautreau, an American socialite who sat for the painting. The painting was initially considered scandalous due to its revealing attire and Sargent's innovative use of color. It sparked controversy among art critics at the time, with some labeling it immoral. Today, Madame X is celebrated as a pioneering work of American art, showcasing Sargent's technical skill and his ability to capture the essence of his subjects."
         }
     ]
 }
