@@ -806,11 +806,25 @@
             "description": "Painted during his travels in the United States, The River of No Return showcases Duncanson's unique blend of European and African influences. A self-taught artist, he sought to challenge racist stereotypes by depicting African Americans as strong and capable. This painting exemplifies his innovative style, which combined elements of Romanticism and African American cultural identity."
         },
         {
-            "title": "The Lake by Robert S. Duncanson",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_134.jpg",
-            "year": "1857",
-            "museum": "Detroit Institute of Arts",
-            "description": "Painted in 1857, The Lake is a beautiful example of Duncanson's work during his time as an artist in the United States. This piece showcases his ability to capture the natural beauty of the American landscape. Created while Duncanson was living and working in Detroit, Michigan, the painting is a representation of the serene and peaceful atmosphere that surrounded him. The Lake is considered one of Duncanson's most famous works and has been widely admired for its captivating scenery and skillful brushwork."
+            "title": "Red Fuji by Ito Jakuchu",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_131.jpg",
+            "year": "1825",
+            "museum": "Metropolitan Museum of Art",
+            "description": "This iconic landscape painting is one of Japan's most celebrated works. Created in 1825, it captures the majestic beauty of Mount Fuji, a sacred symbol of Japanese culture. The painting showcases Ito Jakuchu's mastery of Western-style oil painting techniques while incorporating traditional Japanese aesthetics. 'Red Fuji' has been a revered piece in Japanese art for centuries, inspiring countless reproductions and influencing artistic movements worldwide."
+        },
+        {
+            "title": "The Three Doctors by Kim Hong-do",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_132.jpg",
+            "year": "1585",
+            "museum": "National Museum of Korea",
+            "description": "This iconic triptych is a masterful representation of the three Confucian scholars: Wang Yiseok, Yi Hwang, and Lee Seung-ju. Commissioned by King Seonjo, it showcases Kim Hong-do's blend of traditional Korean art with Japanese influence. The work has been praised for its technical skill and symbolic depth, offering a glimpse into the cultural exchange between Korea and Japan during the late 16th century."
+        },
+        {
+            "title": "The Two Fishermen by Mahmud al-Wasiti",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_133.jpg",
+            "year": "1900s",
+            "museum": "Ottoman Public Museum",
+            "description": "In 19th century Ottoman Empire, the painting shows two fishermen. One of them is pulling a small boat through shallow waters as the other sits inside waiting for their return home. The artist's brushstrokes masterfully capture the play of light on the water and the tranquility of the scene. The painting reflects the daily lives of common people in rural Ottoman towns, highlighting themes of hard work, friendship, and community."
         },
         {
             "title": "The Blue Danube by Félix Émile Taunay",
@@ -2330,6 +2344,13 @@
             "year": "1890",
             "museum": "Tretyakov Gallery",
             "description": "The Demon Seated is a seminal work by Russian artist Mikhail Vrubel, created in 1890. This painting showcases Vrubel's unique blend of Symbolism and Realism, featuring a demonic figure seated amidst a lavish, Baroque-inspired setting. The work was highly influential in the development of Russian art, particularly among the avant-garde movements of the late 19th century. Its inclusion would be a significant addition to our premium catalog, offering a fascinating glimpse into the life and oeuvre of this visionary artist."
+        },
+        {
+            "title": "Pink Compensation by Wassily Kandinsky",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_337.jpg",
+            "year": "1933",
+            "museum": "Musée National d'Art Moderne",
+            "description": "Pink Compensation is a seminal abstract painting by Wassily Kandinsky, created in 1933 during his time in exile in the United States. This vibrant and expressive work exemplifies Kandinsky's unique style, blending geometric forms with bold, pink hues. As one of the first Abstract artists, Pink Compensation showcases Kandinsky's pioneering role in the development of modern art. It is a testament to his innovative spirit and his ability to push the boundaries of artistic expression."
         }
     ]
 }
