@@ -1478,6 +1478,13 @@
             "description": "This iconic woodblock print is one of the most recognizable images in Japanese art. Created by Hasegawa Tōhaku, it showcases a majestic Mount Fuji under a swirling stormy sky. First published in 1814, this work became synonymous with the artist's style and captivated audiences worldwide. Hokusai Manga exemplifies the artistic fusion of traditional Japanese aesthetics with Western influences, reflecting the era's fascination with the unknown and the sublime."
         },
         {
+            "title": "Portrait of a Peasant Woman by Ivan Shishkin",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_227.jpg",
+            "year": "1889",
+            "museum": "The Tretyakov Gallery",
+            "description": "In 1889, Ivan Shishkin created Portrait of a Peasant Woman, a captivating portrait of a Russian peasant woman. The painting is characteristic of Shishkin's rural landscape style and showcases his ability to capture the essence of everyday life in Russia during the late 19th century. With its bold brushstrokes and vivid colors, the painting transports viewers to the rolling hills and rustic villages of rural Russia, evoking a sense of nostalgia and longing for a simpler way of life."
+        },
+        {
             "title": "Peach Garden by Shen Zhou",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_228.jpg",
             "year": "1590",
@@ -3011,18 +3018,32 @@
             "description": "Waterlilies is one of the most iconic and enduring paintings by Claude Monet, capturing the artist's fascination with the Japanese ukiyo-e style and his ability to transform a mundane subject into an immersive experience. Created in 1906, the painting showcases the artist's innovative use of color and light, as well as his pioneering work in the Impressionist movement. The piece is renowned for its captivating depiction of Monet's famous garden pond at Giverny, filled with waterlilies and reflecting the surrounding landscape."
         },
         {
-            "title": "Family Portrait: The Artist's Daughter, Tatyana, and her familiy\" by Ilya Repin",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_432.jpg",
-            "year": "1905",
-            "museum": "http://www.wikidata.org/.well-known/genid/5845976d78dee2d762a7cb7fd6707734",
-            "description": "Ilya Repin's 'Family Portrait: The Artist's Daughter, Tatyana' (1905) is a seminal work showcasing the artist's skillful use of light and shadow to capture the intimacy of his family. Tatyana, Repin's daughter, sits at the center, surrounded by her parents and siblings, exuding warmth and contentment. A masterpiece of Russian Realism, this portrait highlights the artist's contributions to the development of the genre, while also offering a glimpse into the personal life of one of Russia's most celebrated artists."
-        },
-        {
             "title": "Geumgang jeondo by Jeong Seon",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_433.jpg",
             "year": "1734",
             "museum": "Leeum, Samsung Museum of Art",
             "description": "Geumgang jeondo is a Korean landscape painting by Jeong Seon, created in 1734. Considered one of the Four Great Masters of Korea, Jeong Seon's work showcases the harmony between nature and human life during the reign of King Yeongjo. The painting features a serene landscape with rolling hills, mountains, and a river, capturing the essence of Korean Neo-Confucianism. Its significance extends beyond Korea, offering insights into East Asian art and culture, particularly in the realm of landscape painting."
+        },
+        {
+            "title": "Approach to Venice by J.M.W. Turner",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_434.jpg",
+            "year": "1844",
+            "museum": "Historical Collection",
+            "description": "Approach to Venice (1844) is a seminal oil painting by J.M.W. Turner, showcasing his mastery of light and atmosphere. The work depicts the artist's ship, 'The Dunedin', anchored off the coast of Venice, capturing the play of light on water and the surrounding landscape. This piece embodies Turner's innovative use of color and composition, solidifying his reputation as a leading figure in British art during the Romantic era."
+        },
+        {
+            "title": "Madonna Suckling the Infant Christ by Sofonisba Anguissola",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_435.jpg",
+            "year": "1598",
+            "museum": "Museum of Fine Arts, Budapest",
+            "description": "Sofonisba Anguissola's 'Madonna Suckling the Infant Christ' (1598) is a masterful example of Renaissance portraiture. A tender scene depicting the Virgin Mary nursing the Christ child, the painting showcases Anguissola's exceptional use of chiaroscuro and composition. This work solidifies her reputation as one of Italy's leading female artists, known for her precise renderings and captivating character studies. Its influence can be seen in later Baroque and Rococo art movements."
+        },
+        {
+            "title": "Fishing Boats with Hucksters Bargaining for Fish by J.M.W. Turner",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_436.jpg",
+            "year": "1837",
+            "museum": "Art Institute of Chicago",
+            "description": "Fishing Boats with Hucksters Bargaining for Fish is a seminal work by J.M.W. Turner, showcasing his innovative use of light and atmosphere in the marine genre. Completed in 1837, this painting epitomizes the artist's preoccupation with the effects of weather and natural movement. The huckster figures add a layer of social commentary, critiquing the lives of those who rely on the sea for sustenance. This work solidifies Turner's position as a leading figure in the development of Romanticism, influencing generations of artists to come."
         }
     ]
 }
