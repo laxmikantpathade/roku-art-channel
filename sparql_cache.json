@@ -2162,13 +2162,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Beauty%20%28Bijin%29%20-%201987.150%20-%20Cleveland%20Museum%20of%20Art.tiff"
         },
         {
-            "title": "Minamoto no Yoshitsune",
-            "artist": "Katsushika Hokusai",
-            "year": "1824",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Yoshitsune%20as%20a%20Warrior%20-%201919.914%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
-        {
             "title": "Guan Yu Seated (Chinese God of War)",
             "artist": "Katsushika Hokusai",
             "year": "1804",
@@ -3995,13 +3988,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20loflied%20van%20Simeon%2C%20Rembrandt%20van%20Rijn%2C%201631%2C%20Mauritshuis%2C%20The%20Hague.jpg"
         },
         {
-            "title": "Simeon's song of praise",
-            "artist": "Rembrandt",
-            "year": "1631",
-            "museum": "private collection William I",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20loflied%20van%20Simeon%2C%20Rembrandt%20van%20Rijn%2C%201631%2C%20Mauritshuis%2C%20The%20Hague.jpg"
-        },
-        {
             "title": "Portrait of a man in a plumed hat",
             "artist": "Rembrandt",
             "year": "1635",
@@ -5611,13 +5597,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Portrait%20of%20Juana%20of%20Austria%20with%20a%20Young%20Girl%2C%201561.jpg"
         },
         {
-            "title": "Portrait of Joanna of Austria",
-            "artist": "Sofonisba Anguissola",
-            "year": "1560",
-            "museum": "http://www.wikidata.org/.well-known/genid/23a7f81f62fa78495e07448f5f4cfb51",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20Joanna%20of%20Portugal.jpg"
-        },
-        {
             "title": "Portrait of a Couple",
             "artist": "Sofonisba Anguissola",
             "year": "1570",
@@ -5702,13 +5681,6 @@
             "year": "1612",
             "museum": "Chester Beatty Library",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20man%20in%20a%20fur%20hat%2C%20by%20Reza%20Abbasi%20%28CBL%20Per%20260.2%29.jpg"
-        },
-        {
-            "title": "Convivial Party (1)",
-            "artist": "Reza Abbasi",
-            "year": "1612",
-            "museum": "Hermitage Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Convivial%20Party1.Riza.Hermitage.%20S.Peterburg.jpg"
         },
         {
             "title": "Convivial Party (2)",
@@ -6863,13 +6835,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20honor%C3%A9%20fragonard%2C%20gioco%20dello%20schiaffo%20del%20soldato%2C%201775-80%20circa.JPG"
         },
         {
-            "title": "A Game of Hot Cockles",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1777",
-            "museum": "Samuel H. Kress Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20honor%C3%A9%20fragonard%2C%20gioco%20dello%20schiaffo%20del%20soldato%2C%201775-80%20circa.JPG"
-        },
-        {
             "title": "The Fountain of Love",
             "artist": "Jean-Honor\u00e9 Fragonard",
             "year": "1785",
@@ -7653,13 +7618,6 @@
             "year": "1886",
             "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Approaching%20Storm%20-%201983.95.62%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Boat on Sea",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1864",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Boat%20on%20Sea%20-%201983.95.89%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
             "title": "Bright Scene of Cattle near Stream",
@@ -9597,13 +9555,6 @@
             "title": "The Art of Painting",
             "artist": "Johannes Vermeer",
             "year": "1667",
-            "museum": "F\u00fchrermuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20-%20The%20Art%20of%20Painting%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "The Art of Painting",
-            "artist": "Johannes Vermeer",
-            "year": "1667",
             "museum": "Munich Central Collecting Point",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20-%20The%20Art%20of%20Painting%20-%20Google%20Art%20Project.jpg"
         },
@@ -10699,13 +10650,6 @@
             "year": "1630",
             "museum": "Shipley Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20life%20with%20Shrimp%20and%20Eggs%20-%201630s.jpg"
-        },
-        {
-            "title": "Still Life with Fish and Shellfish",
-            "artist": "Clara Peeters",
-            "year": "1700",
-            "museum": "Philadelphia Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20Life%20with%20Fish%20and%20Shellfish%20Cat647.jpg"
         },
         {
             "title": "Floral Still Life",
@@ -12999,13 +12943,6 @@
             "year": "1800",
             "museum": "Museum of the Imperial Collections",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Rooster%20and%20hen%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
-        },
-        {
-            "title": "Rose mallows and fowl",
-            "artist": "Ito Jakuchu",
-            "year": "1800",
-            "museum": "Museum of the Imperial Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-Rose%20mallows%20and%20fowl%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
         },
         {
             "title": "Cockatoos in an old pine",
@@ -18264,13 +18201,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20The%20Life%20Line.jpg"
         },
         {
-            "title": "The Life Line",
-            "artist": "Winslow Homer",
-            "year": "1884",
-            "museum": "The George W. Elkins Collection, 1924",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20The%20Life%20Line.jpg"
-        },
-        {
             "title": "The West Wind",
             "artist": "Winslow Homer",
             "year": "1891",
@@ -18377,13 +18307,6 @@
             "year": "1500",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Twelve%20Views%20of%20Tiger%20Hill%20-%201964.371%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
-        {
-            "title": "Distant View of Tiger Hill from the Canal Mooring, from Twelve Views of Tiger Hill, Suzhou",
-            "artist": "Shen Zhou",
-            "year": "1500",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Twelve%20Views%20of%20Tiger%20Hill%2C%20Suzhou%2C%20Distant%20View%20of%20Tiger%20Hill%20from%20the%20Canal%20Mooring%20-%201964.371.1%20-%20Cleveland%20Museum%20of%20Art.tiff"
         },
         {
             "title": "Tiger-Flight Spring at the Back Gate, from Twelve Views of Tiger Hill, Suzhou",
@@ -18960,13 +18883,6 @@
             "title": "An Artist in Her Studio",
             "artist": "Judith Leyster",
             "year": "1632",
-            "museum": "Instituut Collectie Nederland",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
-        },
-        {
-            "title": "An Artist in Her Studio",
-            "artist": "Judith Leyster",
-            "year": "1632",
             "museum": "Cultural Heritage Agency of the Netherlands Art Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
         },
@@ -19295,13 +19211,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret%20met%20pijp%20en%20strohoed%20-%20s0163V1962%20-%20Van%20Gogh%20Museum.jpg"
         },
         {
-            "title": "Self-Portrait with Pipe and Straw Hat",
-            "artist": "Vincent van Gogh",
-            "year": "1887",
-            "museum": "Stedelijk Museum Amsterdam",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret%20met%20pijp%20en%20strohoed%20-%20s0163V1962%20-%20Van%20Gogh%20Museum.jpg"
-        },
-        {
             "title": "Portrait of a One-Eyed Man",
             "artist": "Vincent van Gogh",
             "year": "1889",
@@ -19419,13 +19328,6 @@
             "year": "1889",
             "museum": "Van Gogh Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Avond%20%28naar%20Millet%29%20-%20s0174V1962%20-%20Van%20Gogh%20Museum.jpg"
-        },
-        {
-            "title": "The Garden of Saint Paul's Hospital ('Leaf-Fall')",
-            "artist": "Vincent van Gogh",
-            "year": "1889",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuin%20van%20de%20inrichting%20Saint-Paul%20%28%27Het%20vallen%20van%20de%20bladeren%27%29%20-%20s0046V1962%20-%20Van%20Gogh%20Museum.jpg"
         },
         {
             "title": "Garden of the Asylum",
@@ -21098,15 +21000,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%2C%20%D0%A1%D0%BE%D1%81%D0%BD%D0%B0.%20%D0%9C%D0%B5%D1%80%D0%B8%D0%BA%D1%8E%D0%BB%D1%8C%2C%201894.jpg"
         }
     ],
-    "Katsushika \u014ci": [
-        {
-            "title": "Operating on Guan Yu's Arm",
-            "artist": "Katsushika \u014ci",
-            "year": "1840",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20%C5%8Ci%20-%20Operating%20on%20Guan%20Yu%27s%20Arm.jpg"
-        }
-    ],
+    "Katsushika \u014ci": [],
     "John Singer Sargent": [
         {
             "title": "Santa Sofia",
@@ -21324,13 +21218,6 @@
             "year": "1905",
             "museum": "Art Institute of Chicago",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20-%20Study%20of%20Two%20Bedouins%2C%201905-6%2C%201996.447.jpg"
-        },
-        {
-            "title": "Rehearsal of the Pasdeloup Orchestra at the Cirque d'Hiver",
-            "artist": "John Singer Sargent",
-            "year": "1879",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Rehearsal%20of%20the%20Pasdeloup%20Orchestra%20at%20the%20Cirque%20d%27Hiver%20-%2081.1972%20-%20Art%20Institute%20of%20Chicago.jpg"
         },
         {
             "title": "Mrs. Charles Gifford Dyer (Mary Anthony)",
@@ -21730,13 +21617,6 @@
             "year": "1884",
             "museum": "http://www.wikidata.org/.well-known/genid/3d1bb0956c1bb0cca30d4a9453e0ac08",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Mademoiselle%20Suzanne%20Poirson%20%281884%29.jpg"
-        },
-        {
-            "title": "Ellen Terry as Lady Macbeth",
-            "artist": "John Singer Sargent",
-            "year": "1889",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ellen%20Terry%20as%20Lady%20Macbeth.jpg"
         },
         {
             "title": "Ellen Terry as Lady Macbeth",
@@ -22961,13 +22841,6 @@
             "year": "1898",
             "museum": "Woodone Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Under%20the%20Shade%20of%20a%20Tree%20by%20Kuroda%20Seiki%20%28Woodone%20Museum%20of%20Art%29.png"
-        },
-        {
-            "title": "Withered Field (Grez)",
-            "artist": "Kuroda Seiki",
-            "year": "1891",
-            "museum": "Tokyo National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/WitheredField%28Grez%29.jpg"
         },
         {
             "title": "Face of a Girl",
@@ -24470,6 +24343,598 @@
             "year": "1618",
             "museum": "Art Institute of Chicago",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20-%20Kitchen%20Scene%20-%201935.380%20-%20Art%20Institute%20of%20Chicago.jpg"
+        }
+    ],
+    "Hasegawa T\u014dhaku": [
+        {
+            "title": "Pine Trees",
+            "artist": "Hasegawa T\u014dhaku",
+            "year": "1580",
+            "museum": "Tokyo National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasegawa%20Tohaku%20-%20Pine%20Trees%20%28Sh%C5%8Drin-zu%20by%C5%8Dbu%29%20-%20left%20hand%20screen.jpg"
+        },
+        {
+            "title": "Pine Trees",
+            "artist": "Hasegawa T\u014dhaku",
+            "year": "1600",
+            "museum": "Tokyo National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasegawa%20Tohaku%20-%20Pine%20Trees%20%28Sh%C5%8Drin-zu%20by%C5%8Dbu%29%20-%20left%20hand%20screen.jpg"
+        },
+        {
+            "title": "Pine Trees",
+            "artist": "Hasegawa T\u014dhaku",
+            "year": "1600",
+            "museum": "Tokyo National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasegawa%20Tohaku%20-%20Pine%20Trees%20%28Sh%C5%8Drin-zu%20by%C5%8Dbu%29%20-%20right%20hand%20screen.jpg"
+        },
+        {
+            "title": "Pine Trees",
+            "artist": "Hasegawa T\u014dhaku",
+            "year": "1550",
+            "museum": "Tokyo National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasegawa%20Touhaku%20-%20Pine%20Trees%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Maple Tree",
+            "artist": "Hasegawa T\u014dhaku",
+            "year": "1593",
+            "museum": "Chishaku-in Temple",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89rable%20entour%C3%A9%20d%27herbes%20d%27automne%20%28d%C3%A9tail%29%20par%20Hasegawa%20T%C5%8Dhaku.jpg"
+        }
+    ],
+    "Angelica Kauffman": [
+        {
+            "title": "Portrait of Maria Carolina of Austria (1752-1814)",
+            "artist": "Angelica Kauffman",
+            "year": "1782",
+            "museum": "Vorarlberg Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelika%20Kauffmann%20Portrait%20Maria%20Karoline%20von%20%C3%96sterreich%20VLM.jpg"
+        },
+        {
+            "title": "Cornelia, Mother of the Gracchi",
+            "artist": "Angelica Kauffman",
+            "year": "1788",
+            "museum": "Royal Castle in Warsaw",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20kauffman%20ra%20cornelia%20mother%20of%20the%20gracchi060808%29.jpg"
+        },
+        {
+            "title": "Jupiter and Callisto",
+            "artist": "Angelica Kauffman",
+            "year": "1760",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jupiter%20and%20Callisto%203.%20Angelica%20Kauffman.jpg"
+        },
+        {
+            "title": "Portrait of Giuliana Pubblicola Santacroce as Lucretia.",
+            "artist": "Angelica Kauffman",
+            "year": "1791",
+            "museum": "\u0141azienki Palace",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%20Giuliana%20Pubblicola%20Santacroce.jpg"
+        },
+        {
+            "title": "Chancellor Andrzej Zamoyski with His Children Before a Bust of Jan Zamoyski.",
+            "artist": "Angelica Kauffman",
+            "year": "1793",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%20Andrzej%20Zamoyski.JPG"
+        },
+        {
+            "title": "Portr\u00e4t des Johann Isaak Freiherr von Gerning",
+            "artist": "Angelica Kauffman",
+            "year": "1798",
+            "museum": "Museum Wiesbaden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelika%20Kauffmann%20Bildnis%20Johann%20Isaak%20Freiherr%20von%20Gerning.jpg"
+        },
+        {
+            "title": "Portrait of Anna Potocka (1758-1814).",
+            "artist": "Angelica Kauffman",
+            "year": "1791",
+            "museum": "Palace Museum in Wilan\u00f3w",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20Anna%20z%20Cetner%C3%B3w%20Potocka.jpg"
+        },
+        {
+            "title": "Three singers",
+            "artist": "Angelica Kauffman",
+            "year": "1795",
+            "museum": "B\u00fcndner Kunstmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelika%20Kauffmann%20Drei%20S%C3%A4ngerinnen%201795.jpg"
+        },
+        {
+            "title": "Holy Family with an angel.",
+            "artist": "Angelica Kauffman",
+            "year": "1807",
+            "museum": "Museum of John Paul II Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%20Holy%20Family%20with%20an%20angel.jpg"
+        },
+        {
+            "title": "Portrait of Krystyna Potocka watering flowers on her mother's grave",
+            "artist": "Angelica Kauffman",
+            "year": "1780",
+            "museum": "Palace Museum in Wilan\u00f3w",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Krystyna%20Potocka%20watering%20flowers%20on%20her%20mother%27s%20grave%20%281783-1784%29%20-%20Angelica%20Kauffmann%20%28Palace%20Museum%20in%20Wilan%C3%B3w%29.jpg"
+        },
+        {
+            "title": "Portr\u00e4t der Dorothea von Medem, Duchess of Courland",
+            "artist": "Angelica Kauffman",
+            "year": "1785",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Duchess%20of%20Courland%20kauffman.jpg"
+        },
+        {
+            "title": "Portrait of Izabelle Lubomirska n\u00e9e Czartoryska",
+            "artist": "Angelica Kauffman",
+            "year": "1786",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%20Izabelle%20Lubomirska.JPG"
+        },
+        {
+            "title": "Portrait of Stanis\u0142aw Poniatowski (1754-1833).",
+            "artist": "Angelica Kauffman",
+            "year": "1786",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffman%20Stanis%C5%82aw%20Poniatowski.jpg"
+        },
+        {
+            "title": "A personification of Hebe",
+            "artist": "Angelica Kauffman",
+            "year": "1750",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20personification%20of%20Hebe%20-%20Angelica%20Kauffmann.jpg"
+        },
+        {
+            "title": "Portrait of Countess Catherine Skawronska",
+            "artist": "Angelica Kauffman",
+            "year": "1789",
+            "museum": "Germanisches Nationalmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Countess%20Catherine%20Skawronska%2C%20by%20Angelika%20Kauffmann%2C%201789%2C%20oil%20on%20canvas%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg%2C%20Germany%20-%20DSC03425.jpg"
+        },
+        {
+            "title": "Agrippina Mourns the Urn of Germanicus",
+            "artist": "Angelica Kauffman",
+            "year": "1793",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Agrippina%20trauert%20%C3%BCber%20der%20Urne%20des%20Germanicus%2C%20Angelika%20Kauffmann%20%281793%29%2C%20Kunstpalast%20D%C3%BCsseldorf.jpg"
+        },
+        {
+            "title": "Almeria Carpenter (1752-1809)",
+            "artist": "Angelica Kauffman",
+            "year": "1780",
+            "museum": "Kiplin Hall",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Almeria%20Carpenter%20by%20Kauffmann.jpg"
+        },
+        {
+            "title": "Erato, the Muse of Lyric Poetry with a Putto",
+            "artist": "Angelica Kauffman",
+            "year": "1750",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20Erato%2C%20the%20Muse%20of%20Lyric%20Poetry%20with%20a%20Putto.jpg"
+        },
+        {
+            "title": "Portrait of her husband, the painter Antonio Zucchi",
+            "artist": "Angelica Kauffman",
+            "year": "1781",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kaufmann%20Antonio%20Zucchi.jpg"
+        },
+        {
+            "title": "Portrait of Mme Latouce, wife of John Latouche (1732-1805)",
+            "artist": "Angelica Kauffman",
+            "year": "1750",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelika%20Kauffmann%20Portrait%20Mme%20Latouche.jpg"
+        },
+        {
+            "title": "Portrait of Lady Louisa Leveson Gower as Spes (Goddess of Hope)",
+            "artist": "Angelica Kauffman",
+            "year": "1767",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelika%20Kauffmann%20Portrait%20Louisa%20Leveson%20Gower%201767.jpg"
+        },
+        {
+            "title": "Anne Stewart, n\u00e9e Dashwood, Countess of Galloway (1743-1830) with her daugther, Lady Susan Stewart, later Duchess of Marlborough (1767-1841)",
+            "artist": "Angelica Kauffman",
+            "year": "1750",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Stewart%2C%20n%C3%A9e%20Dashwood%2C%20Countess%20of%20Galloway%20%281743-1830%29%2C%20by%20Angelica%20Kauffmann.jpg"
+        },
+        {
+            "title": "The Judgment of Paris",
+            "artist": "Angelica Kauffman",
+            "year": "1781",
+            "museum": "Museo de Arte de Ponce",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffman%20-%20El%20juicio%20de%20Paris.jpg"
+        },
+        {
+            "title": "Portrait of Baroness von Bauer, half length, wearing a white, lace dress",
+            "artist": "Angelica Kauffman",
+            "year": "1786",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20Portrait%20of%20Baroness%20Von%20Bauer%2C%20half%20length%2C%20Wearing%20a%20White%2C%20Lace%20Dress.jpg"
+        },
+        {
+            "title": "Portrait du docteur Auguste Tissot",
+            "artist": "Angelica Kauffman",
+            "year": "1783",
+            "museum": "Cantonal Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Tissot%20painted%20by%20Angelika%20Kauffmann.jpg"
+        },
+        {
+            "title": "Portrait of Ludwig, Crown Prince of Bavaria",
+            "artist": "Angelica Kauffman",
+            "year": "1807",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Ludwig%2C%20Crown%20Prince%20of%20Bavaria.png"
+        },
+        {
+            "title": "Beauty Directed by Prudence Rejects wit Scorn the Solicitations of Folly",
+            "artist": "Angelica Kauffman",
+            "year": "1780",
+            "museum": "Kadriorg Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Beauty%20directed%20by%20Prudence%20rejects%20with%20scorn%20the%20solicitations%20of%20Folly%20by%20Angelica%20Kauffmann.jpg"
+        },
+        {
+            "title": "Prince Henry Lubomirski As Amor",
+            "artist": "Angelica Kauffman",
+            "year": "1786",
+            "museum": "Borys Voznytskyi Lviv National Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%20-%20Henryk%20Lubomirski.jpg"
+        },
+        {
+            "title": "Portrait of Elizabeth Kerr, n\u00e9e Fortescue, Marchioness of Lothian",
+            "artist": "Angelica Kauffman",
+            "year": "1770",
+            "museum": "Clark Art Institute",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Kerr%2C%20n%C3%A9e%20Fortescue%2C%20Marchioness%20of%20Lothian%2C%20by%20Angelica%20Kauffmann.jpg"
+        },
+        {
+            "title": "Cornelia, Mother of the Gracchi, Pointing to Her Children as Her Treasures",
+            "artist": "Angelica Kauffman",
+            "year": "1785",
+            "museum": "Virginia Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%20Cornelia%20mater%20Gracchorum.jpg"
+        },
+        {
+            "title": "Portr\u00e4t des Franz Konrad von Rodt (1706-1775)",
+            "artist": "Angelica Kauffman",
+            "year": "1757",
+            "museum": "National Museum Zurich",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Konrad%20von%20Rodt%20by%20Angelica%20Kauffmann.jpg"
+        },
+        {
+            "title": "Ariadne abandoned by Theseus",
+            "artist": "Angelica Kauffman",
+            "year": "1800",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ariadne.%20Angelica%20Kauffmann.jpg"
+        },
+        {
+            "title": "Portrait of Maria Carolina of Austria",
+            "artist": "Angelica Kauffman",
+            "year": "1798",
+            "museum": "Filangieri Civic Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20kauffmann%20%28attr.%29%2C%20ritrattto%20di%20maria%20carolina%20d%27austria%2C%201790%20ca.jpg"
+        },
+        {
+            "title": "From the Legend of Cupid and Psyche",
+            "artist": "Angelica Kauffman",
+            "year": "1790",
+            "museum": "Revoltella Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann-Aus%20der%20Legende%20von%20Amor%20und%20Psyche-Museo%20Revoltella-%20No%20frame.jpg"
+        },
+        {
+            "title": "The Family of the Earl of Gower",
+            "artist": "Angelica Kauffman",
+            "year": "1772",
+            "museum": "National Museum of Women in the Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffman%20-%20The%20Family%20of%20the%20Earl%20of%20Gower%20%281772%29.jpg"
+        },
+        {
+            "title": "Penelope Waken by Eurykleia",
+            "artist": "Angelica Kauffman",
+            "year": "1772",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Penelope%20Waken%20by%20Eurykleia%20%281772%29%2C%20oil%20on%20canvas%2C%20dimensions%20unknown%2C%20Vorarlberger%20Landesmuseum%2C%20Bregenz.jpg"
+        },
+        {
+            "title": "Portrait of Christian VII, King of Denmark",
+            "artist": "Angelica Kauffman",
+            "year": "1768",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20Portrait%20Christian%20VII%2C%20K%C3%B6nig%20von%20D%C3%A4nemark.jpg"
+        },
+        {
+            "title": "Young woman with urn (Anne Home Hunter)",
+            "artist": "Angelica Kauffman",
+            "year": "1766",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20Young%20woman%20with%20urn%20%28Anne%20Home%20Hunter%29.jpg"
+        },
+        {
+            "title": "Beauty Directed by Prudence, Wreathed by Perfection",
+            "artist": "Angelica Kauffman",
+            "year": "1780",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A.Kauffmann1770.jpg"
+        },
+        {
+            "title": "Portrait of Georgiana, Duchess of Devonshire",
+            "artist": "Angelica Kauffman",
+            "year": "1800",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%2C%20Duchess%20of%20Devonshire.jpg"
+        },
+        {
+            "title": "Hebe waters Jupiter's eagle",
+            "artist": "Angelica Kauffman",
+            "year": "1804",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hebe%20tr%C3%A4nkt%20den%20Adler%20des%20Jupiter%20by%20Angelica%20Kauffmann.jpg"
+        },
+        {
+            "title": "Papirius Praetextatus Entreated by his Mother to Disclose the Secrets of the Deliberations of the Roman Senate",
+            "artist": "Angelica Kauffman",
+            "year": "1770",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Papirius%20Praetextatus%20Entreated%20by%20his%20Mother%20to%20Disclose%20the%20Secrets%20of%20the%20Deliberations%20of%20the%20Roman%20Senate%20by%20Angelica%20Kauffman.jpg"
+        },
+        {
+            "title": "Color",
+            "artist": "Angelica Kauffman",
+            "year": "1780",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelika%20Kauffmann%20Color.jpg"
+        },
+        {
+            "title": "Virgil Writing His Epitaph at Brundisi",
+            "artist": "Angelica Kauffman",
+            "year": "1785",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffman%20-%20Virgil%20Writing%20His%20Epitaph%20at%20Brundisi%20-%201785%20-%20Carnegie%20Museum%20of%20Art%2C%202020-01-24.jpg"
+        },
+        {
+            "title": "Coriolanus, his mother Veturia, and his wife Volumnia imploring him to abandon the war.",
+            "artist": "Angelica Kauffman",
+            "year": "1765",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D1%80%D0%B8%D0%BE%D0%BB%D0%B0%D0%BD%2C%20%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%82%D1%8C%20%D0%92%D0%B5%D1%82%D1%83%D1%80%D0%B8%D1%8F%20%D0%B8%20%D0%B5%D0%B3%D0%BE%20%D0%B6%D0%B5%D0%BD%D0%B0%20%D0%92%D0%BE%D0%BB%D1%83%D0%BC%D0%BD%D0%B8%D1%8F.jpg"
+        },
+        {
+            "title": "Eleanor sucks poison from the wound of her husband, King Edward I",
+            "artist": "Angelica Kauffman",
+            "year": "1776",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Eleanora%20saugt%20Gift%20aus%20der%20Wunde%20ihres%20Mannes%2C%20K%C3%B6nig%20Eduard%20I.%20Angelica%20Kauffman.webp"
+        },
+        {
+            "title": "Cleopatra before Augustus",
+            "artist": "Angelica Kauffman",
+            "year": "1805",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20Kleopatra%20vor%20Augustus..jpg"
+        },
+        {
+            "title": "The Temptation of Eros",
+            "artist": "Angelica Kauffman",
+            "year": "1750",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Temptation%20of%20Eros%20MET%20VR%2039.184.18%20Ptg.%201%20Ret.jpg"
+        },
+        {
+            "title": "Anna Escher von Muralt",
+            "artist": "Angelica Kauffman",
+            "year": "1800",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20von%20Escher%20van%20Muralt%20%28Angelica%20Kauffmann%29.jpg"
+        },
+        {
+            "title": "A Sybil",
+            "artist": "Angelica Kauffman",
+            "year": "1775",
+            "museum": "http://www.wikidata.org/.well-known/genid/3ee5bbe5ff6d696d4a37af603bef0751",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20A%20Sybil.jpg"
+        },
+        {
+            "title": "Cumaean Sibyl after Domenichino",
+            "artist": "Angelica Kauffman",
+            "year": "1763",
+            "museum": "National Museum of Women in the Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffman%20-%20Cumaean%20Sibyl%20after%20Domenichino%20%28c.1763%29.jpg"
+        },
+        {
+            "title": "Zeuxis Selecting Models for His Painting of Helen of Troy.",
+            "artist": "Angelica Kauffman",
+            "year": "1778",
+            "museum": "Annmary Brown Memorial",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffman%20-%20Zeuxis%20Selecting%20Models%20for%20His%20Painting%20of%20Helen%20of%20Troy.jpg"
+        },
+        {
+            "title": "Lady Georgiana Spencer, Henrietta Spencer and George Viscount Althorp",
+            "artist": "Angelica Kauffman",
+            "year": "1766",
+            "museum": "http://www.wikidata.org/.well-known/genid/083ae9f5dea356a0a8c9638dcb370c76",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20Georgiana%20Spencer%2C%20Henrietta%20Spencer%20and%20George%20Viscount%20Althorp%20by%20Angelika%20Kauffmann.jpg"
+        },
+        {
+            "title": "Praxiteles Giving Phryne his Statue of Cupid",
+            "artist": "Angelica Kauffman",
+            "year": "1794",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20Praxiteles%20Giving%20Phryne%20his%20Statue%20of%20Cupid%20-%2059.008%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg"
+        },
+        {
+            "title": "Portrait of Lady Louisa Leveson-Gower (1749/50-1827), later Baroness Macdonald, as Spes",
+            "artist": "Angelica Kauffman",
+            "year": "1767",
+            "museum": "St\u00e4del Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Lady%20Louisa%20Leveson-Gower%20%281749-50-1827%29%2C%20later%20Baroness%20Macdonald%2C%20as%20Spes%20%28SM%202513%29.png"
+        },
+        {
+            "title": "Portrait of the Impromptu Virtuoso Teresa Bandettini-Landucci of Lucca",
+            "artist": "Angelica Kauffman",
+            "year": "1794",
+            "museum": "Museum Kunstpalast",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelika%20Kauffmann%20-%20Portrait%20of%20the%20Impromptu%20Virtuoso%20Teresa%20Bandettini-Landucci%20of%20Lucca%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Ely Family",
+            "artist": "Angelica Kauffman",
+            "year": "1771",
+            "museum": "National Gallery of Ireland",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20The%20Ely%20Family%2C%201771%20-%20NGI.jpg"
+        },
+        {
+            "title": "Woman in Turkish Dress",
+            "artist": "Angelica Kauffman",
+            "year": "1767",
+            "museum": "Saint Louis Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20Woman%20in%20Turkish%20Dress%20-%20704-2018%20-%20Saint%20Louis%20Art%20Museum.jpg"
+        },
+        {
+            "title": "The Victory of Eros",
+            "artist": "Angelica Kauffman",
+            "year": "1762",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20The%20Victory%20of%20Eros%20-%2039.184.19%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Sappho Inspired by Love",
+            "artist": "Angelica Kauffman",
+            "year": "1775",
+            "museum": "John and Mable Ringling Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sappho%20Inspired%20by%20Love%20by%20Angelica%20Kauffmann.jpg"
+        },
+        {
+            "title": "Portrait of John Apthorp of Boston and his Daughters",
+            "artist": "Angelica Kauffman",
+            "year": "1764",
+            "museum": "http://www.wikidata.org/.well-known/genid/22dcb841049dee06779c776bf78cc9b2",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PORTRAIT%20OF%20JOHN%20APTHORP%20%281730-1772%29%20OF%20BOSTON%20AND%20HIS%20DAUGHTERS.jpg"
+        },
+        {
+            "title": "Portrait of Lady Georgiana, Lady Henrietta Frances and George John Spencer, Viscount Althorp",
+            "artist": "Angelica Kauffman",
+            "year": "1774",
+            "museum": "Althorp",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%2C%20Portrait%20of%20Lady%20Georgiana%2C%20Lady%20Henrietta%20Frances%20and%20George%20John%20Spencer%2C%20Viscount%20Althorp%20%281774%29.jpg"
+        },
+        {
+            "title": "Portrait of Henri Reboul",
+            "artist": "Angelica Kauffman",
+            "year": "1798",
+            "museum": "http://www.wikidata.org/.well-known/genid/4fe332553e423a0ecfd99134ae24e9b2",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Reboul%20by%20Angelica%20Kauffmann.jpg"
+        },
+        {
+            "title": "Pliny the Younger and his Mother at Misenum, 79 A.D.",
+            "artist": "Angelica Kauffman",
+            "year": "1785",
+            "museum": "Princeton Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pliny%20the%20Younger%20and%20his%20Mother%20at%20Misenum%2C%2079%20A.D.%2C%20by%20Angelica%20Kauffmann%2C%20English%2C%201785%2C%20oil%20on%20canvas%20-%20Princeton%20University%20Art%20Museum%20-%20DSC06494.jpg"
+        },
+        {
+            "title": "Barbara St. John Bletsoe, Countess of Coventry",
+            "artist": "Angelica Kauffman",
+            "year": "1800",
+            "museum": "Princeton Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20Barbara%20St.%20John%20Bletsoe%2C%20Countess%20of%20Coventry%20-%201998-285%20-%20Princeton%20University%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Portrait of Lady Elizabeth Smith-Stanley, Countess of Derby, with her infant son Edward, later 13th Earl of Derby, and her half-sister, Lady Augusta Campbell, playing the harp",
+            "artist": "Angelica Kauffman",
+            "year": "1776",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Smith-Stanley%2C%20Countess%20of%20Derby%2C%20with%20her%20infant%20son%20Edward%2C%20later%2013th%20Earl%20of%20Derby%2C%20and%20her%20half-sister%2C%20Lady%20Augusta%20Campbell%20playing%20the%20harp.jpg"
+        },
+        {
+            "title": "Bacchante",
+            "artist": "Angelica Kauffman",
+            "year": "1772",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelika%20Kauffman%20Bacchantin.jpg"
+        },
+        {
+            "title": "Bacchante",
+            "artist": "Angelica Kauffman",
+            "year": "1784",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelika%20Kauffman%20Bacchantin.jpg"
+        },
+        {
+            "title": "Cephise and her Lover discover the sleeping Cupid in the Woods of Idalia",
+            "artist": "Angelica Kauffman",
+            "year": "1782",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffman%20Cephise%20und%20ihr%20Geliebter.jpg"
+        },
+        {
+            "title": "Cephise cuts the sleeping Cupids' Wings",
+            "artist": "Angelica Kauffman",
+            "year": "1782",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffman%20Cephise%20beschneidet.jpg"
+        },
+        {
+            "title": "Aeneas mourns Pallas, Evander's son, who was killed by Turnus",
+            "artist": "Angelica Kauffman",
+            "year": "1786",
+            "museum": "Tyrolean State Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%2C%20Angelika%20%E2%80%94%20Aeneas%20trauert%20um%20den%20von%20Turnus%20get%C3%B6teten%20Pallas%20%28%C3%96lskizze%201786%29.jpg"
+        },
+        {
+            "title": "Valentine Rescues Silvia in The Two Gentlemen of Verona",
+            "artist": "Angelica Kauffman",
+            "year": "1789",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Scene%20from%20%28Kauffmann%29.jpg"
+        },
+        {
+            "title": "Henrietta Laura Pulteney (1766\u20131808)",
+            "artist": "Angelica Kauffman",
+            "year": "1777",
+            "museum": "Holburne Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henrietta%20Laura%20Pulteney%20%281766%E2%80%931808%29.jpg"
+        },
+        {
+            "title": "Portrait of Louise of Brandenburg-Schwedt, Duchess of Anhalt-Dessau (1750-1811)",
+            "artist": "Angelica Kauffman",
+            "year": "1796",
+            "museum": "Kulturstiftung Dessau-W\u00f6rlitz",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Louise%20of%20Brandenburg-Schwedt%2C%20duchess%20of%20Anhalt-Dessau.jpg"
+        },
+        {
+            "title": "Phrine seduces Xenocrates",
+            "artist": "Angelica Kauffman",
+            "year": "1794",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Phryne%20seduces%20the%20philosopher%20Xenocrates%2C%20Angelica%20Kauffmann%201794.jpg"
+        },
+        {
+            "title": "Portrait of Mrs. Cubley as Terpsichore, half-length, in a white dress and a blue wrap, playing a lyre",
+            "artist": "Angelica Kauffman",
+            "year": "1777",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cubley%20as%20Terpsichore%20by%20Angelica%20Kauffmann.jpg"
+        },
+        {
+            "title": "Sir William Fordyce (1724\u20131792), MD, FRS",
+            "artist": "Angelica Kauffman",
+            "year": "1771",
+            "museum": "University of Aberdeen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20%281741-1807%29%20-%20Sir%20William%20Fordyce%20%281724%E2%80%931792%29%2C%20MD%2C%20FRS%20-%20ABDUA%2030062%20-%20University%20of%20Aberdeen.jpg"
+        },
+        {
+            "title": "Penelope at Her Loom",
+            "artist": "Angelica Kauffman",
+            "year": "1764",
+            "museum": "Brighton Museum & Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20%281741-1807%29%20-%20Penelope%20at%20Her%20Loom%20-%20FAH1975.33%20-%20Brighton%20Museum%20%5E%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Penelope at Her Loom",
+            "artist": "Angelica Kauffman",
+            "year": "1764",
+            "museum": "Brighton Museum & Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kaufmann%20-%20Penelope%20at%20her%20Loom.jpg"
         }
     ]
 }
