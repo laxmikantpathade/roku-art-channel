@@ -274,13 +274,6 @@
             "description": "This vibrant oil painting is a window into the modernist art movement in Korea. Created by Kim Hong-do, one of the pioneers of Korean modernism, 'Garden' showcases his unique style and thematic explorations of nature and urban life. Born in 1892, Kim Hong-do was influenced by European modernism and sought to create a distinctly Korean voice through his work. This painting is a testament to his innovative spirit and enduring legacy as a key figure in Korea's modern art history."
         },
         {
-            "title": "Seoraksan by Jeong Seon",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_48.jpg",
-            "year": "17th century",
-            "museum": "",
-            "description": "Seoraksan is a serene landscape of a mountain in Korea, painted in the early 17th century. This work showcases Jeong Seon's mastery of traditional Korean techniques and his fascination with the natural world. As a prominent artist during the Joseon Dynasty, Jeong Seon's paintings not only reflected the beauty of Korea but also served as a means to express the spiritual connection between nature and humanity."
-        },
-        {
             "title": "Flowering Peonies by Ito Jakuchu",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_49.jpg",
             "year": "1793",
@@ -1954,6 +1947,13 @@
             "description": "Created in the early 17th century, Still Life with Fruits is a pioneering work of Dutch Golden Age art. Clara Peeters' masterful composition showcases her innovative use of light and shadow, highlighting the everyday beauty of ordinary objects. This painting not only exemplifies the artist's skill but also reflects the cultural values of the time, emphasizing the importance of domestic life and the beauty in mundane subjects."
         },
         {
+            "title": "Lion Capital of Ashoka by Kamāl ud-Dīn Behzād",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_288.jpg",
+            "year": "1503-1504",
+            "museum": "National Museum, New Delhi",
+            "description": "The Lion Capital of Ashoka is a symbol of India and represents the unity of India. Created by Kamaluddin Behzad in the early 16th century for the Mauryan Empire, this iconic sculpture was originally made from nine marble lions that stood atop the capital city of Pataliputra. Today, it stands as a UNESCO World Heritage Site at the National Museum in New Delhi, serving as an enduring testament to India's rich cultural heritage and the legacy of Emperor Ashoka."
+        },
+        {
             "title": "Hokusai by Katsushika Hokusai",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_289.jpg",
             "year": "1830-35",
@@ -2008,6 +2008,13 @@
             "year": "1589",
             "museum": "National Gallery (London)",
             "description": "In this captivating self-portrait, Sofonisba Anguissola showcases her remarkable talent and confidence. Created in 1589, the painting is one of the few known portraits by the Italian Renaissance painter. At just 15 years old, Anguissola masterfully depicts herself with an air of sophistication and poise. The portrait has been widely admired for its technical skill and emotional depth, offering a glimpse into the life of one of history's most accomplished female artists."
+        },
+        {
+            "title": "The Wounded Lion by Félix émile Taunay",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_289.jpg",
+            "year": "1904",
+            "museum": "Musée du Quai Branly - Jacques Chirac, Paris",
+            "description": "Created during the Belle Époque era, 'The Wounded Lion' showcases Taunay's mastery of African art. The painting is believed to have been inspired by a real-life encounter between the artist and a wounded lion. It is considered one of his most iconic works, exemplifying the fusion of traditional Brazilian and African artistic styles."
         }
     ]
 }
