@@ -1380,6 +1380,13 @@
             "description": "In 1838, Robert S. Duncanson painted 'Mountains and Valley', a stunning landscape that showcases his mastery of American art during the mid-19th century. The painting is characterized by its serene and idyllic depiction of nature, with towering mountains and rolling hills in the background. This work not only reflects Duncanson's skill as an artist but also provides valuable insight into the lives and experiences of African Americans during this period."
         },
         {
+            "title": "The Lady with a Fan by Shen Zhou",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_213.jpg",
+            "year": "1777",
+            "museum": "National Palace Museum",
+            "description": "This captivating portrait of a Chinese woman playing the zither is a masterpiece of Qing dynasty art. Created in 1777, it showcases Shen Zhou's exceptional skill in capturing the subtle expressions and elegant demeanor of his subjects. The painting is a testament to the cultural significance of music and leisure in traditional Chinese society, and its beauty continues to inspire art lovers around the world."
+        },
+        {
             "title": "Ganesha by Bishandas",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_214.jpg",
             "year": "1882",
@@ -1387,11 +1394,11 @@
             "description": "Ganesha is a painting of the Hindu deity Ganesha, created by Indian artist Bishandas in 1882. The piece showcases the elephant-headed god's iconic appearance, symbolizing wisdom and prosperity in Hindu culture. As one of India's earliest European-trained artists, Bishandas' work blended traditional Indian themes with Western techniques, reflecting the cultural exchange during the colonial era. This painting serves as a testament to the enduring influence of Indian art on global visual traditions."
         },
         {
-            "title": "Flower Still Life by Rachel Ruysch",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_216.jpg",
-            "year": "1666",
-            "museum": "Rijksmuseum, Amsterdam",
-            "description": "In 17th-century Amsterdam, Rachel Ruysch's Flower Still Life exemplifies Dutch Golden Age artistry. The composition showcases an exquisite arrangement of flowers in a vase, symbolizing the beauty of nature and the artist's attention to detail. This painting not only demonstrates Ruysch's skill as a still-life painter but also reflects her role as a female artist in a male-dominated field."
+            "title": "Seiki by Kuroda Seiki",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_215.jpg",
+            "year": "1879",
+            "museum": "Tokyo National Museum",
+            "description": "Seiki is a prominent example of Japanese ukiyo-e woodblock prints from the late 19th century. Created during a tumultuous period in Japanese history, this print showcases the artist's unique blend of traditional and modern styles. The work features bold colors and intricate designs, reflecting the cultural exchange between Japan and the West. As one of Seiki's most famous works, it not only reflects his artistic talent but also provides insight into Japan's transition from isolationism to internationalization during the late Edo period."
         },
         {
             "title": "The Toilet of Venus by Sofonisba Anguissola",
@@ -2792,6 +2799,153 @@
             "year": "1907",
             "museum": "Hilma af Klint Foundation",
             "description": "The Ten Largest, No. 1: Childhood is an abstract painting by Swedish artist Hilma af Klint, created in 1907. As one of the first examples of abstract art, it showcases af Klint's innovative style and spiritual themes. Characterized by bold geometric shapes and vibrant colors, this piece marks a pivotal moment in modern art history. It was included in the 1914 group exhibition 'Die Blaue Zeit' (The Blue Period) which introduced the work to European audiences. Today, it is considered a landmark of early abstraction and a testament to af Klint's groundbreaking vision."
+        },
+        {
+            "title": "Night Scene on the Sumida River by Utagawa Hiroshige",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_402.jpg",
+            "year": "1849",
+            "museum": "Cleveland Museum of Art",
+            "description": "Night Scene on the Sumida River (1849) is a seminal print by Utagawa Hiroshige, one of Japan's most celebrated ukiyo-e artists. This work showcases Hiroshige's mastery of capturing the essence of everyday life in Edo-period Japan. The scene depicts a serene nighttime view of the Sumida River, with lanterns and boats creating a warm, golden glow. As a key representative of the Edo period's woodblock printing technique, Night Scene on the Sumida River demonstrates Hiroshige's innovative approach to composition, color palette, and attention to detail."
+        },
+        {
+            "title": "Lofty Mount Lu by Shen Zhou",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_403.jpg",
+            "year": "1466",
+            "museum": "National Palace Museum",
+            "description": "Lofty Mount Lu is a renowned Chinese landscape painting by Shen Zhou, created in 1466. This work exemplifies the 'Mountain and Water' genre, which dominated Ming dynasty art. The painting features majestic mountains, serene waterways, and poetic symbolism, reflecting Shen Zhou's mastery of traditional techniques and innovative use of perspective. A key example of early Ming dynasty landscape art, Lofty Mount Lu showcases the artist's ability to evoke a sense of harmony and balance between nature and humanity."
+        },
+        {
+            "title": "Mrs. Charles Deering (Marion Denison Whipple) by John Singer Sargent",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_404.jpg",
+            "year": "1888",
+            "museum": "Art Institute of Chicago",
+            "description": "Mrs. Charles Deering (Marion Denison Whipple) is a portrait painting by American artist John Singer Sargent, created in 1888. The subject, Marion Deering, was the wife of John and Francis Bayard Deering, members of the wealthy Deering family of New York. This portrait is significant for its technical skill, composition, and insight into the life of an upper-class American woman during the late 19th century. Sargent's masterful use of color and light creates a sense of depth and intimacy in the painting."
+        },
+        {
+            "title": "The San Ángel Goatherd by José María Velasco",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_405.jpg",
+            "year": "1863",
+            "museum": "Museo Nacional de Arte",
+            "description": "The San Ángel Goatherd is a painting by José María Velasco, created in 1863. This work showcases Velasco's early influences of Barbizonism and Romanticism, with its emphasis on natural light and the tranquility of rural life. The composition depicts a lone figure tending to his goats under a Spanish sky, symbolizing the struggle between nature and human existence. As one of Velasco's earliest masterpieces, it highlights the artist's development towards an introspective and contemplative style that would define his future work."
+        },
+        {
+            "title": "After a Bath. Woman Drying the Back of her Neck. by Edgar Degas",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_406.jpg",
+            "year": "1895",
+            "museum": "Musée d'Orsay",
+            "description": "After a Bath. Woman Drying the Back of her Neck"
+        },
+        {
+            "title": "Madame Alphonse Daudet by Pierre-Auguste Renoir",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_407.jpg",
+            "year": "1876",
+            "museum": "Munich Central Collecting Point",
+            "description": "Madame Alphonse Daudet is a captivating portrait of Pierre-Auguste Renoir's wife, Aline Charigot, depicted in a warm and intimate setting. Painted in 1876, the work showcases Renoir's skillful rendering of light and color, as well as his innovative use of Impressionist techniques. The painting is notable for its representation of everyday life during the late 19th century French art movement, highlighting the artist's ability to capture the essence of modernity while still adhering to traditional artistic methods."
+        },
+        {
+            "title": "Ruins of the Greek Theatre at Taormina by Tivadar Csontváry Kosztka",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_408.jpg",
+            "year": "1904",
+            "museum": "Hungarian National Gallery",
+            "description": "Ruins of the Greek Theatre at Taormina (1904) is a seminal oil painting by Hungarian artist Tivadar Csontváry Kosztka, showcasing his skill in capturing the grandeur and decay of ancient structures. The artwork depicts the crumbling theatre in Taormina, Sicily, with its intricately detailed architecture and dramatic lighting. This piece reflects Kosztka's fascination with classical antiquity and his contribution to the development of Hungarian Expressionism. It is a significant representation of early 20th-century art and a testament to the enduring legacy of Greek culture."
+        },
+        {
+            "title": "The Orchard at the Manoir d'Ango with Hens, Varengeville by Camille Pissarro",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_409.jpg",
+            "year": "1899",
+            "museum": "Cincinnati Art Museum",
+            "description": "The Orchard at the Manoir d'Ango with Hens, Varengeville (1899) is a landscape painting by Camille Pissarro, one of the key figures in the Impressionist movement. The work showcases Pissarro's unique blend of realism and impressionism, capturing the tranquility of a rural French setting. The painting features a lush orchard surrounded by rolling hills and trees, with hens roaming freely in the foreground. This piece is significant for its representation of a rural scene and Pissarro's contribution to the development of Impressionist art."
+        },
+        {
+            "title": "View of a virgin forest reduced to charcoal by Félix Émile Taunay",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_410.jpg",
+            "year": "1843",
+            "museum": "Museu Nacional de Belas Artes",
+            "description": "Félix Émile Taunay's 'View of a Virgin Forest Reduced to Charcoal' (1843) showcases the artist's innovative use of chiaroscuro and his fascination with the relationship between nature and human presence. A leading figure in the French Academy, Taunay was part of the group that sought to break away from traditional representational art forms. This charcoal rendering highlights the dramatic effects of a deforested landscape, foreshadowing environmental themes that would gain prominence in the 20th century."
+        },
+        {
+            "title": "At Kamakura by Kuroda Seiki",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_411.jpg",
+            "year": "1917",
+            "museum": "Historical Collection",
+            "description": "At Kamakura (1917) is a painting by Japanese artist Kuroda Seiki, depicting the iconic coastal town of Kamakura in a serene and tranquil atmosphere. A masterpiece of early 20th-century Japanese Modernism, the work showcases Seiki's innovative use of color and composition. The painting reflects the artist's fascination with Western art movements and his efforts to modernize Japanese aesthetics. As one of Japan's most influential artists of the Meiji period, Kuroda Seiki's work continues to captivate audiences worldwide, solidifying At Kamakura's place as a seminal work in Japanese art history."
+        },
+        {
+            "title": "Salome with the Head of John the Baptist by Titian",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_412.jpg",
+            "year": "1570",
+            "museum": "http://www.wikidata.org/.well-known/genid/1588bbf9d0bb61ae313d101b3acdad82",
+            "description": "Titian's 'Salome with the Head of John the Baptist' (1570) is a masterpiece of Venetian Renaissance art, showcasing the artist's innovative use of color and composition. The painting depicts the biblical figure Salome, daughter of Herodias, as she holds the severed head of John the Baptist in her hand. With its vivid colors and dramatic lighting, this work exemplifies Titian's mastery of chiaroscuro and his ability to evoke emotions through art. Considered one of the greatest paintings of the 16th century, it is a testament to Titian's enduring legacy as one of the most celebrated artists of the Renaissance."
+        },
+        {
+            "title": "Water Lilies by Claude Monet",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_413.jpg",
+            "year": "1922",
+            "museum": "Toledo Museum of Art",
+            "description": "Water Lilies is one of the most iconic paintings by Claude Monet, depicting his famous garden pond at Giverny, filled with lush water lilies. Created in 1922, during Monet's final years, the painting showcases the artist's unique impressionist style and his innovative use of color and light. As part of his series 'Nymphéas,' Water Lilies has become a symbol of Monet's artistic legacy and one of the most celebrated paintings in history."
+        },
+        {
+            "title": "Der Fluss Rioni in Georgien by Ivan Aivazovsky",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_414.jpg",
+            "year": "1870",
+            "museum": "National Gallery of Armenia",
+            "description": "Der Fluss Rioni in Georgien is an iconic oil painting by Ivan Aivazovsky, a renowned Russian naval artist and painter of landscapes, created in 1870. The piece captures the majestic River Rioni in Tbilisi, Georgia, showcasing the artist's mastery of light and color to convey a sense of serenity and tranquility. Considered one of Aivazovsky's most celebrated works, it highlights his unique style and contributions to Russian art during the late 19th century."
+        },
+        {
+            "title": "Judith and Maidservant with Head of Holofernes by Artemisia Gentileschi",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_415.jpg",
+            "year": "1623",
+            "museum": "Detroit Institute of Arts",
+            "description": "Judith and Maidservant with Head of Holofernes (1623) is a masterpiece by Artemisia Gentileschi, one of the first female artists to gain recognition in a male-dominated Renaissance art scene. This work reimagines the biblical story of Judith and Holofernes, featuring a powerful and intense depiction of the heroine beheading her seducer. Gentileschi's innovative use of chiaroscuro and dramatic composition has influenced generations of artists, cementing her place as a pioneer for female representation in art."
+        },
+        {
+            "title": "Street Scene by Georges Seurat",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_416.jpg",
+            "year": "1883",
+            "museum": "http://www.wikidata.org/.well-known/genid/9061d383abce1b1eb1f751d6ff1c3c48",
+            "description": "Street Scene (1883) is a seminal work by French Post-Impressionist artist Georges Seurat, showcasing his innovative technique of pointillism. The painting depicts a bustling Parisian street scene, with bold brushstrokes and vivid colors that capture the energy of urban life. This groundbreaking piece marked a pivotal moment in the development of modern art, influencing generations of artists to come."
+        },
+        {
+            "title": "Three Women Playing Musical Instruments by Katsushika Ōi",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_417.jpg",
+            "year": "1800",
+            "museum": "Museum of Fine Arts Boston",
+            "description": "Three Women Playing Musical Instruments by Katsushika Ōi (1800) is a renowned ukiyo-e woodblock print depicting three women engaged in a lively musical performance. This artwork showcases Ōi's mastery of composition, color palette, and the feminine figures that dominated his oeuvre. As one of Japan's most prominent ukiyo-e artists, Ōi's works often explored themes of leisure, entertainment, and social hierarchy. This piece offers a unique glimpse into the lives of women in 19th-century Japan, highlighting their roles as musicians, entertainers, and cultural icons."
+        },
+        {
+            "title": "Inwang jesaekdo by Jeong Seon",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_418.jpg",
+            "year": "1751",
+            "museum": "National Museum of Korea",
+            "description": "Inwang jesaekdo is a rare and lesser-known painting by Jeong Seon, a prominent Korean artist of the 18th century. Created in 1751, this work showcases Jeong's unique blend of traditional Korean motifs with subtle Western influences. The painting depicts a serene landscape with symbolic elements, reflecting the artist's interest in Neo-Confucianism and his attempts to modernize Korean art. As one of the few surviving works by Jeong Seon, Inwang jesaekdo offers valuable insights into the artist's oeuvre and the cultural context of late 18th-century Korea."
+        },
+        {
+            "title": "Nur Jahan holding a portrait of Emperor Jahangir by Bishandas",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_419.jpg",
+            "year": "1627",
+            "museum": "Cleveland Museum of Art",
+            "description": "Nur Jahan holding a portrait of Emperor Jahangir (1627) is a seminal work by Indian artist Bishandas, exemplifying the blending of Mughal and European styles. This painting showcases Nur Jahan, wife of Jahangir and Mughal emperor, in an intimate setting, highlighting her influential role in Mughal court politics. The work highlights the cultural exchange between India and Europe during the 17th century, reflecting Bishandas' unique artistic vision and cementing his place in Indian art history."
+        },
+        {
+            "title": "A Miracle of Saint Donatus of Arezzo by Leonardo da Vinci",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_420.jpg",
+            "year": "1477",
+            "museum": "Historical Collection",
+            "description": "A Miracle of Saint Donatus of Arezzo, painted in 1477 by Leonardo da Vinci, is a rare and intriguing work from the artist's early career. The painting showcases Da Vinci's emerging fascination with light and shadow, as well as his innovative use of sfumato techniques. This small panel work is one of the earliest representations of Saint Donatus in Western art, highlighting Da Vinci's interest in exploring themes of spirituality and faith."
+        },
+        {
+            "title": "Late Summer by Hilma af Klint",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_421.jpg",
+            "year": "1903",
+            "museum": "Historical Collection",
+            "description": "Late Summer is a seminal work by Swedish artist Hilma af Klint, created in 1903 during her Blue Monochromes series. Characterized by bold geometric forms and vibrant blue hues, the painting showcases af Klint's innovative style that predates abstract expressionism. As one of the first abstract artists, af Klint's work challenged traditional representations of nature and spirituality. Her unique technique, blending symbolic imagery with abstract patterns, continues to inspire contemporary artists and art historians alike."
+        },
+        {
+            "title": "Saint Matthew and the Angel by Rembrandt",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_422.jpg",
+            "year": "1661",
+            "museum": "Department of Paintings of the Louvre",
+            "description": "Saint Matthew and the Angel (1661) is a renowned oil painting by Rembrandt, showcasing the artist's mastery of light and shadow. The work depicts Saint Matthew receiving a commission from Jesus Christ, surrounded by an ethereal glow. This painting is significant for its representation of the Baroque style, exemplifying the dramatic use of chiaroscuro and emotive storytelling. It has been widely praised for its expressive qualities, technical skill, and emotional depth."
         }
     ]
 }

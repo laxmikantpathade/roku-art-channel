@@ -892,13 +892,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Young%20Ladies%20of%20Giverny%2C%20Sun%20Effect%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Water Lilies",
-            "artist": "Claude Monet",
-            "year": "1922",
-            "museum": "Toledo Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Water%20Lilies%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Water Lilies and Japanese Bridge",
             "artist": "Claude Monet",
             "year": "1899",
@@ -1215,13 +1208,6 @@
             "artist": "Pierre-Auguste Renoir",
             "year": "1876",
             "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Madame%20Alphonse%20Daudet.jpg"
-        },
-        {
-            "title": "Madame Alphonse Daudet",
-            "artist": "Pierre-Auguste Renoir",
-            "year": "1876",
-            "museum": "Munich Central Collecting Point",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Madame%20Alphonse%20Daudet.jpg"
         },
         {
@@ -1743,13 +1729,6 @@
             "year": "1907",
             "museum": "Hungarian National Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20Kosztka%2C%20Tivadar%20-%20Pilgrimage%20to%20the%20Cedars%20of%20Lebanon%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Ruins of the Greek Theatre at Taormina",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1904",
-            "museum": "Hungarian National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20Kosztka%2C%20Tivadar%20-%20Ruins%20of%20the%20Greek%20Theatre%20at%20Taormina%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Old Fisherman",
@@ -2939,13 +2918,6 @@
             "year": "1510",
             "museum": "http://www.wikidata.org/.well-known/genid/87aa57bdf239f4220373bd1b7bcc98ce",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20of%20the%20Yarnwinder.jpg"
-        },
-        {
-            "title": "A Miracle of Saint Donatus of Arezzo",
-            "artist": "Leonardo da Vinci",
-            "year": "1477",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Leonardo%20da%20Vinci%20and%20Lorenzo%20di%20Credi%20A%20Miracle%20of%20Saint%20Donatus%20of%20Arezzo%201475-1479.jpg"
         }
     ],
     "Ivan Aivazovsky": [
@@ -3172,13 +3144,6 @@
             "year": "1877",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Vesta.jpg"
-        },
-        {
-            "title": "Der Fluss Rioni in Georgien",
-            "artist": "Ivan Aivazovsky",
-            "year": "1870",
-            "museum": "National Gallery of Armenia",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky.%20The%20Rioni%20River%2C%20Georgia.%201870s.jpg"
         },
         {
             "title": "Ukrainian Landscape at Night",
@@ -3574,13 +3539,6 @@
         }
     ],
     "Rembrandt": [
-        {
-            "title": "Saint Matthew and the Angel",
-            "artist": "Rembrandt",
-            "year": "1661",
-            "museum": "Department of Paintings of the Louvre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Saint%20Matthew%20and%20the%20angel.jpg"
-        },
         {
             "title": "Saint James the Greater",
             "artist": "Rembrandt",
@@ -6224,13 +6182,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Ludovic%20Lepic%20et%20ses%20Filles%20-%2036%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg"
         },
         {
-            "title": "After a Bath. Woman Drying the Back of her Neck.",
-            "artist": "Edgar Degas",
-            "year": "1895",
-            "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20045.jpg"
-        },
-        {
             "title": "L'Absinthe",
             "artist": "Edgar Degas",
             "year": "1875",
@@ -7721,13 +7672,6 @@
             "year": "1907",
             "museum": "Hilma af Klint Foundation",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20no.%2010%20-%20Old%20Age%20-%201907.jpg"
-        },
-        {
-            "title": "Late Summer",
-            "artist": "Hilma af Klint",
-            "year": "1903",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Eftersommar%20Hilma%20af%20Klint%201903.jpeg"
         },
         {
             "title": "Tree of Knowledge, No. 1",
@@ -10522,13 +10466,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9lix%20Taunay%20-%201840%20ca.%20-%20Praia%20da%20Lapa%20e%20Morro%20do%20Castelo.jpg"
         },
         {
-            "title": "View of a virgin forest reduced to charcoal",
-            "artist": "F\u00e9lix \u00c9mile Taunay",
-            "year": "1843",
-            "museum": "Museu Nacional de Belas Artes",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9lix%20Taunay%20-%201830%20ca.%20-%20Mata%20Reduzida%20a%20Carv%C3%A3o.jpg"
-        },
-        {
             "title": "The hunter and the jaguar",
             "artist": "F\u00e9lix \u00c9mile Taunay",
             "year": "1841",
@@ -12451,13 +12388,6 @@
             "year": "1620",
             "museum": "Museum of Fine Arts, Budapest",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Giaele%20e%20Sisara%20%28ca.1620%29%20-%20Artemisia%20Gentileschi%20%28Museum%20of%20Fine%20Arts%2C%20Budapest%29.jpg"
-        },
-        {
-            "title": "Judith and Maidservant with Head of Holofernes",
-            "artist": "Artemisia Gentileschi",
-            "year": "1623",
-            "museum": "Detroit Institute of Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Judith%20and%20Her%20Maidservant%20with%20the%20Head%20of%20Holofernes%20-%2052.253%20-%20Detroit%20Institute%20of%20Arts.jpg"
         },
         {
             "title": "Madonna and Child",
@@ -15454,13 +15384,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Salome%20with%20the%20head%20of%20John%20the%20Baptist%20and%20two%20assistants.jpg"
         },
         {
-            "title": "Salome with the Head of John the Baptist",
-            "artist": "Titian",
-            "year": "1570",
-            "museum": "http://www.wikidata.org/.well-known/genid/1588bbf9d0bb61ae313d101b3acdad82",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Salome%20with%20the%20head%20of%20John%20the%20Baptist%20and%20two%20assistants.jpg"
-        },
-        {
             "title": "Portrait of Benedetto Varchi",
             "artist": "Titian",
             "year": "1540",
@@ -17998,13 +17921,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Summer%20Night%20%281890%29.jpg"
         },
         {
-            "title": "Snap the Whip",
-            "artist": "Winslow Homer",
-            "year": "1872",
-            "museum": "Butler Institute of American Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Snap%20the%20Whip%20%28Butler%20Institute%20of%20American%20Art%29.jpg"
-        },
-        {
             "title": "Lost on the Grand Banks",
             "artist": "Winslow Homer",
             "year": "1885",
@@ -18596,13 +18512,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Magnolia%2C%20Shen%20Zhou.jpg"
         },
         {
-            "title": "Lofty Mount Lu",
-            "artist": "Shen Zhou",
-            "year": "1466",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%BA%90%E5%B1%B1%E9%AB%98%E5%9B%BE%E8%BD%B4.%E6%98%8E%E6%88%90%E5%8C%96%E4%BA%8C%E5%B9%B4.%E6%B2%88%E5%91%A8%E7%94%BB.%E7%BA%B8%E6%9C%AC%E6%B5%85%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif"
-        },
-        {
             "title": "Return to Stone Lake",
             "artist": "Shen Zhou",
             "year": "1446",
@@ -18848,13 +18757,6 @@
             "year": "1866",
             "museum": "Museo Nacional de Arte",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Velasco%20-%20The%20Mexico%20City%20Alameda%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "The San \u00c1ngel Goatherd",
-            "artist": "Jos\u00e9 Mar\u00eda Velasco",
-            "year": "1863",
-            "museum": "Museo Nacional de Arte",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Velasco%20-%20The%20San%20%C3%81ngel%20Goatherd%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "The Valley of Mexico from the Santa Isabel Mountain Range",
@@ -20193,13 +20095,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20036.jpg"
         },
         {
-            "title": "The Orchard at the Manoir d'Ango with Hens, Varengeville",
-            "artist": "Camille Pissarro",
-            "year": "1899",
-            "museum": "Cincinnati Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Gray%20Day%2C%20Varengeville%2C%20Auberge%20du%20Manoir%27%20by%20Camille%20Pissarro%2C%20Cincinnati.jpg"
-        },
-        {
             "title": "Autumn in the Meadow at \u00c9ragny",
             "artist": "Camille Pissarro",
             "year": "1899",
@@ -21371,13 +21266,6 @@
             "year": "1840",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20%C5%8Ci%20-%20Operating%20on%20Guan%20Yu%27s%20Arm.jpg"
-        },
-        {
-            "title": "Three Women Playing Musical Instruments",
-            "artist": "Katsushika \u014ci",
-            "year": "1800",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Three%20Women%20Playing%20Musical%20Instruments.jpg"
         }
     ],
     "John Singer Sargent": [
@@ -21632,13 +21520,6 @@
             "year": "1882",
             "museum": "Art Institute of Chicago",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20-%20Madame%20Paul%20Escudier%20%28Louise%20Lefevre%29%2C%201882%2C%202007.391.jpg"
-        },
-        {
-            "title": "Mrs. Charles Deering (Marion Denison Whipple)",
-            "artist": "John Singer Sargent",
-            "year": "1888",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Mrs.%20Charles%20Deering%20%28Marion%20Denison%20Whipple%29%20-%209.2002%20-%20Art%20Institute%20of%20Chicago.jpg"
         },
         {
             "title": "The Fountain, Villa Torlonia, Frascati, Italy",
@@ -22511,13 +22392,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Jour%20d%27%C3%A9t%C3%A9%2C%201879.jpg"
         },
         {
-            "title": "Woman and child on a balcony",
-            "artist": "Berthe Morisot",
-            "year": "1872",
-            "museum": "Artizon Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20morisot%20femme%20et%20enfant%20au%20balcon.jpg"
-        },
-        {
             "title": "The butterfly hunt",
             "artist": "Berthe Morisot",
             "year": "1874",
@@ -23003,13 +22877,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Paysage%20-%20Dreyfus%20PC%2022.jpg"
         },
         {
-            "title": "Street Scene",
-            "artist": "Georges Seurat",
-            "year": "1883",
-            "museum": "http://www.wikidata.org/.well-known/genid/9061d383abce1b1eb1f751d6ff1c3c48",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stra%C3%9Fenszene%2C%20George%20Seurat.jpg"
-        },
-        {
             "title": "The Stone Breaker III",
             "artist": "Georges Seurat",
             "year": "1882",
@@ -23313,13 +23180,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20Studio%20by%20Kuroda%20Seiki%20%28Kagoshima%20City%20Museum%20of%20Art%29.jpg"
         },
         {
-            "title": "At Kamakura",
-            "artist": "Kuroda Seiki",
-            "year": "1917",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Kamakura%20by%20Kuroda%20Seiki%20%28Kuroda%20Kinenkan%29.jpg"
-        },
-        {
             "title": "At Kamakura (at Kotsubo)",
             "artist": "Kuroda Seiki",
             "year": "1915",
@@ -23385,13 +23245,108 @@
             "year": "1734",
             "museum": "Leeum, Samsung Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeong%20Seon-Geumgangjeondo.jpg"
+        }
+    ],
+    "Utagawa Hiroshige": [
+        {
+            "title": "Lake Suwa",
+            "artist": "Utagawa Hiroshige",
+            "year": "1841",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ando%20Hiroshige%20-%20Lake%20Suwa%20-%201985.259%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
-            "title": "Inwang jesaekdo",
-            "artist": "Jeong Seon",
-            "year": "1751",
-            "museum": "National Museum of Korea",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Inwangjesaekdo.jpg"
+            "title": "Night Scene on the Sumida River",
+            "artist": "Utagawa Hiroshige",
+            "year": "1849",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ando%20Hiroshige%20-%20Night%20Scene%20on%20the%20Sumida%20River%20-%201920.274%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Matsuchiyama on the Sumida River",
+            "artist": "Utagawa Hiroshige",
+            "year": "1849",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Matsuchiyama%20on%20the%20Sumida%20River%20-%201939.1863%20-%20Art%20Institute%20of%20Chicago.jpg"
+        },
+        {
+            "title": "Flower Viewing at Asuka Hill (Asukayama hanami), section of a sheet from the series \"Cutouts of Famous Places in Edo (Harimaze Koto meisho)\"",
+            "artist": "Utagawa Hiroshige",
+            "year": "1852",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Flower%20Viewing%20at%20Asuka%20Hill%20%28Asukayama%20hanami%29%2C%20section%20of%20a%20sheet%20from%20the%20series%20%22Cutouts%20of%20Famo%20-%201939.1258%20-%20Art%20Institute%20of%20Chicago.jpg"
+        },
+        {
+            "title": "Shono from the Fifty-three Stations on Tokaido Highway, Hoeido version",
+            "artist": "Utagawa Hiroshige",
+            "year": "1827",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20%28the%20first%29%20-%20Shono%20from%20the%20Fifty-three%20Stations%20on%20Tokaido%20Highway%2C%20Hoeido%20version%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Shichirigahama and Enoshima",
+            "artist": "Utagawa Hiroshige",
+            "year": "1851",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Shichirigahama%20and%20Enoshima%20-%202015.300.150a%2C%20b%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Woman Walking in the Snow",
+            "artist": "Utagawa Hiroshige",
+            "year": "1847",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP-14527-002.jpg"
+        },
+        {
+            "title": "The Imado Bridge at the Foot of Mount Matsuchi",
+            "artist": "Utagawa Hiroshige",
+            "year": "1829",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20The%20Imado%20Bridge%20at%20the%20Foot%20of%20Mount%20Matsuchi%20-%201975.268.130%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Honmoku Bay of Musashi Province",
+            "artist": "Utagawa Hiroshige",
+            "year": "1827",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Honmoku%20Bay%20of%20Musashi%20Province%20-%2008.148.9%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Mt. Nokogiri Seen from a Distance",
+            "artist": "Utagawa Hiroshige",
+            "year": "1827",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Mt.%20Nokogiri%20Seen%20from%20a%20Distance%20-%2008.148.8%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Shibaura Bay of Musashi Province",
+            "artist": "Utagawa Hiroshige",
+            "year": "1827",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Shibaura%20Bay%20of%20Musashi%20Province%20-%2008.148.7%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Kannon Slope of the Kiso Highway",
+            "artist": "Utagawa Hiroshige",
+            "year": "1827",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Kannon%20Slope%20of%20the%20Kiso%20Highway%20-%2008.148.6%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Koyurugi Beach of Sagami Province",
+            "artist": "Utagawa Hiroshige",
+            "year": "1827",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Koyurugi%20Beach%20of%20Sagami%20Province%20-%2008.148.5%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Shiraito Waterfall at Hakone",
+            "artist": "Utagawa Hiroshige",
+            "year": "1827",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Shiraito%20Waterfall%20at%20Hakone%20-%2008.148.4%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         }
-    ]
+    ],
+    "Kim Hong-do": [],
+    "Bishandas": []
 }
