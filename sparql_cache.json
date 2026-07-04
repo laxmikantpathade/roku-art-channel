@@ -3052,5 +3052,1283 @@
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Leonardo%20da%20Vinci%20and%20Lorenzo%20di%20Credi%20A%20Miracle%20of%20Saint%20Donatus%20of%20Arezzo%201475-1479.jpg"
         }
+    ],
+    "Ivan Aivazovsky": [
+        {
+            "title": "The Mekhitarist Fathers on Lazarus Island, Venice",
+            "artist": "Ivan Aivazovsky",
+            "year": "1843",
+            "museum": "National Gallery of Armenia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D1%85%D0%B8%D1%82%D0%B0%D1%80%D0%B8%D1%81%D1%82%D1%8B%20%D0%BD%D0%B0%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B5%20%D1%81%D0%B2%20%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D1%8F%20%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%8F%20%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+        },
+        {
+            "title": "Farm House and Windmill by moonlight",
+            "artist": "Ivan Aivazovsky",
+            "year": "1863",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%94%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D1%84%D0%B5%D1%80%D0%BC%D0%B5%20%D0%B8%20%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0%20%D0%B2%20%D0%BB%D1%83%D0%BD%D0%BD%D0%BE%D0%BC%20%D1%81%D0%B2%D0%B5%D1%82%D0%B5%20%281863%29.jpg"
+        },
+        {
+            "title": "Landscape with Windmills",
+            "artist": "Ivan Aivazovsky",
+            "year": "1860",
+            "museum": "http://www.wikidata.org/.well-known/genid/beca7e7dcc3918e1b0271e425c16b175",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Ivan%20Constantinovich%20landscape%20With%20Windmills.jpg"
+        },
+        {
+            "title": "Storm",
+            "artist": "Ivan Aivazovsky",
+            "year": "1861",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98.%20%D0%9A.%20%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20%D0%A8%D1%82%D0%BE%D1%80%D0%BC.%201861.jpg"
+        },
+        {
+            "title": "The Burning of the Turkish Flagship by Kanaris",
+            "artist": "Ivan Aivazovsky",
+            "year": "1881",
+            "museum": "National Gallery of Athens",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Burning%20of%20the%20Turkish%20Flagship%20by%20Kanaris%20-%20Ivan%20Aivazovsky%2C%201881.png"
+        },
+        {
+            "title": "Naples Bay",
+            "artist": "Ivan Aivazovsky",
+            "year": "1842",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Aivazovsky%20Bucht%20von%20Neapel%201842.jpg"
+        },
+        {
+            "title": "The Caucasus",
+            "artist": "Ivan Aivazovsky",
+            "year": "1863",
+            "museum": "http://www.wikidata.org/.well-known/genid/22dd55ce528e1b42fef3fc1f78819d03",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivasovsky%20Ivan%20Constantinovich%20The%20Caucasus.jpg"
+        },
+        {
+            "title": "View Of The Ayu Dag Crimea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1868",
+            "museum": "http://www.wikidata.org/.well-known/genid/7ea8d2084e7a6c18adaf056da2ec4f42",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivasovsky%20Ivan%20Constantinovich%20View%20Of%20The%20Ayu%20Dag%20Crimea.jpg"
+        },
+        {
+            "title": "Naples with a poet amongst fishermen",
+            "artist": "Ivan Aivazovsky",
+            "year": "1845",
+            "museum": "http://www.wikidata.org/.well-known/genid/fda5571a05028bce6d5bf32492b80e43",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Gulf%20of%20Naples%201845.jpg"
+        },
+        {
+            "title": "Reval (Tallinn)",
+            "artist": "Ivan Aivazovsky",
+            "year": "1845",
+            "museum": "http://www.wikidata.org/.well-known/genid/40716af611eae77c7484cb5f23cff107",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Reval%201845.jpg"
+        },
+        {
+            "title": "The survivors",
+            "artist": "Ivan Aivazovsky",
+            "year": "1895",
+            "museum": "http://www.wikidata.org/.well-known/genid/54cc6a4af1126a5a45735961b2dc971f",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20The%20Survivors.jpg"
+        },
+        {
+            "title": "View of Constantinople and the Bosphorus",
+            "artist": "Ivan Aivazovsky",
+            "year": "1856",
+            "museum": "http://www.wikidata.org/.well-known/genid/a952ed2d6a92aac5e2ffc72255da7008",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20View%20of%20Constantinople%20and%20the%20Bosphorus.jpg"
+        },
+        {
+            "title": "Bosphorus",
+            "artist": "Ivan Aivazovsky",
+            "year": "1878",
+            "museum": "http://www.wikidata.org/.well-known/genid/040b0653eec990ddbb9ee275e4b14b7d",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Bosporus.jpg"
+        },
+        {
+            "title": "Crimean coast by moonlight",
+            "artist": "Ivan Aivazovsky",
+            "year": "1853",
+            "museum": "http://www.wikidata.org/.well-known/genid/361e622dc0ae0d43eb1b01ba8530aac0",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Crimea%201853.jpg"
+        },
+        {
+            "title": "French Ships Departing the Black Sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1871",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20French%20Ships%20Departing%20the%20Black%20Sea%2C%201871.jpg"
+        },
+        {
+            "title": "American Shipping off the Rock of Gibraltar",
+            "artist": "Ivan Aivazovsky",
+            "year": "1873",
+            "museum": "http://www.wikidata.org/.well-known/genid/6efba9b345b9ff7ca5b717434a61b616",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20gibraltar.jpg"
+        },
+        {
+            "title": "Ice on Dnipro",
+            "artist": "Ivan Aivazovsky",
+            "year": "1872",
+            "museum": "http://www.wikidata.org/.well-known/genid/75e53b6bd4f5a10ea83ba00b5dbb32d4",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Ice%20on%20Dnipro.jpg"
+        },
+        {
+            "title": "Ox-carts in the Ukrainian steppe",
+            "artist": "Ivan Aivazovsky",
+            "year": "1888",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Ox-carte.jpg"
+        },
+        {
+            "title": "Sunset over Yalta",
+            "artist": "Ivan Aivazovsky",
+            "year": "1861",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Sunset%20over%20Yalta.jpg"
+        },
+        {
+            "title": "Passage of the Jews through the Red Sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1891",
+            "museum": "http://www.wikidata.org/.well-known/genid/21c92ba2fb90b7d52b9eeee8cf2b17ab",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Passage%20of%20the%20Jews%20through%20the%20Red%20Sea.jpg"
+        },
+        {
+            "title": "The Great Pyramid at Giza",
+            "artist": "Ivan Aivazovsky",
+            "year": "1871",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%9A.%20%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F%20%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0%20%D0%B2%20%D0%93%D0%B8%D0%B7%D0%B5%20%281871%29.jpg"
+        },
+        {
+            "title": "Panorama of Constantinopole (detail)",
+            "artist": "Ivan Aivazovsky",
+            "year": "1856",
+            "museum": "http://www.wikidata.org/.well-known/genid/83e7cc2c35388d5be7919247a515c4eb",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Constantinovich%20Aivazovsky%20-%20Constantinople%20%28detail%29.JPG"
+        },
+        {
+            "title": "Calm Sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1887",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruhige%20See%20by%20Iwan%20Aiwasowski%2C%201887.jpg"
+        },
+        {
+            "title": "Venice at Sunset",
+            "artist": "Ivan Aivazovsky",
+            "year": "1873",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Venice%20at%20Sunset%20by%20Ivan%20Aivazovsky%2C%201873.jpg"
+        },
+        {
+            "title": "Winter landscape",
+            "artist": "Ivan Aivazovsky",
+            "year": "1876",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky.%20Winter%20landscape.jpg"
+        },
+        {
+            "title": "The Storm on the Turkish Coast",
+            "artist": "Ivan Aivazovsky",
+            "year": "1858",
+            "museum": "http://www.wikidata.org/.well-known/genid/f84ef48fec87622a4e13a034d35fe1a4",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky2-001.jpg"
+        },
+        {
+            "title": "Storm (1871)",
+            "artist": "Ivan Aivazovsky",
+            "year": "1871",
+            "museum": "Museum of Art in \u0141\u00f3d\u017a",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Storm.jpg"
+        },
+        {
+            "title": "Petersburg. Crossing the Neva.",
+            "artist": "Ivan Aivazovsky",
+            "year": "1870",
+            "museum": "Kiev National Picture Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazian%20Neva.jpg"
+        },
+        {
+            "title": "Alushta",
+            "artist": "Ivan Aivazovsky",
+            "year": "1878",
+            "museum": "Feodosia National Gallery I. K. Aivazovsky",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Alushta.jpg"
+        },
+        {
+            "title": "Mine attack by boats of the steamer Grand Duke Constantine on the Turkish battleship Assari-Shevket on the Sukhum roadstead on August 12, 1877",
+            "artist": "Ivan Aivazovsky",
+            "year": "1877",
+            "museum": "Central Naval Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Konstantin-Assari-Shevket.jpg"
+        },
+        {
+            "title": "Sunset at sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1877",
+            "museum": "Sak\u0131p Sabanc\u0131 Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%9A.%20%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%97%D0%B0%D0%BA%D0%B0%D1%82%20%D0%BD%D0%B0%20%D0%BC%D0%BE%D1%80%D0%B5%20%281877%29.jpg"
+        },
+        {
+            "title": "Fight of the steamer Vesta with the Turkish battleship Fehti-Bulend in the Black Sea on July 11, 1877",
+            "artist": "Ivan Aivazovsky",
+            "year": "1877",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Vesta.jpg"
+        },
+        {
+            "title": "Der Fluss Rioni in Georgien",
+            "artist": "Ivan Aivazovsky",
+            "year": "1870",
+            "museum": "National Gallery of Armenia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky.%20The%20Rioni%20River%2C%20Georgia.%201870s.jpg"
+        },
+        {
+            "title": "Ukrainian Landscape at Night",
+            "artist": "Ivan Aivazovsky",
+            "year": "1870",
+            "museum": "http://www.wikidata.org/.well-known/genid/73f3a1e1bd2465e85b760436b7b9d5dd",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%9A.%20%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%20%D0%BD%D0%BE%D1%87%D1%8C%D1%8E%20%281870%29.jpg"
+        },
+        {
+            "title": "Ca d'Oro",
+            "artist": "Ivan Aivazovsky",
+            "year": "1878",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20d%27Oro%20by%20Aivazovsky.jpg"
+        },
+        {
+            "title": "The Black Sea at night",
+            "artist": "Ivan Aivazovsky",
+            "year": "1879",
+            "museum": "Odesa Fine Arts Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Aivazovsky%20-%20The%20Black%20Sea%20at%20night%20%281879%29.jpg"
+        },
+        {
+            "title": "Trebizond from the sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1875",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Aivazovsky%20Trebizond%201875.jpg"
+        },
+        {
+            "title": "Alexander II Crossing the Danube",
+            "artist": "Ivan Aivazovsky",
+            "year": "1878",
+            "museum": "http://www.wikidata.org/.well-known/genid/d7f9b14980a0cbc5132eeca53435bf20",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Constantinovich%20Aivazovsky%20-%20Alexander%20II%20Crossing%20the%20Danube.JPG"
+        },
+        {
+            "title": "Fishermen Returning Near Naples",
+            "artist": "Ivan Aivazovsky",
+            "year": "1874",
+            "museum": "Dolmabah\u00e7e Palace",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Constantinovich%20Aivazovsky%20-%20Fishermen%20Returning%20Near%20Naples%20%28detail%29.JPG"
+        },
+        {
+            "title": "Frozen Bosphorus Under Snow (detail)",
+            "artist": "Ivan Aivazovsky",
+            "year": "1874",
+            "museum": "\u00c7ankaya Mansion",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Constantinovich%20Aivazovsky%20-%20Frozen%20Bosphorus%20Under%20Snow%20%28detail%29.JPG"
+        },
+        {
+            "title": "Ice-Breakers on the Frozen Neva in St. Petersburg",
+            "artist": "Ivan Aivazovsky",
+            "year": "1877",
+            "museum": "http://www.wikidata.org/.well-known/genid/41646ef4bbaa13a72e78af4c8ae1aec9",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Constantinovich%20Aivazovsky%20-%20Ice-Breakers%20on%20the%20Frozen%20Neva%20in%20St.%20Petersburg.JPG"
+        },
+        {
+            "title": "Clouds Over a Calm Sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1873",
+            "museum": "Donetsk Regional Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0%20%D0%BD%D0%B0%D0%B4%20%D1%82%D0%B8%D1%85%D0%B8%D0%BC%20%D0%BC%D0%BE%D1%80%D0%B5%D0%BC.jpg"
+        },
+        {
+            "title": "The Tide",
+            "artist": "Ivan Aivazovsky",
+            "year": "1870",
+            "museum": "Serpukhov historical-art museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20%D0%9F%D1%80%D0%B8%D0%BB%D0%B8%D0%B2.jpg"
+        },
+        {
+            "title": "Black Sea Fleet in the Bay of Theodosia, just before the Crimean War",
+            "artist": "Ivan Aivazovsky",
+            "year": "1890",
+            "museum": "Feodosia National Gallery I. K. Aivazovsky",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Black%20Sea%20Fleet%20in%20the%20Bay%20of%20Theodosia.jpg"
+        },
+        {
+            "title": "Sea Battle at Navarino on October 20, 1827",
+            "artist": "Ivan Aivazovsky",
+            "year": "1846",
+            "museum": "Naval Engineering High School named after V. I. Lenin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Navarino%20%28by%20Ivan%20Aivazovsky%2C%20original%20colors%20version%29.jpg"
+        },
+        {
+            "title": "The Landing of N. N. Raevskyi at Subashi",
+            "artist": "Ivan Aivazovsky",
+            "year": "1839",
+            "museum": "Samara Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Subashi%20desant.jpg"
+        },
+        {
+            "title": "Battle of Chios on 24 June, 1770",
+            "artist": "Ivan Aivazovsky",
+            "year": "1848",
+            "museum": "Feodosia National Gallery I. K. Aivazovsky",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Chios%20%281770%29%2C%20by%20Ivan%20Aivazovsky%20%281848%29.jpg"
+        },
+        {
+            "title": "Battle of Chesma (1886)",
+            "artist": "Ivan Aivazovsky",
+            "year": "1770",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Chesmabattle1886.jpeg"
+        },
+        {
+            "title": "Chumaks Waggons",
+            "artist": "Ivan Aivazovsky",
+            "year": "1862",
+            "museum": "Feodosia National Gallery I. K. Aivazovsky",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivasovsky%20Ivan%20Constantinovich%20-%20Chumaks%20Waggons.jpg"
+        },
+        {
+            "title": "The Ninth Wave",
+            "artist": "Ivan Aivazovsky",
+            "year": "1850",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hovhannes%20Aivazovsky%20-%20The%20Ninth%20Wave%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Brig \u201cMercury\u201d Attacked by Two Turkish Ships",
+            "artist": "Ivan Aivazovsky",
+            "year": "1892",
+            "museum": "Feodosia National Gallery I. K. Aivazovsky",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%2C%20Brig%20Mercury%20Attacked%20by%20Two%20Turkish%20Ships%201892.jpg"
+        },
+        {
+            "title": "Night at the Rodos island",
+            "artist": "Ivan Aivazovsky",
+            "year": "1850",
+            "museum": "Belarusian National Arts Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivasovsky%20Ivan%20Constantinovich%20Night%20at%20the%20Rodos%20island.jpg"
+        },
+        {
+            "title": "The Maiden's Tower",
+            "artist": "Ivan Aivazovsky",
+            "year": "1848",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%28%D0%93%D0%B0%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29%20%D0%98%D0%B2%D0%B0%D0%BD%20%28%D0%9E%D0%B3%D0%B0%D0%BD%D0%B5%D1%81%29%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%92%D0%B8%D0%B4%20%D0%9B%D0%B5%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B1%D0%B0%D1%88%D0%BD%D0%B8%20%D0%B2%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D0%B5.jpg"
+        },
+        {
+            "title": "A. S. Pushkin at the Black Sea coast",
+            "artist": "Ivan Aivazovsky",
+            "year": "1887",
+            "museum": "V. V. Vereshchagin Mykolaiv Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98.%20%D0%9A.%20%281887%29%20%D0%90.%20%D0%A1.%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%20%D0%BD%D0%B0%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D1%83%20%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F%20%282%29.jpg"
+        },
+        {
+            "title": "Rainbow",
+            "artist": "Ivan Aivazovsky",
+            "year": "1873",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%28%D0%93%D0%B0%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29%20%D0%98%D0%B2%D0%B0%D0%BD%20%28%D0%9E%D0%B3%D0%B0%D0%BD%D0%B5%D1%81%29%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%A0%D0%B0%D0%B4%D1%83%D0%B3%D0%B0.jpg"
+        },
+        {
+            "title": "Theodosia. Moonlight night",
+            "artist": "Ivan Aivazovsky",
+            "year": "1852",
+            "museum": "http://www.wikidata.org/.well-known/genid/dc92317d915d79de9091bc283f139e8d",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D1%8F.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C.jpg"
+        },
+        {
+            "title": "A Moonlit Night on the Bosphorus",
+            "artist": "Ivan Aivazovsky",
+            "year": "1894",
+            "museum": "Tretyakov Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%28%D0%93%D0%B0%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29%20%D0%98%D0%B2%D0%B0%D0%BD%20%28%D0%9E%D0%B3%D0%B0%D0%BD%D0%B5%D1%81%29%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C%20%D0%BD%D0%B0%20%D0%91%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%B5.jpg"
+        },
+        {
+            "title": "Battle of Chesma",
+            "artist": "Ivan Aivazovsky",
+            "year": "1848",
+            "museum": "Feodosia National Gallery I. K. Aivazovsky",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Chesmabattle.jpg"
+        },
+        {
+            "title": "Parade of the Black Sea Fleet",
+            "artist": "Ivan Aivazovsky",
+            "year": "1886",
+            "museum": "Central Naval Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%BC%D0%BE%D1%82%D1%80%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%84%D0%BB%D0%BE%D1%82%D0%B0%20%D0%B2%201849%20%D0%B3%D0%BE%D0%B4%D1%83.jpg"
+        },
+        {
+            "title": "Descent of Noah from Ararat",
+            "artist": "Ivan Aivazovsky",
+            "year": "1887",
+            "museum": "National Gallery of Armenia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Descent%20of%20Noah%20from%20Ararat.jpg"
+        },
+        {
+            "title": "Ship by Moonlight",
+            "artist": "Ivan Aivazovsky",
+            "year": "1868",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ship%20by%20Moonlight%20MET%20ep1975.280.2.bw.R.jpg"
+        },
+        {
+            "title": "A Ship in a Stormy Sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1892",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Ship%20in%20a%20Stormy%20Sea%20MET%2017537.jpg"
+        },
+        {
+            "title": "Fishermen and their Families on the Shore of the Bay of Naples",
+            "artist": "Ivan Aivazovsky",
+            "year": "1873",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Konstantinovich%20Aivazovsky%20-%20Fishermen%20and%20their%20Families%20on%20the%20Shore%20of%20the%20Bay%20of%20Naples%20-%201981.509%20-%20Museum%20of%20Fine%20Arts.jpg"
+        },
+        {
+            "title": "The Bay of Naples",
+            "artist": "Ivan Aivazovsky",
+            "year": "1844",
+            "museum": "Finnish National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Aivazovski%20%281817%E2%80%931900%29-%20The%20Bay%20of%20Naples%20-%20Napolinlahti%20-%20Neapelbukten%20%2829467251075%29.jpg"
+        },
+        {
+            "title": "Sunny Day",
+            "artist": "Ivan Aivazovsky",
+            "year": "1884",
+            "museum": "Feodosia National Gallery I. K. Aivazovsky",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%201884.jpg"
+        },
+        {
+            "title": "Landscape in Crimea.",
+            "artist": "Ivan Aivazovsky",
+            "year": "1860",
+            "museum": "National Museum in Warsaw",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Landscape%20in%20Crimea.jpg"
+        },
+        {
+            "title": "Seascape with a steamer.",
+            "artist": "Ivan Aivazovsky",
+            "year": "1897",
+            "museum": "National Museum in Warsaw",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Konstantinovi%C4%8D%20Ajvazovskij%20-%20Sea%20-%20M.Ob.1152%20-%20National%20Museum%20in%20Warsaw.jpg"
+        },
+        {
+            "title": "Shepherds with a flock of sheep.",
+            "artist": "Ivan Aivazovsky",
+            "year": "1872",
+            "museum": "National Museum in Warsaw",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Konstantinovi%C4%8D%20Ajvazovskij%20-%20Shepherds%20with%20a%20flock%20of%20sheep%20-%20184559%20-%20National%20Museum%20in%20Warsaw.jpg"
+        },
+        {
+            "title": "Seascape",
+            "artist": "Ivan Aivazovsky",
+            "year": "1885",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Seascape%201885%20Hermitage.jpg"
+        },
+        {
+            "title": "Ship Amid the Stormy Sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1887",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Aivazovsky%20-%20Ship%20in%20the%20Stormy%20Sea.jpg"
+        },
+        {
+            "title": "Moonlit Night",
+            "artist": "Ivan Aivazovsky",
+            "year": "1850",
+            "museum": "Yekaterinburg Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moonlit%20Night%20%28Aivazovsky%29.jpg"
+        },
+        {
+            "title": "Sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1864",
+            "museum": "Yekaterinburg Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1864%20Aivazovsky%20Meer%20anagoria.JPG"
+        },
+        {
+            "title": "Barge at Sea Shore",
+            "artist": "Ivan Aivazovsky",
+            "year": "1860",
+            "museum": "Yekaterinburg Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%B0%D1%80%D0%B6%D0%B8%20%D1%83%20%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0.jpeg"
+        },
+        {
+            "title": "Barge at Sea Shore",
+            "artist": "Ivan Aivazovsky",
+            "year": "1870",
+            "museum": "Yekaterinburg Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%B0%D1%80%D0%B6%D0%B8%20%D1%83%20%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B0.jpeg"
+        },
+        {
+            "title": "Yalta",
+            "artist": "Ivan Aivazovsky",
+            "year": "1899",
+            "museum": "Tyumen Regional Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AF%D0%BB%D1%82%D0%B0%20%28%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29.jpg"
+        },
+        {
+            "title": "Byron's visit to the Mekhitarists in Surb Ghazar Island",
+            "artist": "Ivan Aivazovsky",
+            "year": "1899",
+            "museum": "National Gallery of Armenia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Byron%20San%20Lazzaro.jpg"
+        },
+        {
+            "title": "The Wrath of the Seas",
+            "artist": "Ivan Aivazovsky",
+            "year": "1886",
+            "museum": "http://www.wikidata.org/.well-known/genid/3728fb049d38a1d9d6f16174add27355",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20%22anger%20of%20the%20seas%22%20by%20Aivasovsky.jpg"
+        },
+        {
+            "title": "The Battle of Wyborg Bay",
+            "artist": "Ivan Aivazovsky",
+            "year": "1846",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20victory%20vyborg.jpg"
+        },
+        {
+            "title": "Pushkin's Farewell to the sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1887",
+            "museum": "National Pushkin Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pushkin%20farewell%20to%20the%20sea.jpg"
+        },
+        {
+            "title": "Battle of Sinope",
+            "artist": "Ivan Aivazovsky",
+            "year": "1853",
+            "museum": "Central Naval Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Battle-of-sinope.jpg"
+        },
+        {
+            "title": "The Battle of Sinope on 18 November 1853 (Night after Battle)",
+            "artist": "Ivan Aivazovsky",
+            "year": "1853",
+            "museum": "Central Naval Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Sinop.jpg"
+        },
+        {
+            "title": "Brig ''Mercury'' meets with the Russian squadron after the victory over two Turkish ships",
+            "artist": "Ivan Aivazovsky",
+            "year": "1848",
+            "museum": "Russian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%9A.%20%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%91%D1%80%D0%B8%D0%B3%20%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B%20%D0%BD%D0%B0%D0%B4%20%D0%B4%D0%B2%D1%83%D0%BC%D1%8F%20%D1%82%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%BC%D0%B8%20%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%D0%BC%D0%B8%20%281848%29.jpg"
+        },
+        {
+            "title": "Winter Caravan on Road",
+            "artist": "Ivan Aivazovsky",
+            "year": "1857",
+            "museum": "Smolensk Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9%20%D0%BE%D0%B1%D0%BE%D0%B7%20%D0%B2%20%D0%BF%D1%83%D1%82%D0%B8.jpg"
+        },
+        {
+            "title": "Ship ''Empress Maria'' in a Storm",
+            "artist": "Ivan Aivazovsky",
+            "year": "1892",
+            "museum": "Feodosia National Gallery I. K. Aivazovsky",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ship%20%C2%ABEmpress%20Maria%C2%BB%20in%20storm.jpg"
+        },
+        {
+            "title": "Stormy sea at night",
+            "artist": "Ivan Aivazovsky",
+            "year": "1849",
+            "museum": "Pavlovsk Museum-Preserve",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stormy%20sea%20at%20night.jpg"
+        },
+        {
+            "title": "shipwreck",
+            "artist": "Ivan Aivazovsky",
+            "year": "1876",
+            "museum": "Feodosia National Gallery I. K. Aivazovsky",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Crash.jpg"
+        },
+        {
+            "title": "Moonlit Seascape With Shipwreck",
+            "artist": "Ivan Aivazovsky",
+            "year": "1863",
+            "museum": "http://www.wikidata.org/.well-known/genid/a5a4d4ede4754d6dbcdea8c769ef9de6",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivasovsky%20Ivan%20Constantinovich%20Moonlit%20Seascape%20With%20Shipwreck.jpg"
+        },
+        {
+            "title": "Storm",
+            "artist": "Ivan Aivazovsky",
+            "year": "1886",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivasovsky%20Ivan%20Constantinovich%20storm%201886%20IBI.jpg"
+        },
+        {
+            "title": "Storm on Sea",
+            "artist": "Ivan Aivazovsky",
+            "year": "1899",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivasovsky%20Ivan%20Constantinovich%20storm%20on%20sea%201899%20IBI.jpg"
+        },
+        {
+            "title": "Strong Wind",
+            "artist": "Ivan Aivazovsky",
+            "year": "1856",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Strong%20Wind.jpg"
+        }
+    ],
+    "Rembrandt": [
+        {
+            "title": "Saint Matthew and the Angel",
+            "artist": "Rembrandt",
+            "year": "1661",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Saint%20Matthew%20and%20the%20angel.jpg"
+        },
+        {
+            "title": "Saint James the Greater",
+            "artist": "Rembrandt",
+            "year": "1661",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Santiago%20em%20Ora%C3%A7%C3%A3o.jpg"
+        },
+        {
+            "title": "Abraham's Sacrifice",
+            "artist": "Rembrandt",
+            "year": "1635",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20035.jpg"
+        },
+        {
+            "title": "Girl in a Picture Frame",
+            "artist": "Rembrandt",
+            "year": "1641",
+            "museum": "Royal Castle in Warsaw",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Girl%20in%20a%20Picture%20Frame.jpg"
+        },
+        {
+            "title": "Man in Oriental Costume",
+            "artist": "Rembrandt",
+            "year": "1639",
+            "museum": "http://www.wikidata.org/.well-known/genid/c87f00c0c51356b6497d57575d3bb363",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20032.jpg"
+        },
+        {
+            "title": "Homer",
+            "artist": "Rembrandt",
+            "year": "1663",
+            "museum": "Mauritshuis",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20061.jpg"
+        },
+        {
+            "title": "Landscape with the Good Samaritan",
+            "artist": "Rembrandt",
+            "year": "1638",
+            "museum": "National Museum in Krak\u00f3w",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20%281606-1669%29%20-%20Landscape%20with%20the%20Parable%20of%20the%20Good%20Samaritan%20-%20MNK%20XII-290%20-%20National%20Museum%20Krak%C3%B3w.jpg"
+        },
+        {
+            "title": "Landscape with the Good Samaritan",
+            "artist": "Rembrandt",
+            "year": "1638",
+            "museum": "Czartoryski Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20%281606-1669%29%20-%20Landscape%20with%20the%20Parable%20of%20the%20Good%20Samaritan%20-%20MNK%20XII-290%20-%20National%20Museum%20Krak%C3%B3w.jpg"
+        },
+        {
+            "title": "The Incredulity of St Thomas",
+            "artist": "Rembrandt",
+            "year": "1634",
+            "museum": "Pushkin Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20040.jpg"
+        },
+        {
+            "title": "The Incredulity of St Thomas",
+            "artist": "Rembrandt",
+            "year": "1634",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20040.jpg"
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "artist": "Rembrandt",
+            "year": "1646",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20009%20full%20image%2001.jpg"
+        },
+        {
+            "title": "Adoration of the Shepherds",
+            "artist": "Rembrandt",
+            "year": "1646",
+            "museum": "Johann Wilhelm von der Pfalz collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20009%20full%20image%2001.jpg"
+        },
+        {
+            "title": "Portrait of Maerten Soolmans",
+            "artist": "Rembrandt",
+            "year": "1634",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Portrait%20of%20Maerten%20Soolmans.jpg"
+        },
+        {
+            "title": "Portrait of Maerten Soolmans",
+            "artist": "Rembrandt",
+            "year": "1634",
+            "museum": "National Museum in Warsaw",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Portrait%20of%20Maerten%20Soolmans.jpg"
+        },
+        {
+            "title": "Girl at a Window",
+            "artist": "Rembrandt",
+            "year": "1645",
+            "museum": "Dulwich Picture Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz%20van%20Rijn%20-%20Girl%20at%20a%20Window%20-%20Google%20Art%20Project%20-%20edited.jpg"
+        },
+        {
+            "title": "Parable of the Laborers in the Vineyard",
+            "artist": "Rembrandt",
+            "year": "1637",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Parable%20of%20the%20Laborers%20in%20the%20Vineyard.jpg"
+        },
+        {
+            "title": "An Old Woman Reading, Probably the Prophetess Hannah",
+            "artist": "Rembrandt",
+            "year": "1631",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Oude%20lezende%20vrouw%2C%20waarschijnlijk%20de%20profetes%20Hanna%20Rijksmuseum%20SK-A-3066.jpeg"
+        },
+        {
+            "title": "An Old Woman Reading, Probably the Prophetess Hannah",
+            "artist": "Rembrandt",
+            "year": "1631",
+            "museum": "Grand ducal collection, Oldenburg",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Oude%20lezende%20vrouw%2C%20waarschijnlijk%20de%20profetes%20Hanna%20Rijksmuseum%20SK-A-3066.jpeg"
+        },
+        {
+            "title": "The Parable of the Rich Fool",
+            "artist": "Rembrandt",
+            "year": "1627",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Der%20Geldwechsler%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205210540.jpg"
+        },
+        {
+            "title": "The Parable of the Rich Fool",
+            "artist": "Rembrandt",
+            "year": "1627",
+            "museum": "Cook collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Der%20Geldwechsler%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205210540.jpg"
+        },
+        {
+            "title": "An Old Woman Reading",
+            "artist": "Rembrandt",
+            "year": "1655",
+            "museum": "Duke of Buccleuch collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20002.jpg"
+        },
+        {
+            "title": "The Baptism of the Eunuch",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Museum Catharijneconvent",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%2C%20The%20Baptism%20of%20the%20Eunuch%2C%201626%2C%20Museum%20Catharijneconvent%2C%20Utrecht.jpg"
+        },
+        {
+            "title": "The Baptism of the Eunuch",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Aartsbisschoppelijk Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%2C%20The%20Baptism%20of%20the%20Eunuch%2C%201626%2C%20Museum%20Catharijneconvent%2C%20Utrecht.jpg"
+        },
+        {
+            "title": "History Painting with self-portrait",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Centraal Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
+        },
+        {
+            "title": "History Painting with self-portrait",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
+        },
+        {
+            "title": "History Painting with self-portrait",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
+        },
+        {
+            "title": "History Painting with self-portrait",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Instituut Collectie Nederland",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
+        },
+        {
+            "title": "History Painting with self-portrait",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Museum De Lakenhal",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
+        },
+        {
+            "title": "History Painting with self-portrait",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Cultural Heritage Agency of the Netherlands Art Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
+        },
+        {
+            "title": "History Painting with self-portrait",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Dienst Verspreide Rijkscollecties",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
+        },
+        {
+            "title": "History Painting with self-portrait",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Stichting Nederlands Kunstbezit",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
+        },
+        {
+            "title": "History Painting with self-portrait",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Rijksdienst Beeldende Kunst",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
+        },
+        {
+            "title": "Old Man with a Gold Chain",
+            "artist": "Rembrandt",
+            "year": "1631",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20-%20Old%20Man%20with%20a%20Gold%20Chain%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Old Man with a Gold Chain",
+            "artist": "Rembrandt",
+            "year": "1631",
+            "museum": "Julius B\u00f6hler AG",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20-%20Old%20Man%20with%20a%20Gold%20Chain%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Young woman with earrings",
+            "artist": "Rembrandt",
+            "year": "1638",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young-Woman-with-Earrings.jpg"
+        },
+        {
+            "title": "Young woman with earrings",
+            "artist": "Rembrandt",
+            "year": "1654",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young-Woman-with-Earrings.jpg"
+        },
+        {
+            "title": "Hendrickje Stoffels by a Door",
+            "artist": "Rembrandt",
+            "year": "1655",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Portrait%20of%20Hendrickje%20Stoffels%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Samson threatens his father-in-law",
+            "artist": "Rembrandt",
+            "year": "1635",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Samson%20threatened%20his%20father-in-law%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Samson threatens his father-in-law",
+            "artist": "Rembrandt",
+            "year": "1635",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Simson%20bedroht%20seinen%20Schwiegervater%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205249842.jpg"
+        },
+        {
+            "title": "Samson threatens his father-in-law",
+            "artist": "Rembrandt",
+            "year": "1635",
+            "museum": "Sanssouci Picture Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Samson%20threatened%20his%20father-in-law%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Samson threatens his father-in-law",
+            "artist": "Rembrandt",
+            "year": "1635",
+            "museum": "Sanssouci Picture Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Simson%20bedroht%20seinen%20Schwiegervater%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205249842.jpg"
+        },
+        {
+            "title": "Samson threatens his father-in-law",
+            "artist": "Rembrandt",
+            "year": "1635",
+            "museum": "Jacques Goudstikker collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Samson%20threatened%20his%20father-in-law%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Samson threatens his father-in-law",
+            "artist": "Rembrandt",
+            "year": "1635",
+            "museum": "Jacques Goudstikker collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Simson%20bedroht%20seinen%20Schwiegervater%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205249842.jpg"
+        },
+        {
+            "title": "Samson betrayed by Delilah",
+            "artist": "Rembrandt",
+            "year": "1628",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Simson%20und%20Delila%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205227355.jpg"
+        },
+        {
+            "title": "Saskia as Flora",
+            "artist": "Rembrandt",
+            "year": "1641",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20087.jpg"
+        },
+        {
+            "title": "Joseph's dream",
+            "artist": "Rembrandt",
+            "year": "1645",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Der%20Traum%20Josephs%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205130725.jpg"
+        },
+        {
+            "title": "Tobit and Anna with the Kid",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20154.jpg"
+        },
+        {
+            "title": "Tobit and Anna with the Kid",
+            "artist": "Rembrandt",
+            "year": "1626",
+            "museum": "Thyssen-Bornemisza family Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20154.jpg"
+        },
+        {
+            "title": "Titus at his desk",
+            "artist": "Rembrandt",
+            "year": "1655",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Titus%20at%20his%20Desk%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Wedding of Samson",
+            "artist": "Rembrandt",
+            "year": "1638",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20146.jpg"
+        },
+        {
+            "title": "St. Paul in Prison",
+            "artist": "Rembrandt",
+            "year": "1627",
+            "museum": "Staatsgalerie Stuttgart",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Paul%20in%20Prison%20by%20Rembrandt%20-%20Staatsgalerie%20-%20Stuttgart%20-%20Germany%202017.jpg"
+        },
+        {
+            "title": "The Descent from the Cross",
+            "artist": "Rembrandt",
+            "year": "1650",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20Rembrandt%20van%20Rijn%20-%20The%20Descent%20from%20the%20Cross%20%28National%20Gallery%20of%20Art%29.jpg"
+        },
+        {
+            "title": "Half-figure of a woman with a beret",
+            "artist": "Rembrandt",
+            "year": "1643",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Halbfigur%20einer%20Frau%20mit%20Barett%2C%20Saskia%20van%20Uylenburgh%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205139038.jpg"
+        },
+        {
+            "title": "Boaz",
+            "artist": "Rembrandt",
+            "year": "1643",
+            "museum": "Woburn Abbey",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boaz%20by%20Rembrandt.jpg"
+        },
+        {
+            "title": "Stormy Landscape",
+            "artist": "Rembrandt",
+            "year": "1638",
+            "museum": "Herzog Anton Ulrich Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20149.jpg"
+        },
+        {
+            "title": "Lucretia",
+            "artist": "Rembrandt",
+            "year": "1666",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Lucretia%20-%20Google%20Art%20Project%20%28nAHoI2KdSaLshA%29.jpg"
+        },
+        {
+            "title": "Joseph accused by Potiphar's wife",
+            "artist": "Rembrandt",
+            "year": "1655",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20und%20Potiphars%20Frau%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205250684.jpg"
+        },
+        {
+            "title": "Joseph accused by Potiphar's wife",
+            "artist": "Rembrandt",
+            "year": "1655",
+            "museum": "Charles Sedelmeyer collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20und%20Potiphars%20Frau%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205250684.jpg"
+        },
+        {
+            "title": "Susanna and the Elders",
+            "artist": "Rembrandt",
+            "year": "1647",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Susanna%20and%20the%20Elders.jpg"
+        },
+        {
+            "title": "Susanna and the Elders",
+            "artist": "Rembrandt",
+            "year": "1647",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20und%20die%20beiden%20Alten%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205250668.jpg"
+        },
+        {
+            "title": "Susanna and the Elders",
+            "artist": "Rembrandt",
+            "year": "1647",
+            "museum": "Charles Sedelmeyer collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Susanna%20and%20the%20Elders.jpg"
+        },
+        {
+            "title": "Susanna and the Elders",
+            "artist": "Rembrandt",
+            "year": "1647",
+            "museum": "Charles Sedelmeyer collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20und%20die%20beiden%20Alten%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205250668.jpg"
+        },
+        {
+            "title": "Portrait of Catrina Hoogsaet",
+            "artist": "Rembrandt",
+            "year": "1657",
+            "museum": "National Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%2C%20Portrait%20of%20Catrina%20Hooghsaet.jpg"
+        },
+        {
+            "title": "Portrait of Catrina Hoogsaet",
+            "artist": "Rembrandt",
+            "year": "1657",
+            "museum": "http://www.wikidata.org/.well-known/genid/9c1062baed4587788716fe88fe48d863",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%2C%20Portrait%20of%20Catrina%20Hooghsaet.jpg"
+        },
+        {
+            "title": "The Descent from the Cross",
+            "artist": "Rembrandt",
+            "year": "1634",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Descent%20from%20the%20Cross%20%28Rembrant%29.jpg"
+        },
+        {
+            "title": "Portrait of a Man Rising from His Chair",
+            "artist": "Rembrandt",
+            "year": "1633",
+            "museum": "Taft Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20man%20rising%20from%20his%20chair%2C%20by%20Rembrandt.jpg"
+        },
+        {
+            "title": "Simeon's song of praise",
+            "artist": "Rembrandt",
+            "year": "1631",
+            "museum": "Mauritshuis",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20loflied%20van%20Simeon%2C%20Rembrandt%20van%20Rijn%2C%201631%2C%20Mauritshuis%2C%20The%20Hague.jpg"
+        },
+        {
+            "title": "Simeon's song of praise",
+            "artist": "Rembrandt",
+            "year": "1631",
+            "museum": "Gallery Prince Willem V",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20loflied%20van%20Simeon%2C%20Rembrandt%20van%20Rijn%2C%201631%2C%20Mauritshuis%2C%20The%20Hague.jpg"
+        },
+        {
+            "title": "Simeon's song of praise",
+            "artist": "Rembrandt",
+            "year": "1631",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20loflied%20van%20Simeon%2C%20Rembrandt%20van%20Rijn%2C%201631%2C%20Mauritshuis%2C%20The%20Hague.jpg"
+        },
+        {
+            "title": "Simeon's song of praise",
+            "artist": "Rembrandt",
+            "year": "1631",
+            "museum": "collection Willem V Prince of Orange Nassau",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20loflied%20van%20Simeon%2C%20Rembrandt%20van%20Rijn%2C%201631%2C%20Mauritshuis%2C%20The%20Hague.jpg"
+        },
+        {
+            "title": "Simeon's song of praise",
+            "artist": "Rembrandt",
+            "year": "1631",
+            "museum": "private collection William I",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20loflied%20van%20Simeon%2C%20Rembrandt%20van%20Rijn%2C%201631%2C%20Mauritshuis%2C%20The%20Hague.jpg"
+        },
+        {
+            "title": "Portrait of a man in a plumed hat",
+            "artist": "Rembrandt",
+            "year": "1635",
+            "museum": "Mauritshuis",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20%27Tronie%27%20of%20a%20Man%20with%20a%20Feathered%20Beret%20-%20149%20-%20Mauritshuis.jpg"
+        },
+        {
+            "title": "Study of an old woman (Rembrandt's mother)",
+            "artist": "Rembrandt",
+            "year": "1631",
+            "museum": "Mauritshuis",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Studie%20van%20een%20oude%20vrouw%2C%20after%20Rembrandt%20van%20Rijn%2C%2017th%20c.%2C%20Mauritshuis%2C%20The%20Hague.jpg"
+        },
+        {
+            "title": "Portrait of an older man",
+            "artist": "Rembrandt",
+            "year": "1650",
+            "museum": "Mauritshuis",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Study%20of%20an%20Old%20Man%20-%20560%20-%20Mauritshuis.jpg"
+        },
+        {
+            "title": "Portrait of an older man",
+            "artist": "Rembrandt",
+            "year": "1650",
+            "museum": "Charles Sedelmeyer collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Study%20of%20an%20Old%20Man%20-%20560%20-%20Mauritshuis.jpg"
+        },
+        {
+            "title": "Study of an old man (Rembrandt's father)",
+            "artist": "Rembrandt",
+            "year": "1630",
+            "museum": "Mauritshuis",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tronie%20van%20een%20oude%20man%2C%20Rembrandt%20van%20Rijn%2C%20c.%201630%2C%20Mauritshuis%2C%20The%20Hague.jpg"
+        },
+        {
+            "title": "The Laughing Man",
+            "artist": "Rembrandt",
+            "year": "1629",
+            "museum": "Mauritshuis",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20The%20laughing%20man.jpg"
+        },
+        {
+            "title": "Two African men",
+            "artist": "Rembrandt",
+            "year": "1661",
+            "museum": "Mauritshuis",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20157.jpg"
+        },
+        {
+            "title": "Portrait of an old man",
+            "artist": "Rembrandt",
+            "year": "1667",
+            "museum": "Mauritshuis",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Portrait%20of%20an%20Elderly%20Man%20-%201118%20-%20Mauritshuis.jpg"
+        },
+        {
+            "title": "Head of a boy",
+            "artist": "Rembrandt",
+            "year": "1643",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jongenskopje%20Rijksmuseum%20SK-A-2391.jpeg"
+        },
+        {
+            "title": "Man in Oriental Dress",
+            "artist": "Rembrandt",
+            "year": "1635",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20259.jpg"
+        },
+        {
+            "title": "Joseph relating his dreams to his parents and brothers",
+            "artist": "Rembrandt",
+            "year": "1633",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jozef%20vertelt%20zijn%20dromen%20aan%20zijn%20ouders%20en%20zijn%20broers%20Rijksmuseum%20SK-A-3477.jpeg"
+        },
+        {
+            "title": "Bust of a laughing young man",
+            "artist": "Rembrandt",
+            "year": "1630",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Borstbeeld%20van%20een%20lachende%20jonge%20man%20Rijksmuseum%20SK-A-3934.jpeg"
+        },
+        {
+            "title": "Bust of a laughing young man",
+            "artist": "Rembrandt",
+            "year": "1630",
+            "museum": "Charles Sedelmeyer collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Borstbeeld%20van%20een%20lachende%20jonge%20man%20Rijksmuseum%20SK-A-3934.jpeg"
+        },
+        {
+            "title": "Portrait of Dr. Ephra\u00efm Bueno",
+            "artist": "Rembrandt",
+            "year": "1640",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20man%2C%20vermoedelijk%20Dr.%20Ephra%C3%AFm%20Bueno%20Rijksmuseum%20SK-A-3982.jpeg"
+        },
+        {
+            "title": "Portrait of Dr. Ephra\u00efm Bueno",
+            "artist": "Rembrandt",
+            "year": "1640",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Harmensz%20van%20Rijn%20Rembrandt%20%281606-1669%29%20-%20Bildnis%20des%20Ephraim%20Bonus%20-%201428%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "Portrait of Dr. Ephra\u00efm Bueno",
+            "artist": "Rembrandt",
+            "year": "1640",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20man%2C%20vermoedelijk%20Dr.%20Ephra%C3%AFm%20Bueno%20Rijksmuseum%20SK-A-3982.jpeg"
+        },
+        {
+            "title": "Portrait of Dr. Ephra\u00efm Bueno",
+            "artist": "Rembrandt",
+            "year": "1640",
+            "museum": "F\u00fchrermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Harmensz%20van%20Rijn%20Rembrandt%20%281606-1669%29%20-%20Bildnis%20des%20Ephraim%20Bonus%20-%201428%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "Portrait of Dr. Ephra\u00efm Bueno",
+            "artist": "Rembrandt",
+            "year": "1640",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20man%2C%20vermoedelijk%20Dr.%20Ephra%C3%AFm%20Bueno%20Rijksmuseum%20SK-A-3982.jpeg"
+        },
+        {
+            "title": "Portrait of Dr. Ephra\u00efm Bueno",
+            "artist": "Rembrandt",
+            "year": "1640",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Harmensz%20van%20Rijn%20Rembrandt%20%281606-1669%29%20-%20Bildnis%20des%20Ephraim%20Bonus%20-%201428%20-%20F%C3%BChrermuseum.jpg"
+        },
+        {
+            "title": "Portrait of Dr. Ephra\u00efm Bueno",
+            "artist": "Rembrandt",
+            "year": "1640",
+            "museum": "Stichting Nederlands Kunstbezit",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20man%2C%20vermoedelijk%20Dr.%20Ephra%C3%AFm%20Bueno%20Rijksmuseum%20SK-A-3982.jpeg"
+        },
+        {
+            "title": "Portrait of Dr. Ephra\u00efm Bueno",
+            "artist": "Rembrandt",
+            "year": "1640",
+            "museum": "Stichting Nederlands Kunstbezit",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Harmensz%20van%20Rijn%20Rembrandt%20%281606-1669%29%20-%20Bildnis%20des%20Ephraim%20Bonus%20-%201428%20-%20F%C3%BChrermuseum.jpg"
+        }
     ]
 }
