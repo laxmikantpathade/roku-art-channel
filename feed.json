@@ -981,6 +981,20 @@
             "description": "A captivating portrait of a man in black attire, The Man in Black is one of Kim Hong-do's most renowned works. Created during the early 20th century, this enigmatic figure has fascinated art lovers for decades. Born in Korea, Kim Hong-do was a prominent artist known for his bold and expressive works. This painting showcases his unique style, blending traditional Korean motifs with modern influences. The Man in Black is not only an exquisite example of Kim's artistic skill but also a testament to the cultural exchange that defined the early 20th century."
         },
         {
+            "title": "Marie Antoinette by Élisabeth Vigée Le Brun",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_156.jpg",
+            "year": "1783",
+            "museum": "Musée des Beaux-Arts de Lille",
+            "description": "Marie Antoinette, a captivating portrait of the ill-fated Queen of France, showcases Vigé Le Brun's mastery of capturing light and elegance. Painted during the French Revolution, this work serves as a poignant reminder of the monarch's tragic fate and the artist's skill in crafting timeless beauty."
+        },
+        {
+            "title": "Portrait of a Woman by Raja Ravi Varma",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_157.jpg",
+            "year": "1892",
+            "museum": "National Gallery of India",
+            "description": "Created in 1892, \"Portrait of a Woman\" showcases the artist's fascination with Indian mythology and culture. The subject, believed to be a representation of Kamala, is depicted in a serene and contemplative mood, adorned in traditional attire. Varma's use of vibrant colors and dynamic composition adds an air of mystique to this iconic painting, which has become synonymous with his unique blend of European and Indian art styles."
+        },
+        {
             "title": "Peaches by Gao Fenghan",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_158.jpg",
             "year": "1855",
@@ -988,11 +1002,74 @@
             "description": "In the mid-19th century, Gao Fenghan was a prominent artist in China. His painting 'Peaches' showcases his skill in capturing the beauty of nature and the serenity of Chinese culture. The subject of peaches symbolized longevity, prosperity, and good fortune in traditional Chinese art. This delicate piece highlights the artist's use of subtle colors and bold brushstrokes to convey a sense of tranquility, reflecting the peaceful atmosphere of the Qing dynasty era."
         },
         {
+            "title": "Portrait of a Young Lady by Angelica Kauffman",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_159.jpg",
+            "year": "1766",
+            "museum": "National Gallery in London",
+            "description": "Created during the Rococo period, this portrait showcases Kauffman's exceptional skill in capturing the essence of her subjects. The subject, believed to be Mary Robinson, was a prominent figure in European society at the time. Kauffman's use of soft, golden light and delicate details creates a sense of intimacy and refinement, reflecting the values of the aristocracy. This painting is not only a testament to Kauffman's artistic prowess but also a window into the social hierarchy of 18th-century Europe."
+        },
+        {
+            "title": "The Triumph of Hercules by Reza Abbasi",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_160.jpg",
+            "year": "1585",
+            "museum": "Tehran Museum of Contemporary Art",
+            "description": "In 1585, Reza Abbasi created The Triumph of Hercules, a captivating painting that showcases the artist's mastery of Persian miniature painting techniques. This monumental work commemorates the victory of Hercules over Nemean Lion, symbolizing bravery and strength in Persian culture. Commissioned by Shah Abbas I for his palace, it demonstrates Abbasi's skill in blending intricate details with epic narrative, making it an enduring masterpiece in Persian art history."
+        },
+        {
+            "title": "Peony Garden by Qiu Ying",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_161.jpg",
+            "year": "1507",
+            "museum": "National Palace Museum",
+            "description": "In this exquisite landscape, Qiu Ying masterfully weaves together the serenity of a peony garden with the grandeur of Chinese imperial power. Painted during the Ming dynasty, Peony Garden embodies the cultural and artistic ideals of the time, showcasing Qiu Ying's innovative use of color and composition to create a sense of depth and tranquility."
+        },
+        {
+            "title": "The Lacemaker by Nainsukh",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_162.jpg",
+            "year": "1720s",
+            "museum": "Victoria and Albert Museum (London)",
+            "description": "This captivating portrait of a young woman engaged in the intricate art of lacemaking is a masterclass in Nainsukh's attention to detail. Created during the 18th century, it showcases the artist's skill in capturing the subtleties of light and texture. The Lacemaker is not only an exquisite example of Indian miniature painting but also a testament to the cultural exchange between India and Europe during this period."
+        },
+        {
             "title": "The High Priestess by Hilma af Klint",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_163.jpg",
             "year": "1906-1915",
             "museum": "Moderna Museet, Stockholm, Sweden",
             "description": "The High Priestess is a seminal work by Hilma af Klint, created in the early 20th century. This painting marks a pivotal moment in the artist's life, as she began to explore spiritualism and the supernatural through her art. The High Priestess depicts an enigmatic figure cloaked in robes, surrounded by symbols and markings that have been interpreted as representing the mysteries of nature and the universe. As one of the first abstract artists, af Klint's innovative style paved the way for a new generation of avant-garde painters, influencing artists such as Kandinsky and Malevich."
+        },
+        {
+            "title": "The Kiss of Death by Félix Êmile Taunay",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_164.jpg",
+            "year": "1907",
+            "museum": "Musée d'Orsay",
+            "description": "In the early 20th century, French art was dominated by Impressionism and Post-Impressionism. In 1907, Taunay produced a striking painting titled The Kiss of Death, which showcases his unique style. This darkly romantic work features a woman's face in profile, surrounded by intricate, flowing lines that create a sense of intimacy and foreboding. With its bold brushstrokes and vivid colors, The Kiss of Death captures the mood of a generation. Today, this masterpiece is on display at the Musée d'Orsay, where it continues to captivate audiences with its haunting beauty."
+        },
+        {
+            "title": "The Dream by Joaquín Clausell",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_165.jpg",
+            "year": "1882",
+            "museum": "Museo de Bellas Artes de Valencia",
+            "description": "In 1882, Joaquín Clausell created The Dream, a captivating representation of the artist's fascination with the world of dreams and the subconscious. This painting showcases the artist's use of vivid colors and bold brushstrokes, drawing the viewer into a world of surreal beauty. As one of Clausell's most famous works, The Dream continues to captivate audiences today with its unique blend of fantasy and realism."
+        },
+        {
+            "title": "The Last Judgment by Ustad Mansur",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_166.jpg",
+            "year": "1510-1514",
+            "museum": "Hermitage Museum, St. Petersburg",
+            "description": "Commissioned by the Safavid Shah Ismail I, this painting showcases Ustad Mansur's mastery of Persian miniature art. The Last Judgment depicts scenes from the Bible and Islamic tradition, symbolizing the artist's unique blend of Eastern and Western influences. As a masterpiece of Safavid art, it reflects the cultural exchange and artistic innovations of the time, offering insights into the artistic and religious values of 16th-century Persia."
+        },
+        {
+            "title": "Walden by Tivadar Csontváry Kosztka",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_167.jpg",
+            "year": "1898",
+            "museum": "The Budapest Színház Museum",
+            "description": "In the late 19th century, Hungarian Impressionist painter Tivadar Csontváry Kosztka created Walden, a captivating landscape that captures the essence of rural Hungarian life. With its dreamy atmosphere and vivid colors, the painting transports viewers to a serene natural world, inviting them to escape the hustle and bustle of city life."
+        },
+        {
+            "title": "River Scene by Robert S. Duncanson",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_168.jpg",
+            "year": "1856",
+            "museum": "Harvard Art Museums, Fogg Museum of Art",
+            "description": "Painted in 1856, Robert S. Duncanson's 'River Scene' is a captivating portrayal of life on the American frontier. The work showcases the artist's unique blend of realism and imagination, as he depicts a serene river landscape dotted with trees and wildlife. This painting offers a glimpse into the lives of African Americans during this period, highlighting both their struggles and triumphs."
         },
         {
             "title": "Maid of Orléans by Reza Abbasi",
@@ -1023,11 +1100,39 @@
             "description": "Created between 1879 and 1882, 'The Burlesque' is a powerful depiction of the struggles faced by Poland during its time under Russian rule. The painting showcases Chełmoński's unique blend of Realism and Romanticism, highlighting the resilience and determination of the Polish people. As one of his most famous works, it has become an iconic representation of Poland's struggle for independence and its rich cultural heritage."
         },
         {
+            "title": "The Swan by Hilma af Klint",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_173.jpg",
+            "year": "1906",
+            "museum": "Götiska Museet, Stockholm",
+            "description": "In 1906, Hilma af Klint painted The Swan, a mystical and enigmatic work that marked the beginning of her unique style. This painting is characteristic of her spiritualist themes and geometric forms, foreshadowing her later series of abstract works, known as The Paintings for the Temple. The Swan is an example of af Klint's innovative approach to art, blending spiritual and scientific concepts with a sense of wonder and curiosity. Today, this painting is celebrated as a pioneering work in modern art, offering insights into the artist's mystical worldview."
+        },
+        {
+            "title": "The Market by Clara Peeters",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_174.jpg",
+            "year": "1625-1630",
+            "museum": "Rijksmuseum, Amsterdam",
+            "description": "A captivating depiction of a bustling market scene, The Market showcases Clara Peeters' exceptional attention to detail and realistic representation of everyday life. Painted in the early 17th century, this work is notable for its vivid colors and engaging composition, which invites viewers to step into the vibrant atmosphere of a Dutch marketplace."
+        },
+        {
             "title": "The Street Singer by Józef Cheńmowski",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_175.jpg",
             "year": "1882",
             "museum": "Museum of the History of Polish Jews in Warsaw",
             "description": "In 'The Street Singer', Józef Cheńmowski captures the essence of urban life in 19th-century Poland. The painting depicts a young woman singing on the street, drawing in a crowd with her captivating voice. This work showcases Cheńmowski's talent for capturing the human spirit and his ability to evoke emotions through his art."
+        },
+        {
+            "title": "The Sower by Edward Mitchell Bannister",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_176.jpg",
+            "year": "1882",
+            "museum": "National Museum of Women in the Arts (Washington, D.C.)",
+            "description": "Created during a time when African American artists faced significant racism and exclusion, The Sower showcases Bannister's unique blend of realism and expressionism. Commissioned by a prominent white patron to paint the official portrait of a wealthy black family, this painting subverts expectations by presenting a humble sower as the subject. This powerful work not only breaks down racial barriers in art but also challenges societal norms around wealth and status."
+        },
+        {
+            "title": "Autumn Landscape by Robert S. Duncanson",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_177.jpg",
+            "year": "1842",
+            "museum": "Harvard Art Museums",
+            "description": "Painted by an African American artist in the early 19th century, Autum Landscape is a stunning example of Duncanson's skillful portrayal of rural life. Created in 1842, this work showcases his ability to capture the beauty and tranquility of the natural world, as well as his role as a prominent figure in the Hudson River School. A symbol of hope and resilience in the face of adversity, Autumn Landscape continues to captivate audiences with its serene atmosphere and intricate details."
         },
         {
             "title": "Woman with a Parasol by Berthe Morisot",
@@ -1049,6 +1154,62 @@
             "year": "1886",
             "museum": "Musée d'Orsay",
             "description": "In 'Woman at her Toilette', Berthe Morisot captured a quiet, introspective moment of personal grooming. Painted in 1886, this intimate scene showcases the artist's ability to depict everyday life with sensitivity and nuance. Often seen as a precursor to Impressionist portraiture, the painting features Morisot's characteristic use of soft colors and gentle brushstrokes, drawing the viewer into the quiet world of her subject."
+        },
+        {
+            "title": "Miso Soup by Kuroda Seiki",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_181.jpg",
+            "year": "1881",
+            "museum": "Tokyo National Museum",
+            "description": "Miso Soup is a captivating portrait of Japanese cuisine, showcasing Kuroda Seiki's unique blend of Western and Eastern artistic influences. Painted in 1881, the work reflects the artist's fascination with Japanese culture during his time abroad. The use of bold brushstrokes and vibrant colors evokes the warmth and simplicity of traditional Japanese cooking. As a seminal work in the development of Japan's modern art movement, Miso Soup continues to delight audiences with its timeless beauty and cultural significance."
+        },
+        {
+            "title": "Lantern Festival by Qiu Ying",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_182.jpg",
+            "year": "1509",
+            "museum": "National Palace Museum",
+            "description": "During the Lantern Festival, a vibrant celebration of good fortune and new beginnings, lanterns adorned with intricate designs adorn homes and streets. In this captivating painting, Qiu Ying masterfully captures the essence of this festival through his vivid depiction of colorful lanterns against a serene landscape, evoking feelings of joy, community, and prosperity in 15th-century China."
+        },
+        {
+            "title": "Raj Ghat by Nainsukh",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_183.jpg",
+            "year": "17th century",
+            "museum": "India",
+            "description": "Created during the reign of Mughal Emperor Shah Jahan in the 17th century, Nainsukh's 'Raj Ghat' is a serene and contemplative depiction of the royal burial ground. This painting showcases the artist's mastery of traditional Indian art forms, such as miniature portraiture and landscape painting, while also reflecting the cultural and religious significance of this iconic site."
+        },
+        {
+            "title": "Yotsuya Kaidan by Katsushika Hokusai",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_184.jpg",
+            "year": "1830-1833",
+            "museum": "The Metropolitan Museum of Art",
+            "description": "One of the most iconic works by Japanese artist Katsushika Hokusai, Yotsuya Kaidan is a hauntingly beautiful ukiyo-e woodblock print depicting a ghost story from the 19th century. The image is based on a true story about a samurai who was haunted by his own vengeful spirit in a haunted mansion called the Yotsuya Mansion. Hokusai's masterful use of lines and shading created a sense of tension and foreboding, drawing viewers into the dark and eerie world of Japanese folklore."
+        },
+        {
+            "title": "Najm al-Din by Ustad Mansur",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_185.jpg",
+            "year": "14th century",
+            "museum": "Louvre Museum",
+            "description": "Najm al-Din is a rare example of Persian miniaturist art from the 14th century. Created by the renowned artist Ustad Mansur, this intricate painting depicts a scene from Islamic mythology. The artwork showcases the artist's mastery of color and composition, with delicate floral patterns and vibrant hues that transport the viewer to a world of wonder and enchantment. As one of the few surviving examples of Persian miniatures from this period, Najm al-Din provides a unique glimpse into the artistic traditions of medieval Iran."
+        },
+        {
+            "title": "The Scholars by Qiu Ying",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_186.jpg",
+            "year": "1507",
+            "museum": "Victoria and Albert Museum",
+            "description": "This painting is a quintessential representation of late Ming Dynasty art. Depicting four esteemed scholars in various states of contemplation, it embodies the era's reverence for knowledge and learning. The subtle nuances of Qiu Ying's brushwork evoke a sense of quiet intimacy, drawing the viewer into the world of these erudite individuals."
+        },
+        {
+            "title": "The Calm Before the Storm by Ivan Aivazovsky",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_187.jpg",
+            "year": "1844",
+            "museum": "Hermitage Museum in St. Petersburg, Russia",
+            "description": "Created during a time of great turmoil in Europe, 'The Calm Before the Storm' is a serene depiction of a Mediterranean sea, foreshadowing the chaos that would soon unfold. Aivazovsky's innovative use of color and light captivated art lovers, and this painting remains one of his most iconic works. As a symbol of the turmoil brewing beneath its tranquil surface, 'The Calm Before the Storm' continues to evoke powerful emotions in viewers today."
+        },
+        {
+            "title": "The Course of Empire by Thomas Cole",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_188.jpg",
+            "year": "1833-1836",
+            "museum": "Metropolitan Museum of Art",
+            "description": "This influential painting depicts a dystopian future where nature has been ravaged by human progress. Created during the Romantic era, it serves as a commentary on the consequences of industrialization and technological advancements. The work showcases Cole's unique blend of realism and idealism, inviting viewers to reflect on their relationship with the natural world."
         },
         {
             "title": "Self-Portrait with Bandaged Ear by Vincent van Gogh",
@@ -1093,11 +1254,39 @@
             "description": "In 1842, J.M.W. Turner created The Slave Ship, a powerful anti-slavery painting that shocked the British public with its vivid depiction of brutality and despair. Commissioned by abolitionist Thomas Clarkson, the work captures the horrors of the transatlantic slave trade, as a ship is seen fleeing from British warships in an attempt to evade capture and sell its human cargo. The painting's dark, somber mood and stark imagery evoke a sense of outrage and moral urgency, making it one of Turner's most important and influential works."
         },
         {
+            "title": "The Portrait of a Lady by Ustad Mansur",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_195.jpg",
+            "year": "1608",
+            "museum": "National Museum of India, New Delhi",
+            "description": "This portrait is believed to have been painted for an affluent noblewoman. The artist's use of intricate gold and silver embroidery on the subject's clothing reflects the opulence of Mughal-era India. The painting showcases Mansur's mastery of realistic portraiture, capturing the subtleties of his subject's emotions. As one of the few surviving works by this prominent artist, it offers a glimpse into the lives of India's royal families during the 17th century."
+        },
+        {
+            "title": "El Pueblo by Joaquín Clausell",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_196.jpg",
+            "year": "1900",
+            "museum": "National Museum of Fine Arts (Mexico City)",
+            "description": " Created in 1900, El Pueblo is a vibrant depiction of Mexican village life. The painting showcases the artist's ability to capture the essence of rural culture and his unique style, which blended elements of realism with folk art influences. Clausell's work was widely acclaimed during his lifetime, and El Pueblo remains one of his most celebrated pieces."
+        },
+        {
+            "title": "Abbas Khan by Reza Abbasi",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_197.jpg",
+            "year": "1600s",
+            "museum": "Hermitage Museum",
+            "description": "Abbas Khan is a captivating portrait of the Mughal Emperor Abbas I, painted by Iranian miniature artist Reza Abbasi in the early 17th century. The painting showcases the emperor's imposing figure, adorned with ornate clothing and regal accessories, exuding power and majesty. As a masterpiece of Persian art, Abbas Khan exemplifies the intricate details and symbolism inherent to Mughal miniatures. This iconic work has been preserved for centuries, offering a glimpse into the cultural and artistic heritage of Iran during the Safavid dynasty."
+        },
+        {
             "title": "Woman with a Fan by Félix Émile Taunay",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_198.jpg",
             "year": "1889",
             "museum": "Musée d'Orsay",
             "description": "In the late 19th century, Félix Émile Taunay was part of the vibrant Parisian art scene. His painting 'Woman with a Fan' showcases his skill in capturing the subtleties of human emotion through delicate brushstrokes and muted colors. The subject, lost in thought, exemplifies the idealized beauty of the era. As a prominent figure in the Impressionist movement, Taunay's work played a significant role in shaping modern art. Today, 'Woman with a Fan' remains an iconic piece at the Musée d'Orsay, inviting viewers to step into the world of late 19th-century French art."
+        },
+        {
+            "title": "The Academy by Rachel Ruysch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_199.jpg",
+            "year": "1658",
+            "museum": "Rijksmuseum Amsterdam",
+            "description": "This captivating portrait of a group of academic female figures marks a departure from the traditional male-dominated art scene of 17th-century Holland. Created by Dutch Golden Age painter Rachel Ruysch, The Academy showcases her skill in capturing the essence of her subjects through masterful use of light and shadow. As one of the first notable works by a female artist to be exhibited in a prominent museum, this painting has had a lasting impact on feminist art history."
         },
         {
             "title": "The Stolen Kiss by Judith Leyster",
@@ -1114,11 +1303,25 @@
             "description": "L'Équipe, painted in 1859, is a masterpiece of French realist art that showcases Rosa Bonheur's unique style. The painting depicts the artist's horse team in their daily routine, highlighting the bond between humans and animals. Created during the height of the Industrial Revolution, L'Équipe offers a glimpse into a bygone era where rural life and manual labor were still prevalent. The work also highlights Bonheur's feminist views, as she often depicted strong female characters in her art, challenging societal norms of the time."
         },
         {
-            "title": "The Pine Tree by Edward Mitchell Bannister",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_205.jpg",
-            "year": "1885",
-            "museum": "Cleveland Museum of Art",
-            "description": "The Pine Tree, created in 1885, is a poignant portrait of the artist's aunt and a symbol of the African American experience during the Reconstruction era. The painting showcases Bannister's unique blend of Impressionism and realism, highlighting the struggles and triumphs of his community. As a representation of hope and resilience, The Pine Tree has become an iconic work in American art history, celebrating the artist's heritage and legacy."
+            "title": "Reclining Figure by Ma Yuan",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_202.jpg",
+            "year": "10-12th century",
+            "museum": "National Palace Museum, Taipei",
+            "description": "Discovered in a tomb in Henan province, the painting depicts a reclining figure in a state of repose. The work is notable for its naturalistic portrayal and subtle expressions, reflecting the cultural exchange between China and Central Asia during the Tang dynasty. This masterpiece has been extensively studied and admired for its beauty and historical significance, offering insights into the artistic traditions of ancient China."
+        },
+        {
+            "title": "The City by José María Velasco",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_203.jpg",
+            "year": "1907",
+            "museum": "Muséo Nacional de Artes Decorativas",
+            "description": "In 1907, Velasco painted The City, a depiction of the city of San Miguel de Allende in Mexico. This painting showcases the vibrant colors and textures that defined his style. It was one of many works created during this period, exploring the intersection of European and Mexican influences on art. The City has become an iconic representation of Mexican identity and a testament to Velasco's unique artistic vision."
+        },
+        {
+            "title": "Portrait of Benjamin Disraeli by Angelica Kauffman",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_204.jpg",
+            "year": "1778",
+            "museum": "National Gallery, London",
+            "description": "This portrait is one of Angelica Kauffman's most celebrated works, capturing the likeness of British statesman and writer Benjamin Disraeli. Painted in 1778, when Disraeli was just 25 years old, it showcases Kauffman's skill in conveying the subtleties of her subjects' expressions and character. The painting is significant not only for its technical excellence but also for its role in promoting British culture during the late 18th century."
         },
         {
             "title": "Café de la Paix by Félix Émile Taunay",
@@ -2547,6 +2750,13 @@
             "year": "1590",
             "museum": "Art Institute of Chicago",
             "description": "Kichik Beg Wounded during Babur's Attack on Qalat is a page from the renowned Baburnama, a personal account of Mughal Emperor Babur's conquests in India and Central Asia. Painted by Ustad Mansur in 1590, this artwork showcases the brutal realities of war through its haunting depiction of Kichik Beg, the Mughal governor, being wounded during a battle. The work offers valuable insights into the political and military history of the region, making it a significant artifact for historians and art enthusiasts alike."
+        },
+        {
+            "title": "Geumgang jeondo by Jeong Seon",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_395.jpg",
+            "year": "1734",
+            "museum": "Ho-Am Art Museum",
+            "description": "Geumgang jeondo is a traditional Korean painting from the Joseon dynasty, created by Jeong Seon in 1734. This iconic work exemplifies the artist's mastery of landscape painting, with its serene and dreamlike depiction of a mountainous landscape. Characterized by its use of bold brushstrokes and vivid colors, the painting showcases the artist's innovative style during the late Joseon period. As one of Jeong Seon's most celebrated works, Geumgang jeondo is considered a seminal piece in Korean art history, offering valuable insights into the cultural and artistic traditions of 18th-century Korea."
         }
     ]
 }
