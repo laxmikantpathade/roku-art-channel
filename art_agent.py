@@ -1,6 +1,7 @@
 import os
 import warnings
 import urllib.parse
+import re
 
 # --- FORCE SUPPRESS MAC LIBRESSL WARNINGS ---
 warnings.filterwarnings("ignore", module="urllib3")
@@ -98,6 +99,15 @@ def load_existing_progress():
 def save_progress(artwork_list):
     with open("feed.json", "w") as f:
         json.dump({"artwork_list": artwork_list}, f, indent=4)
+
+def normalize_title(title):
+    """Strips punctuation, spaces, and articles to create a base string for duplicate checking."""
+    title = title.lower()
+    # Remove 'the', 'a', or 'an' if they appear as standalone words
+    title = re.sub(r'\b(the|a|an)\b', '', title)
+    # Remove all non-alphanumeric characters (spaces, hyphens, punctuation)
+    title = re.sub(r'[^a-z0-9]', '', title)
+    return title
 
 def get_dynamic_art_suggestion():
     """Requests diverse ideas and 100-word descriptions from Ollama based on specific artists."""
@@ -315,7 +325,13 @@ def run_bulk_collector():
     print("🤖 Bulk Art Collector initializing...")
     artwork_list = load_existing_progress()
     current_count = len(artwork_list)
-    seen_titles = {art["title"].lower() for art in artwork_list}
+    
+    # 💥 THE NEW SMART DUPLICATE CHECKER 💥
+    # Only stores the stripped-down, normalized core title
+    seen_titles = set()
+    for art in artwork_list:
+        raw_title = art["title"].split(" by ")[0] # Grabs just the title part
+        seen_titles.add(normalize_title(raw_title))
     
     print(f"📂 Found {current_count} existing artworks in feed.json.")
     
@@ -327,11 +343,15 @@ def run_bulk_collector():
             time.sleep(1)
             continue
             
-        full_title_string = f"{meta.get('title')} by {meta.get('artist')}"
-        if full_title_string.lower() in seen_titles:
-            print(f"⚠️ Already tracked '{full_title_string}'. Skipping...")
+        raw_new_title = meta.get("title", "")
+        normalized_new_title = normalize_title(raw_new_title)
+        
+        # Check against the aggressive normalized list instead of exact strings
+        if normalized_new_title in seen_titles:
+            print(f"⚠️ Already tracked a variation of '{raw_new_title}'. Skipping...")
             continue
             
+        full_title_string = f"{raw_new_title} by {meta.get('artist')}"
         print(f"🎨 Ollama chose: {full_title_string}")
         image_filename = f"art_{current_count + 1}.jpg"
         
@@ -347,7 +367,8 @@ def run_bulk_collector():
                 "description": meta.get("description", "")
             }
             artwork_list.append(new_entry)
-            seen_titles.add(full_title_string.lower())
+            # Add the new, stripped-down title to memory
+            seen_titles.add(normalized_new_title) 
             save_progress(artwork_list)
             current_count += 1
             
