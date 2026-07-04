@@ -911,18 +911,18 @@
             "description": "Created in the late 15th century, 'The Virgin of the Rocks' is one of Leonardo da Vinci's most celebrated works. The painting depicts the Virgin Mary and the Christ child surrounded by the infant John the Baptist and the angel Uriel. This masterpiece showcases Da Vinci's mastery of composition, perspective, and sfumato, a technique that creates a soft, hazy effect by layering thin glazes of paint over a base coat. The painting was originally commissioned for the Convent of Saint-Hubert in Burgundy but was later acquired by King Francis I of France, where it has remained ever since."
         },
         {
+            "title": "36 Views of Mount Fuji by Utagawa Hiroshige",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_146.jpg",
+            "year": "1853-1873",
+            "museum": "Musée d'Orsay",
+            "description": ""
+        },
+        {
             "title": "The Cherry Blossom by Ito Jakuchu",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_147.jpg",
             "year": "1760",
             "museum": "Tokyo National Museum",
             "description": "This captivating ukiyo-e woodblock print captures the fleeting beauty of Japanese cherry blossoms, symbolizing the transience of life. Created in 1760 by renowned artist Ito Jakuchu, it is considered one of Japan's most iconic and influential works. As a quintessential representation of hanabi – Japan's beloved cherry blossom viewing tradition – The Cherry Blossom embodies the cultural significance of these trees, which have been cherished for centuries as a symbol of beauty, fragility, and impermanence."
-        },
-        {
-            "title": "The Mill by Judith Leyster",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_148.jpg",
-            "year": "1622",
-            "museum": "Rijksmuseum, Amsterdam",
-            "description": "This captivating portrait of a young woman at a mill showcases Leyster's unique blend of realism and wit. Painted in the early 17th century, The Mill is believed to be one of Leyster's earliest works, showcasing her talent for capturing everyday life in vivid detail. As one of the few female artists of her time, Leyster's work often featured strong female characters, like the subject of this painting, who exude confidence and independence."
         },
         {
             "title": "The Harvest by Tivadar Csontváry Kosztka",
@@ -2379,6 +2379,13 @@
             "year": "1908",
             "museum": "http://www.wikidata.org/.well-known/genid/47edda078abe2251d38f7ec032e0c191",
             "description": "The Grand Canal, Venice is a masterpiece by Claude Monet, captured in 1908. This iconic painting showcases the artist's Impressionist style, emphasizing soft light and color. The serene scene depicts the Rialto Bridge and the majestic canal, as sunlight casts reflections on the water. This work exemplifies Monet's fascination with capturing fleeting moments of natural light. As a testament to his innovative techniques, it solidified Monet's position as a leading figure in modern art history."
+        },
+        {
+            "title": "Tree trunk surrounded by flowers, butterflies and animals by Rachel Ruysch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_342.jpg",
+            "year": "1685",
+            "museum": "Museum Boijmans Van Beuningen",
+            "description": "Rachel Ruysch (1627-1750) was a Dutch Golden Age painter known for her exquisite still-life and botanical art. This painting from 1685 showcases her mastery of detail and composition, featuring a majestic tree trunk surrounded by an abundance of flowers, butterflies, and animals in a lush, natural setting. The work exemplifies Ruysch's innovative use of light and color, as well as her fascination with the relationship between nature and human existence."
         }
     ]
 }

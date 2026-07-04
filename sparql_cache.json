@@ -14791,5 +14791,651 @@
             "museum": "Tretyakov Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Archdeacon%20by%20Repin.jpg"
         }
+    ],
+    "John William Waterhouse": [
+        {
+            "title": "Nymphs Finding the Head of Orpheus",
+            "artist": "John William Waterhouse",
+            "year": "1900",
+            "museum": "http://www.wikidata.org/.well-known/genid/bf7841a32536fbc33983bc41320ae477",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nymphs%20finding%20the%20Head%20of%20Orpheus.jpg"
+        },
+        {
+            "title": "Study for Ophelia",
+            "artist": "John William Waterhouse",
+            "year": "1910",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ophelia%201910%20Study.jpg"
+        },
+        {
+            "title": "In the Peristyle",
+            "artist": "John William Waterhouse",
+            "year": "1874",
+            "museum": "Touchstones Rochdale",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20%281849-1917%29%20-%20In%20the%20Peristyle%20-%20122%20-%20Touchstones%20Rochdale.jpg"
+        },
+        {
+            "title": "In the Peristyle",
+            "artist": "John William Waterhouse",
+            "year": "1874",
+            "museum": "Touchstones Rochdale",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peristyle.jpg"
+        },
+        {
+            "title": "Psyche Opening the Door into Cupid's Garden",
+            "artist": "John William Waterhouse",
+            "year": "1903",
+            "museum": "Harris Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Psyche%20Opening%20the%20Door%20into%20Cupid%27s%20Garden%2C%201903.jpg"
+        },
+        {
+            "title": "Psyche Opening the Golden Box",
+            "artist": "John William Waterhouse",
+            "year": "1904",
+            "museum": "http://www.wikidata.org/.well-known/genid/d971568cffe5970062843d55a84fe1e9",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Psyche-Waterhouse.jpg"
+        },
+        {
+            "title": "The Remorse of the Emperor Nero after the Murder of his Mother",
+            "artist": "John William Waterhouse",
+            "year": "1878",
+            "museum": "http://www.wikidata.org/.well-known/genid/b83e1e181a1a9cfb3989697063f29f67",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RemorsodeNero.jpg"
+        },
+        {
+            "title": "A Sick Child brought into the Temple of Aesculapius",
+            "artist": "John William Waterhouse",
+            "year": "1877",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20A%20Sick%20Child%20brought%20into%20the%20Temple%20of%20Aesculapius%20%281877%29.jpg"
+        },
+        {
+            "title": "The Awakening of Adonis",
+            "artist": "John William Waterhouse",
+            "year": "1899",
+            "museum": "Andrew Lloyd Webber Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Awakening%20of%20Adonis%20-%20John%20William%20Waterhouse%20%281899%29.jpg"
+        },
+        {
+            "title": "The Bouquet",
+            "artist": "John William Waterhouse",
+            "year": "1908",
+            "museum": "Falmouth Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Bouquet%20%28study%29.jpg"
+        },
+        {
+            "title": "The Lady Clare",
+            "artist": "John William Waterhouse",
+            "year": "1900",
+            "museum": "http://www.wikidata.org/.well-known/genid/ec12cc1ffb748e7df13509c2cb5cc9ae",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lady%20Clare.jpg"
+        },
+        {
+            "title": "The Magic Circle",
+            "artist": "John William Waterhouse",
+            "year": "1886",
+            "museum": "http://www.wikidata.org/.well-known/genid/c2a3159a97b86f8b5517ced57a53eea4",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20magic%20circle%2C%20by%20John%20William%20Waterhouse.jpg"
+        },
+        {
+            "title": "The Charmer",
+            "artist": "John William Waterhouse",
+            "year": "1911",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%20-%20The%20Charmer.jpg"
+        },
+        {
+            "title": "Echo - Study for the head for Echo and Narcissus.",
+            "artist": "John William Waterhouse",
+            "year": "1903",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%20echo%20study.jpg"
+        },
+        {
+            "title": "Hamadryad",
+            "artist": "John William Waterhouse",
+            "year": "1893",
+            "museum": "The Box",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20A%20Hamadryad%20%281895%29.jpg"
+        },
+        {
+            "title": "Gathering Almond Blossoms",
+            "artist": "John William Waterhouse",
+            "year": "1916",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20Gathering%20Almond%20Blossoms%20%281916%29.jpg"
+        },
+        {
+            "title": "Gathering Summer Flowers in a Devonshire Garden",
+            "artist": "John William Waterhouse",
+            "year": "1893",
+            "museum": "http://www.wikidata.org/.well-known/genid/66e289e9d5defcb3a1ea6b5444f13865",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20Gathering%20Summer%20Flowers%20in%20a%20Devonshire%20Garden%20%281893%29.jpg"
+        },
+        {
+            "title": "Miss Betty Pollock",
+            "artist": "John William Waterhouse",
+            "year": "1911",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20Miss%20Betty%20Pollock%20%281911%29.jpg"
+        },
+        {
+            "title": "Narcissus",
+            "artist": "John William Waterhouse",
+            "year": "1912",
+            "museum": "http://www.wikidata.org/.well-known/genid/b57ff5601ccc73dc9923d7c99467ac8e",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20Narcissus%20%281912%29.jpg"
+        },
+        {
+            "title": "Mrs. Charles Schreiber",
+            "artist": "John William Waterhouse",
+            "year": "1912",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20Portrait%20of%20Mrs.%20Charles%20Schreiber%20%281912%29.jpg"
+        },
+        {
+            "title": "Sweet Summer",
+            "artist": "John William Waterhouse",
+            "year": "1912",
+            "museum": "http://www.wikidata.org/.well-known/genid/7c0c9e030c9321b19c9c9caf0e6c0cc4",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20Sweet%20Summer%20%281912%29.jpg"
+        },
+        {
+            "title": "The Flower Picker",
+            "artist": "John William Waterhouse",
+            "year": "1900",
+            "museum": "http://www.wikidata.org/.well-known/genid/692bffc89e8523fab0d0f5f82f19df02",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20The%20Flower%20Picker%20%281900%29.jpg"
+        },
+        {
+            "title": "The Rose Bower",
+            "artist": "John William Waterhouse",
+            "year": "1910",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20The%20Rose%20Bower%20%281910%29.jpg"
+        },
+        {
+            "title": "Flora and the Zephyrs",
+            "artist": "John William Waterhouse",
+            "year": "1898",
+            "museum": "http://www.wikidata.org/.well-known/genid/1e4d493c5a1598f9203360968d9ac40e",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20John%20William%20-%20Flora%20and%20the%20Zephyrs%20-%201898.jpg"
+        },
+        {
+            "title": "Saint Cecilia",
+            "artist": "John William Waterhouse",
+            "year": "1895",
+            "museum": "http://www.wikidata.org/.well-known/genid/e17dd1cff966b7f1d9380c6c3b3d2e0a",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20John%20William%20-%20Saint%20Cecilia%20-%201895.jpg"
+        },
+        {
+            "title": "The Lady of Shalott looking at Lancelot",
+            "artist": "John William Waterhouse",
+            "year": "1894",
+            "museum": "Leeds Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lady%20of%20Shalott%20Looking%20at%20Lancelot.jpg"
+        },
+        {
+            "title": "Day Dreams",
+            "artist": "John William Waterhouse",
+            "year": "1879",
+            "museum": "http://www.wikidata.org/.well-known/genid/2baa2a799147fd3960d5cb59d13fd5ca",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Day%20Dreams.jpg"
+        },
+        {
+            "title": "Phyllis and Demophoon",
+            "artist": "John William Waterhouse",
+            "year": "1905",
+            "museum": "http://www.wikidata.org/.well-known/genid/d5b736fe83b30da5fd770cf44af8b7d5",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Phyllis%20and%20Demophoon%2C%201897.jpg"
+        },
+        {
+            "title": "Study in Oils",
+            "artist": "John William Waterhouse",
+            "year": "1917",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20in%20Oils%2C%20by%20John%20William%20Waterhouse%2C%20R.%20A..jpg"
+        },
+        {
+            "title": "A Grecian Flower Market",
+            "artist": "John William Waterhouse",
+            "year": "1880",
+            "museum": "Laing Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20%281849-1917%29%20-%20A%20Grecian%20Flower%20Market%20-%20TWCMS%20%2C%20B8122%20-%20Laing%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Destiny",
+            "artist": "John William Waterhouse",
+            "year": "1900",
+            "museum": "Towneley Hall Art Gallery And Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20%281849-1917%29%20-%20Destiny%20-%20BURGM-paoil17%20-%20Towneley%20Hall%20Art%20Gallery%20And%20Museum.jpg"
+        },
+        {
+            "title": "Psyche Entering Cupid's Garden",
+            "artist": "John William Waterhouse",
+            "year": "1903",
+            "museum": "Harris Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20%281849-1917%29%20-%20Psyche%20Entering%20Cupid%27s%20Garden%20-%20PRSMG%20%2C%20P773%20-%20Harris%20Museum.jpg"
+        },
+        {
+            "title": "The Unwelcome Companion",
+            "artist": "John William Waterhouse",
+            "year": "1872",
+            "museum": "Towneley Hall Art Gallery And Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20%281849-1917%29%20-%20The%20Unwelcome%20Companion%20-%20BURGM-paoil166%20-%20Towneley%20Hall%20Art%20Gallery%20And%20Museum.jpg"
+        },
+        {
+            "title": "A Neapolitan flax spinner",
+            "artist": "John William Waterhouse",
+            "year": "1877",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Neapolitan%20flax%20spinner%20%281877%29%20-%20John%20William%20Waterhouse.jpg"
+        },
+        {
+            "title": "Circe Offering the Cup to Ulysses",
+            "artist": "John William Waterhouse",
+            "year": "1891",
+            "museum": "Gallery Oldham",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Circe%20Offering%20the%20Cup%20to%20Odysseus%20%282457%20x%204023px%20ed.%29.jpg"
+        },
+        {
+            "title": "A Mermaid",
+            "artist": "John William Waterhouse",
+            "year": "1900",
+            "museum": "Royal Academy of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20MermaidFXD.jpg"
+        },
+        {
+            "title": "Gather Ye Rosebuds While Ye May",
+            "artist": "John William Waterhouse",
+            "year": "1908",
+            "museum": "http://www.wikidata.org/.well-known/genid/71b1312eacc21c5cd7ec0258263d5f98",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gather%20Ye%20Rosebuds%20While%20Ye%20May.jpg"
+        },
+        {
+            "title": "Gather Ye Rosebuds While Ye May",
+            "artist": "John William Waterhouse",
+            "year": "1909",
+            "museum": "http://www.wikidata.org/.well-known/genid/2c60470e9d325253e50b73ab3404c9d9",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse-gather%20ye%20rosebuds-1909.jpg"
+        },
+        {
+            "title": "Destiny",
+            "artist": "John William Waterhouse",
+            "year": "1900",
+            "museum": "Towneley Hall Art Gallery and Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20william%20waterhouse%20destiny.jpg"
+        },
+        {
+            "title": "Boreas",
+            "artist": "John William Waterhouse",
+            "year": "1903",
+            "museum": "http://www.wikidata.org/.well-known/genid/8eea894fa9df85821b2712389870fffc",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Boreas%20%281903%29.jpg"
+        },
+        {
+            "title": "Circe Invidiosa",
+            "artist": "John William Waterhouse",
+            "year": "1892",
+            "museum": "Art Gallery of South Australia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20W.%20Waterhouse%20-%20Circe%20Invidiosa%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Consulting the Oracle",
+            "artist": "John William Waterhouse",
+            "year": "1884",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Consulting%20the%20Oracle%20-%20Tate%20Britain.jpg"
+        },
+        {
+            "title": "Consulting the Oracle",
+            "artist": "John William Waterhouse",
+            "year": "1884",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Consulting%20the%20Oracle%20-%20Tate%20Britain.jpg"
+        },
+        {
+            "title": "Echo and Narcissus",
+            "artist": "John William Waterhouse",
+            "year": "1903",
+            "museum": "Walker Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Echo%20and%20Narcissus%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Ulysses and the Sirens",
+            "artist": "John William Waterhouse",
+            "year": "1891",
+            "museum": "National Gallery of Victoria",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/WATERHOUSE%20-%20Ulises%20y%20las%20Sirenas%20%28National%20Gallery%20of%20Victoria%2C%20Melbourne%2C%201891.%20%C3%93leo%20sobre%20lienzo%2C%20100.6%20x%20202%20cm%29.jpg"
+        },
+        {
+            "title": "Pandora",
+            "artist": "John William Waterhouse",
+            "year": "1896",
+            "museum": "http://www.wikidata.org/.well-known/genid/0fc9420caad987434c2a8983ac888e9d",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pandora%20-%20John%20William%20Waterhouse.jpg"
+        },
+        {
+            "title": "Jason and Medea",
+            "artist": "John William Waterhouse",
+            "year": "1907",
+            "museum": "http://www.wikidata.org/.well-known/genid/04cd0b91e3b6bd4485d19ae472aa6dfc",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jason%20and%20Medea%20-%20John%20William%20Waterhouse.jpg"
+        },
+        {
+            "title": "Saint Eulalia",
+            "artist": "John William Waterhouse",
+            "year": "1885",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Saint%20Eulalia%20-%201885.jpg"
+        },
+        {
+            "title": "Saint Eulalia",
+            "artist": "John William Waterhouse",
+            "year": "1885",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Saint%20Eulalia%20-%201885.jpg"
+        },
+        {
+            "title": "Sleep and his Half-brother Death",
+            "artist": "John William Waterhouse",
+            "year": "1874",
+            "museum": "http://www.wikidata.org/.well-known/genid/52a0fcabc29cfe5bcea8b58ff653e831",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse-sleep%20and%20his%20half-brother%20death-1874.jpg"
+        },
+        {
+            "title": "The Crystal Ball",
+            "artist": "John William Waterhouse",
+            "year": "1902",
+            "museum": "http://www.wikidata.org/.well-known/genid/a230e5ded16e1243cb8037febe5fcd26",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20The%20Crystal%20Ball.JPG"
+        },
+        {
+            "title": "The Favourites of the Emperor Honorius",
+            "artist": "John William Waterhouse",
+            "year": "1883",
+            "museum": "Art Gallery of South Australia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20The%20Favorites%20of%20the%20Emperor%20Honorius%20-%201883.jpg"
+        },
+        {
+            "title": "The Magic Circle",
+            "artist": "John William Waterhouse",
+            "year": "1886",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Magic%20Circle.JPG"
+        },
+        {
+            "title": "The Magic Circle",
+            "artist": "John William Waterhouse",
+            "year": "1886",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Magic%20Circle.JPG"
+        },
+        {
+            "title": "The Siren",
+            "artist": "John William Waterhouse",
+            "year": "1900",
+            "museum": "http://www.wikidata.org/.well-known/genid/b67332ec9eb13e3dfda03ae726a98534",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Siren%20by%20John%20William%20Waterhouse%20%281900%29.jpg"
+        },
+        {
+            "title": "The Sorceress",
+            "artist": "John William Waterhouse",
+            "year": "1911",
+            "museum": "http://www.wikidata.org/.well-known/genid/1e7526ae713b8584283787366e6ce1fc",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Sketch%20of%20Circe%2C%201911-1914.jpg"
+        },
+        {
+            "title": "The Unwelcome Companion: A Street Scene in Cairo",
+            "artist": "John William Waterhouse",
+            "year": "1872",
+            "museum": "Towneley Hall Art Gallery and Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse-%20The%20Unwelcome%20Companion%20-%20a%20Street%20Scene%20in%20Cairo.JPG"
+        },
+        {
+            "title": "Hylas and the Nymphs",
+            "artist": "John William Waterhouse",
+            "year": "1896",
+            "museum": "Manchester Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%20Hylas%20and%20the%20Nymphs%20Manchester%20Art%20Gallery%201896.15.jpg"
+        },
+        {
+            "title": "Cleopatra",
+            "artist": "John William Waterhouse",
+            "year": "1888",
+            "museum": "http://www.wikidata.org/.well-known/genid/094c7062b57689c1b114d7025de674e2",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cleopatra%20-%20John%20William%20Waterhouse.jpg"
+        },
+        {
+            "title": "A Tale from the Decameron",
+            "artist": "John William Waterhouse",
+            "year": "1916",
+            "museum": "Lady Lever Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1916-a-tale-from-the-decameron-.jpg"
+        },
+        {
+            "title": "Diogenes",
+            "artist": "John William Waterhouse",
+            "year": "1882",
+            "museum": "Art Gallery of New South Wales",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Waterhouse%20-%20Diogenes%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Enchanted Garden",
+            "artist": "John William Waterhouse",
+            "year": "1916",
+            "museum": "Lady Lever Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Enchanted%20garden%20waterhouse.jpg"
+        },
+        {
+            "title": "Windflowers",
+            "artist": "John William Waterhouse",
+            "year": "1903",
+            "museum": "http://www.wikidata.org/.well-known/genid/654b48704b71bd3bb9728ec6a9a83daa",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Windswept%20by%20John%20William%20Waterhouse.jpg"
+        },
+        {
+            "title": "Lamia",
+            "artist": "John William Waterhouse",
+            "year": "1905",
+            "museum": "Auckland Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Waterhouse%20-%20Lamia%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Study for Decameron",
+            "artist": "John William Waterhouse",
+            "year": "1916",
+            "museum": "http://www.wikidata.org/.well-known/genid/d59f3fb73fc1a5013371eacdb5e7ad39",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Decameron%20study.jpg"
+        },
+        {
+            "title": "Fair Rosamund",
+            "artist": "John William Waterhouse",
+            "year": "1916",
+            "museum": "http://www.wikidata.org/.well-known/genid/6c4918c059e577df3e49bcd5ba281318",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Fair%20Rosamund.jpg"
+        },
+        {
+            "title": "Head study for 'The Enchanted Garden'",
+            "artist": "John William Waterhouse",
+            "year": "1916",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Head%20study%20for%20%27The%20Enchanted%20Garden%27%20%281916%29.jpg"
+        },
+        {
+            "title": "Juliet",
+            "artist": "John William Waterhouse",
+            "year": "1898",
+            "museum": "http://www.wikidata.org/.well-known/genid/61c92a12733a78323724e3cfc6ee08c2",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Juliet.jpg"
+        },
+        {
+            "title": "Mariana in the South",
+            "artist": "John William Waterhouse",
+            "year": "1897",
+            "museum": "Leighton House",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Mariana%20in%20the%20South%20%281897%29.jpg"
+        },
+        {
+            "title": "Mariana in the South",
+            "artist": "John William Waterhouse",
+            "year": "1897",
+            "museum": "http://www.wikidata.org/.well-known/genid/3a9a8c954713466feaf140c45de254a9",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Mariana%20in%20the%20South%20%281897%29.jpg"
+        },
+        {
+            "title": "Study for Mariana in the South",
+            "artist": "John William Waterhouse",
+            "year": "1897",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Mariana%20in%20the%20South%20%28study%29.jpg"
+        },
+        {
+            "title": "The Missal",
+            "artist": "John William Waterhouse",
+            "year": "1902",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20The%20Missal.JPG"
+        },
+        {
+            "title": "Fair Rosamund",
+            "artist": "John William Waterhouse",
+            "year": "1916",
+            "museum": "Amgueddfa Cymru \u2013 Museum Wales",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20william%20waterhouse%20fair%20rosamund.jpg"
+        },
+        {
+            "title": "Tristan and Isolde with the Potion",
+            "artist": "John William Waterhouse",
+            "year": "1916",
+            "museum": "Art Renewal Center",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20william%20waterhouse%20tristan%20and%20isolde%20with%20the%20potion.jpg"
+        },
+        {
+            "title": "Miranda",
+            "artist": "John William Waterhouse",
+            "year": "1916",
+            "museum": "http://www.wikidata.org/.well-known/genid/788b1e09e3035ffbe3cd8edbc8e32f00",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse-Miranda-The-Tempest.jpg"
+        },
+        {
+            "title": "Miranda",
+            "artist": "John William Waterhouse",
+            "year": "1916",
+            "museum": "http://www.wikidata.org/.well-known/genid/38656f600af273c568aa85c2e20e4c3b",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Miranda%20-%20The%20Tempest%20JWW.jpg"
+        },
+        {
+            "title": "The Slave",
+            "artist": "John William Waterhouse",
+            "year": "1872",
+            "museum": "http://www.wikidata.org/.well-known/genid/2c764282d985fc6c2bb83843ac03d794",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20william%20waterhouse%20the%20slave.jpg"
+        },
+        {
+            "title": "Consulting the Oracle",
+            "artist": "John William Waterhouse",
+            "year": "1884",
+            "museum": "http://www.wikidata.org/.well-known/genid/5df81ad4cb6d04f9f1686dd440f3dad7",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Consulting%20the%20Oracle%20-%20Christie%27s.jpg"
+        },
+        {
+            "title": "A Naiad",
+            "artist": "John William Waterhouse",
+            "year": "1893",
+            "museum": "http://www.wikidata.org/.well-known/genid/d9c854877103337ddf8ffae58d337790",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Naiad%20or%20Hylas%20with%20a%20Nymph%20by%20John%20William%20Waterhouse%20%281893%29.jpg"
+        },
+        {
+            "title": "A Roman Offering",
+            "artist": "John William Waterhouse",
+            "year": "1890",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Roman%20Offering%20-%20JWW.jpg"
+        },
+        {
+            "title": "Apollo and Daphne",
+            "artist": "John William Waterhouse",
+            "year": "1908",
+            "museum": "http://www.wikidata.org/.well-known/genid/d642db7edca8c3b5395292c0c0c3a1fa",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%20and%20Daphne%20waterhouse.jpg"
+        },
+        {
+            "title": "The Danaides",
+            "artist": "John William Waterhouse",
+            "year": "1906",
+            "museum": "Aberdeen Archives, Gallery and Museums collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Danaides%20Waterhouse%201906.jpg"
+        },
+        {
+            "title": "The Danaides",
+            "artist": "John William Waterhouse",
+            "year": "1906",
+            "museum": "Aberdeen Archives, Gallery and Museums collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Danaides%20by%20John%20William%20Waterhouse%20-%20John%20William%20Waterhouse%20-%20ABDAG003402.jpg"
+        },
+        {
+            "title": "The Danaides",
+            "artist": "John William Waterhouse",
+            "year": "1903",
+            "museum": "http://www.wikidata.org/.well-known/genid/1b8cf7b621a59b98f20d232bc1026308",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Danaides%20by%20John%20William%20Waterhouse%2C%201903.jpg"
+        },
+        {
+            "title": "Gone, But Not Forgotten",
+            "artist": "John William Waterhouse",
+            "year": "1873",
+            "museum": "http://www.wikidata.org/.well-known/genid/68e380bbf31317a085fa5482f96b38fe",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gone%20But%20Not%20Forgotten%20-%20John%20William%20Waterhouse.jpg"
+        },
+        {
+            "title": "Sketch for Gather Ye Rosebuds",
+            "artist": "John William Waterhouse",
+            "year": "1908",
+            "museum": "http://www.wikidata.org/.well-known/genid/e31944bea599f54b4eaa4b5c1928e840",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20%27Gather%20Ye%20Rosebuds%2C%27%20or%2C%20%27Ophelia%27.JPG"
+        },
+        {
+            "title": "Sketch for A Mermaid",
+            "artist": "John William Waterhouse",
+            "year": "1892",
+            "museum": "http://www.wikidata.org/.well-known/genid/3ee9a7ed2163864aff4559300e4eaa81",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20A%20Mermaid%20%281892%20sketch%29.jpg"
+        },
+        {
+            "title": "Sketch for A Mermaid",
+            "artist": "John William Waterhouse",
+            "year": "1892",
+            "museum": "http://www.wikidata.org/.well-known/genid/76abe920b16b1028158b1782ffcdd0a6",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20A%20Mermaid%20%28sketch%29.jpg"
+        },
+        {
+            "title": "A Song of Springtime",
+            "artist": "John William Waterhouse",
+            "year": "1913",
+            "museum": "http://www.wikidata.org/.well-known/genid/7f21ccd799d69455932d67da4067f672",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20A%20Song%20of%20Springtime.jpg"
+        },
+        {
+            "title": "Circe",
+            "artist": "John William Waterhouse",
+            "year": "1911",
+            "museum": "http://www.wikidata.org/.well-known/genid/95303ccda3a3eafb74d7f05adbe22aae",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Circe%2C%201911.jpg"
+        },
+        {
+            "title": "Study for Dante and Matilda",
+            "artist": "John William Waterhouse",
+            "year": "1914",
+            "museum": "Dahesh Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Dante%20and%20Matilda.jpg"
+        },
+        {
+            "title": "Dolce Far Niente",
+            "artist": "John William Waterhouse",
+            "year": "1879",
+            "museum": "http://www.wikidata.org/.well-known/genid/a298e65a8335289e71935db5a290edc1",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Dolce%20Far%20Niente%20%281879%29.jpg"
+        }
     ]
 }
