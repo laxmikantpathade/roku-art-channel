@@ -1464,18 +1464,18 @@
             "description": "Cascades is a painting by Edward Mitchell Bannister created in 1876. The work depicts two African-American men and women relaxing on the banks of a waterfall. As one of the first paintings by an African-American artist to gain widespread recognition, Cascades showcases Bannister's skill with light and color, as well as his ability to capture the beauty and dignity of African-American life during the post-Civil War era in America."
         },
         {
+            "title": "The Golden Age by Rachel Ruysch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_225.jpg",
+            "year": "1665",
+            "museum": "Rijksmuseum Amsterdam",
+            "description": "In The Golden Age, a serene still life of flowers in a vase, Ruysch celebrates the elegance and simplicity of Dutch domesticity. Painted for the wealthy merchant Pieter Claesz., this work showcases her mastery of light and color, inviting the viewer into a world of tranquility and refinement."
+        },
+        {
             "title": "Hokusai Manga by Hasegawa Tōhaku",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_226.jpg",
             "year": "1799",
             "museum": "Musee d'Orsay",
             "description": "This iconic woodblock print is one of the most recognizable images in Japanese art. Created by Hasegawa Tōhaku, it showcases a majestic Mount Fuji under a swirling stormy sky. First published in 1814, this work became synonymous with the artist's style and captivated audiences worldwide. Hokusai Manga exemplifies the artistic fusion of traditional Japanese aesthetics with Western influences, reflecting the era's fascination with the unknown and the sublime."
-        },
-        {
-            "title": "Portrait of a Peasant Woman by Ivan Shishkin",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_227.jpg",
-            "year": "1889",
-            "museum": "The Tretyakov Gallery",
-            "description": "In 1889, Ivan Shishkin created Portrait of a Peasant Woman, a captivating portrait of a Russian peasant woman. The painting is characteristic of Shishkin's rural landscape style and showcases his ability to capture the essence of everyday life in Russia during the late 19th century. With its bold brushstrokes and vivid colors, the painting transports viewers to the rolling hills and rustic villages of rural Russia, evoking a sense of nostalgia and longing for a simpler way of life."
         },
         {
             "title": "Peach Garden by Shen Zhou",
@@ -2995,6 +2995,34 @@
             "year": "1904",
             "museum": "Museum of Fine Arts Boston",
             "description": "This portrait captures the coronation of King Edward VII in 1902, showcasing the social hierarchy and pageantry of the occasion. Charles Stewart, the Sixth Marquess of Londonderry, is depicted carrying the Great Sword of State, while his page, Mr. W.C. Beaumont, looks on. Sargent's masterful use of light and color conveys a sense of elegance and tradition, offering a unique glimpse into early 20th-century British society."
+        },
+        {
+            "title": "Maharaja Balwant Singh hunts a tiger by Nainsukh",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_430.jpg",
+            "year": "1750",
+            "museum": "Metropolitan Museum of Art",
+            "description": "A masterpiece of Mughal painting, Maharaja Balwant Singh hunts a tiger (1750) is a stunning example of Nainsukh's artistic skill and cultural significance. Commissioned by Maharaja Balwant Singh of Patiala, the painting showcases the ruler's expertise in falconry and hunting. The work's intricate details and majestic composition reflect the Mughal Empire's rich cultural heritage, blending Indian, Persian, and European influences. A rare example of 18th-century Indian art, it offers a unique window into the lives of India's royal elite during the reign of the Sikh Empire."
+        },
+        {
+            "title": "Waterlilies by Claude Monet",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_431.jpg",
+            "year": "1906",
+            "museum": "Ohara Museum of Art",
+            "description": "Waterlilies is one of the most iconic and enduring paintings by Claude Monet, capturing the artist's fascination with the Japanese ukiyo-e style and his ability to transform a mundane subject into an immersive experience. Created in 1906, the painting showcases the artist's innovative use of color and light, as well as his pioneering work in the Impressionist movement. The piece is renowned for its captivating depiction of Monet's famous garden pond at Giverny, filled with waterlilies and reflecting the surrounding landscape."
+        },
+        {
+            "title": "Family Portrait: The Artist's Daughter, Tatyana, and her familiy\" by Ilya Repin",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_432.jpg",
+            "year": "1905",
+            "museum": "http://www.wikidata.org/.well-known/genid/5845976d78dee2d762a7cb7fd6707734",
+            "description": "Ilya Repin's 'Family Portrait: The Artist's Daughter, Tatyana' (1905) is a seminal work showcasing the artist's skillful use of light and shadow to capture the intimacy of his family. Tatyana, Repin's daughter, sits at the center, surrounded by her parents and siblings, exuding warmth and contentment. A masterpiece of Russian Realism, this portrait highlights the artist's contributions to the development of the genre, while also offering a glimpse into the personal life of one of Russia's most celebrated artists."
+        },
+        {
+            "title": "Geumgang jeondo by Jeong Seon",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_433.jpg",
+            "year": "1734",
+            "museum": "Leeum, Samsung Museum of Art",
+            "description": "Geumgang jeondo is a Korean landscape painting by Jeong Seon, created in 1734. Considered one of the Four Great Masters of Korea, Jeong Seon's work showcases the harmony between nature and human life during the reign of King Yeongjo. The painting features a serene landscape with rolling hills, mountains, and a river, capturing the essence of Korean Neo-Confucianism. Its significance extends beyond Korea, offering insights into East Asian art and culture, particularly in the realm of landscape painting."
         }
     ]
 }

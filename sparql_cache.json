@@ -899,13 +899,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Water-Lily%20Pond%20-%20Google%20Arts%20%26%20Culture.jpg"
         },
         {
-            "title": "Waterlilies",
-            "artist": "Claude Monet",
-            "year": "1906",
-            "museum": "Ohara Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Waterlilies%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Waterloo Bridge, Sunlight Effect",
             "artist": "Claude Monet",
             "year": "1903",
@@ -10531,13 +10524,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Balwant%20Singh%20of%20Jasrota%20examining%20a%20painting%20with%20Nainsukh.jpg"
         },
         {
-            "title": "Raja Balwant Singh (1724-63) of Jammu holding a hawk",
-            "artist": "Nainsukh",
-            "year": "1746",
-            "museum": "National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Balwant%20Singh%20%281724-63%29%20of%20Jammu%20holding%20a%20hawk.jpg"
-        },
-        {
             "title": "Balawant Singh inside the palace",
             "artist": "Nainsukh",
             "year": "1740",
@@ -14153,13 +14139,6 @@
             "year": "1914",
             "museum": "Fine Arts Museum Kharkiv",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Schepkina-Kupernik%20by%20Repin.jpg"
-        },
-        {
-            "title": "Family Portrait: The Artist's Daughter, Tatyana, and her familiy\"",
-            "artist": "Ilya Repin",
-            "year": "1905",
-            "museum": "http://www.wikidata.org/.well-known/genid/5845976d78dee2d762a7cb7fd6707734",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilya%20Efimovich%20Repin%20Family%20Portrait%201905.jpg"
         },
         {
             "title": "Portrait of Sofya Dragomirova",
@@ -23189,15 +23168,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Siberian%20Crane%20Mughal%20Painting.jpg"
         }
     ],
-    "Jeong Seon": [
-        {
-            "title": "Geumgang jeondo",
-            "artist": "Jeong Seon",
-            "year": "1734",
-            "museum": "Leeum, Samsung Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeong%20Seon-Geumgangjeondo.jpg"
-        }
-    ],
+    "Jeong Seon": [],
     "Utagawa Hiroshige": [
         {
             "title": "Lake Suwa",
@@ -23299,5 +23270,693 @@
         }
     ],
     "Kim Hong-do": [],
-    "Bishandas": []
+    "Bishandas": [],
+    "J.M.W. Turner": [
+        {
+            "title": "Cliveden on Thames",
+            "artist": "J.M.W. Turner",
+            "year": "1807",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Cliveden%20on%20Thames%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Cliveden on Thames",
+            "artist": "J.M.W. Turner",
+            "year": "1807",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Cliveden%20on%20Thames%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Thames above Waterloo Bridge",
+            "artist": "J.M.W. Turner",
+            "year": "1830",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Thames%20above%20Waterloo%20Bridge%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Thames above Waterloo Bridge",
+            "artist": "J.M.W. Turner",
+            "year": "1830",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Thames%20above%20Waterloo%20Bridge%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Trees beside the River, with Bridge in the Middle Distance",
+            "artist": "J.M.W. Turner",
+            "year": "1806",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Trees%20beside%20the%20River%2C%20with%20Bridge%20in%20the%20Middle%20Distance%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Trees beside the River, with Bridge in the Middle Distance",
+            "artist": "J.M.W. Turner",
+            "year": "1806",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Trees%20beside%20the%20River%2C%20with%20Bridge%20in%20the%20Middle%20Distance%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Shipping at the Mouth of the Thames",
+            "artist": "J.M.W. Turner",
+            "year": "1806",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Shipping%20at%20the%20Mouth%20of%20the%20Thames%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Shipping at the Mouth of the Thames",
+            "artist": "J.M.W. Turner",
+            "year": "1806",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Shipping%20at%20the%20Mouth%20of%20the%20Thames%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Walton Reach",
+            "artist": "J.M.W. Turner",
+            "year": "1805",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Walton%20Reach%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Walton Reach",
+            "artist": "J.M.W. Turner",
+            "year": "1805",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Walton%20Reach%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Thames near Walton Bridges",
+            "artist": "J.M.W. Turner",
+            "year": "1805",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Thames%20near%20Walton%20Bridges%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Thames near Walton Bridges",
+            "artist": "J.M.W. Turner",
+            "year": "1805",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Thames%20near%20Walton%20Bridges%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Dogano, San Giorgio, Citella, from the Steps of the Europa",
+            "artist": "J.M.W. Turner",
+            "year": "1842",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Dogano%2C%20San%20Giorgio%2C%20Citella%2C%20from%20the%20Steps%20of%20the%20Europa%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Dogano, San Giorgio, Citella, from the Steps of the Europa",
+            "artist": "J.M.W. Turner",
+            "year": "1842",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Dogano%2C%20San%20Giorgio%2C%20Citella%2C%20from%20the%20Steps%20of%20the%20Europa%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Forum Romanum, for Mr Soane's Museum",
+            "artist": "J.M.W. Turner",
+            "year": "1826",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Forum%20Romanum%2C%20for%20Mr%20Soane%27s%20Museum%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Bay of Baiae, with Apollo and the Sibyl",
+            "artist": "J.M.W. Turner",
+            "year": "1823",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Bay%20of%20Baiae%2C%20with%20Apollo%20and%20the%20Sibyl%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Bay of Baiae, with Apollo and the Sibyl",
+            "artist": "J.M.W. Turner",
+            "year": "1823",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Bay%20of%20Baiae%2C%20with%20Apollo%20and%20the%20Sibyl%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Caligula's Palace and Bridge",
+            "artist": "J.M.W. Turner",
+            "year": "1831",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Caligula%27s%20Palace%20and%20Bridge%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Caligula's Palace and Bridge",
+            "artist": "J.M.W. Turner",
+            "year": "1831",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Caligula%27s%20Palace%20and%20Bridge%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Venice, the Bridge of Sighs",
+            "artist": "J.M.W. Turner",
+            "year": "1840",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Venice%2C%20the%20Bridge%20of%20Sighs%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Venice, the Bridge of Sighs",
+            "artist": "J.M.W. Turner",
+            "year": "1840",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Venice%2C%20the%20Bridge%20of%20Sighs%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Sun of Venice Going to Sea",
+            "artist": "J.M.W. Turner",
+            "year": "1843",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Sun%20of%20Venice%20Going%20to%20Sea%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Sun of Venice Going to Sea",
+            "artist": "J.M.W. Turner",
+            "year": "1843",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Sun%20of%20Venice%20Going%20to%20Sea%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Ponte Delle Torri, Spoleto",
+            "artist": "J.M.W. Turner",
+            "year": "1840",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20The%20Ponte%20Delle%20Torri%20-%20Spoleto%20C.1840-5%20-%20William%20Turner%20-%20Tate%20Britain.jpg"
+        },
+        {
+            "title": "The Ponte Delle Torri, Spoleto",
+            "artist": "J.M.W. Turner",
+            "year": "1840",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20The%20Ponte%20Delle%20Torri%20-%20Spoleto%20C.1840-5%20-%20William%20Turner%20-%20Tate%20Britain.jpg"
+        },
+        {
+            "title": "Italian Landscape with Bridge and Tower",
+            "artist": "J.M.W. Turner",
+            "year": "1827",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Italian%20Landscape%20with%20Bridge%20and%20Tower%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Italian Landscape with Bridge and Tower",
+            "artist": "J.M.W. Turner",
+            "year": "1827",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Italian%20Landscape%20with%20Bridge%20and%20Tower%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Tivoli, the Cascatelle",
+            "artist": "J.M.W. Turner",
+            "year": "1827",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Tivoli%2C%20the%20Cascatelle%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Tivoli, the Cascatelle",
+            "artist": "J.M.W. Turner",
+            "year": "1827",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Tivoli%2C%20the%20Cascatelle%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Venice with the Salute",
+            "artist": "J.M.W. Turner",
+            "year": "1840",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Venice%20with%20the%20Salute%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Venice with the Salute",
+            "artist": "J.M.W. Turner",
+            "year": "1840",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Venice%20with%20the%20Salute%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Landscape with Water",
+            "artist": "J.M.W. Turner",
+            "year": "1840",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Landscape%20with%20Water%20-%20c.1840-5%20-%20William%20Turner%20-%20Tate%20Britain.jpg"
+        },
+        {
+            "title": "Landscape with Water",
+            "artist": "J.M.W. Turner",
+            "year": "1840",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Landscape%20with%20Water%20-%20c.1840-5%20-%20William%20Turner%20-%20Tate%20Britain.jpg"
+        },
+        {
+            "title": "The Harbor of Dieppe",
+            "artist": "J.M.W. Turner",
+            "year": "1825",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Harbor%20of%20Dieppe%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Raby Castle, the Seat of the Earl of Darlington",
+            "artist": "J.M.W. Turner",
+            "year": "1817",
+            "museum": "Walters Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Raby%20Castle%2C%20the%20Seat%20of%20the%20Earl%20of%20Darlington%20-%20Walters%203741.jpg"
+        },
+        {
+            "title": "Cologne: The Arrival of a Packet-Boat: Evening",
+            "artist": "J.M.W. Turner",
+            "year": "1826",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Cologne%2C%20the%20Arrival%20of%20a%20Packet%20Boat%20in%20the%20Evening%20-%20c%201826%20-%20The%20Frick%20Collection.jpg"
+        },
+        {
+            "title": "Cologne: The Arrival of a Packet-Boat: Evening",
+            "artist": "J.M.W. Turner",
+            "year": "1826",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20Cologne%2C%20the%20Arrival%20of%20a%20Packet-Boat%2C%20Evening.jpg"
+        },
+        {
+            "title": "Mortlake Terrace: Early Summer Morning",
+            "artist": "J.M.W. Turner",
+            "year": "1826",
+            "museum": "The Frick Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20Mortlake%20Terrace%20Early%20Summer%20Morning%201826.jpg"
+        },
+        {
+            "title": "Whalers",
+            "artist": "J.M.W. Turner",
+            "year": "1845",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Whalers%20MET%20DP169567.jpg"
+        },
+        {
+            "title": "Saltash with the Water Ferry, Cornwall",
+            "artist": "J.M.W. Turner",
+            "year": "1811",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saltash%20with%20the%20Water%20Ferry%2C%20Cornwall%20MET%20DP169566.jpg"
+        },
+        {
+            "title": "The Campo Santo",
+            "artist": "J.M.W. Turner",
+            "year": "1842",
+            "museum": "Toledo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Campo%20Santo%20-%20WGA23179.jpg"
+        },
+        {
+            "title": "Venice - The Dogana and San Giorgio Maggiore",
+            "artist": "J.M.W. Turner",
+            "year": "1834",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Venice-The%20Dogana%20and%20San%20Giorgio%20Maggiore.jpg"
+        },
+        {
+            "title": "Going to the Ball (San Martino)",
+            "artist": "J.M.W. Turner",
+            "year": "1846",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Going%20to%20the%20Ball%20%28San%20Martino%29%20-%20William%20Turner%20-%20Tate%20Britain.jpg"
+        },
+        {
+            "title": "Going to the Ball (San Martino)",
+            "artist": "J.M.W. Turner",
+            "year": "1846",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Going%20to%20the%20Ball%20%28San%20Martino%29%20-%20William%20Turner%20-%20Tate%20Britain.jpg"
+        },
+        {
+            "title": "Bridge of Sighs, Ducal Palace and Custom House, Venice: Canaletto painting",
+            "artist": "J.M.W. Turner",
+            "year": "1833",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Turner%2C%20Bridge%20of%20Sighs%2C%20Ducal%20Palace%20and%20Custom-House.jpg"
+        },
+        {
+            "title": "Bridge of Sighs, Ducal Palace and Custom House, Venice: Canaletto painting",
+            "artist": "J.M.W. Turner",
+            "year": "1833",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Turner%2C%20Bridge%20of%20Sighs%2C%20Ducal%20Palace%20and%20Custom-House.jpg"
+        },
+        {
+            "title": "Venice, from the Porch of Madonna della Salute",
+            "artist": "J.M.W. Turner",
+            "year": "1835",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%2C%20J.%20M.%20W.%20-%20The%20Grand%20Canal%20-%20Venice.jpg"
+        },
+        {
+            "title": "Van Tromp",
+            "artist": "J.M.W. Turner",
+            "year": "1844",
+            "museum": "J. Paul Getty Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20%28British%20-%20Van%20Tromp%2C%20Going%20About%20to%20Please%20His%20Masters%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Junction of the Thames and the Medway",
+            "artist": "J.M.W. Turner",
+            "year": "1807",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Junction%20of%20the%20Thames%20and%20the%20Medway%20A10955.jpg"
+        },
+        {
+            "title": "Mortlake Terrace",
+            "artist": "J.M.W. Turner",
+            "year": "1827",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mortlake%20Terrace%20A11264.jpg"
+        },
+        {
+            "title": "Mortlake Terrace",
+            "artist": "J.M.W. Turner",
+            "year": "1827",
+            "museum": "Andrew W. Mellon collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mortlake%20Terrace%20A11264.jpg"
+        },
+        {
+            "title": "Rotterdam Ferry-Boat",
+            "artist": "J.M.W. Turner",
+            "year": "1833",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.M.W.%20Turner%20-%20Rotterdam%20Ferry-Boat%20%281833%29.jpg"
+        },
+        {
+            "title": "Rotterdam Ferry-Boat",
+            "artist": "J.M.W. Turner",
+            "year": "1833",
+            "museum": "Andrew W. Mellon collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.M.W.%20Turner%20-%20Rotterdam%20Ferry-Boat%20%281833%29.jpg"
+        },
+        {
+            "title": "Keelmen Heaving in Coals by Moonlight",
+            "artist": "J.M.W. Turner",
+            "year": "1835",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Keelmen%20Heaving%20in%20Coals%20by%20Moonlight%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Rape of Proserpine",
+            "artist": "J.M.W. Turner",
+            "year": "1839",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Rape%20of%20Proserpine%20G-000641-20110523.jpg"
+        },
+        {
+            "title": "The Dogana and Santa Maria della Salute, Venice",
+            "artist": "J.M.W. Turner",
+            "year": "1843",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Dogana%20and%20Santa%20Maria%20della%20Salute%2C%20Venice%20E10742.jpg"
+        },
+        {
+            "title": "The Evening of the Deluge",
+            "artist": "J.M.W. Turner",
+            "year": "1843",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Evening%20of%20the%20Deluge%20A11489.jpg"
+        },
+        {
+            "title": "Approach to Venice",
+            "artist": "J.M.W. Turner",
+            "year": "1844",
+            "museum": "Andrew W. Mellon collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Approach%20to%20Venice%20A11470.jpg"
+        },
+        {
+            "title": "Valley of Aosta: Snowstorm, Avalanche, and Thunderstorm",
+            "artist": "J.M.W. Turner",
+            "year": "1836",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Valley%20of%20Aosta%2C%20Snowstorm%2C%20Avalanche%2C%20and%20Thunderstorm%20-%201947.513%20-%20Art%20Institute%20of%20Chicago.jpg"
+        },
+        {
+            "title": "Fishing Boats with Hucksters Bargaining for Fish",
+            "artist": "J.M.W. Turner",
+            "year": "1837",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Fishing%20Boats%20with%20Hucksters%20Bargaining%20for%20Fish%20-%201922.4472%20-%20Art%20Institute%20of%20Chicago.jpg"
+        },
+        {
+            "title": "Falls of Schaffhausen (Val d\u2019Aosta)",
+            "artist": "J.M.W. Turner",
+            "year": "1845",
+            "museum": "National Gallery of Victoria",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20M.%20W.%20Turner%20-%20A%20mountain%20scene%2C%20Val%20d%27Aosta%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Walton bridges",
+            "artist": "J.M.W. Turner",
+            "year": "1806",
+            "museum": "National Gallery of Victoria",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Walton%20bridges%2C%20c.%201806%2C%20981-3.jpg"
+        },
+        {
+            "title": "Fall of the Rhine at Schaffhausen",
+            "artist": "J.M.W. Turner",
+            "year": "1805",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Fall%20of%20the%20Rhine%20at%20Schaffhausen%20-%2013.2723%20-%20Museum%20of%20Fine%20Arts.jpg"
+        },
+        {
+            "title": "View from the Terrace of a Villa at Niton, Isle of Wight, from Sketches by a Lady",
+            "artist": "J.M.W. Turner",
+            "year": "1826",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20View%20from%20the%20Terrace%20of%20a%20Villa%20at%20Niton%2C%20Isle%20of%20Wight%2C%20from%20Sketches%20by%20a%20Lady%20-%201993.46%20-%20Museum%20of%20Fine%20Arts.jpg"
+        },
+        {
+            "title": "Bonneville, Savoy",
+            "artist": "J.M.W. Turner",
+            "year": "1812",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Bonneville%2C%20Savoy%2C%20c.%201812%2C%20Cat.%20848.jpg"
+        },
+        {
+            "title": "Juliet and her Nurse",
+            "artist": "J.M.W. Turner",
+            "year": "1836",
+            "museum": "AMALITA Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20M.%20W.%20Turner%20-%20Juliet%20and%20her%20Nurse%20%281836%29%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Lake of Geneva from Montreux",
+            "artist": "J.M.W. Turner",
+            "year": "1810",
+            "museum": "Los Angeles County Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20of%20Geneva%20from%20Montreux%20LACMA%2054.113.3.jpg"
+        },
+        {
+            "title": "Seascape: Folkestone",
+            "artist": "J.M.W. Turner",
+            "year": "1845",
+            "museum": "http://www.wikidata.org/.well-known/genid/1921faf8cb2204289ac9a65363543f5d",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20M.%20W.%20Turner%20-%20Seascape%2C%20Folkestone%20%28c.%201845%29.jpg"
+        },
+        {
+            "title": "High Street, Oxford",
+            "artist": "J.M.W. Turner",
+            "year": "1810",
+            "museum": "Ashmolean Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/High%20Street%2C%20Oxford%20%28painting%29%2C%20by%20Turner%20%281810%29%20crop.jpg"
+        },
+        {
+            "title": "Landscape",
+            "artist": "J.M.W. Turner",
+            "year": "1850",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Landscape%2C%20%D0%93%D0%AD-7011.jpg"
+        },
+        {
+            "title": "Dort, or Dordrecht: The Dort packet-boat from Rotterdam becalmed",
+            "artist": "J.M.W. Turner",
+            "year": "1818",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Dort%20or%20Dordrecht-%20The%20Dort%20Packet-Boat%20from%20Rotterdam%20Becalmed%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Port Ruysdael",
+            "artist": "J.M.W. Turner",
+            "year": "1827",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Port%20Rusdael.jpg"
+        },
+        {
+            "title": "Dolbadarn Castle",
+            "artist": "J.M.W. Turner",
+            "year": "1800",
+            "museum": "National Library of Wales",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.M.W.%20Turner%20-%20Dolbadarn%20Castle%20-%20Study%20for%20Diploma%20Picture.jpg"
+        },
+        {
+            "title": "Dolbadarn Castle",
+            "artist": "J.M.W. Turner",
+            "year": "1800",
+            "museum": "National Library of Wales Framed works of art collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.M.W.%20Turner%20-%20Dolbadarn%20Castle%20-%20Study%20for%20Diploma%20Picture.jpg"
+        },
+        {
+            "title": "Stormy Sea Breaking on a Shore",
+            "artist": "J.M.W. Turner",
+            "year": "1840",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Stormy%20Sea%20Breaking%20on%20a%20Shore%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Newark Abbey",
+            "artist": "J.M.W. Turner",
+            "year": "1807",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Newark%20Abbey%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Victory Returning from Trafalgar, in Three Position",
+            "artist": "J.M.W. Turner",
+            "year": "1806",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20The%20Victory%20Returning%20from%20Trafalgar%2C%20in%20Three%20Positions%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "A Limekiln, Possibly at Briton Ferry in South Wales",
+            "artist": "J.M.W. Turner",
+            "year": "1797",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Limekiln%20at%20Coalbrookdale%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Inverary Pier, Loch Fyne: Morning",
+            "artist": "J.M.W. Turner",
+            "year": "1845",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Inverary%20Pier%2C%20Loch%20Fyne-%20Morning%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Tummel Bridge, Perthshire",
+            "artist": "J.M.W. Turner",
+            "year": "1802",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Tummel%20Bridge%2C%20Perthshire%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Chateau de St. Michael, Bonneville, Savoy",
+            "artist": "J.M.W. Turner",
+            "year": "1802",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Chateau%20de%20St.%20Michael%2C%20Bonneville%2C%20Savoy%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Wreckers -- Coast of Northumberland, with a Steam-Boat Assisting a Ship off Shore",
+            "artist": "J.M.W. Turner",
+            "year": "1833",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Wreckers%20--%20Coast%20of%20Northumberland%2C%20with%20a%20Steam-Boat%20Assisting%20a%20Ship%20off%20Shore%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Harlech Castle, from Tygwyn Ferry, Summer's Evening Twilight",
+            "artist": "J.M.W. Turner",
+            "year": "1799",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Harlech%20Castle%2C%20from%20Twgwyn%20Ferry%2C%20Summer%27s%20Evening%20Twilight%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Squally Weather",
+            "artist": "J.M.W. Turner",
+            "year": "1840",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Off%20the%20Nore%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Lake Avernus: Aeneas and the Cumaean Sybil",
+            "artist": "J.M.W. Turner",
+            "year": "1814",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Lake%20Avernus-%20Aeneas%20and%20the%20Cumaean%20Sybil%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Staffa, Fingal's Cave",
+            "artist": "J.M.W. Turner",
+            "year": "1831",
+            "museum": "Yale Center for British Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Staffa%2C%20Fingal%27s%20Cave%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "A Scene on the English Coast",
+            "artist": "J.M.W. Turner",
+            "year": "1798",
+            "museum": "The Phillips Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20A%20Scene%20on%20the%20English%20Coast%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Wreck of a Transport Ship",
+            "artist": "J.M.W. Turner",
+            "year": "1810",
+            "museum": "Calouste Gulbenkian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shipwreck%20of%20the%20Minotaur%20William%20Turner.jpg"
+        },
+        {
+            "title": "Quillebeuf, Mouth of the Seine",
+            "artist": "J.M.W. Turner",
+            "year": "1833",
+            "museum": "Calouste Gulbenkian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Quillebeuf%20Mouth%20of%20the%20Seine%20by%20Joseph%20Mallord%20William%20Turner.jpg"
+        },
+        {
+            "title": "Sun Rising through Vapour",
+            "artist": "J.M.W. Turner",
+            "year": "1806",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20049.jpg"
+        },
+        {
+            "title": "Margate (?), from the Sea",
+            "artist": "J.M.W. Turner",
+            "year": "1837",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20%281775-1851%29%20-%20Margate%20%28%5E%29%2C%20from%20the%20Sea%20-%20NG1984%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "The Evening Star",
+            "artist": "J.M.W. Turner",
+            "year": "1830",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Evening%20Star%201983.jpg"
+        },
+        {
+            "title": "The Parting of Hero and Leander",
+            "artist": "J.M.W. Turner",
+            "year": "1834",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20%281775-1851%29%20-%20The%20Parting%20of%20Hero%20and%20Leander%20-%20from%20the%20Greek%20of%20Musaeus%20-%20NG521%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "Peace \u2013 Burial at Sea",
+            "artist": "J.M.W. Turner",
+            "year": "1842",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Terner%202.jpg"
+        },
+        {
+            "title": "Peace \u2013 Burial at Sea",
+            "artist": "J.M.W. Turner",
+            "year": "1842",
+            "museum": "Tate Britain",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Terner%202.jpg"
+        },
+        {
+            "title": "Peace \u2013 Burial at Sea",
+            "artist": "J.M.W. Turner",
+            "year": "1842",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Terner%202.jpg"
+        },
+        {
+            "title": "War. The Exile and the Rock Limpet",
+            "artist": "J.M.W. Turner",
+            "year": "1842",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/War%2C%20the%20Exile%20and%20the%20Rock%20Limpet%201842%20JMW%20Turner.jpg"
+        },
+        {
+            "title": "War. The Exile and the Rock Limpet",
+            "artist": "J.M.W. Turner",
+            "year": "1842",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/War%2C%20the%20Exile%20and%20the%20Rock%20Limpet%201842%20JMW%20Turner.jpg"
+        }
+    ]
 }
