@@ -2197,13 +2197,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20Dragon.jpg"
         },
         {
-            "title": "Matsuri Yatai Dragon",
-            "artist": "Katsushika Hokusai",
-            "year": "1844",
-            "museum": "Hokusai Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Matsuri%20Yatai%20Dragon%20%28Hokusaikan%20Obuse%29.jpg"
-        },
-        {
             "title": "Masculine wave",
             "artist": "Katsushika Hokusai",
             "year": "1845",
@@ -5758,13 +5751,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20Portrait%20Giuliano%20II%20Cesarini%20aged%2014.jpg"
         },
         {
-            "title": "Portrait of a Boy at the Spanish Court",
-            "artist": "Sofonisba Anguissola",
-            "year": "1567",
-            "museum": "San Diego Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Boy%20at%20the%20Spanish%20Court%20by%20Sofonisba%20Anguissola%2C%20San%20Diego%20Museum%20of%20Art.JPG"
-        },
-        {
             "title": "Portrait of Prince Alessandro Farnese",
             "artist": "Sofonisba Anguissola",
             "year": "1560",
@@ -5905,13 +5891,6 @@
             "year": "1618",
             "museum": "Detroit Institute of Arts",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Riza-i%20%27Abbasi%20-%20Lady%20with%20a%20Mirror%20-%2044.274%20-%20Detroit%20Institute%20of%20Arts.jpg"
-        },
-        {
-            "title": "Officer of the Guards",
-            "artist": "Reza Abbasi",
-            "year": "1622",
-            "museum": "Detroit Institute of Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Riza-i%20Abbasi%20Young%20Man%20with%20a%20Sword%20-%20Detroit%20Institute%20of%20Arts.jpg"
         },
         {
             "title": "Tahmuras Defeating the Divs",
@@ -7966,6 +7945,694 @@
             "year": "1915",
             "museum": "Glenstone",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tree%20of%20Knowledge%20No.%201%2C%20Hilma%20af%20Klint%2C%201913-1915%2C%20Glenstone%202023.jpg"
+        }
+    ],
+    "Edward Mitchell Bannister": [
+        {
+            "title": "Boston Street Scene (Boston Common)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1898",
+            "museum": "Walters Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Boston%20Street%20Scene%20%28Boston%20Common%29%20-%20Walters%20372766.jpg"
+        },
+        {
+            "title": "After the Shower",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1885",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20After%20the%20Shower%20-%201983.95.61%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Approaching Storm",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1886",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Approaching%20Storm%20-%201983.95.62%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Boat on Sea",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Boat%20on%20Sea%20-%201983.95.89%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Bright Scene of Cattle near Stream",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Bright%20Scene%20of%20Cattle%20near%20Stream%20-%201983.104.2%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Child with Birds and Dog",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1882",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Child%20with%20Birds%20and%20Dog%20-%201983.95.124%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Cows",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Cows%20-%201983.95.138%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Dorchester 1856",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1856",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Dorchester%201856%20-%201983.95.81%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "The Drinking Pool (three women at water)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1894",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20The%20Drinking%20Pool%20%28three%20women%20at%20water%29%20-%201983.95.100%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Driving Home the Cows",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1881",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Driving%20Home%20the%20Cows%20-%201983.95.58%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Fisherman by Water",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1886",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Fisherman%20by%20Water%20-%201983.95.125%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Fishing Shacks",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1881",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Fishing%20Shacks%20-%201983.95.111%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Herdsmen with Cows",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1869",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Herdsman%20with%20Cows%27%20by%20Edward%20Mitchell%20Bannister%2C%201869.jpg"
+        },
+        {
+            "title": "Herdsmen with Cows",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1869",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Herdsmen%20with%20Cows%20-%201983.95.109%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Homeward",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1895",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Homeward%20-%201983.95.99%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Landscape",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1899",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Landscape%20-%201979.5.12%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Landscape",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1895",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Landscape%20-%201983.95.63%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Landscape (trees and rocks by lake)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Landscape%20%28trees%20and%20rocks%20by%20lake%29%20-%201983.95.64%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Landscape (trees)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Landscape%20%28trees%29%20-%201983.95.65%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Landscape near Newport, R. I.",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1877",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Landscape%20near%20Newport%2C%20R.%20I.%20-%201983.95.119%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Morning on the Shore",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1892",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Morning%20on%20the%20Shore%20-%201983.95.1%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Neutakonkanut",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1891",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Neutakonkanut%20-%201983.95.10%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Newport",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1879",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Newport%20-%201983.95.147%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Newport Scene",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1884",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Newport%20Scene%20-%201983.95.7%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Newspaper Boy",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1869",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Newspaper%20Boy%201983.95.85%201a.jpg"
+        },
+        {
+            "title": "Oak Trees",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1876",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Oak%20Trees%27%20by%20Edward%20Mitchell%20Bannister%2C%201876.jpg"
+        },
+        {
+            "title": "Ocean Cliffs",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1881",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Ocean%20Cliffs%20-%201983.95.104%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "The Old Homestead",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20The%20Old%20Homestead%20-%201983.95.103%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "On the Seekonk",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1892",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20On%20the%20Seekonk%20-%201983.95.15%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "People Near Boat",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1893",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27People%20near%20Boat%27%20by%20Edward%20Mitchell%20Bannister%2C%201893.jpg"
+        },
+        {
+            "title": "People Near Boat",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1893",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20People%20Near%20Boat%20-%201983.95.121%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Pleasant Pastures",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1887",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Pleasant%20Pastures%20-%201983.95.66%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Repose",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Repose%20-%201983.95.68%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "The Road to the Valley",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20The%20Road%20to%20the%20Valley%20-%201983.95.146%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Rocks at Newport",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1881",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Rocks%20at%20Newport%20-%201983.95.96%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Rocky Farm, Newport",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1891",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Rocky%20Farm%2C%20Newport%20-%201983.95.101%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Salome Receiving the Head of John the Baptist",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1890",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Salome%20Receiving%20the%20Head%20of%20John%20the%20Baptist%20-%201984.135.2%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "The Salute",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1895",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20The%20Salute%20-%201983.95.84%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Squall, Brenton Light (boat in storm, lighthouse in background)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Squall%2C%20Brenton%20Light%20%28boat%20in%20storm%2C%20lighthouse%20in%20background%29%20-%201983.95.106%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "St. Luke",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1871",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20St.%20Luke%20-%201983.95.142%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "The Storm",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1881",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20The%20Storm%20-%201983.95.88%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Sunrise",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Sunrise%20-%201983.95.67%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Sunset",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1883",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Sunset%20-%201983.95.59%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Sunset",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1877",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Sunset%20-%201983.95.108%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Sunset Scene",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1880",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Sunset%20Scene%20-%201983.95.82%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Swale Land",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1898",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Swale%20Land%20-%201983.95.60%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Train",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1877",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Train%20-%201983.95.107%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1884",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%2C%20Untitled-1983.95.126%201.jpg"
+        },
+        {
+            "title": "Untitled (boy and man with oxen)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1891",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hauling%20Rails%20%28Boy%20and%20Man%20with%20Oxen%29%20by%20Edward%20Mitchell%20Bannister.jpg"
+        },
+        {
+            "title": "Untitled (boy and man with oxen)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1891",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28boy%20and%20man%20with%20oxen%29%20-%201983.95.153%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (cattle near river with sailboat in distance)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28cattle%20near%20river%20with%20sailboat%20in%20distance%29%20-%201983.95.98%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (cows descending hillside)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1881",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28cows%20descending%20hillside%29%20-%201983.95.93%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (cows on path in forest)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1883",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28cows%20on%20path%20in%20forest%29%20-%201983.95.83%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (five cows grazing with trees and river in background)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28five%20cows%20grazing%20with%20trees%20and%20river%20in%20background%29%20-%201983.95.122%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (five cows in pasture, rooftop in background)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1894",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28five%20cows%20in%20pasture%2C%20rooftop%20in%20background%29%20-%201983.95.72%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (five cows in pasture)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1885",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28five%20cows%20in%20pasture%29%20-%201983.95.145%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (floral still life)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Untitled%20%28Floral%20Still%20Life%29%20by%20Edward%20Mitchell%20Bannister.jpg"
+        },
+        {
+            "title": "Untitled (floral still life)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28floral%20still%20life%29%20-%201983.95.152%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (forest scene, fallen tree in foreground and house in background)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1873",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28forest%20scene%2C%20fallen%20tree%20in%20foreground%20and%20house%20in%20background%29%20-%201983.95.133%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (forest scene with bridge, cows in stream in foreground)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1897",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28forest%20scene%20with%20bridge%2C%20cows%20in%20stream%20in%20foreground%29%20-%201983.95.144%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (Four Cows Wading in Pond)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Untitled%20%28Four%20Cows%20Wading%20in%20Pond%29%20by%20Edward%20Mitchell%20Bannister%20-%20SAAM-1983.95.71%201.jpg"
+        },
+        {
+            "title": "Untitled (house in woods near lake)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1895",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28house%20in%20woods%20near%20lake%29%20-%201983.95.118%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (houses and trees)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1898",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28houses%20and%20trees%29%20-%201983.95.127%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape, boat moored near bank with man walking)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1896",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20boat%20moored%20near%20bank%20with%20man%20walking%29%20-%201983.95.114%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape, boat moored near stream, man walking in foreground)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1879",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20boat%20moored%20near%20stream%2C%20man%20walking%20in%20foreground%29%20-%201983.95.112%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape, cloudy sky)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20cloudy%20sky%29%20-%201983.95.95%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape, man on horse)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1884",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Untitled%20%28Landscape%20with%20Man%20on%20Horse%29%20by%20Edward%20Mitchell%20Bannister%2C%201884.jpg"
+        },
+        {
+            "title": "Untitled (landscape, man on horse)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1884",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20man%20on%20horse%29%20-%201983.95.110%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape, riverbank, three cows)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20riverbank%2C%20three%20cows%29%20-%201983.95.136%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape, trees near river)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1891",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20trees%20near%20river%29%20-%201983.95.150%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with cattle grazing)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1897",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20cattle%20grazing%29%20-%201983.95.77%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with cows and trees)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1881",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20cows%20and%20trees%29%20-%201983.95.140%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with cows grazing, hills)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1891",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20cows%20grazing%2C%20hills%29%20-%201983.95.74%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with cows grazing near river)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1891",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20cows%20grazing%20near%20river%29%20-%201983.95.139%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with cows in stream near trees)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1882",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20cows%20in%20stream%20near%20trees%29%20-%201983.95.117%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape, fields with rocks and trees)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1893",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20fields%20with%20rocks%20and%20trees%29%20-%201983.95.115%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape, forest scene with red fence and building)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1893",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20forest%20scene%20with%20red%20fence%20and%20building%29%20-%201983.95.116%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with house in background)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20house%20in%20background%29%20-%201983.95.79%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with man plowing fields)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20man%20plowing%20fields%29%20-%201983.95.120%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with meadow and trees)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20meadow%20and%20trees%29%20-%201983.95.70%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with oxen and haycart crossing bridge)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20oxen%20and%20haycart%20crossing%20bridge%29%20-%201983.95.151%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with pier)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20pier%29%20-%201983.95.73%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with road near stream and trees)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20road%20near%20stream%20and%20trees%29%20-%201983.95.141%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with rock in foreground and roof with steeple, lake in background)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20rock%20in%20foreground%20and%20roof%20with%20steeple%2C%20lake%20in%20background%29%20-%201983.95.90%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with rocks)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1894",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20rocks%29%20-%201983.95.128%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with rocks)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1898",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20rocks%29%20-%201983.95.135%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with rocks, man and sailboats)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1895",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20rocks%2C%20man%20and%20sailboats%29%20-%201983.95.129%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with trees)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20trees%29%20-%201983.95.148%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with trees and woman)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1894",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20trees%20and%20woman%29%20-%201983.95.130%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with trees and two cows in meadow)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1895",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20trees%20and%20two%20cows%20in%20meadow%29%20-%201983.95.91%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape with two cows)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1898",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20two%20cows%29%20-%201983.95.134%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape--woman carrying wood)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape-woman%20carrying%20wood%29%20-%201983.95.87%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (landscape, woodcutter on path)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1879",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20woodcutter%20on%20path%29%20-%201983.95.94%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (man on horse with woman and dog)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28man%20on%20horse%20with%20woman%20and%20dog%29%20-%201983.95.123%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (man on horseback, woman on foot driving cattle)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1880",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Man%20on%20Horseback%2C%20Woman%20on%20Foot%20Driving%20Cattle%20by%20Edward%20Mitchell%20Bannister.jpg"
+        },
+        {
+            "title": "Untitled (man on horseback, woman on foot driving cattle)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1880",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28man%20on%20horseback%2C%20woman%20on%20foot%20driving%20cattle%29%20-%201983.95.69%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (man on path with trees in background)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1882",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28man%20on%20path%20with%20trees%20in%20background%29%20-%201983.95.86%20-%20Smithsonian%20American%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Untitled (man with cows grazing near pond with house and trees in background)",
+            "artist": "Edward Mitchell Bannister",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28man%20with%20cows%20grazing%20near%20pond%20with%20house%20and%20trees%20in%20background%29%20-%201983.95.80%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         }
     ]
 }
