@@ -1523,13 +1523,6 @@
     ],
     "Qiu Ying": [
         {
-            "title": "Spring Morning in the Han Palace",
-            "artist": "Qiu Ying",
-            "year": "1552",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Spring%20Morning%20in%20the%20Han%20Palace.jpg"
-        },
-        {
             "title": "Saying Farewell at Xunyang",
             "artist": "Qiu Ying",
             "year": "1500",
@@ -2162,13 +2155,6 @@
             "year": "1475",
             "museum": "Campana collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Annonciation%2C%20by%20Leonardo%20da%20Vinci%2C%20from%20C2RMF%20retouched.jpg"
-        },
-        {
-            "title": "Isleworth Mona Lisa",
-            "artist": "Leonardo da Vinci",
-            "year": "1502",
-            "museum": "http://www.wikidata.org/.well-known/genid/4ac01d06151ccf83dccdfdab5fdb3d3c",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Isleworth%20Mona%20Lisa.jpg"
         },
         {
             "title": "The Holy Infants Embracing",
@@ -4181,13 +4167,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20009.jpg"
         },
         {
-            "title": "The Annunciation",
-            "artist": "Sandro Botticelli",
-            "year": "1450",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Annunciation%20MET%20DT2634.jpg"
-        },
-        {
             "title": "The Story of Nastagio Degli Onesti, part two",
             "artist": "Sandro Botticelli",
             "year": "1483",
@@ -4403,13 +4382,6 @@
             "year": "1483",
             "museum": "Andrew W. Mellon collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli-Portrait%20of%20a%20Youth.jpg"
-        },
-        {
-            "title": "The Discovery of the Body of Holofernes",
-            "artist": "Sandro Botticelli",
-            "year": "1470",
-            "museum": "Uffizi Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20La%20scoperta%20del%20cadavere%20di%20Oloferne%20e%20Il%20ritorno%20di%20Giuditta%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Virgin and Child with the Young Saint John the Baptist",
@@ -4891,13 +4863,6 @@
             "year": "1855",
             "museum": "Fitzwilliam Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20%281834-1917%29%20-%20The%20Finding%20of%20Moses%20%28copy%20after%20Paolo%20Veronese%29%20-%20PD.10-1978%20-%20Fitzwilliam%20Museum.jpg"
-        },
-        {
-            "title": "C\u00e9r\u00e9monie d'ordination dans la Cath\u00e9drale de Lyon",
-            "artist": "Edgar Degas",
-            "year": "1855",
-            "museum": "Fitzwilliam Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20%281834-1917%29%20-%20Ceremony%20of%20Ordination%20in%20the%20Cathedral%20of%20Lyons%20-%20PD.11-1978%20-%20Fitzwilliam%20Museum.jpg"
         },
         {
             "title": "Singer with a Glove",
@@ -5854,13 +5819,6 @@
             "artist": "Mary Cassatt",
             "year": "1901",
             "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Sara%20in%20a%20Green%20Bonnet%20-%201929.6.11%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Sara in a Green Bonnet",
-            "artist": "Mary Cassatt",
-            "year": "1901",
-            "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sara%20in%20a%20Green%20Bonnet%201929.6.11%201a.jpg"
         },
         {
@@ -6614,13 +6572,6 @@
             "year": "1882",
             "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20cows%20in%20stream%20near%20trees%29%20-%201983.95.117%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Untitled (landscape, fields with rocks and trees)",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1893",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20fields%20with%20rocks%20and%20trees%29%20-%201983.95.115%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
             "title": "Untitled (landscape, forest scene with red fence and building)",
@@ -7813,13 +7764,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vermeer%2C%20Johannes%20-%20Woman%20reading%20a%20letter%20-%20ca.%201662-1663.jpg"
         },
         {
-            "title": "Woman in Blue Reading a Letter",
-            "artist": "Johannes Vermeer",
-            "year": "1664",
-            "museum": "Amsterdam Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vermeer%2C%20Johannes%20-%20Woman%20reading%20a%20letter%20-%20ca.%201662-1663.jpg"
-        },
-        {
             "title": "The Milkmaid",
             "artist": "Johannes Vermeer",
             "year": "1660",
@@ -8242,13 +8186,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Flowers%20in%20a%20glass%20vase%20on%20a%20marble%20slab%20ca.%201710%20-%201899.1.26.jpg"
         },
         {
-            "title": "Flowers in a glass vase on a marble slab",
-            "artist": "Rachel Ruysch",
-            "year": "1800",
-            "museum": "The Wilson",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Flowers%20in%20a%20glass%20vase%20on%20a%20marble%20slab%20ca.%201710%20-%201899.1.26.jpg"
-        },
-        {
             "title": "Flowers, fruit,  reptiles, and insects on the edge of a wood",
             "artist": "Rachel Ruysch",
             "year": "1716",
@@ -8527,13 +8464,6 @@
             "year": "1715",
             "museum": "Staatliche Kunsthalle Karlsruhe",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Flowers%20Karlsruhe.jpg"
-        },
-        {
-            "title": "A Vase of Flowers",
-            "artist": "Rachel Ruysch",
-            "year": "1750",
-            "museum": "Ashmolean Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Rachel%20Ruysch%20-%20Flowers%20in%20a%20Vase%20on%20a%20Stone%20Slab%20ASH%20ASHM%20WA1940%202%2065.jpg"
         },
         {
             "title": "Still Life with Bouquet of Flowers, 1698",
@@ -12099,13 +12029,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/WATERHOUSE%20-%20Ulises%20y%20las%20Sirenas%20%28National%20Gallery%20of%20Victoria%2C%20Melbourne%2C%201891.%20%C3%93leo%20sobre%20lienzo%2C%20100.6%20x%20202%20cm%29.jpg"
         },
         {
-            "title": "Pandora",
-            "artist": "John William Waterhouse",
-            "year": "1896",
-            "museum": "http://www.wikidata.org/.well-known/genid/0fc9420caad987434c2a8983ac888e9d",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pandora%20-%20John%20William%20Waterhouse.jpg"
-        },
-        {
             "title": "Jason and Medea",
             "artist": "John William Waterhouse",
             "year": "1907",
@@ -12936,13 +12859,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Empress%20Elisabeth%20Alexeievna%20by%20Vigee-Le%20Brun%20%281795%2C%20Mus%C3%A9e%20Fabre%20-%20Montpellier%29.jpg"
         },
         {
-            "title": "Charles Chetwynd, 2nd Earl Talbot (1777\u20131849)",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1798",
-            "museum": "Ingestre Hall Residential Arts Centre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89lisabeth%20Louise%20Vig%C3%A9e%20Le%20Brun%20%281755-1842%29%20-%20Charles%20Chetwynd%2C%202nd%20Earl%20Talbot%20%281777%E2%80%931849%29%20-%20PCF59%20-%20Ingestre%20Hall%20Residential%20Arts%20Centre.jpg"
-        },
-        {
             "title": "The Duchesse de Polignac wearing a Straw Hat",
             "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
             "year": "1782",
@@ -13095,13 +13011,6 @@
             "year": "1793",
             "museum": "Liechtenstein Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Karoline%20von%20Manderscheid-Blankenheim.jpg"
-        },
-        {
-            "title": "Portr\u00e4t der Anna Ivanovna Tolstoy (Baryatinskaya)",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1796",
-            "museum": "http://www.wikidata.org/.well-known/genid/37af38b384b45459b48df820127e9ea5",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20tolstoy%20Vig%C3%A9e-Lebrun.jpg"
         },
         {
             "title": "Antoinette, Lady of Saint-Huberty",
@@ -13377,13 +13286,6 @@
             "year": "1852",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20S.%20Duncanson%20%28American%2C%201821-1872%29%2C%20Dream%20of%20Arcadia%20after%20Thomas%20Cole%2C%20circa%201852.%20Oil%20on%20canvas.jpg"
-        },
-        {
-            "title": "Pompeii",
-            "artist": "Robert S. Duncanson",
-            "year": "1871",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20by%20Robert%20S%20Duncanson.JPG"
         },
         {
             "title": "Vesuvius and Pompeii",
@@ -13740,13 +13642,6 @@
             "artist": "Robert S. Duncanson",
             "year": "1849",
             "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Seldon%20Duncanson%20-%20Fruit%20Still%20Life%20-%202014.136.106%20-%20National%20Gallery%20of%20Art.jpg"
-        },
-        {
-            "title": "Fruit Still Life",
-            "artist": "Robert S. Duncanson",
-            "year": "1849",
-            "museum": "Corcoran Gallery of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Seldon%20Duncanson%20-%20Fruit%20Still%20Life%20-%202014.136.106%20-%20National%20Gallery%20of%20Art.jpg"
         },
         {
@@ -14855,13 +14750,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Man%20with%20a%20Knapsack%20by%20Winslow%20Homer.jpg"
         },
         {
-            "title": "Robert Junkins' Garrison House, York, Maine",
-            "artist": "Winslow Homer",
-            "year": "1875",
-            "museum": "Cooper Hewitt, Smithsonian Design Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Junkins%27%20Garrison%20House%20York%20Maine%20by%20Winslow%20Homer.jpg"
-        },
-        {
             "title": "Mountain Wagon",
             "artist": "Winslow Homer",
             "year": "1869",
@@ -15290,13 +15178,6 @@
             "year": "1468",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Landscape%20with%20Man%20Crossing%20Bridge%20-%2069.131.11%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Landscape with Autumn Foliage",
-            "artist": "Shen Zhou",
-            "year": "1468",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Landscape%20with%20Autumn%20Foliage%20-%2069.131.9%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Enjoying the Pines",
@@ -18745,13 +18626,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Study%20for%20%27Une%20Baignade%27.PNG"
         },
         {
-            "title": "Paysage au piquet",
-            "artist": "Georges Seurat",
-            "year": "1882",
-            "museum": "Kunstmuseum Basel",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Paysage%20-%20Dreyfus%20PC%2022.jpg"
-        },
-        {
             "title": "The Stone Breaker III",
             "artist": "Georges Seurat",
             "year": "1882",
@@ -19001,13 +18875,6 @@
             "year": "1851",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Shichirigahama%20and%20Enoshima%20-%202015.300.150a%2C%20b%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Honmoku Bay of Musashi Province",
-            "artist": "Utagawa Hiroshige",
-            "year": "1827",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Honmoku%20Bay%20of%20Musashi%20Province%20-%2008.148.9%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Shiraito Waterfall at Hakone",
@@ -20466,13 +20333,6 @@
             "year": "1750",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Temptation%20of%20Eros%20MET%20VR%2039.184.18%20Ptg.%201%20Ret.jpg"
-        },
-        {
-            "title": "Cumaean Sibyl after Domenichino",
-            "artist": "Angelica Kauffman",
-            "year": "1763",
-            "museum": "National Museum of Women in the Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffman%20-%20Cumaean%20Sibyl%20after%20Domenichino%20%28c.1763%29.jpg"
         },
         {
             "title": "Zeuxis Selecting Models for His Painting of Helen of Troy.",
@@ -23120,15 +22980,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Abanindranath%20Tagore%20-%20Rabindranath%20in%20the%20Role%20of%20%E2%80%98Blind%20Singer%E2%80%99%2C%201916.jpg"
         }
     ],
-    "Tang Yin": [
-        {
-            "title": "Drinking at Night",
-            "artist": "Tang Yin",
-            "year": "1521",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Yin%20-%20Drinking%20at%20Night%20-%201955.761%20-%20Art%20Institute%20of%20Chicago.jpg"
-        }
-    ],
+    "Tang Yin": [],
     "Tarsila do Amaral": [],
     "Miskin": [],
     "Daswanth": [],
@@ -26001,13 +25853,6 @@
             "artist": "Tawaraya S\u014dtatsu",
             "year": "1631",
             "museum": "Seikad\u014d Bunko Library",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Genji%20screen%201.jpg"
-        },
-        {
-            "title": "Scenes from Sekiya (The Barrier Gate) and Miotsukushi (Channel Markers) chapters of The Tale of Genji",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1631",
-            "museum": "Seikad\u014d Bunko Library",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Genji%20screen%202.jpg"
         },
         {
@@ -28016,13 +27861,6 @@
             "year": "1800",
             "museum": "Victoria and Albert Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Our%20Lady%20With%20the%20Infant%20Jesus%20Riding%20on%20a%20Lamb%20with%20St.%20John.jpg"
-        },
-        {
-            "title": "Ezekiel's Wheels",
-            "artist": "William Blake",
-            "year": "1800",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20Ezekiel%27s%20Vision%20ca%201803-5%20Boston%20Museum.jpg"
         },
         {
             "title": "The Spiritual Form of Pitt guiding Behemoth",
@@ -30778,13 +30616,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20-%20Der%20Maler%20Jan%20de%20Wael%20und%20seine%20Frau%20Gertrud%20de%20Jode%20-%20596%20-%20Bavarian%20State%20Painting%20Collections.jpg"
         },
         {
-            "title": "Portrait of Karel van Mallery",
-            "artist": "Anthony van Dyck",
-            "year": "1631",
-            "museum": "Bavarian State Painting Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20%28Werkstatt%29%20-%20Der%20Kupferstecher%20Karel%20van%20Mallery%20-%20373%20-%20Bavarian%20State%20Painting%20Collections.jpg"
-        },
-        {
             "title": "Portrait of a Man",
             "artist": "Anthony van Dyck",
             "year": "1922",
@@ -31896,13 +31727,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Village%20Square%2C%20Brittany%2C%201883.jpg"
         },
         {
-            "title": "Christ on the cross",
-            "artist": "Odilon Redon",
-            "year": "1910",
-            "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Redon%20-%20CHRIST%20EN%20CROIX%2C%20RF%201984%2053.jpg"
-        },
-        {
             "title": "Battle with the dragon",
             "artist": "Odilon Redon",
             "year": "1907",
@@ -31922,13 +31746,6 @@
             "year": "1914",
             "museum": "Mus\u00e9e des Beaux-Arts de Bordeaux",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/OdilonRedon-1914-Reading.png"
-        },
-        {
-            "title": "Bouquet de fleurs",
-            "artist": "Odilon Redon",
-            "year": "1900",
-            "museum": "Mus\u00e9e d'art et d'arch\u00e9ologie de Gu\u00e9ret",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Redon%2C%20Bouquet%20de%20fleurs.jpg"
         },
         {
             "title": "Calvary",
@@ -33666,13 +33483,6 @@
             "year": "1850",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bierstadt%20Albert%20The%20Fishing%20Fleet.jpg"
-        },
-        {
-            "title": "The Marina Piccola, Capri",
-            "artist": "Albert Bierstadt",
-            "year": "1859",
-            "museum": "Buffalo AKG Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20The%20Marina%20Piccola%2C%20Capri%20-%201863-1%20-%20Albright%E2%80%93Knox%20Art%20Gallery.tiff"
         },
         {
             "title": "The Matterhorn",
