@@ -626,13 +626,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Seine.jpg"
         },
         {
-            "title": "The Church at V\u00e9theuil",
-            "artist": "Claude Monet",
-            "year": "1878",
-            "museum": "National Galleries Scotland",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Church%20at%20V%C3%A9theuil%20-%20NG%202385%20-%20National%20Galleries%20of%20Scotland.jpg"
-        },
-        {
             "title": "Woman in the Garden",
             "artist": "Claude Monet",
             "year": "1876",
@@ -1759,13 +1752,6 @@
             "year": "1550",
             "museum": "National Palace Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ch%27iu%20Ying%20003.jpg"
-        },
-        {
-            "title": "Narcissi and Chimonanthus",
-            "artist": "Qiu Ying",
-            "year": "1547",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Narcissi%20and%20Plum%20Blossoms.jpg"
         },
         {
             "title": "Spring Morning in the Han Palace",
@@ -3281,13 +3267,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Oude%20lezende%20vrouw%2C%20waarschijnlijk%20de%20profetes%20Hanna%20Rijksmuseum%20SK-A-3066.jpeg"
         },
         {
-            "title": "An Old Woman Reading, Probably the Prophetess Hannah",
-            "artist": "Rembrandt",
-            "year": "1631",
-            "museum": "Grand ducal collection, Oldenburg",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Oude%20lezende%20vrouw%2C%20waarschijnlijk%20de%20profetes%20Hanna%20Rijksmuseum%20SK-A-3066.jpeg"
-        },
-        {
             "title": "The Parable of the Rich Fool",
             "artist": "Rembrandt",
             "year": "1627",
@@ -3699,13 +3678,6 @@
             "year": "1667",
             "museum": "Mauritshuis",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20van%20Rijn%20-%20Portrait%20of%20an%20Elderly%20Man%20-%201118%20-%20Mauritshuis.jpg"
-        },
-        {
-            "title": "Head of a boy",
-            "artist": "Rembrandt",
-            "year": "1643",
-            "museum": "Rijksmuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jongenskopje%20Rijksmuseum%20SK-A-2391.jpeg"
         },
         {
             "title": "Man in Oriental Dress",
@@ -6330,15 +6302,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Landscape%20with%20Shepherds%20and%20Flock%20of%20Sheep%20-%20Google%20Art%20Project.jpg"
         }
     ],
-    "Gao Fenghan": [
-        {
-            "title": "Landscapes and Calligraphy",
-            "artist": "Gao Fenghan",
-            "year": "1736",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Fenghan%20-%20Landscapes%20and%20Calligraphy%20-%201981.285.8a%E2%80%93f%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        }
-    ],
+    "Gao Fenghan": [],
     "Mary Cassatt": [
         {
             "title": "Girl Arranging Her Hair",
@@ -12068,22 +12032,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elephant%20and%20Whale%20Screens%20by%20Ito%20Jakuchu%20%28Miho%20Museum%29L.jpg"
         }
     ],
-    "Ma Yuan": [
-        {
-            "title": "The Football Players",
-            "artist": "Ma Yuan",
-            "year": "1207",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20The%20Football%20Players%20-%201971.26%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
-            "title": "Scholar viewing a waterfall",
-            "artist": "Ma Yuan",
-            "year": "1207",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Scholar%20viewing%20a%20waterfall%20-%201973.120.9%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        }
-    ],
+    "Ma Yuan": [],
     "Wassily Kandinsky": [
         {
             "title": "Picture with a Horserider",
@@ -13560,13 +13509,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cleopatra%20-%20John%20William%20Waterhouse.jpg"
         },
         {
-            "title": "A Tale from the Decameron",
-            "artist": "John William Waterhouse",
-            "year": "1916",
-            "museum": "Lady Lever Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1916-a-tale-from-the-decameron-.jpg"
-        },
-        {
             "title": "Diogenes",
             "artist": "John William Waterhouse",
             "year": "1882",
@@ -14101,13 +14043,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20with%20organist%20and%20Cupid.jpg"
         },
         {
-            "title": "Saint John the Baptist",
-            "artist": "Titian",
-            "year": "1550",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20John%20the%20Baptist%20by%20Titian.%20Oil%20on%20canvas%2C%20Museo%20Nacional%20del%20Prado.jpg"
-        },
-        {
             "title": "Saint Catherine of Alexandria",
             "artist": "Titian",
             "year": "1560",
@@ -14239,13 +14174,6 @@
             "year": "1537",
             "museum": "Royal Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%28c.1488-Venice%201576%29%20and%20Workshop%20-%20Madonna%20and%20Child%20in%20a%20Landscape%20with%20Tobias%20and%20the%20Angel%20-%20RCIN%20402863%20-%20Royal%20Collection.jpg"
-        },
-        {
-            "title": "Ecce Homo",
-            "artist": "Titian",
-            "year": "1560",
-            "museum": "Brukenthal National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20Homo%20by%20Titian.JPG"
         },
         {
             "title": "The Resurrected Christ",
@@ -15356,13 +15284,6 @@
             "year": "1849",
             "museum": "Detroit Institute of Arts",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20S.%20Duncanson%20-%20Fruit%20Piece%20-%2057.84%20-%20Detroit%20Institute%20of%20Arts.jpg"
-        },
-        {
-            "title": "Uncle Tom and Little Eva",
-            "artist": "Robert S. Duncanson",
-            "year": "1853",
-            "museum": "Detroit Institute of Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20S.%20Duncanson%20-%20Uncle%20Tom%20and%20Little%20Eva%20-%2049.498%20-%20Detroit%20Institute%20of%20Arts.jpg"
         },
         {
             "title": "Storm Off the Irish Coast",
@@ -16477,13 +16398,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Man%20with%20a%20Scythe%20by%20Winslow%20Homer.jpg"
         },
         {
-            "title": "Boy and Girl in a Field with Sheep",
-            "artist": "Winslow Homer",
-            "year": "1877",
-            "museum": "Cooper Hewitt, Smithsonian Design Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20and%20Girl%20in%20a%20Field%20With%20Sheep%20by%20Winslow%20Homer.jpg"
-        },
-        {
             "title": "Lobster Cove, Manchester, Massachusetts",
             "artist": "Winslow Homer",
             "year": "1869",
@@ -17059,13 +16973,6 @@
             "year": "1500",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Twelve%20Views%20of%20Tiger%20Hill%2C%20Suzhou%2C%20The%20Thousand%20Acres%20of%20Clouds%20-%201964.371.9%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
-        {
-            "title": "Yellow Chrysanthemums and Red Osmanthus in the Style of Wang Yuan",
-            "artist": "Shen Zhou",
-            "year": "1468",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20Chrysanthemums%20and%20Red%20Osmanthus%20in%20the%20Style%20of%20Wang%20Yuan%20%281468%29%20Shen%20Zhou%201997.100.tif"
         },
         {
             "title": "Flowering Crab Apple",
@@ -17836,13 +17743,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20houthakker%20%28naar%20Millet%29%20-%20s0170V1962%20-%20Van%20Gogh%20Museum.jpg"
         },
         {
-            "title": "Reminiscence of Brabant",
-            "artist": "Vincent van Gogh",
-            "year": "1890",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Herinnering%20aan%20Brabant%20-%20s0112V1962%20-%20Van%20Gogh%20Museum.jpg"
-        },
-        {
             "title": "The Reaper (after Millet)",
             "artist": "Vincent van Gogh",
             "year": "1889",
@@ -18016,13 +17916,6 @@
             "year": "1885",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peasant%20Woman%20Cooking%20by%20a%20Fireplace.jpeg"
-        },
-        {
-            "title": "La Berceuse (Woman Rocking a Cradle; Augustine-Alix Pellicot Roulin, 1851\u20131930)",
-            "artist": "Vincent van Gogh",
-            "year": "1889",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20La%20Berceuse%20%28Woman%20Rocking%20a%20Cradle%3B%20Augustine-Alix%20Pellicot%20Roulin%2C%201851%E2%80%931930%29.jpg"
         },
         {
             "title": "Shoes",
@@ -19766,13 +19659,6 @@
             "year": "1921",
             "museum": "Museum of Fine Arts Boston",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Prometheus%20-%2021.10511%20-%20Museum%20of%20Fine%20Arts.jpg"
-        },
-        {
-            "title": "Apollo and the Muses",
-            "artist": "John Singer Sargent",
-            "year": "1918",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%20and%20the%20Muses%20by%20John%20Singer%20Sargent%20%281921%29.jpg"
         },
         {
             "title": "Architecture, Painting and Sculpture Protected by Athena from the Ravages of Time",
@@ -22213,13 +22099,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20de%20Barberana.jpg"
         },
         {
-            "title": "Do\u00f1a Antonia de Ipe\u00f1arrieta y Gald\u00f3s and Her Son Don Luis",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1632",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Do%C3%B1a%20Antonia%20de%20Ipe%C3%B1arrieta%20y%20su%20hijo%2C%20by%20Diego%20Vel%C3%A1zquez.jpg"
-        },
-        {
             "title": "Saint Paul",
             "artist": "Diego Vel\u00e1zquez",
             "year": "1618",
@@ -22528,15 +22407,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Velazquez-CondeBenavente.jpg"
         }
     ],
-    "Hasegawa T\u014dhaku": [
-        {
-            "title": "Pine Trees",
-            "artist": "Hasegawa T\u014dhaku",
-            "year": "1580",
-            "museum": "Tokyo National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasegawa%20Tohaku%20-%20Pine%20Trees%20%28Sh%C5%8Drin-zu%20by%C5%8Dbu%29%20-%20left%20hand%20screen.jpg"
-        }
-    ],
+    "Hasegawa T\u014dhaku": [],
     "Angelica Kauffman": [
         {
             "title": "Portrait of Maria Carolina of Austria (1752-1814)",
@@ -23274,13 +23145,6 @@
             "year": "1914",
             "museum": "Museum of Fine Arts, Houston",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Abstraction%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Movement, Bermuda",
-            "artist": "Marsden Hartley",
-            "year": "1916",
-            "museum": "Barnes Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Movement%2C%20Bermuda%20-%20BF466%20-%20Barnes%20Foundation.jpg"
         },
         {
             "title": "Himmel",
@@ -25321,27 +25185,6 @@
         {
             "title": "Evening bell from mist-shrouded temple (left); Autumn moon over Lake Dongting (right)",
             "artist": "An Gyeon",
-            "year": "1450",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20Gyeon%20-%20Evening%20bell%20from%20mist-shrouded%20temple%20%28left%29%2C%20Autumn%20moon%20over%20Lake%20Dongting%20%28right%29%20-%201987.278a%2C%20b%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Evening bell from mist-shrouded temple (left); Autumn moon over Lake Dongting (right)",
-            "artist": "An Gyeon",
-            "year": "1475",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20Gyeon%20-%20Evening%20bell%20from%20mist-shrouded%20temple%20%28left%29%2C%20Autumn%20moon%20over%20Lake%20Dongting%20%28right%29%20-%201987.278a%2C%20b%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Evening bell from mist-shrouded temple (left); Autumn moon over Lake Dongting (right)",
-            "artist": "An Gyeon",
-            "year": "1450",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%ED%95%B4%EC%A7%88%EB%85%98%20%EC%82%B0%EC%82%AC%EC%9D%98%20%EC%A2%85%EC%86%8C%EB%A6%AC%20%EC%A1%B0%EC%84%A0-%E7%85%99%E5%AF%BA%E6%9A%AE%E9%8D%BE%E5%9C%96%20%E6%9C%9D%E9%AE%AE-Evening%20bell%20from%20mist-shrouded%20temple%20%28left%29%3B%20Autumn%20moon%20over%20Lake%20Dongting%20%28right%29%20MET%20DT220.jpg"
-        },
-        {
-            "title": "Evening bell from mist-shrouded temple (left); Autumn moon over Lake Dongting (right)",
-            "artist": "An Gyeon",
             "year": "1475",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%ED%95%B4%EC%A7%88%EB%85%98%20%EC%82%B0%EC%82%AC%EC%9D%98%20%EC%A2%85%EC%86%8C%EB%A6%AC%20%EC%A1%B0%EC%84%A0-%E7%85%99%E5%AF%BA%E6%9A%AE%E9%8D%BE%E5%9C%96%20%E6%9C%9D%E9%AE%AE-Evening%20bell%20from%20mist-shrouded%20temple%20%28left%29%3B%20Autumn%20moon%20over%20Lake%20Dongting%20%28right%29%20MET%20DT220.jpg"
@@ -25918,13 +25761,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Broadway%20and%2042nd%20Street%20MET%20DP161227.jpg"
         },
         {
-            "title": "Study for Portrait of Mrs. Anna E. Little",
-            "artist": "Childe Hassam",
-            "year": "1925",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20for%20Portrait%20of%20Mrs.%20Anna%20E.%20Little%20MET%20ap1998.40.jpg"
-        },
-        {
             "title": "Poppies, Isles of Shoals",
             "artist": "Childe Hassam",
             "year": "1891",
@@ -26016,13 +25852,6 @@
             "year": "1912",
             "museum": "National Gallery of Modern Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Abanindranath%20Tagore%20-%20My%20Mother%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Ganesh Janani",
-            "artist": "Abanindranath Tagore",
-            "year": "1908",
-            "museum": "Indian Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ganesh%20Janani.jpg"
         },
         {
             "title": "The Passing of Shah Jahan",
@@ -26838,13 +26667,6 @@
             "year": "1934",
             "museum": "Kiran Nadar Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Amrita%20Sher-Gil%20Standing%20Nude.jpg"
-        },
-        {
-            "title": "The Little Girl in Blue",
-            "artist": "Amrita Sher-Gil",
-            "year": "1934",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Little%20Girl%20in%20Blue%20by%20Amrita%20Sher-Gil.jpg"
         },
         {
             "title": "Young Man with Apples",
@@ -27676,13 +27498,6 @@
             "year": "1510",
             "museum": "Museo del Prado",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20De%20hooiwagen%20%28c.1516%2C%20Prado%29.jpg"
-        },
-        {
-            "title": "Christ in Limbo",
-            "artist": "Hieronymus Bosch",
-            "year": "1550",
-            "museum": "Kunsthistorisches Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20in%20Limbo.jpg"
         },
         {
             "title": "Christ Mocked",
@@ -30730,13 +30545,6 @@
             "year": "1871",
             "museum": "Senate House",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20-%20George%20Grote.webp"
-        },
-        {
-            "title": "Flowing to the Sea",
-            "artist": "John Everett Millais",
-            "year": "1871",
-            "museum": "Southampton City Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20%281829-1896%29%20-%20Flowing%20to%20the%20Sea%20-%20403%20-%20Southampton%20City%20Art%20Gallery.jpg"
         },
         {
             "title": "Sir James Paget (1814\u20131899), Bt, Lecturer and Surgeon at St Bartholomew's Hospital",
@@ -33797,13 +33605,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20Black%20and%20Yellow%20Man%20in%20Snow%2C%201910%E2%80%9312%2C%20MM.M.00926.jpg"
         },
         {
-            "title": "Bleeding Man and Sunflower",
-            "artist": "Edvard Munch",
-            "year": "1903",
-            "museum": "Munch Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Bleeding%20Man%20and%20Sunflower%20-%20MM.M.00857%20-%20Munch%20Museum%20%28cropped%29.jpg"
-        },
-        {
             "title": "Blond and Dark-Haired Nude",
             "artist": "Edvard Munch",
             "year": "1902",
@@ -34478,13 +34279,6 @@
             "year": "1873",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nair%20Lady%20Adorning%20Her%20Hair.jpg"
-        },
-        {
-            "title": "Galaxy of Musicians",
-            "artist": "Raja Ravi Varma",
-            "year": "1889",
-            "museum": "Jaganmohan Palace",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%2C%20Galaxy%20of%20Musicians.jpg"
         },
         {
             "title": "There Comes Papa",
@@ -38052,13 +37846,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Indian%20Encampment%20-%202010.69%20-%20Crystal%20Bridges%20Museum%20of%20American%20Art.jpg"
         },
         {
-            "title": "Indian Encampment, Late Afternoon",
-            "artist": "Albert Bierstadt",
-            "year": "1862",
-            "museum": "Crystal Bridges Museum of American Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bierstadt%20Albert%20Indian%20Encampment%20Late%20Afternoon.jpg"
-        },
-        {
             "title": "Indian Camp",
             "artist": "Albert Bierstadt",
             "year": "1850",
@@ -38248,5 +38035,91 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Boating%20through%20Yosemite%20Valley%20with%20Half%20Dome%20in%20the%20Distance.jpg"
         }
     ],
-    "Fan Kuan": []
+    "Fan Kuan": [],
+    "Manaku": [
+        {
+            "title": "Ravana addresses Sita in the garden of Lanka, from Chapters 53 and 54 of the Aranya Kanda (Book of the Forest) of a Ramayana (Rama\u2019s Journey)",
+            "artist": "Manaku",
+            "year": "1725",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sita%20in%20the%20Garden%20of%20Lanka.jpg"
+        },
+        {
+            "title": "Building the Bridge to Lanka",
+            "artist": "Manaku",
+            "year": "1753",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP166073.jpg"
+        },
+        {
+            "title": "Mara Bringing the Demons to Life",
+            "artist": "Manaku",
+            "year": "1753",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP166072.jpg"
+        },
+        {
+            "title": "Vishnu on Garuda Slaying a Demon",
+            "artist": "Manaku",
+            "year": "1753",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP166071.jpg"
+        },
+        {
+            "title": "Rama and Lakshmana Overwhelmed by Arrows: Folio from the Siege of Lanka series",
+            "artist": "Manaku",
+            "year": "1725",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rama%20and%20Lakshmana%20Overwhelmed%20by%20Arrows-%20Folio%20from%20a%20Ramayana%20%27Siege%20of%20Lanka%27%20Series%20MET%20DP227584.jpg"
+        },
+        {
+            "title": "Indrajit Makes Offerings: Folio from the Siege of Lanka series",
+            "artist": "Manaku",
+            "year": "1725",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Manaku%20-%20Indrajit%20Makes%20Offerings%2C%20Folio%20from%20the%20Siege%20of%20Lanka%20series%20-%2019.24.3%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "The Monkey Leader Angada Steals Ravana's Crown from His Fortress: Folio from the Siege of Lanka series",
+            "artist": "Manaku",
+            "year": "1725",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Manaku%20-%20The%20Monkey%20Leader%20Angada%20Steals%20Ravana%27s%20Crown%20from%20His%20Fortress%2C%20Folio%20from%20the%20Siege%20of%20Lanka%20series%20-%2019.24.2%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Rama Releases the Demon Spies Shuka and Sarana: Folio from the Siege of Lanka series",
+            "artist": "Manaku",
+            "year": "1725",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rama%20Releases%20the%20Demon%20Spies%20Shuka%20and%20Sarana-%20Folio%20from%20a%20Ramayana%20%27Siege%20of%20Lanka%27%20Series%20MET%20DP278165.jpg"
+        },
+        {
+            "title": "Poet Jayadeva is worshipping Radha and Krishna",
+            "artist": "Manaku",
+            "year": "1730",
+            "museum": "National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Delhi-National%20Museum-Jayadeva%20worshipping%20Radha%20and%20Krishna-20131006.jpg"
+        },
+        {
+            "title": "Friends persuading hesitant Radha to enter the bower of love where Krishna awaits her",
+            "artist": "Manaku",
+            "year": "1730",
+            "museum": "National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sakhi%20take%20Radha%20to%20meet%20krishna.jpg"
+        },
+        {
+            "title": "Krishna dallying with cowherd maidens",
+            "artist": "Manaku",
+            "year": "1730",
+            "museum": "National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Delhi-National%20Museum-Krishna%20dallying%20with%20cowherd%20maidens-20131006.jpg"
+        },
+        {
+            "title": "Radha and Krishna sitting on the banks of Yamuna.",
+            "artist": "Manaku",
+            "year": "1730",
+            "museum": "National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Radha%20and%20Krishna%20sitting%20on%20the%20banks%20of%20Yamuna.jpg"
+        }
+    ]
 }
