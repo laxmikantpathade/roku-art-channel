@@ -6714,13 +6714,6 @@
             "description": "Historical masterpiece entry."
         },
         {
-            "title": "Saying Farewell at Xunyang by Qiu Ying",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_960.jpg",
-            "year": "1500",
-            "museum": "The Nelson-Atkins Museum of Art",
-            "description": "Historical masterpiece entry."
-        },
-        {
             "title": "Untitled (landscape--woman carrying wood) by Edward Mitchell Bannister",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_961.jpg",
             "year": "1864",
@@ -6802,6 +6795,13 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_972.jpg",
             "year": "1634",
             "museum": "Museo del Prado",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Flowers and fruit in a forest by Rachel Ruysch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_973.jpg",
+            "year": "1714",
+            "museum": "Johann Wilhelm von der Pfalz collection",
             "description": "Historical masterpiece entry."
         },
         {
@@ -7635,6 +7635,13 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1092.jpg",
             "year": "1611",
             "museum": "Museo del Prado",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Young Man by Sofonisba Anguissola",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1093.jpg",
+            "year": "1600",
+            "museum": "Detroit Institute of Arts",
             "description": "Historical masterpiece entry."
         }
     ]
