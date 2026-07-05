@@ -31,7 +31,19 @@ DOWNLOAD_HEADERS = {
     "Accept": "image/jpeg,image/png,image/webp,*/*;q=0.8"
 }
 
+# --- STILL LIFE BLACKLIST ---
+# Skips titles containing these words to ensure dynamic, narrative, or landscape art instead of objects on a table.
+STILL_LIFE_KEYWORDS = [
+    "still life", "stilleven", "nature morte", "vase of", "flowers in a vase", 
+    "bouquet of", "sunflowers", "peonies", "lilies", "chrysanthemums", 
+    "bowl of fruit", "basket of fruit", "apples and", "pears and", "lemons", 
+    "oranges on a table", "table with", "breakfast piece", "banquet piece"
+]
+
+# --- ART HISTORIAN CURATED GLOBAL LIST (~120 Artists) ---
+# Doubled diversity across Renaissance, Baroque, Impressionism, Ukiyo-e, Joseon, Mughal, Persian, and quadrupled Indian master art.
 PUBLIC_DOMAIN_ARTISTS = [
+    # --- The Original Foundation ---
     "Leonardo da Vinci", "Rembrandt", "Johannes Vermeer", "Claude Monet", 
     "Vincent van Gogh", "Diego Velázquez", "Caravaggio", "Titian", 
     "J.M.W. Turner", "Gustav Klimt", "Georges Seurat", "Francisco Goya",
@@ -39,15 +51,39 @@ PUBLIC_DOMAIN_ARTISTS = [
     "Pierre-Auguste Renoir", "Wassily Kandinsky", "Camille Pissarro", "Paul Cézanne",
     "Katsushika Hokusai", "Utagawa Hiroshige", "Katsushika Ōi", "Hasegawa Tōhaku", 
     "Kuroda Seiki", "Ito Jakuchu", "Shen Zhou", "Ma Yuan", "Qiu Ying", "Gao Fenghan", 
-    "Jeong Seon", "Kim Hong-do", "Shin Yun-bok", "Raja Ravi Varma", "Nainsukh", 
-    "Bishandas", "Ustad Mansur", "Kamāl ud-Dīn Behzād", "Reza Abbasi", "Mahmud al-Wasiti", 
-    "José María Velasco", "Joaquín Clausell", "Félix Émile Taunay", "Robert S. Duncanson", 
-    "Edward Mitchell Bannister", "Mary Cassatt", "Winslow Homer", "Thomas Cole", 
-    "John Singer Sargent", "Artemisia Gentileschi", "Élisabeth Vigée Le Brun", 
+    "Jeong Seon", "Kim Hong-do", "Shin Yun-bok", 
+    "Robert S. Duncanson", "Edward Mitchell Bannister", "Mary Cassatt", "Winslow Homer", 
+    "Thomas Cole", "John Singer Sargent", "Artemisia Gentileschi", "Élisabeth Vigée Le Brun", 
     "Sofonisba Anguissola", "Judith Leyster", "Rosa Bonheur", "Clara Peeters", 
     "Rachel Ruysch", "Hilma af Klint", "Berthe Morisot", "Angelica Kauffman",
     "Ilya Repin", "Ivan Aivazovsky", "Ivan Shishkin", "Mikhail Vrubel",
-    "Józef Chełmoński", "Jan Matejko", "Tivadar Csontváry Kosztka"
+    "Józef Chełmoński", "Jan Matejko", "Tivadar Csontváry Kosztka",
+
+    # --- 🌟 QUADRUPLED INDIAN ART REPRESENTATION 🌟 ---
+    # Classical, Mughal, Rajput, Pahari, Tanjore, and early Modern pioneers
+    "Raja Ravi Varma", "Nainsukh", "Bishandas", "Ustad Mansur", "Basawan", "Miskin", 
+    "Daswanth", "Manaku", "Abanindranath Tagore", "Gaganendranath Tagore", 
+    "Amrita Sher-Gil", "Nandalal Bose", "Jamini Roy", "Asit Kumar Haldar", 
+    "Kshitindranath Majumdar", "M. A. Rahman Chughtai", "Sunayani Devi",
+    "Ananda Coomaraswamy", "Nihâl Chand", "Sahibdin", "Payag", "Govardhan",
+
+    # --- 🌟 GLOBAL EXPANSION: European Masters & Post-Impressionism 🌟 ---
+    "Albrecht Dürer", "Hans Holbein the Younger", "Hieronymus Bosch", "Pieter Bruegel the Elder",
+    "Peter Paul Rubens", "Anthony van Dyck", "El Greco", "Caspar David Friedrich",
+    "Paul Gauguin", "Henri de Toulouse-Lautrec", "Henri Rousseau", "Odilon Redon",
+    "Edvard Munch", "Egon Schiele", "Alphonse Mucha", "William Blake", 
+    "Dante Gabriel Rossetti", "John Everett Millais", "Edward Burne-Jones",
+
+    # --- 🌟 GLOBAL EXPANSION: East Asian & Islamic Golden Age Masters 🌟 ---
+    "Gu Kaizhi", "Fan Kuan", "Guo Xi", "Li Tang", "Ni Zan", "Tang Yin", "Wen Zhengming",
+    "Sesshū Tōyō", "Kanō Eitoku", "Tawaraya Sōtatsu", "Ogata Kōrin", "Soga Shōhaku",
+    "An Gyeon", "Owonsan", "Kamāl ud-Dīn Behzād", "Reza Abbasi", "Mahmud al-Wasiti", 
+    "Sultan Muhammad", "Mir Sayyid Ali", "Abd al-Samad",
+
+    # --- 🌟 GLOBAL EXPANSION: Americas & Diverse Modernists 🌟 ---
+    "José María Velasco", "Joaquín Clausell", "Félix Émile Taunay", "Albert Bierstadt",
+    "Frederic Edwin Church", "Childe Hassam", "Arthur Dove", "Marsden Hartley",
+    "Tom Thomson", "Emily Carr", "Tarsila do Amaral", "José Sabogal"
 ]
 
 session = requests.Session()
@@ -101,21 +137,18 @@ def get_next_available_index(folder="."):
 
 def get_real_painting_from_wikidata(artist_name, seen_titles, sparql_cache):
     """Pulls from local hard-drive cache first. Uses SPARQL only if cache is empty."""
-    
-    # 1. Check our persistent cache first
     if artist_name in sparql_cache:
-        if sparql_cache[artist_name]: # We have paintings!
+        if sparql_cache[artist_name]: 
             idx = random.randint(0, len(sparql_cache[artist_name]) - 1)
             painting = sparql_cache[artist_name].pop(idx)
-            save_json_file(sparql_cache, SPARQL_CACHE_FILE) # Update the file
+            save_json_file(sparql_cache, SPARQL_CACHE_FILE) 
             return painting
         else:
             return None
 
     print(f"   🌐 Cache miss for {artist_name}. Executing SPARQL query to Wikidata...")
-    time.sleep(5) # Polite delay before SPARQL
+    time.sleep(5) 
 
-    # 2. Look up the artist's QID
     search_params = {"action": "wbsearchentities", "search": artist_name, "language": "en", "format": "json", "limit": 1}
     res = safe_get("https://www.wikidata.org/w/api.php", headers=API_HEADERS, params=search_params)
     if not res or not res.json().get('search'): 
@@ -125,7 +158,6 @@ def get_real_painting_from_wikidata(artist_name, seen_titles, sparql_cache):
         
     artist_qid = res.json()['search'][0]['id']
 
-    # 3. Pull 100 paintings at once via SPARQL
     query = f"""
     SELECT ?artworkLabel ?year ?museumLabel ?image WHERE {{
       ?artwork wdt:P31 wd:Q3305213;
@@ -140,14 +172,12 @@ def get_real_painting_from_wikidata(artist_name, seen_titles, sparql_cache):
     
     headers = {"Accept": "application/sparql-results+json", **API_HEADERS}
     res = safe_get("https://query.wikidata.org/sparql", headers=headers, params={'query': query})
-    
     if not res: 
         return None
     
     results = res.json().get('results', {}).get('bindings', [])
     valid_paintings = []
     
-    # 4. Clean up the data
     for r in results:
         title = r.get('artworkLabel', {}).get('value', '')
         if not title or re.match(r'^Q\d+', title): 
@@ -155,6 +185,11 @@ def get_real_painting_from_wikidata(artist_name, seen_titles, sparql_cache):
             
         norm_title = normalize_title(title)
         if norm_title in seen_titles:
+            continue
+
+        # --- STILL LIFE FILTER KEYWORD CHECK ---
+        # Dropping uninspired floral/desk objects early
+        if any(kw in title.lower() for kw in STILL_LIFE_KEYWORDS):
             continue
 
         museum = r.get('museumLabel', {}).get('value', 'Historical Collection')
@@ -169,7 +204,6 @@ def get_real_painting_from_wikidata(artist_name, seen_titles, sparql_cache):
             'image_url': r.get('image', {}).get('value', '')
         })
         
-    # 5. Store them permanently on the hard drive and return one
     sparql_cache[artist_name] = valid_paintings
     save_json_file(sparql_cache, SPARQL_CACHE_FILE)
     
@@ -209,7 +243,8 @@ def review_painting_with_ollama(painting_meta):
     return None
 
 def pad_and_resize_16_9(img):
-    target_width, target_height = 1920, 1080
+    # 👇 Changed from 1920, 1080 to native 2K boundaries
+    target_width, target_height = 2560, 1440
     img_ratio = img.width / img.height
     target_ratio = target_width / target_height
 
@@ -236,15 +271,18 @@ def stamp_image(img_bytes, metadata, output_filename):
         width, height = img.size 
         
         try:
-            title_font = ImageFont.truetype("/Library/Fonts/Arial Bold.ttf", 29)
-            sub_font = ImageFont.truetype("/Library/Fonts/Arial.ttf", 26)
+            title_font = ImageFont.truetype("/Library/Fonts/Arial Bold.ttf", 38)
+            sub_font = ImageFont.truetype("/Library/Fonts/Arial.ttf", 34)
         except IOError:
             title_font = sub_font = ImageFont.load_default()
             
-        banner_height = 150
+        banner_height = 200
         overlay = Image.new('RGBA', img.size, (0, 0, 0, 0))
         overlay_draw = ImageDraw.Draw(overlay)
-        overlay_draw.rectangle([(0, height - banner_height), (width, height)], fill=(0, 0, 0, 90))
+        
+        # 👇 CHANGED: Reduced the alpha channel from 90 to 45 for a much weaker, subtler tint
+        overlay_draw.rectangle([(0, height - banner_height), (width, height)], fill=(0, 0, 0, 45))
+        
         img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
         
         draw = ImageDraw.Draw(img)
@@ -273,15 +311,10 @@ def push_to_github():
 def run_bulk_collector():
     print("🤖 Smart Curated Bulk Collector initializing...")
     
-    # Load primary feed and build seen titles
     feed_data = load_json_file("feed.json", {"artwork_list": []})
     artwork_list = feed_data.get("artwork_list", [])
     
-    # 🌟 NEW DYNAMIC SLOT CALCULATION 🌟
-    # Calculate file numbering based on the actual physical files left on your disk
     next_file_number = get_next_available_index(".")
-    
-    # Keep historical logs synced with total count to keep the loop conditional clear
     current_count = len(artwork_list)
     
     seen_titles = set()
@@ -289,12 +322,10 @@ def run_bulk_collector():
         raw_title = art["title"].split(" by ")[0] 
         seen_titles.add(normalize_title(raw_title))
         
-    # Load persistent SPARQL Cache
     sparql_cache = load_json_file(SPARQL_CACHE_FILE, {})
     
     print(f"📂 Found {current_count} historical metadata rows in feed.json.")
     print(f"🚀 Next safe file naming sequence begins at: art_{next_file_number}.jpg")
-    print(f"🗃️ Loaded SPARQL Cache containing data for {len(sparql_cache.keys())} artists.")
     
     while current_count < TARGET_IMAGES:
         artist = random.choice(PUBLIC_DOMAIN_ARTISTS)
@@ -330,20 +361,16 @@ def run_bulk_collector():
             
         print(f"🌟 High-tier Masterpiece Accepted! Downloading asset...")
         
-        # 🌟 USE DYNAMIC IDENTIFIER FOR STORAGE 🌟
         image_filename = f"art_{next_file_number}.jpg"
         base_image_url = painting_meta['image_url']
-        download_url = f"{base_image_url}?width=1920"
+        download_url = f"{base_image_url}?width=2560"
         
-        # 1. Try fetching the 1920px thumbnail
         img_res = safe_get(download_url, headers=DOWNLOAD_HEADERS, timeout=20)
         
-        # 2. Fallback Mechanism: If the thumbnail fails or is too small, fetch the raw original image
         if img_res is None or img_res.status_code != 200 or len(img_res.content) < 10000:
             print("   ⚠️ 1920px thumbnail failed or is too small. Attempting original full-size image fallback...")
             img_res = safe_get(base_image_url, headers=DOWNLOAD_HEADERS, timeout=30)
         
-        # 3. Comprehensive Error Checking
         if img_res is None:
             print("   ❌ Network completely failed to connect to Wikimedia Commons.")
         elif img_res.status_code != 200:
@@ -365,10 +392,9 @@ def run_bulk_collector():
                 artwork_list.append(new_entry)
                 seen_titles.add(normalize_title(painting_meta['title']))
                 
-                # Save progress
                 save_json_file({"artwork_list": artwork_list}, "feed.json")
                 current_count += 1
-                next_file_number += 1 # Progress file tracking forward sequentially
+                next_file_number += 1
                 
                 if current_count % 25 == 0:
                     push_to_github()
