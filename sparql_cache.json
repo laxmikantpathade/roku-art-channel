@@ -423,13 +423,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Pointe%20de%20la%20H%C3%A8ve.jpg"
         },
         {
-            "title": "The Petit Bras of the Seine at Argenteuil",
-            "artist": "Claude Monet",
-            "year": "1872",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Petit%20Bras%20of%20the%20Seine%20at%20Argenteuil.jpg"
-        },
-        {
             "title": "The Beach at Trouville",
             "artist": "Claude Monet",
             "year": "1870",
@@ -519,13 +512,6 @@
             "year": "1908",
             "museum": "Nahmad Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20Grand%20Canal%20-%20Nahmad%20Collection.jpg"
-        },
-        {
-            "title": "The Thames below Westminster",
-            "artist": "Claude Monet",
-            "year": "1871",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20The%20Thames%20at%20Westminster%201871%20Westminster.jpg"
         },
         {
             "title": "The Japanese Bridge",
@@ -999,13 +985,6 @@
             "year": "1909",
             "museum": "Mus\u00e9e d'Orsay",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%20-%20Jeune%20fille%20assise%2C%201909.gif"
-        },
-        {
-            "title": "Julie Manet",
-            "artist": "Pierre-Auguste Renoir",
-            "year": "1887",
-            "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Renoir%20-%20Julie%20Manet%20with%20Cat.jpg"
         },
         {
             "title": "The White Reader",
@@ -2244,13 +2223,6 @@
             "year": "1804",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Sakata%20Kintoki%20Riding%20on%20Bear%27s%20Back%20-%2056.121.16%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Daikoku (God of Luck) with Radish",
-            "artist": "Katsushika Hokusai",
-            "year": "1804",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Daikoku%20%28God%20of%20Luck%29%20with%20Radish%20-%2056.121.15%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Two Sketches: One of a Turtle, the Other of Two Unidentified Objects",
@@ -3640,13 +3612,6 @@
     ],
     "Francisco Goya": [
         {
-            "title": "Josefa Bayeu",
-            "artist": "Francisco Goya",
-            "year": "1814",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leocadia%20Zorrilla.jpg"
-        },
-        {
             "title": "The Game of Horse and Rider",
             "artist": "Francisco Goya",
             "year": "1791",
@@ -3841,13 +3806,6 @@
             "year": "1788",
             "museum": "Valencia Cathedral",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Francis%20Borgia%20Helping%20a%20Dying%20Impenitent%20by%20Goya.jpg"
-        },
-        {
-            "title": "Self-portrait on Linen",
-            "artist": "Francisco Goya",
-            "year": "1790",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autorretrato%20de%20Goya%20%281795%29.jpg"
         },
         {
             "title": "Self portrait with spectacles",
@@ -6284,13 +6242,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Childhood%20in%20a%20Garden%20-%201901.jpg"
         },
         {
-            "title": "Mother and Child (Baby Getting Up from His Nap)",
-            "artist": "Mary Cassatt",
-            "year": "1899",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20%28Baby%20Getting%20Up%20from%20His%20Nap%29%20MET%20DT2028.jpg"
-        },
-        {
             "title": "Lydia Crocheting in the Garden at Marly",
             "artist": "Mary Cassatt",
             "year": "1880",
@@ -7273,13 +7224,6 @@
             "year": "1864",
             "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20trees%29%20-%201983.95.148%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Untitled (landscape with trees and woman)",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1894",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20trees%20and%20woman%29%20-%201983.95.130%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
             "title": "Untitled (landscape with trees and two cows in meadow)",
@@ -8434,13 +8378,6 @@
             "artist": "Johannes Vermeer",
             "year": "1655",
             "museum": "National Museum of Western Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vermeer%20saint%20praxedis.jpg"
-        },
-        {
-            "title": "Saint Praxedis",
-            "artist": "Johannes Vermeer",
-            "year": "1655",
-            "museum": "http://www.wikidata.org/.well-known/genid/41079c3154a17fff5e30b76bc3fd8648",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vermeer%20saint%20praxedis.jpg"
         },
         {
@@ -10583,13 +10520,6 @@
             "year": "1917",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20034.jpg"
-        },
-        {
-            "title": "Love",
-            "artist": "Gustav Klimt",
-            "year": "1895",
-            "museum": "Vienna Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20025.jpg"
         },
         {
             "title": "Portrait of an unknown woman",
@@ -15351,13 +15281,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Seven%20Works%20of%20Mercy-Caravaggio%20%281607%29.jpg"
         },
         {
-            "title": "Saint Catherine of Alexandria",
-            "artist": "Caravaggio",
-            "year": "1598",
-            "museum": "Thyssen-Bornemisza Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Catherine%20of%20Alexandria%20%28Caravaggio%29.jpg"
-        },
-        {
             "title": "Madonna di Loreto",
             "artist": "Caravaggio",
             "year": "1605",
@@ -15584,13 +15507,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Matejko%20Reception%20of%20the%20Jews.jpg"
         },
         {
-            "title": "Portrait of Kazimierz Stankiewicz",
-            "artist": "Jan Matejko",
-            "year": "1857",
-            "museum": "National Museum in Krak\u00f3w",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Portrait%20of%20Kazimierz%20Stankiewicz%20-%20MNK%20IX-19%20%2827973%29.jpg"
-        },
-        {
             "title": "Sigismund Augustus and Barbara Radziwi\u0142\u0142",
             "artist": "Jan Matejko",
             "year": "1864",
@@ -15815,13 +15731,6 @@
             "year": "1863",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Home%2C%20Sweet%20Home%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Peach Blossoms",
-            "artist": "Winslow Homer",
-            "year": "1879",
-            "museum": "http://www.wikidata.org/.well-known/genid/7e47e8c51022babefc9321f0de12a38b",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%E2%80%99s%20Peach%20Blossoms.jpg"
         },
         {
             "title": "Prisoners from the Front",
@@ -16181,13 +16090,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Coast%20of%20Maine%20-%201931.505%20-%20Art%20Institute%20of%20Chicago.jpg"
         },
         {
-            "title": "Mount Washington",
-            "artist": "Winslow Homer",
-            "year": "1869",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Washington%2C%20by%20Winslow%20Homer%20%28Chicago%20Art%20Institute%201951.313%29%20B.jpg"
-        },
-        {
             "title": "High Cliff, Coast of Maine",
             "artist": "Winslow Homer",
             "year": "1894",
@@ -16371,13 +16273,6 @@
             "year": "1500",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Twelve%20Views%20of%20Tiger%20Hill%2C%20Suzhou%2C%20Cloud-Climbing%20Pavilion%20-%201964.371.12%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
-        {
-            "title": "The Fool's Spring, from Twelve Views of Tiger Hill, Suzhou",
-            "artist": "Shen Zhou",
-            "year": "1500",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Twelve%20Views%20of%20Tiger%20Hill%2C%20Suchou%2C%20The%20Fool%27s%20Spring%20-%201964.371.2%20-%20Cleveland%20Museum%20of%20Art.tiff"
         },
         {
             "title": "The Enlightened Stone Retreat, from Twelve Views of Tiger Hill, Suzhou",
@@ -17927,13 +17822,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Au%20bord%20de%20la%20Seine%20%C3%A0%20Port%20Marly%20%281871%29.jpg"
         },
         {
-            "title": "Haymakers Resting",
-            "artist": "Camille Pissarro",
-            "year": "1891",
-            "museum": "McNay Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Haymakers%20Resting%20by%20Camille%20Pissarro.jpg"
-        },
-        {
             "title": "Landscape at Melleray, Mayenne",
             "artist": "Camille Pissarro",
             "year": "1876",
@@ -18861,13 +18749,6 @@
             "year": "1880",
             "museum": "Art Institute of Chicago",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Chicago%20art%20inst%20singer%20sargent%20m%20dyer.JPG"
-        },
-        {
-            "title": "Mrs. Charles Gifford Dyer (Mary Anthony)",
-            "artist": "John Singer Sargent",
-            "year": "1880",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Mrs.%20Charles%20Gifford%20Dyer%20%28Mary%20Anthony%29%20-%201915.592%20-%20Art%20Institute%20of%20Chicago.jpg"
         },
         {
             "title": "Madame Paul Escudier (Louise Lefevre)",
@@ -20288,13 +20169,6 @@
             "year": "1897",
             "museum": "Tokyo National Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuroda-seiki-kohan00-6-1b.jpeg"
-        },
-        {
-            "title": "Under the trees",
-            "artist": "Kuroda Seiki",
-            "year": "1898",
-            "museum": "Woodone Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Under%20the%20Shade%20of%20a%20Tree%20by%20Kuroda%20Seiki%20%28Woodone%20Museum%20of%20Art%29.png"
         },
         {
             "title": "Adoptive Father by Kuroda Seiki",
@@ -23024,13 +22898,6 @@
             "year": "1345",
             "museum": "Shanghai Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan%20-%20Six%20Gentlemen.jpg"
-        },
-        {
-            "title": "Twin Trees by the South Bank (Annan shuangshu)",
-            "artist": "Ni Zan",
-            "year": "1353",
-            "museum": "Princeton Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan%28%E5%80%AA%E7%93%9A%29%20-%20Twin%20Trees%20by%20the%20South%20Bank%20%28Annan%20shuangshu%29%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Bamboo, Rock, and Tall Tree",
@@ -28527,13 +28394,6 @@
             "artist": "Edward Burne-Jones",
             "year": "1872",
             "museum": "Birmingham Museums Trust",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P199%20-%20Birmingham%20Museums%20Trust.jpg"
-        },
-        {
-            "title": "Cupid and Psyche",
-            "artist": "Edward Burne-Jones",
-            "year": "1872",
-            "museum": "Birmingham Museums Trust",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P203%20-%20Birmingham%20Museums%20Trust.jpg"
         },
         {
@@ -31296,13 +31156,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201876%20Le%20Port%20de%20Javel%20I.jpg"
         },
         {
-            "title": "Landscape, Bretagne",
-            "artist": "Paul Gauguin",
-            "year": "1889",
-            "museum": "National Museum of Art, Architecture and Design",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Bretagnelandskap%20med%20kuer%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Conversation in the fields. Pont-Aven",
             "artist": "Paul Gauguin",
             "year": "1888",
@@ -32371,13 +32224,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Blue%20Coat%20in%20Sunshine%20-%20Woll%201429.jpg"
         },
         {
-            "title": "Boat with Three Boys",
-            "artist": "Edvard Munch",
-            "year": "1886",
-            "museum": "Munch Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Boat%20with%20Three%20Boys.jpg"
-        },
-        {
             "title": "B\u00f8rre by the Window",
             "artist": "Edvard Munch",
             "year": "1910",
@@ -33003,13 +32849,6 @@
             "year": "1873",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nair%20Lady%20Adorning%20Her%20Hair.jpg"
-        },
-        {
-            "title": "There Comes Papa",
-            "artist": "Raja Ravi Varma",
-            "year": "1893",
-            "museum": "Kowdiar Palace",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%2C%20There%20Comes%20Papa%20%281893%29.jpg"
         },
         {
             "title": "Woman Holding a Fan",
@@ -34538,13 +34377,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Rue%20de%20village%20%28Dorpsstraat%20%29%20-%201714%20%28MK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg"
         },
         {
-            "title": "Les rochers (Rochers en Bretagne)",
-            "artist": "Odilon Redon",
-            "year": "1875",
-            "museum": "Museum Boijmans Van Beuningen",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Les%20rochers%20%28Rochers%20en%20Bretagne%29%20%28Rotsen%20in%20Bretagne%29%20-%202895%20%28MK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg"
-        },
-        {
             "title": "Vase with Bindweed and Camomile",
             "artist": "Odilon Redon",
             "year": "1867",
@@ -34692,13 +34524,6 @@
             "year": "1470",
             "museum": "Tokyo National Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SesshuShuutouTou.jpg"
-        },
-        {
-            "title": "View of Amanohashidate",
-            "artist": "Sessh\u016b T\u014dy\u014d",
-            "year": "1503",
-            "museum": "Kyoto National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sesshu%20-%20View%20of%20Ama-no-Hashidate.jpg"
         }
     ],
     "Govardhan": [],
@@ -34751,13 +34576,6 @@
             "year": "1616",
             "museum": "Mauritshuis",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Old%20Woman%20and%20Boy%20with%20Candles%20-%201150%20-%20Mauritshuis.jpg"
-        },
-        {
-            "title": "A child with bird",
-            "artist": "Peter Paul Rubens",
-            "year": "1625",
-            "museum": "Gem\u00e4ldegalerie Berlin",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Das%20Kind%20mit%20dem%20Vogel%20%28Gem%C3%A4ldegalerie%20Berlin%29.jpg"
         },
         {
             "title": "Holy Theresia of \u00c1vila",
@@ -36337,13 +36155,6 @@
             "year": "1850",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Old%20Mill.jpg"
-        },
-        {
-            "title": "The Open Glen, New England",
-            "artist": "Albert Bierstadt",
-            "year": "1875",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bierstadt%20Albert%20Deer%20in%20a%20Landscape.jpg"
         },
         {
             "title": "The Shore of the Turquoise Sea",
