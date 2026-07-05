@@ -640,13 +640,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Church%20at%20V%C3%A9theuil%20-%20NG%202385%20-%20National%20Galleries%20of%20Scotland.jpg"
         },
         {
-            "title": "Boats in a Harbour",
-            "artist": "Claude Monet",
-            "year": "1873",
-            "museum": "National Galleries Scotland",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Boats%20in%20a%20Harbour%2C%20About%201873.jpg"
-        },
-        {
             "title": "Woman in the Garden",
             "artist": "Claude Monet",
             "year": "1876",
@@ -1689,13 +1682,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Butcher%20Birds%2C%201893.jpg"
         },
         {
-            "title": "Butterflies",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1893",
-            "museum": "Csontv\u00e1ry Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Butterflies%2C%201893.jpg"
-        },
-        {
             "title": "Castellammare di Stabia",
             "artist": "Tivadar Csontv\u00e1ry Kosztka",
             "year": "1902",
@@ -1785,13 +1771,6 @@
             "year": "1904",
             "museum": "Csontv\u00e1ry Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-setakocsikazas%20ujholdkor%20athenban.jpg"
-        },
-        {
-            "title": "Highland Street (Houses)",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1895",
-            "museum": "Ott\u00f3 Herman Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20Highland%20Street%20c.%201895.jpg"
         },
         {
             "title": "Deer",
@@ -2801,13 +2780,6 @@
             "year": "1871",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%9A.%20%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F%20%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0%20%D0%B2%20%D0%93%D0%B8%D0%B7%D0%B5%20%281871%29.jpg"
-        },
-        {
-            "title": "Panorama of Constantinopole (detail)",
-            "artist": "Ivan Aivazovsky",
-            "year": "1856",
-            "museum": "http://www.wikidata.org/.well-known/genid/83e7cc2c35388d5be7919247a515c4eb",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Constantinovich%20Aivazovsky%20-%20Constantinople%20%28detail%29.JPG"
         },
         {
             "title": "Calm Sea",
@@ -3960,13 +3932,6 @@
             "year": "1820",
             "museum": "Museo del Prado",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/2%20alte%20M%C3%A4nner%2C%20um%201821-23.jpg"
-        },
-        {
-            "title": "Dance of the Majos at the Banks of Manzanares",
-            "artist": "Francisco Goya",
-            "year": "1776",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20baile%20a%20orillas%20del%20Manzanares.jpg"
         },
         {
             "title": "the Drinker",
@@ -7325,13 +7290,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20The%20Storm%20-%201983.95.88%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
-            "title": "Sunrise",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1864",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Sunrise%20-%201983.95.67%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
             "title": "Sunset",
             "artist": "Edward Mitchell Bannister",
             "year": "1883",
@@ -9667,13 +9625,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Praia%20Don%20Manuel%20%28atribu%C3%ADdo%29%2C%20da%20Cole%C3%A7%C3%A3o%20Brasiliana%20Iconogr%C3%A1fica.jpg"
         },
         {
-            "title": "Praia Don Manuel (atribu\u00eddo)",
-            "artist": "F\u00e9lix \u00c9mile Taunay",
-            "year": "1823",
-            "museum": "Brasiliana Iconogr\u00e1fica",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Praia%20Don%20Manuel%20%28atribu%C3%ADdo%29%2C%20da%20Cole%C3%A7%C3%A3o%20Brasiliana%20Iconogr%C3%A1fica.jpg"
-        },
-        {
             "title": "Rua Direita, Rio de Janeiro (atribu\u00eddo)",
             "artist": "F\u00e9lix \u00c9mile Taunay",
             "year": "1823",
@@ -9753,13 +9704,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nainsukh%20-%20Two%20Elephants%20Fighting%20in%20a%20Courtyard%20Before%20Muhammad%20Shah%20-%202005.1%20-%20Cleveland%20Museum%20of%20Art%20%28cropped%29.jpg"
         },
         {
-            "title": "Two Elephants Fighting in a Courtyard Before Muhammad Shah",
-            "artist": "Nainsukh",
-            "year": "1735",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nainsukh%20-%20Two%20Elephants%20Fighting%20in%20a%20Courtyard%20Before%20Muhammad%20Shah%20-%202005.1%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
             "title": "Raja Balwant Singh of Jasrota examining a painting with Nainsukh",
             "artist": "Nainsukh",
             "year": "1747",
@@ -9781,13 +9725,6 @@
             "year": "1600",
             "museum": "Jacques Goudstikker collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stilleven%20met%20vissen%2C%20oesters%20en%20garnalen%20Rijksmuseum%20SK-A-2111.jpeg"
-        },
-        {
-            "title": "Still life with dainties, rosemary, wine, jewels and a burning candle",
-            "artist": "Clara Peeters",
-            "year": "1607",
-            "museum": "http://www.wikidata.org/.well-known/genid/22e555f4562ff905fe2d5253864986c6",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20Stillleben.jpg"
         },
         {
             "title": "Still life with cheese, artichoke and cherries",
@@ -9830,13 +9767,6 @@
             "year": "1615",
             "museum": "Royal Museum of Fine Arts Antwerp",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Stilleven%20met%20vis%20-%20834%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Still Life with Fish",
-            "artist": "Clara Peeters",
-            "year": "1600",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stilleven%20met%20vis%2C%20Clara%20Peeters%2C%2017de%20eeuw%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20834.jpg"
         },
         {
             "title": "Still Life with Fish",
@@ -11534,13 +11464,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20and%20the%20Elders.jpg"
         },
         {
-            "title": "Susanna and the Elders",
-            "artist": "Artemisia Gentileschi",
-            "year": "1610",
-            "museum": "Schloss Wei\u00dfenstein",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20and%20the%20Elders%20%281610%29%2C%20Artemisia%20GentileschiFXD.jpg"
-        },
-        {
             "title": "Nativity of St. John the Baptist",
             "artist": "Artemisia Gentileschi",
             "year": "1635",
@@ -11679,13 +11602,6 @@
             "year": "1630",
             "museum": "Toledo Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%2C%20Artemisia%20-%20Lot%20and%20his%20Daughters%20-%201635-1638.jpg"
-        },
-        {
-            "title": "Virgin and Child with a Rosary",
-            "artist": "Artemisia Gentileschi",
-            "year": "1651",
-            "museum": "Royal Monastery of San Lorenzo de El Escorial",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Vergine%20e%20il%20Bambino%20con%20il%20rosario%20Artemisia.jpg"
         },
         {
             "title": "An Allegory of Painting",
@@ -13297,13 +13213,6 @@
             "year": "1884",
             "museum": "Tretyakov Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Blaramberg%20by%20Repin.jpg"
-        },
-        {
-            "title": "Portrait of member of State Council count Alexander Alekseyevich Bobrinsky.",
-            "artist": "Ilya Repin",
-            "year": "1902",
-            "museum": "Russian Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bobrinsky%20by%20Repin.jpg"
         },
         {
             "title": "Portrait of the painter Isaak Izrailevich Brodsky",
@@ -19115,13 +19024,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Iwan%20Iwanowitsch%20Schischkin%20-%20Rain%20in%20an%20Oak%20Forest.jpg"
         },
         {
-            "title": "Mast-Tree grove",
-            "artist": "Ivan Shishkin",
-            "year": "1898",
-            "museum": "Russian Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%BE%D1%89%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
-        },
-        {
             "title": "Landscape",
             "artist": "Ivan Shishkin",
             "year": "1900",
@@ -21548,13 +21450,6 @@
             "year": "1827",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Honmoku%20Bay%20of%20Musashi%20Province%20-%2008.148.9%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Mt. Nokogiri Seen from a Distance",
-            "artist": "Utagawa Hiroshige",
-            "year": "1827",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Mt.%20Nokogiri%20Seen%20from%20a%20Distance%20-%2008.148.8%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Shibaura Bay of Musashi Province",
@@ -24630,13 +24525,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Thomson%20Split%20Rock%2C%20Georgian%20Bay.jpg"
         },
         {
-            "title": "Hot Summer Moonlight",
-            "artist": "Tom Thomson",
-            "year": "1915",
-            "museum": "National Gallery of Canada",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Thomson%20Hot%20Summer%20Moonlight.jpg"
-        },
-        {
             "title": "Cottage on a Rocky Shore",
             "artist": "Tom Thomson",
             "year": "1914",
@@ -24813,13 +24701,6 @@
             "year": "1514",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP161037.jpg"
-        },
-        {
-            "title": "Landscape with Mountain Village",
-            "artist": "Wen Zhengming",
-            "year": "1546",
-            "museum": "Arthur M. Sackler Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20Landscape%20with%20Mountain%20Village%20-%202010.610%20-%20Harvard%20Art%20Museums.jpg"
         },
         {
             "title": "Landscape with Mountain Village",
@@ -26248,13 +26129,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Coast%20Scene%2C%20Isles%20of%20Shoals%20MET%20DT5583.jpg"
         },
         {
-            "title": "Avenue of the Allies, Great Britain, 1918",
-            "artist": "Childe Hassam",
-            "year": "1918",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Avenue%20of%20the%20Allies%2C%20Great%20Britain%2C%201918%20MET%20DT5573.jpg"
-        },
-        {
             "title": "Golden Afternoon",
             "artist": "Childe Hassam",
             "year": "1908",
@@ -26520,15 +26394,7 @@
     ],
     "Tarsila do Amaral": [],
     "Miskin": [],
-    "Daswanth": [
-        {
-            "title": "The parrot mother cautions her young on the danger of playing with foxes, from a Tuti-nama (Tales of a Parrot): Fifth Night",
-            "artist": "Daswanth",
-            "year": "1560",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Daswanth%20-%20Page%20from%20Tales%20of%20a%20Parrot%20%28Tuti-nama%29%2C%20Fifth%20night%2C%20The%20parrot%20mother%20cautions%20her%20young%20on%20the%20danger%20of%20playing%20with%20foxes%20-%201962.279.32.a%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        }
-    ],
+    "Daswanth": [],
     "Hans Holbein the Younger": [
         {
             "title": "Darmstadt Madonna",
@@ -29714,13 +29580,6 @@
             "year": "1624",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BC%9D%E4%BF%B5%E5%B1%8B%E5%AE%97%E9%81%94%E7%AD%86%20%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E%E5%9B%B3%E3%80%8C%E5%AE%BF%E6%9C%A8%E3%80%8D-Scene%20from%20%22The%20Ivy%22%20%28Yadorigi%29%2C%20chapter%2049%20of%20the%20Tale%20of%20Genji%20MET%20DP145864.jpg"
-        },
-        {
-            "title": "\u201cMount Utsu\u201d (Utsu no yama), from The Tales of Ise (Ise monogatari)",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1634",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP352201.jpg"
         },
         {
             "title": "\u201cMount Utsu\u201d (Utsu no yama), from The Tales of Ise (Ise monogatari)",
@@ -33394,13 +33253,6 @@
             "year": "1893",
             "museum": "McNay Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20Autoportrait%20%C3%A0%20l%27idole.jpg"
-        },
-        {
-            "title": "Sister of Charity",
-            "artist": "Paul Gauguin",
-            "year": "1902",
-            "museum": "McNay Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20La%20Soeur%20de%20charit%C3%A9.jpg"
         }
     ],
     "Caspar David Friedrich": [
@@ -34225,13 +34077,6 @@
             "year": "1901",
             "museum": "http://www.wikidata.org/.well-known/genid/b6f4222591fc23161c8a4f992cfa7848",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bj%C3%B8rk%20i%20sn%C3%B8%20%28Birch%20in%20Snow%29%29.jpg"
-        },
-        {
-            "title": "Birch in Snow",
-            "artist": "Edvard Munch",
-            "year": "1901",
-            "museum": "http://www.wikidata.org/.well-known/genid/b6f4222591fc23161c8a4f992cfa7848",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Birch%20in%20Snow%20-%20Woll%20480.jpg"
         },
         {
             "title": "Birch Trees and Man Carrying Twigs",
@@ -35705,13 +35550,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Tears%20of%20Saint%20Peter%203164.jpg"
         },
         {
-            "title": "Saints Peter and Paul",
-            "artist": "El Greco",
-            "year": "1587",
-            "museum": "Hermitage Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Greco%2C%20El%20-%20Sts%20Peter%20and%20Paul.jpg"
-        },
-        {
             "title": "Saint Francis in ecstasy",
             "artist": "El Greco",
             "year": "1578",
@@ -37040,13 +36878,6 @@
             "artist": "Peter Paul Rubens",
             "year": "1614",
             "museum": "Department of Paintings of the Louvre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Nicolaas%20Rockox%2C%20burgemeester%20van%20Antwerpen%20-%20308%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Portrait of Nicolaas Rockox",
-            "artist": "Peter Paul Rubens",
-            "year": "1614",
-            "museum": "Department of Paintings of the Louvre",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rubens%20-%20RKDimages%2C%2023527.jpg"
         },
         {
@@ -37610,13 +37441,6 @@
             "year": "1512",
             "museum": "Kunsthistorisches Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Maria%20mit%20Kind%20-%20GG%20848%20-%20Kunsthistorisches%20Museum.jpg"
-        },
-        {
-            "title": "Adoration of the Magi",
-            "artist": "Albrecht D\u00fcrer",
-            "year": "1504",
-            "museum": "Uffizi Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Adorazione%20dei%20Magi%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Dresden Altarpiece",
@@ -38522,13 +38346,6 @@
             "year": "1886",
             "museum": "Hirshhorn Museum and Sculpture Garden",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20West%20Indies%20Coast%20Scene.jpg"
-        },
-        {
-            "title": "Westphalian Landscape",
-            "artist": "Albert Bierstadt",
-            "year": "1850",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bierstadt%20Albert%20Westphalian%20Landscape.jpg"
         },
         {
             "title": "Wharf Scene with Ship at Dock",
