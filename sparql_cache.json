@@ -239,13 +239,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Tr%C3%B3jka%20Sanna%201880%20M%C5%9A.jpg"
         },
         {
-            "title": "Snow Scene",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1882",
-            "museum": "The Newark Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Snow%20Scene.jpg"
-        },
-        {
             "title": "Rural Postman",
             "artist": "J\u00f3zef Che\u0142mo\u0144ski",
             "year": "1872",
@@ -428,13 +421,6 @@
             "year": "1897",
             "museum": "The Phillips Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Val-Saint-Nicolas%2C%20near%20Dieppe%20%28Morning%29%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Road of La Roche-Guyon",
-            "artist": "Claude Monet",
-            "year": "1880",
-            "museum": "National Museum of Western Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Road%20of%20La%20Roche-Guyon%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Road of La Roche-Guyon",
@@ -1850,13 +1836,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-setakocsikazas%20ujholdkor%20athenban.jpg"
         },
         {
-            "title": "Italian Fisherman (Courtyard of Palazzo Corvaja in Taormina)",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1901",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20hal%C3%A1sz.jpg"
-        },
-        {
             "title": "Highland Street (Houses)",
             "artist": "Tivadar Csontv\u00e1ry Kosztka",
             "year": "1895",
@@ -1878,13 +1857,6 @@
             "year": "1550",
             "museum": "National Palace Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ch%27iu%20Ying%20003.jpg"
-        },
-        {
-            "title": "Shanglin Park",
-            "artist": "Qiu Ying",
-            "year": "1538",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shanglin%20Park.jpg"
         },
         {
             "title": "Narcissi and Chimonanthus",
@@ -1992,13 +1964,6 @@
             "year": "1844",
             "museum": "Hokusai Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Matsuri%20Yatai%20Phoenix%20%28Hokusaikan%20Obuse%29.jpg"
-        },
-        {
-            "title": "Matsuri Yatai Dragon",
-            "artist": "Katsushika Hokusai",
-            "year": "1844",
-            "museum": "Hokusai Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20Dragon.jpg"
         },
         {
             "title": "Masculine wave",
@@ -5373,13 +5338,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
         },
         {
-            "title": "Portrait of Elisabeth of Valois (1545-1568), Queen consort of Spain and her daughter Isabella Clara Eugenia (1566-1633)",
-            "artist": "Sofonisba Anguissola",
-            "year": "1565",
-            "museum": "Basque Museum in Bayonne",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/DianedAndouins1565.jpg"
-        },
-        {
             "title": "Portrait of Giuliano Cesarini",
             "artist": "Sofonisba Anguissola",
             "year": "1586",
@@ -5499,20 +5457,6 @@
             "year": "1590",
             "museum": "Chester Beatty Library",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tahmuras%20Defeating%20the%20Divs.jpg"
-        },
-        {
-            "title": "Young man in a fur hat (CBL Per 260.2)",
-            "artist": "Reza Abbasi",
-            "year": "1612",
-            "museum": "Chester Beatty Library",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20man%20in%20a%20fur%20hat%2C%20by%20Reza%20Abbasi%20%28CBL%20Per%20260.2%29.jpg"
-        },
-        {
-            "title": "Convivial Party (2)",
-            "artist": "Reza Abbasi",
-            "year": "1612",
-            "museum": "Hermitage Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Convivial%20Party2.Riza.Hermitage.%20S.Peterburg.jpg"
         }
     ],
     "Edgar Degas": [
@@ -9172,13 +9116,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20The%20Vale%20and%20Temple%20of%20Segesta%20Sicily%201844.jpg"
         },
         {
-            "title": "Tornado",
-            "artist": "Thomas Cole",
-            "year": "1835",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Tornado%201835.jpg"
-        },
-        {
             "title": "View across Frenchman's Bay from Mt. Desert Island, after a Squall",
             "artist": "Thomas Cole",
             "year": "1845",
@@ -12685,13 +12622,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Herbaceous%20peonies%20and%20butterflies%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
         },
         {
-            "title": "Fish in a lotus pond",
-            "artist": "Ito Jakuchu",
-            "year": "1763",
-            "museum": "Museum of the Imperial Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Fish%20in%20a%20lotus%20pond%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
-        },
-        {
             "title": "Mandarin ducks in the snow",
             "artist": "Ito Jakuchu",
             "year": "1759",
@@ -12762,13 +12692,6 @@
             "year": "1203",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Watching%20the%20Deer%20by%20a%20Pine%20Shaded%20Stream%20-%201997.88%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
-            "title": "Drinking in the Moonlight",
-            "artist": "Ma Yuan",
-            "year": "1189",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201997.89.jpg"
         },
         {
             "title": "Drinking in the Moonlight",
@@ -13396,13 +13319,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Riding%20Amazon.jpg"
         },
         {
-            "title": "With One Voice",
-            "artist": "Wassily Kandinsky",
-            "year": "1916",
-            "museum": "Mus\u00e9e National d'Art Moderne",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/With%20One%20Voice%20-%20Wassily%20Kandinsky%2C%20Pompidou.jpg"
-        },
-        {
             "title": "293",
             "artist": "Wassily Kandinsky",
             "year": "1913",
@@ -13979,13 +13895,6 @@
             "year": "1878",
             "museum": "http://www.wikidata.org/.well-known/genid/b83e1e181a1a9cfb3989697063f29f67",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RemorsodeNero.jpg"
-        },
-        {
-            "title": "A Sick Child brought into the Temple of Aesculapius",
-            "artist": "John William Waterhouse",
-            "year": "1877",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20A%20Sick%20Child%20brought%20into%20the%20Temple%20of%20Aesculapius%20%281877%29.jpg"
         },
         {
             "title": "The Awakening of Adonis",
@@ -15334,13 +15243,6 @@
             "year": "1796",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elisabeth%20Vig%C3%A9e-Lebrun%20Apraxine1.jpg"
-        },
-        {
-            "title": "Pelagia Sapieha n\u00e9e Potocka",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1798",
-            "museum": "Ch\u00e2teau de Montr\u00e9sor",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pelagia%20Sapieha%20-%20Vig%C3%A9e-Lebrun.jpg"
         },
         {
             "title": "Portrait of a lady making a bouquet.",
@@ -16726,13 +16628,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20La%20inspiraci%C3%B3n%20de%20San%20Mateo%20%28San%20Luigi%20dei%20Francesi%2C%20Roma%29.jpg"
         },
         {
-            "title": "The Martyrdom of Saint Matthew",
-            "artist": "Caravaggio",
-            "year": "1600",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%E2%80%94%20The%20Martyrdom%20of%20Saint%20Matthew.jpg"
-        },
-        {
             "title": "Portrait of a Courtesan",
             "artist": "Caravaggio",
             "year": "1590",
@@ -17909,13 +17804,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Twelve%20Views%20of%20Tiger%20Hill%20-%201964.371%20-%20Cleveland%20Museum%20of%20Art.tiff"
         },
         {
-            "title": "Tiger-Flight Spring at the Back Gate, from Twelve Views of Tiger Hill, Suzhou",
-            "artist": "Shen Zhou",
-            "year": "1500",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Twelve%20Views%20of%20Tiger%20Hill%2C%20Suzhou%2C%20Tiger-Flight%20Spring%20at%20the%20Back%20Gate%20-%201964.371.10%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
-        {
             "title": "Cloud-Climbing Pavilion, from Twelve Views of Tiger Hill, Suzhou",
             "artist": "Shen Zhou",
             "year": "1500",
@@ -18098,20 +17986,6 @@
             "year": "1866",
             "museum": "Museo Nacional de Arte",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Velasco%20-%20The%20Mexico%20City%20Alameda%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Valley of Mexico",
-            "artist": "Jos\u00e9 Mar\u00eda Velasco",
-            "year": "1875",
-            "museum": "Colecci\u00f3n Patricia Phelps de Cisneros",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Velasco%20-%20Valley%20of%20Mexico.jpg"
-        },
-        {
-            "title": "El Valle de M\u00e9xico",
-            "artist": "Jos\u00e9 Mar\u00eda Velasco",
-            "year": "1877",
-            "museum": "Museo Nacional de Arte",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Velasco%20Valle%20de%20Mexico%201877.gif"
         },
         {
             "title": "El Valle de M\u00e9xico",
@@ -20750,13 +20624,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Mrs.%20George%20Swinton%20%28Elizabeth%20Ebsworth%29%20-%201922.4450%20-%20Art%20Institute%20of%20Chicago.jpg"
         },
         {
-            "title": "Autumn leaves",
-            "artist": "John Singer Sargent",
-            "year": "1913",
-            "museum": "National Gallery of Victoria",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20-%20Autumn%20leaves%2C%201913%2C%20586-2.jpg"
-        },
-        {
             "title": "Hospital at Granada",
             "artist": "John Singer Sargent",
             "year": "1912",
@@ -21114,13 +20981,6 @@
             "year": "1881",
             "museum": "Dallas Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20Port%20of%20Nice%20DMA.jpg"
-        },
-        {
-            "title": "Winter",
-            "artist": "Berthe Morisot",
-            "year": "1880",
-            "museum": "Dallas Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20Winter%20aka%20Woman%20with%20a%20Muff.jpg"
         },
         {
             "title": "On the Terrace",
@@ -22245,13 +22105,6 @@
             "year": "1897",
             "museum": "Tokyo National Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuroda-seiki-kohan00-6-1b.jpeg"
-        },
-        {
-            "title": "Reading",
-            "artist": "Kuroda Seiki",
-            "year": "1891",
-            "museum": "Tokyo National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20Reading%20%28Kuroda%20Seiki%29.jpg"
         },
         {
             "title": "Female Nude Figure",
@@ -23751,20 +23604,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasegawa%20Tohaku%20-%20Pine%20Trees%20%28Sh%C5%8Drin-zu%20by%C5%8Dbu%29%20-%20left%20hand%20screen.jpg"
         },
         {
-            "title": "Pine Trees",
-            "artist": "Hasegawa T\u014dhaku",
-            "year": "1600",
-            "museum": "Tokyo National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasegawa%20Tohaku%20-%20Pine%20Trees%20%28Sh%C5%8Drin-zu%20by%C5%8Dbu%29%20-%20right%20hand%20screen.jpg"
-        },
-        {
-            "title": "Pine Trees",
-            "artist": "Hasegawa T\u014dhaku",
-            "year": "1550",
-            "museum": "Tokyo National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasegawa%20Touhaku%20-%20Pine%20Trees%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Maple Tree",
             "artist": "Hasegawa T\u014dhaku",
             "year": "1593",
@@ -23905,13 +23744,6 @@
             "year": "1781",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kaufmann%20Antonio%20Zucchi.jpg"
-        },
-        {
-            "title": "Portrait of Mme Latouce, wife of John Latouche (1732-1805)",
-            "artist": "Angelica Kauffman",
-            "year": "1750",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelika%20Kauffmann%20Portrait%20Mme%20Latouche.jpg"
         },
         {
             "title": "Portrait of Lady Louisa Leveson Gower as Spes (Goddess of Hope)",
@@ -28243,13 +28075,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20-%20Portrait%20of%20a%20Hanseatic%20Merchant%20-%201977.187%20-%20Yale%20University%20Art%20Gallery.jpg"
         },
         {
-            "title": "Portrait of a Young\u00a0Man",
-            "artist": "Hans Holbein the Younger",
-            "year": "1538",
-            "museum": "Yale University Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20-%20Portrait%20of%20a%20Young%20Man%20-%201959.15.24%20-%20Yale%20University%20Art%20Gallery.jpg"
-        },
-        {
             "title": "Portrait of Thomas Godsalve and his Son John",
             "artist": "Hans Holbein the Younger",
             "year": "1528",
@@ -28315,13 +28140,6 @@
             "year": "1938",
             "museum": "http://www.wikidata.org/.well-known/genid/febc00627c5da1ce11c0675958cd7a39",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sher-Gil%20Village-group-1938.jpg"
-        },
-        {
-            "title": "Notre Dame",
-            "artist": "Amrita Sher-Gil",
-            "year": "1932",
-            "museum": "National Gallery of Modern Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Amrita%20Sher-Gil%20Notre%20Dame%201932.jpg"
         },
         {
             "title": "Reclining Nude",
@@ -28737,13 +28555,6 @@
             "year": "1867",
             "museum": "National Museum of Western Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20-%20The%20Loving%20Cup%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Venus Verticordia",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1866",
-            "museum": "Russell-Cotes Art Gallery & Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20-%20Venus%20Verticordia.jpg"
         },
         {
             "title": "La Bella Mano",
@@ -30629,13 +30440,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marine%E2%80%94Sunset%20Frederic%20Edwin%20Church.jpg"
         },
         {
-            "title": "Morning, Looking East over the Hudson Valley from Catskill Mountains",
-            "artist": "Frederic Edwin Church",
-            "year": "1848",
-            "museum": "Albany Institute of History & Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morning%2C%20Looking%20East%20over%20the%20Hudson%20Valley%20from%20Catskill%20Mountains.jpg"
-        },
-        {
             "title": "Moses Viewing the Promised Land",
             "artist": "Frederic Edwin Church",
             "year": "1846",
@@ -30895,13 +30699,6 @@
             "year": "1620",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Crossing%20at%20Sano%20%28Sano%20no%20watari%29%20-%201949.554%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
-            "title": "Crossing at Sano",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1620",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20%28Japanese%2C%20c.%201570-c.%201640%29%20-%20Crossing%20at%20Sano%20-%201949.554%20-%20Cleveland%20Museum%20of%20Art.jpg"
         },
         {
             "title": "The Beach at Sumiyoshi from the Tales of Ise",
@@ -34731,6 +34528,817 @@
             "year": "1902",
             "museum": "McNay Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20La%20Soeur%20de%20charit%C3%A9.jpg"
+        }
+    ],
+    "Caspar David Friedrich": [
+        {
+            "title": "Doorway in Meissen",
+            "artist": "Caspar David Friedrich",
+            "year": "1827",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Toreingang%20in%20Mei%C3%9Fen.jpg"
+        },
+        {
+            "title": "Oak in the Snow",
+            "artist": "Caspar David Friedrich",
+            "year": "1827",
+            "museum": "Wallraf\u2013Richartz Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Eiche%20im%20Schnee%20-%20Caspar%20David%20Friedrich.jpg"
+        },
+        {
+            "title": "The Evergreens by the Waterfall",
+            "artist": "Caspar David Friedrich",
+            "year": "1828",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Tannen%20am%20Wasserfall.jpg"
+        },
+        {
+            "title": "Spruce thicket in the snow",
+            "artist": "Caspar David Friedrich",
+            "year": "1828",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20074.jpg"
+        },
+        {
+            "title": "The Oaktree in the Snow",
+            "artist": "Caspar David Friedrich",
+            "year": "1829",
+            "museum": "Alte Nationalgalerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C%20Caspar%20David%20-%20Eichbaum%20im%20Schnee.jpg"
+        },
+        {
+            "title": "Rest during the hay harvest",
+            "artist": "Caspar David Friedrich",
+            "year": "1834",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rast%20bei%20der%20Heuernte.jpg"
+        },
+        {
+            "title": "An owl on a bare tree",
+            "artist": "Caspar David Friedrich",
+            "year": "1834",
+            "museum": "http://www.wikidata.org/.well-known/genid/a5aa577bd1911aa17f469fa1ed660cfb",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Eule%20auf%20schmucklosem%20Baum.jpg"
+        },
+        {
+            "title": "Forest in late autumn",
+            "artist": "Caspar David Friedrich",
+            "year": "1835",
+            "museum": "Angermuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Wald%20im%20Sp%C3%A4therbst.jpg"
+        },
+        {
+            "title": "Sea Shore in Moonlight",
+            "artist": "Caspar David Friedrich",
+            "year": "1835",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20K%C3%BCste%20bei%20Mondschein%202.jpg"
+        },
+        {
+            "title": "Mountains in the Rising Fog",
+            "artist": "Caspar David Friedrich",
+            "year": "1835",
+            "museum": "St\u00e4del Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Landscape%20with%20the%20Rosenberg%20in%20the%20Bohemian%20Mountains%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Wolves in the forest in front of a cave",
+            "artist": "Caspar David Friedrich",
+            "year": "1790",
+            "museum": "http://www.wikidata.org/.well-known/genid/cf0588a503e647e31a1671494867426f",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20W%C3%B6lfe%20im%20Wald%20vor%20einer%20H%C3%B6hle.jpg"
+        },
+        {
+            "title": "Snow hill with Ravens",
+            "artist": "Caspar David Friedrich",
+            "year": "1798",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Schneeh%C3%BCgel%20mit%20Raben.jpg"
+        },
+        {
+            "title": "Autumn Landscape with a Man Gathering Wood",
+            "artist": "Caspar David Friedrich",
+            "year": "1798",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20Herbstlandschaft.jpg"
+        },
+        {
+            "title": "Giant Mountains (View of the Small Sturmhaube from Warmbrunn)",
+            "artist": "Caspar David Friedrich",
+            "year": "1810",
+            "museum": "Pushkin Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Blick%20von%20Warmbrunn%20auf%20die%20Kleine%20Sturmhaube.jpg"
+        },
+        {
+            "title": "Rocky Valley",
+            "artist": "Caspar David Friedrich",
+            "year": "1813",
+            "museum": "Kunsthalle Bremen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Felsenschlucht%20%28Das%20Grab%20des%20Arminius%29.jpg"
+        },
+        {
+            "title": "View of a harbour",
+            "artist": "Caspar David Friedrich",
+            "year": "1814",
+            "museum": "Prussian Palaces and Gardens Foundation Berlin-Brandenburg",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Ansicht%20eines%20Hafens.jpg"
+        },
+        {
+            "title": "Giant Mountains Landscape with Rising Fog",
+            "artist": "Caspar David Friedrich",
+            "year": "1819",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Riesengebirge%20Landscape%20with%20Rising%20Fog%20-%20WGA8257.jpg"
+        },
+        {
+            "title": "View of the Baltic Sea",
+            "artist": "Caspar David Friedrich",
+            "year": "1820",
+            "museum": "Museum Kunstpalast",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Blick%20auf%20die%20Ostsee.jpg"
+        },
+        {
+            "title": "The Augustus Bridge in Dresden",
+            "artist": "Caspar David Friedrich",
+            "year": "1820",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20Augustusbr%C3%BCcke%20in%20Dresden.jpg"
+        },
+        {
+            "title": "Meadows near Greifswald",
+            "artist": "Caspar David Friedrich",
+            "year": "1821",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wiesen%20bei%20Greifswald%20%281821-1822%29%20-%20Caspar%20David%20Friedrich%20%28Hamburger%20Kunsthalle%29.jpg"
+        },
+        {
+            "title": "Rocky ravine in the Elbe Sandstone Mountains",
+            "artist": "Caspar David Friedrich",
+            "year": "1822",
+            "museum": "Belvedere",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Landscape%20in%20the%20Elbe%20Sandstone%20Mountains%20-%20Caspar%20David%20Friedrich%20-%20Google%20Cultural%20Institute.jpg"
+        },
+        {
+            "title": "Flat Countryside",
+            "artist": "Caspar David Friedrich",
+            "year": "1822",
+            "museum": "Charlottenburg Palace",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20-%20Flat%20Countryside%20%28Isle%20of%20Ruegen%20or%20near%20Greifswald%29.jpg"
+        },
+        {
+            "title": "Northern Sea in the Moonlight",
+            "artist": "Caspar David Friedrich",
+            "year": "1823",
+            "museum": "National Gallery Prague",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Northern%20Sea%20in%20the%20Moonlight%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Inside the forest in the moonlight",
+            "artist": "Caspar David Friedrich",
+            "year": "1820",
+            "museum": "Alte Nationalgalerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Waldinneres%20bei%20Mondschein.jpg"
+        },
+        {
+            "title": "Monastery ruin Eldena",
+            "artist": "Caspar David Friedrich",
+            "year": "1824",
+            "museum": "Alte Nationalgalerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klosterruine%20Eldena%20bei%20Greifswald%20%281824%29%20-%20Caspar%20David%20Friedrich%20%28Alte%20Nationalgalerie%2C%20Berlin%29.jpg"
+        },
+        {
+            "title": "The Cemetery Gate",
+            "artist": "Caspar David Friedrich",
+            "year": "1825",
+            "museum": "Kunsthalle Bremen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Churchyard%20Gate%20by%20Friedrich.jpg"
+        },
+        {
+            "title": "Seapiece by Moonlight",
+            "artist": "Caspar David Friedrich",
+            "year": "1827",
+            "museum": "Museum der bildenden K\u00fcnste",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/See%20in%20the%20moonlight%20by%20Caspar%20David%20Friedrich.jpg"
+        },
+        {
+            "title": "Easter Morning",
+            "artist": "Caspar David Friedrich",
+            "year": "1828",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Ostermorgen.jpg"
+        },
+        {
+            "title": "Flat country shank at Bay of Greifswald",
+            "artist": "Caspar David Friedrich",
+            "year": "1830",
+            "museum": "Museum Georg Sch\u00e4fer",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20017.jpg"
+        },
+        {
+            "title": "The Riesengebirge Mountains",
+            "artist": "Caspar David Friedrich",
+            "year": "1830",
+            "museum": "Alte Nationalgalerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C%20Caspar%20David%20-%20Riesengebirge%20-%20Nationalgalerie%20Berlin.jpg"
+        },
+        {
+            "title": "Fishing boat between two rocks on the beach of the Baltic Sea",
+            "artist": "Caspar David Friedrich",
+            "year": "1830",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Fischerboot%20zwischen%20zwei%20Felsen%20am%20Strand%20der%20Ostsee.jpg"
+        },
+        {
+            "title": "Walk at Dusk",
+            "artist": "Caspar David Friedrich",
+            "year": "1837",
+            "museum": "J. Paul Getty Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20A%20Walk%20at%20Dusk%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Morning",
+            "artist": "Caspar David Friedrich",
+            "year": "1816",
+            "museum": "Landesmuseum Hannover",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/CDFriedrich-Am%20Morgen%20ausfahrende%20Boote.jpg"
+        },
+        {
+            "title": "Cloud study",
+            "artist": "Caspar David Friedrich",
+            "year": "1798",
+            "museum": "Pomeranian State Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20%28zugeschr%29%20-%20Wolkenstudie.jpg"
+        },
+        {
+            "title": "Landscape with bridge",
+            "artist": "Caspar David Friedrich",
+            "year": "1800",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Landschaft%20mit%20Br%C3%BCcke.jpg"
+        },
+        {
+            "title": "Sea beach in the fog",
+            "artist": "Caspar David Friedrich",
+            "year": "1807",
+            "museum": "Belvedere",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Meeresstrand%20im%20Nebel%20%28ca.1807%29.jpg"
+        },
+        {
+            "title": "Seashore with fisherman",
+            "artist": "Caspar David Friedrich",
+            "year": "1807",
+            "museum": "Belvedere",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Meeresstrand%20mit%20Fischer%20%28ca.1807%29.jpg"
+        },
+        {
+            "title": "Bohemian Landscape",
+            "artist": "Caspar David Friedrich",
+            "year": "1808",
+            "museum": "Staatsgalerie Stuttgart",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20B%C3%B6hmische%20Landschaft%2C%20ca.1808.jpg"
+        },
+        {
+            "title": "Port of Greifswald",
+            "artist": "Caspar David Friedrich",
+            "year": "1810",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20Hafen%20von%20Greifswald.jpg"
+        },
+        {
+            "title": "Rock Canyon in the Harz",
+            "artist": "Caspar David Friedrich",
+            "year": "1811",
+            "museum": "Munich Central Collecting Point",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Felsenschlucht%20im%20Harz.jpg"
+        },
+        {
+            "title": "Rock Canyon in the Harz",
+            "artist": "Caspar David Friedrich",
+            "year": "1811",
+            "museum": "Pomeranian State Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Felsenschlucht%20im%20Harz.jpg"
+        },
+        {
+            "title": "The Cross Beside The Baltic",
+            "artist": "Caspar David Friedrich",
+            "year": "1813",
+            "museum": "Prussian Palaces and Gardens Foundation Berlin-Brandenburg",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Kreuz%20an%20der%20Ostsee%20%28Schloss%20Carlottenburg%2C%20Neuer%20Pavillon%29.jpg"
+        },
+        {
+            "title": "Evening",
+            "artist": "Caspar David Friedrich",
+            "year": "1817",
+            "museum": "http://www.wikidata.org/.well-known/genid/9ea9b4b4dc4c23692a5c4cce81514379",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Abend.jpg"
+        },
+        {
+            "title": "City at Moonrise",
+            "artist": "Caspar David Friedrich",
+            "year": "1817",
+            "museum": "Museum collection Am R\u00f6merholz",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Stadt%20bei%20Mondaufgang%20%28ca.1817%29.jpg"
+        },
+        {
+            "title": "Woman on the beach of Ruegen",
+            "artist": "Caspar David Friedrich",
+            "year": "1818",
+            "museum": "Kunst Museum Winterthur | Reinhart am Stadtgarten",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Frau%20am%20Strand%20von%20R%C3%BCgen%20%28ca.1818%29.jpg"
+        },
+        {
+            "title": "Swans in the Reeds",
+            "artist": "Caspar David Friedrich",
+            "year": "1820",
+            "museum": "Freies Deutsches Hochstift",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Schwaene%20im%20Schilf%20%28C%20D%20Friedrich%29.jpg"
+        },
+        {
+            "title": "Drifting Clouds",
+            "artist": "Caspar David Friedrich",
+            "year": "1820",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C%20Caspar%20David%20-%20Ziehende%20Wolken%20-%20ca.1820%20-%20Hamburger%20Kunsthalle.jpg"
+        },
+        {
+            "title": "Ship in the early morning fog",
+            "artist": "Caspar David Friedrich",
+            "year": "1821",
+            "museum": "Wallraf\u2013Richartz Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Flussufer%20im%20Nebel%20-%20Wallraf-Richartz-Museum.jpg"
+        },
+        {
+            "title": "Evening on the River",
+            "artist": "Caspar David Friedrich",
+            "year": "1820",
+            "museum": "Wallraf\u2013Richartz Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Abend%20am%20Fluss.jpg"
+        },
+        {
+            "title": "Daytime cycle: The Afternoon",
+            "artist": "Caspar David Friedrich",
+            "year": "1821",
+            "museum": "Landesmuseum Hannover",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Tageszeitenzyklus%2C%20Der%20Nachmittag%20%281821-22%29.jpg"
+        },
+        {
+            "title": "Daytime cycle: The Morning",
+            "artist": "Caspar David Friedrich",
+            "year": "1830",
+            "museum": "Landesmuseum Hannover",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Tageszeitenzyklus%2C%20Der%20Morgen%20%281821-22%29.jpg"
+        },
+        {
+            "title": "Daytime cycle: The Midday",
+            "artist": "Caspar David Friedrich",
+            "year": "1821",
+            "museum": "Landesmuseum Hannover",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Tageszeitenzyklus%2C%20Der%20Mittag%20%281821-22%29.jpg"
+        },
+        {
+            "title": "Woman on the stairs",
+            "artist": "Caspar David Friedrich",
+            "year": "1825",
+            "museum": "Pomeranian State Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Frau%20auf%20der%20Treppe.jpg"
+        },
+        {
+            "title": "Woman on the stairs",
+            "artist": "Caspar David Friedrich",
+            "year": "1825",
+            "museum": "Pomeranian State Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Zum%20Licht%20hinaufsteigende%20Frau.jpg"
+        },
+        {
+            "title": "Woman with the Candlestick",
+            "artist": "Caspar David Friedrich",
+            "year": "1825",
+            "museum": "Pomeranian State Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Frau%20mit%20Kerzenleuchter.jpg"
+        },
+        {
+            "title": "Northern Landscape, Spring",
+            "artist": "Caspar David Friedrich",
+            "year": "1825",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Nordische%20Landschaft%2C%20Fr%C3%BChling.jpg"
+        },
+        {
+            "title": "Early Snow",
+            "artist": "Caspar David Friedrich",
+            "year": "1827",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C%20Caspar%20David%20-%20Fr%C3%BChschnee.jpg"
+        },
+        {
+            "title": "Evening on the Baltic Sea",
+            "artist": "Caspar David Friedrich",
+            "year": "1830",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Abend%20am%20Ostseestrand.jpg"
+        },
+        {
+            "title": "Evening on the Baltic Sea",
+            "artist": "Caspar David Friedrich",
+            "year": "1831",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Abend%20am%20Ostseestrand.jpg"
+        },
+        {
+            "title": "Sturzacker",
+            "artist": "Caspar David Friedrich",
+            "year": "1830",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Sturzacker%20%28ca.%201830%29.jpg"
+        },
+        {
+            "title": "Mountain landscape in Bohemia",
+            "artist": "Caspar David Friedrich",
+            "year": "1830",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Riesengebirgslandschaft%20%28C%20D%20Friedrich%29.jpg"
+        },
+        {
+            "title": "The evening star",
+            "artist": "Caspar David Friedrich",
+            "year": "1830",
+            "museum": "Goethe House",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Der%20Abendstern%20%28ca.1830%29.jpg"
+        },
+        {
+            "title": "Lady at the Beach",
+            "artist": "Caspar David Friedrich",
+            "year": "1830",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20Dame%20am%20Meeresstrand.jpg"
+        },
+        {
+            "title": "Swans in the reeds at the first dawn",
+            "artist": "Caspar David Friedrich",
+            "year": "1832",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Schw%C3%A4ne%20im%20Schilf%20beim%20ersten%20Morgenrot.jpg"
+        },
+        {
+            "title": "Wreck in the Moonlight",
+            "artist": "Caspar David Friedrich",
+            "year": "1835",
+            "museum": "Alte Nationalgalerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wreck%20in%20the%20Moonlight.jpg"
+        },
+        {
+            "title": "Sea Shore (Fishing-Nets)",
+            "artist": "Caspar David Friedrich",
+            "year": "1835",
+            "museum": "Hermitage Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Strand%20mit%20Fischernetzen%20%28ca.1835%29.jpg"
+        },
+        {
+            "title": "Riesengebirge Landscape",
+            "artist": "Caspar David Friedrich",
+            "year": "1835",
+            "museum": "National Museum of Art, Architecture and Design",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Mountain%20in%20Riesengebirge%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Mountain Peak with Drifting Clouds",
+            "artist": "Caspar David Friedrich",
+            "year": "1835",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Berggipfel%20mit%20ziehenden%20Wolken%20%281835%29.jpg"
+        },
+        {
+            "title": "After the Storm",
+            "artist": "Caspar David Friedrich",
+            "year": "1817",
+            "museum": "Statens Museum for Kunst",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Efter%20stormen%2C%201817%2C%20KMS8817%2C%20Statens%20Museum%20for%20Kunst.jpg"
+        },
+        {
+            "title": "Ruins at dusk (Church ruin in the forest)",
+            "artist": "Caspar David Friedrich",
+            "year": "1831",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Ruinen%20in%20der%20Abendd%C3%A4mmerung%20%28ca%201831%29.jpg"
+        },
+        {
+            "title": "Marshy beach",
+            "artist": "Caspar David Friedrich",
+            "year": "1832",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Sumpfiger%20Strand%20%28ca.%201832%29.jpg"
+        },
+        {
+            "title": "Sunburst in the Riesengebirge",
+            "artist": "Caspar David Friedrich",
+            "year": "1835",
+            "museum": "Saint Louis Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Sunburst%20in%20the%20Riesengebirge%20-%201-2019%20-%20Saint%20Louis%20Art%20Museum.jpg"
+        },
+        {
+            "title": "Landscape With Mountain Lake, Morning",
+            "artist": "Caspar David Friedrich",
+            "year": "1830",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Landschaft%20mit%20Gebirgssee%2C%20Morgen.jpg"
+        },
+        {
+            "title": "Churchyard gate",
+            "artist": "Caspar David Friedrich",
+            "year": "1822",
+            "museum": "Staatliche Kunsthalle Karlsruhe",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Kirchhofpforte%20%281822%29.jpg"
+        },
+        {
+            "title": "Evening by the Baltic Sea",
+            "artist": "Caspar David Friedrich",
+            "year": "1826",
+            "museum": "Museum Georg Sch\u00e4fer",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Abend%20an%20der%20Ostsee%2C%20um%201826%2C%20MGS-20160312-001.jpg"
+        },
+        {
+            "title": "Idealised landscape with waterfall",
+            "artist": "Caspar David Friedrich",
+            "year": "1801",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Ideale%20Gebirgslandschaft%20mit%20Wasserfall.jpg"
+        },
+        {
+            "title": "Mountain chapel in the mist",
+            "artist": "Caspar David Friedrich",
+            "year": "1811",
+            "museum": "Alte Nationalgalerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C%20Caspar%20David%20-%20Gebirgskapelle%20im%20Nebel%20-%20Kriegsverlust%20Nationalgalerie%20BerlinLA461345%2076318.jpg"
+        },
+        {
+            "title": "Northern Lights",
+            "artist": "Caspar David Friedrich",
+            "year": "1835",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aurora%20boreal%20-%20Caspar%20David%20Friedrich.jpg"
+        },
+        {
+            "title": "Landscape with windmills",
+            "artist": "Caspar David Friedrich",
+            "year": "1820",
+            "museum": "Prussian Palaces and Gardens Foundation Berlin-Brandenburg",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Landschaft%20mit%20Windm%C3%BChlen%20%28Caspar%20David%20Friedrich%29-WUS03177.jpg"
+        },
+        {
+            "title": "Coastline in the evening light",
+            "artist": "Caspar David Friedrich",
+            "year": "1817",
+            "museum": "Museum Behnhaus Dr\u00e4gerhaus",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20K%C3%BCstenlandschaft%20im%20Abendlicht.jpg"
+        },
+        {
+            "title": "Burning house and Gothic church",
+            "artist": "Caspar David Friedrich",
+            "year": "1810",
+            "museum": "Museum Georg Sch\u00e4fer",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20-%20Brennendes%20Haus%20und%20gotische%20Kirche%2C%20um%201810.jpg"
+        },
+        {
+            "title": "Hill and Ploughed Field near Dresden",
+            "artist": "Caspar David Friedrich",
+            "year": "1825",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hill%20and%20Ploughed%20Field%20near%20Dresden%20by%20Caspar%20David%20Friedrich.jpg"
+        },
+        {
+            "title": "Graveyard under Snow",
+            "artist": "Caspar David Friedrich",
+            "year": "1826",
+            "museum": "Museum der bildenden K\u00fcnste",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Friedhof%20im%20Schnee%20%28MbK%29.jpg"
+        },
+        {
+            "title": "Cross in the Mountains",
+            "artist": "Caspar David Friedrich",
+            "year": "1822",
+            "museum": "Ducal Museum Gotha",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Kreuz%20im%20Gebirge%20%28Schloss%20Friedenstein%29.jpg"
+        },
+        {
+            "title": "Evening",
+            "artist": "Caspar David Friedrich",
+            "year": "1824",
+            "museum": "http://www.wikidata.org/.well-known/genid/5baf26163ad9ff54ffdfe729d108ecd2",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Abend%20%28Sonnenuntergang%20hinter%20der%20Dresdener%20Hofkirche%29%2C%201824.jpg"
+        },
+        {
+            "title": "Nightly cloudy sky / Evening",
+            "artist": "Caspar David Friedrich",
+            "year": "1824",
+            "museum": "Belvedere",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Abendlicher%20Wolkenhimmel%20-%202379%20-%20%C3%96sterreichische%20Galerie%20Belvedere.jpg"
+        },
+        {
+            "title": "Reefs by the Seashore",
+            "artist": "Caspar David Friedrich",
+            "year": "1824",
+            "museum": "Staatliche Kunsthalle Karlsruhe",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Felsenriff%20am%20Meeresstrand%20%281824%29.jpg"
+        },
+        {
+            "title": "Tree of crows",
+            "artist": "Caspar David Friedrich",
+            "year": "1822",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Rabenbaum%20%28ca.%201822%29.jpg"
+        },
+        {
+            "title": "Two Men by the Sea",
+            "artist": "Caspar David Friedrich",
+            "year": "1817",
+            "museum": "Alte Nationalgalerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Zwei%20M%C3%A4nner%20am%20Meer%20%281817%29.jpg"
+        },
+        {
+            "title": "Two men contemplating the Moon",
+            "artist": "Caspar David Friedrich",
+            "year": "1819",
+            "museum": "Staatliche Kunstsammlungen Dresden",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Two%20Men%20Contemplating%20the%20Moon%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Wanderer above the Sea of Fog",
+            "artist": "Caspar David Friedrich",
+            "year": "1818",
+            "museum": "Hamburger Kunsthalle",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C%20Caspar%20David%20-%20Wanderer%20%C3%BCber%20dem%20Nebelmeer.jpg"
+        },
+        {
+            "title": "The Abbey in the Oakwood",
+            "artist": "Caspar David Friedrich",
+            "year": "1809",
+            "museum": "Alte Nationalgalerie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Abtei%20im%20Eichwald%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Mountain Landscape with Rainbow",
+            "artist": "Caspar David Friedrich",
+            "year": "1809",
+            "museum": "Museum Folkwang",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Gebirgslandschaft%20mit%20Regenbogen.jpg"
+        }
+    ],
+    "Sultan Muhammad": [],
+    "Sahibdin": [],
+    "Ogata K\u014drin": [
+        {
+            "title": "Red and White Plum Blossoms",
+            "artist": "Ogata K\u014drin",
+            "year": "1715",
+            "museum": "MOA Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Red%20and%20White%20Plum%20Blossoms.jpg"
+        },
+        {
+            "title": "Rough Waves",
+            "artist": "Ogata K\u014drin",
+            "year": "1706",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%B3%A2%E6%BF%A4%E5%9B%B3%E5%B1%8F%E9%A2%A8-Rough%20Waves%20MET%20DT1615.jpg"
+        },
+        {
+            "title": "Hotei",
+            "artist": "Ogata K\u014drin",
+            "year": "1704",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP-12232-076.jpg"
+        },
+        {
+            "title": "Flowers of Spring and Autumn",
+            "artist": "Ogata K\u014drin",
+            "year": "1750",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Flowers%20of%20Spring%20and%20Autumn.jpg"
+        },
+        {
+            "title": "Flowers of Spring and Autumn",
+            "artist": "Ogata K\u014drin",
+            "year": "1750",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20SL%208%202000%202%2066ab.jpeg"
+        },
+        {
+            "title": "Wind God and Thunder God",
+            "artist": "Ogata K\u014drin",
+            "year": "1800",
+            "museum": "Tokyo National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wind%20God%20and%20Thunder%20God%20Screens%20by%20Ogata%20Korin.png"
+        },
+        {
+            "title": "Pheasant",
+            "artist": "Ogata K\u014drin",
+            "year": "1687",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20Korin%20-%20Pheasant%20-%201997.110%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Flowering Plants in Autumn",
+            "artist": "Ogata K\u014drin",
+            "year": "1800",
+            "museum": "Suntory Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Ogata%20Korin%20-%20Important%20Art%20Object%20Flowering%20Plants%20in%20Autumn%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Camellias",
+            "artist": "Ogata K\u014drin",
+            "year": "1687",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Camellias%20-%2036.100.48%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Flowers",
+            "artist": "Ogata K\u014drin",
+            "year": "1849",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Flowers%20-%2008.148.3%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Rabbits",
+            "artist": "Ogata K\u014drin",
+            "year": "1849",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Rabbits%20-%2008.148.2%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Blossoming Trees",
+            "artist": "Ogata K\u014drin",
+            "year": "1849",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Blossoming%20Trees%20-%2008.148.1%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Old Man and Woman",
+            "artist": "Ogata K\u014drin",
+            "year": "1687",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Old%20Man%20and%20Woman%20-%2017.118.117%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Hydrangeas",
+            "artist": "Ogata K\u014drin",
+            "year": "1708",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Hydrangeas%20-%2036.100.49%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Chinese Bellflowers",
+            "artist": "Ogata K\u014drin",
+            "year": "1687",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Chinese%20Bellflowers%20-%201975.268.64%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Preliminary Drawing of Three Deer Mounted on a Hanging-scroll Painting of Flowering Bush Clover",
+            "artist": "Ogata K\u014drin",
+            "year": "1766",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Preliminary%20Drawing%20of%20Three%20Deer%20Mounted%20on%20a%20Hanging-scroll%20Painting%20of%20Flowering%20Bush%20Clover%20-%202019.105%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Wisteria",
+            "artist": "Ogata K\u014drin",
+            "year": "1687",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Wisteria%20-%2029.100.526%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Irises at Yatsuhashi (Eight Bridges)",
+            "artist": "Ogata K\u014drin",
+            "year": "1700",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yatsuhashi-zu%20By%C5%8Dbu%20stuck%20up.jpg"
+        },
+        {
+            "title": "Irises at Yatsuhashi (Eight Bridges)",
+            "artist": "Ogata K\u014drin",
+            "year": "1750",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yatsuhashi-zu%20By%C5%8Dbu%20stuck%20up.jpg"
+        },
+        {
+            "title": "Fukurokuju",
+            "artist": "Ogata K\u014drin",
+            "year": "1700",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Fukurokuju%20-%2074.1.21%20-%20Minneapolis%20Institute%20of%20Art.jpg"
+        },
+        {
+            "title": "White Poppies on Gold Ground",
+            "artist": "Ogata K\u014drin",
+            "year": "1741",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20White%20Poppies%20on%20Gold%20Ground%20-%2049.35.1%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Azalea (Tsutsuji-zu)",
+            "artist": "Ogata K\u014drin",
+            "year": "1750",
+            "museum": "Ebara Hatakeyama Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Azalea%20Korin.JPG"
         }
     ]
 }
