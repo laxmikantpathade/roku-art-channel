@@ -197,13 +197,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Zima%20Dworek%20w%20zmierzchu%20zimowym.jpg"
         },
         {
-            "title": "Rural Postman",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1872",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Pocztarek%20wiejski.jpg"
-        },
-        {
             "title": "Za chrustem",
             "artist": "J\u00f3zef Che\u0142mo\u0144ski",
             "year": "1902",
@@ -885,13 +878,6 @@
             "year": "1900",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Michail%20Wrubel%20-%20przed%20noc%C4%85.jpg"
-        },
-        {
-            "title": "The Lilacs",
-            "artist": "Mikhail Vrubel",
-            "year": "1901",
-            "museum": "Tretyakov Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Lilacs%27%20by%20Mikhail%20Vrubel%2C%20unfinished%2C%201901%2C%20Tretyakov%20Gallery.jpg"
         },
         {
             "title": "Thirty-Three Bogatyrs",
@@ -2621,13 +2607,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Constantinovich%20Aivazovsky%20-%20Frozen%20Bosphorus%20Under%20Snow%20%28detail%29.JPG"
         },
         {
-            "title": "Ice-Breakers on the Frozen Neva in St. Petersburg",
-            "artist": "Ivan Aivazovsky",
-            "year": "1877",
-            "museum": "http://www.wikidata.org/.well-known/genid/41646ef4bbaa13a72e78af4c8ae1aec9",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Constantinovich%20Aivazovsky%20-%20Ice-Breakers%20on%20the%20Frozen%20Neva%20in%20St.%20Petersburg.JPG"
-        },
-        {
             "title": "Clouds Over a Calm Sea",
             "artist": "Ivan Aivazovsky",
             "year": "1873",
@@ -3061,13 +3040,6 @@
             "artist": "Rembrandt",
             "year": "1626",
             "museum": "Munich Central Collecting Point",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
-        },
-        {
-            "title": "History Painting with self-portrait",
-            "artist": "Rembrandt",
-            "year": "1626",
-            "museum": "Instituut Collectie Nederland",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Historical%20Painting%201626.jpg"
         },
         {
@@ -3603,13 +3575,6 @@
             "year": "1775",
             "museum": "Museo del Prado",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20pescador%20de%20ca%C3%B1a.jpg"
-        },
-        {
-            "title": "The Duchess of Alba and la Beata",
-            "artist": "Francisco Goya",
-            "year": "1795",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20duquesa%20de%20Alba%20y%20la%20Beata.jpg"
         },
         {
             "title": "The Quail Shoot",
@@ -6424,15 +6389,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Woman%20on%20a%20Striped%20Sofa%20with%20a%20Dog%20-%201961.159%20-%20Fogg%20Museum.jpg"
         }
     ],
-    "Hilma af Klint": [
-        {
-            "title": "The Ten Largest, No. 2, Childhood",
-            "artist": "Hilma af Klint",
-            "year": "1907",
-            "museum": "Hilma af Klint Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%202%20-%20Childhood%20-%201907.jpg"
-        }
-    ],
+    "Hilma af Klint": [],
     "Edward Mitchell Bannister": [
         {
             "title": "Boston Street Scene (Boston Common)",
@@ -6743,13 +6700,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hauling%20Rails%20%28Boy%20and%20Man%20with%20Oxen%29%20by%20Edward%20Mitchell%20Bannister.jpg"
         },
         {
-            "title": "Untitled (boy and man with oxen)",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1891",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28boy%20and%20man%20with%20oxen%29%20-%201983.95.153%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
             "title": "Untitled (cattle near river with sailboat in distance)",
             "artist": "Edward Mitchell Bannister",
             "year": "1864",
@@ -6937,13 +6887,6 @@
             "year": "1864",
             "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20road%20near%20stream%20and%20trees%29%20-%201983.95.141%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Untitled (landscape with rock in foreground and roof with steeple, lake in background)",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1864",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20rock%20in%20foreground%20and%20roof%20with%20steeple%2C%20lake%20in%20background%29%20-%201983.95.90%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
             "title": "Untitled (landscape with rocks)",
@@ -8880,13 +8823,6 @@
             "year": "1823",
             "museum": "Pinacoteca de S\u00e3o Paulo",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rua%20Direita%2C%20Rio%20de%20Janeiro%20%28atribu%C3%ADdo%29%2C%20da%20Cole%C3%A7%C3%A3o%20Brasiliana%20Iconogr%C3%A1fica.jpg"
-        },
-        {
-            "title": "Lapa Beach and Morro do Castelo (\"castle hill\")",
-            "artist": "F\u00e9lix \u00c9mile Taunay",
-            "year": "1840",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9lix%20Taunay%20-%201840%20ca.%20-%20Praia%20da%20Lapa%20e%20Morro%20do%20Castelo.jpg"
         }
     ],
     "Nainsukh": [],
@@ -11500,13 +11436,6 @@
             "year": "1944",
             "museum": "Mus\u00e9e National d'Art Moderne",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C%20Wassily%20-%20Unfinished%20Painting%2C%20AM%2081-65-77%2C%20GAC.jpg"
-        },
-        {
-            "title": "Unfinished Painting",
-            "artist": "Wassily Kandinsky",
-            "year": "1944",
-            "museum": "Mus\u00e9e National d'Art Moderne",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C%20Wassily%20-%20Unfinished%20Painting%2C%201944%2C%20GAC.jpg"
         },
         {
             "title": "Grey Oval",
@@ -15831,13 +15760,6 @@
             "year": "1490",
             "museum": "Princeton Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20%E6%B2%88%E5%91%A8%20-%20Home%20by%20the%20Stream%20%28Shui%20ci%20ren%20jia%20%E6%B0%B4%2A%E4%BA%BA%E5%AE%B6%29%20-%20y1984-51%20a%20-%20Princeton%20University%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Delights of Cangzhou",
-            "artist": "Shen Zhou",
-            "year": "1507",
-            "museum": "The Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%B2%88%E5%91%A8%E6%B2%A7%E6%B4%B2%E8%B6%A3%E5%9B%BE%E5%8D%B7.png"
         }
     ],
     "Jos\u00e9 Mar\u00eda Velasco": [],
@@ -16243,13 +16165,6 @@
         }
     ],
     "Vincent van Gogh": [
-        {
-            "title": "Basket of Hyacinth Bulbs",
-            "artist": "Vincent van Gogh",
-            "year": "1887",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mand%20met%20hyacintbollen%20-%20s0063V1962%20-%20Van%20Gogh%20Museum.jpg"
-        },
         {
             "title": "Flowerpot with Garlic Chives",
             "artist": "Vincent van Gogh",
@@ -18850,13 +18765,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20cottage-interior-also-known-as-interior-at-jersey.jpg"
         },
         {
-            "title": "The Artist's Sister Edma Seated in a Park",
-            "artist": "Berthe Morisot",
-            "year": "1864",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%2C%20The%20Artist%27s%20Sister%20Edma%20Seated%20in%20a%20Park%2C%201864%2C%20NGA%2052303.jpg"
-        },
-        {
             "title": "Spring landscape",
             "artist": "Berthe Morisot",
             "year": "1890",
@@ -19207,13 +19115,6 @@
             "year": "1888",
             "museum": "Saint Louis Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Pierre%20Seurat%20-%20Port-en-Bessin%2C%20The%20Outer%20Harbor%20%28Low%20Tide%29%20-%204-1934%20-%20Saint%20Louis%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Low Tide at Grandcamp",
-            "artist": "Georges Seurat",
-            "year": "1885",
-            "museum": "Pola Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Low%20Tide%20at%20Grandcamp%20PC%20155.jpg"
         },
         {
             "title": "Around the Town",
@@ -20642,13 +20543,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lecci%C3%B3n%20de%20equitaci%C3%B3n%20del%20pr%C3%ADncipe%20Baltasar%20Carlos%2C%20by%20Diego%20Vel%C3%A1zquez.jpg"
         },
         {
-            "title": "Portrait of Mariana of Austria",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1652",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mariana%20of%20Austria%20by%20Vel%C3%A1zquez%20%28c.%201652%2C%20Museo%20del%20Prado%29.jpg"
-        },
-        {
             "title": "Equestrian Portrait of Margarita of Austria",
             "artist": "Diego Vel\u00e1zquez",
             "year": "1634",
@@ -21550,13 +21444,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Abstraction%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Himmel",
-            "artist": "Marsden Hartley",
-            "year": "1914",
-            "museum": "The Nelson-Atkins Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Himmel%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Painting No. 48",
             "artist": "Marsden Hartley",
             "year": "1913",
@@ -22456,13 +22343,6 @@
             "year": "1542",
             "museum": "National Palace Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Chou%20Ying%20and%20Wen%20Bi-1542.jpg"
-        },
-        {
-            "title": "Spring in Chiang-nan",
-            "artist": "Wen Zhengming",
-            "year": "1547",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Spring%20in%20Kiangnan.jpg"
         },
         {
             "title": "Orchids and Bamboo",
@@ -23969,13 +23849,6 @@
             "year": "1521",
             "museum": "Art Institute of Chicago",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Yin%20-%20Drinking%20at%20Night%20-%201955.761%20-%20Art%20Institute%20of%20Chicago.jpg"
-        },
-        {
-            "title": "Tea Drinking Under the Wutong Tree",
-            "artist": "Tang Yin",
-            "year": "1496",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Yin%20-%20Tea%20Drinking%20Under%20the%20Wutong%20Tree%20-%201941.13%20-%20Art%20Institute%20of%20Chicago.jpg"
         },
         {
             "title": "Clearing after Snow on a Mountain Pass",
@@ -27486,13 +27359,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Study%20for%20%22The%20Sleeping%20Beauty%22%2C%20Head%20of%20a%20Maiden%20-%201943.188%20-%20Fogg%20Museum.jpg"
         },
         {
-            "title": "Dana\u00eb Watching the Building of the Brazen Tower",
-            "artist": "Edward Burne-Jones",
-            "year": "1872",
-            "museum": "Fogg Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Dana%C3%AB%20Watching%20the%20Building%20of%20the%20Brazen%20Tower%20-%201943.189%20-%20Fogg%20Museum.jpg"
-        },
-        {
             "title": "Woman up a Ladder Smelling Blossom",
             "artist": "Edward Burne-Jones",
             "year": "1860",
@@ -27561,13 +27427,6 @@
             "year": "1880",
             "museum": "William Morris Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Stella%20Vespertina%20-%20O87%20-%20William%20Morris%20Gallery.jpg"
-        },
-        {
-            "title": "Helen, a Mermaid",
-            "artist": "Edward Burne-Jones",
-            "year": "1880",
-            "museum": "The Tullie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Helen%2C%20a%20Mermaid%20-%201949.125.454A%20-%20The%20Tullie.jpg"
         },
         {
             "title": "Perseus and the Sea Nymphs (The Arming of Perseus)",
@@ -27680,13 +27539,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Numbering%20at%20Bethlehem%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "The Hunters in the Snow",
-            "artist": "Pieter Bruegel the Elder",
-            "year": "1565",
-            "museum": "Kunsthistorisches Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20Hunters%20in%20the%20Snow%20%28Winter%29%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Netherlandish Proverbs",
             "artist": "Pieter Bruegel the Elder",
             "year": "1559",
@@ -27706,13 +27558,6 @@
             "year": "1562",
             "museum": "Royal Museums of Fine Arts of Belgium",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20the%20Elder%20-%20The%20Fall%20of%20the%20Rebel%20Angels%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "The Triumph of Death",
-            "artist": "Pieter Bruegel the Elder",
-            "year": "1560",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Triumph%20of%20Death%20by%20Pieter%20Bruegel%20the%20Elder.jpg"
         },
         {
             "title": "Conversion of Paul",
@@ -28681,13 +28526,6 @@
             "title": "The Ancient of Days",
             "artist": "William Blake",
             "year": "1794",
-            "museum": "Fitzwilliam Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20a%20Prophecy%20copy%20K%20plate%2001.jpg"
-        },
-        {
-            "title": "The Ancient of Days",
-            "artist": "William Blake",
-            "year": "1794",
             "museum": "Houghton Library",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20a%20Prophecy%20copy%20K%20plate%2001.jpg"
         },
@@ -29627,13 +29465,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mademoiselle%20Nys%20MET%20ep1974.356.36.R.jpg"
         },
         {
-            "title": "Henri-Gabriel Ibels (1867\u20131936)",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1892",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri-Gabriel%20Ibels%20%281867%E2%80%931936%29%20MET%20EP5.jpg"
-        },
-        {
             "title": "The Model Resting",
             "artist": "Henri de Toulouse-Lautrec",
             "year": "1889",
@@ -30315,13 +30146,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20-%20Paysage%20%281894%29.jpg"
         },
         {
-            "title": "Lane at Alchamps, Arles",
-            "artist": "Paul Gauguin",
-            "year": "1888",
-            "museum": "Sompo Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lane%20at%20Alchamps%2C%20Arles%201888%20Paul%20Gauguin.jpg"
-        },
-        {
             "title": "Breton boys bathing",
             "artist": "Paul Gauguin",
             "year": "1888",
@@ -30863,13 +30687,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20K%C3%BCstenlandschaft%20im%20Abendlicht.jpg"
         },
         {
-            "title": "Burning house and Gothic church",
-            "artist": "Caspar David Friedrich",
-            "year": "1810",
-            "museum": "Museum Georg Sch\u00e4fer",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20-%20Brennendes%20Haus%20und%20gotische%20Kirche%2C%20um%201810.jpg"
-        },
-        {
             "title": "Hill and Ploughed Field near Dresden",
             "artist": "Caspar David Friedrich",
             "year": "1825",
@@ -31276,13 +31093,6 @@
             "year": "1903",
             "museum": "Munch Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Brothel%20Scene%20-%20MM.M.00255%20-%20Munch%20Museum.jpg"
-        },
-        {
-            "title": "Buding Leaves",
-            "artist": "Edvard Munch",
-            "year": "1911",
-            "museum": "http://www.wikidata.org/.well-known/genid/73b215474be5db2d9aad51b4f1672ddc",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20SPRINGTIME%2C%20lot.61%20%28cropped%29.jpg"
         },
         {
             "title": "Building Worker",
@@ -33994,13 +33804,6 @@
             "year": "1614",
             "museum": "Royal Museum of Fine Arts Antwerp",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20frigida%2C%20Peter%20Paul%20Rubens%2C%201614%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20709.jpg"
-        },
-        {
-            "title": "Venus Frigida",
-            "artist": "Peter Paul Rubens",
-            "year": "1614",
-            "museum": "Vlaamse Kunstcollectie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Venus%20frigida%20-%20709%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
         },
         {
             "title": "Venus Frigida",

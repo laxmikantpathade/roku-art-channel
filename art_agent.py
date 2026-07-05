@@ -32,7 +32,6 @@ DOWNLOAD_HEADERS = {
 }
 
 # --- STILL LIFE BLACKLIST ---
-# Skips titles containing these words to ensure dynamic, narrative, or landscape art instead of objects on a table.
 STILL_LIFE_KEYWORDS = [
     "still life", "stilleven", "nature morte", "vase of", "flowers in a vase", 
     "bouquet of", "sunflowers", "peonies", "lilies", "chrysanthemums", 
@@ -40,8 +39,7 @@ STILL_LIFE_KEYWORDS = [
     "oranges on a table", "table with", "breakfast piece", "banquet piece"
 ]
 
-# --- ART HISTORIAN CURATED GLOBAL LIST (~120 Artists) ---
-# Doubled diversity across Renaissance, Baroque, Impressionism, Ukiyo-e, Joseon, Mughal, Persian, and quadrupled Indian master art.
+# --- ART HISTORIAN CURATED GLOBAL LIST ---
 PUBLIC_DOMAIN_ARTISTS = [
     # --- The Original Foundation ---
     "Leonardo da Vinci", "Rembrandt", "Johannes Vermeer", "Claude Monet", 
@@ -59,28 +57,27 @@ PUBLIC_DOMAIN_ARTISTS = [
     "Ilya Repin", "Ivan Aivazovsky", "Ivan Shishkin", "Mikhail Vrubel",
     "Józef Chełmoński", "Jan Matejko", "Tivadar Csontváry Kosztka",
 
-    # --- 🌟 QUADRUPLED INDIAN ART REPRESENTATION 🌟 ---
-    # Classical, Mughal, Rajput, Pahari, Tanjore, and early Modern pioneers
+    # --- QUADRUPLED INDIAN ART REPRESENTATION ---
     "Raja Ravi Varma", "Nainsukh", "Bishandas", "Ustad Mansur", "Basawan", "Miskin", 
     "Daswanth", "Manaku", "Abanindranath Tagore", "Gaganendranath Tagore", 
     "Amrita Sher-Gil", "Nandalal Bose", "Jamini Roy", "Asit Kumar Haldar", 
     "Kshitindranath Majumdar", "M. A. Rahman Chughtai", "Sunayani Devi",
     "Ananda Coomaraswamy", "Nihâl Chand", "Sahibdin", "Payag", "Govardhan",
 
-    # --- 🌟 GLOBAL EXPANSION: European Masters & Post-Impressionism 🌟 ---
+    # --- GLOBAL MASTERS & POST-IMPRESSIONISM ---
     "Albrecht Dürer", "Hans Holbein the Younger", "Hieronymus Bosch", "Pieter Bruegel the Elder",
     "Peter Paul Rubens", "Anthony van Dyck", "El Greco", "Caspar David Friedrich",
     "Paul Gauguin", "Henri de Toulouse-Lautrec", "Henri Rousseau", "Odilon Redon",
     "Edvard Munch", "Egon Schiele", "Alphonse Mucha", "William Blake", 
     "Dante Gabriel Rossetti", "John Everett Millais", "Edward Burne-Jones",
 
-    # --- 🌟 GLOBAL EXPANSION: East Asian & Islamic Golden Age Masters 🌟 ---
+    # --- EAST ASIAN & ISLAMIC MASTERWORKS ---
     "Gu Kaizhi", "Fan Kuan", "Guo Xi", "Li Tang", "Ni Zan", "Tang Yin", "Wen Zhengming",
     "Sesshū Tōyō", "Kanō Eitoku", "Tawaraya Sōtatsu", "Ogata Kōrin", "Soga Shōhaku",
     "An Gyeon", "Owonsan", "Kamāl ud-Dīn Behzād", "Reza Abbasi", "Mahmud al-Wasiti", 
     "Sultan Muhammad", "Mir Sayyid Ali", "Abd al-Samad",
 
-    # --- 🌟 GLOBAL EXPANSION: Americas & Diverse Modernists 🌟 ---
+    # --- AMERICAS & DIVERSE MODERNISTS ---
     "José María Velasco", "Joaquín Clausell", "Félix Émile Taunay", "Albert Bierstadt",
     "Frederic Edwin Church", "Childe Hassam", "Arthur Dove", "Marsden Hartley",
     "Tom Thomson", "Emily Carr", "Tarsila do Amaral", "José Sabogal"
@@ -136,14 +133,22 @@ def get_next_available_index(folder="."):
     return max_num + 1
 
 def get_real_painting_from_wikidata(artist_name, seen_titles, sparql_cache):
-    """Pulls from local hard-drive cache first. Uses SPARQL only if cache is empty."""
+    """Pulls from local cache or live SPARQL, ensuring zero duplicates pass through."""
     if artist_name in sparql_cache:
-        if sparql_cache[artist_name]: 
+        while sparql_cache[artist_name]:
             idx = random.randint(0, len(sparql_cache[artist_name]) - 1)
+            painting = sparql_cache[artist_name][idx]
+            
+            norm_title = normalize_title(painting['title'])
+            if norm_title in seen_titles:
+                sparql_cache[artist_name].pop(idx)
+                continue
+                
             painting = sparql_cache[artist_name].pop(idx)
-            save_json_file(sparql_cache, SPARQL_CACHE_FILE) 
+            save_json_file(sparql_cache, SPARQL_CACHE_FILE)
             return painting
-        else:
+            
+        if not sparql_cache[artist_name]:
             return None
 
     print(f"   🌐 Cache miss for {artist_name}. Executing SPARQL query to Wikidata...")
@@ -187,14 +192,14 @@ def get_real_painting_from_wikidata(artist_name, seen_titles, sparql_cache):
         if norm_title in seen_titles:
             continue
 
-        # --- STILL LIFE FILTER KEYWORD CHECK ---
-        # Dropping uninspired floral/desk objects early
         if any(kw in title.lower() for kw in STILL_LIFE_KEYWORDS):
             continue
 
         museum = r.get('museumLabel', {}).get('value', 'Historical Collection')
-        if re.match(r'^Q\d+', museum):
-            museum = "Historical Collection"
+        if (re.match(r'^Q\d+', museum) or 
+            ".well-known/genid" in museum.lower() or 
+            museum.strip() == ""):
+            museum = "Private Collection"  # Or "Historical Collection" if you prefer
             
         valid_paintings.append({
             'title': title,
@@ -207,43 +212,22 @@ def get_real_painting_from_wikidata(artist_name, seen_titles, sparql_cache):
     sparql_cache[artist_name] = valid_paintings
     save_json_file(sparql_cache, SPARQL_CACHE_FILE)
     
-    if valid_paintings:
+    while sparql_cache[artist_name]:
         idx = random.randint(0, len(sparql_cache[artist_name]) - 1)
+        painting = sparql_cache[artist_name][idx]
+        
+        if normalize_title(painting['title']) in seen_titles:
+            sparql_cache[artist_name].pop(idx)
+            continue
+            
         painting = sparql_cache[artist_name].pop(idx)
         save_json_file(sparql_cache, SPARQL_CACHE_FILE)
         return painting
         
     return None
 
-def review_painting_with_ollama(painting_meta):
-    prompt = (
-        f"You are an expert art curator.\n"
-        f"Review this REAL artwork for inclusion in our premium catalog:\n"
-        f"Title: {painting_meta['title']}\n"
-        f"Artist: {painting_meta['artist']}\n"
-        f"Year: {painting_meta['year']}\n\n"
-        "REQUIREMENTS:\n"
-        "1. Evaluate its global historical importance on a scale from 0.0 to 10.0.\n"
-        "2. Provide a high-quality, engaging 100-word history and description.\n"
-        "Respond ONLY with a raw JSON object matching this exact structure:\n"
-        '{\n'
-        '  "importance_rating": 8.5,\n'
-        '  "description": "..."\n'
-        '}\n'
-    )
-    
-    try:
-        response = requests.post("http://localhost:11434/api/generate", 
-                                 json={"model": "llama3.2", "prompt": prompt, "stream": False, "format": "json"}, 
-                                 timeout=60)
-        if response.status_code == 200:
-            return json.loads(response.json().get("response", "").strip())
-    except Exception as e:
-        print(f"⚠️ Ollama Error: {e}")
-    return None
-
 def pad_and_resize_16_9(img):
-    # 👇 Changed from 1920, 1080 to native 2K boundaries
+    # Set to true 2K Resolution boundaries (1440p)
     target_width, target_height = 2560, 1440
     img_ratio = img.width / img.height
     target_ratio = target_width / target_height
@@ -271,6 +255,7 @@ def stamp_image(img_bytes, metadata, output_filename):
         width, height = img.size 
         
         try:
+            # Upscaled font structures to read cleanly on high-res 2K outputs
             title_font = ImageFont.truetype("/Library/Fonts/Arial Bold.ttf", 38)
             sub_font = ImageFont.truetype("/Library/Fonts/Arial.ttf", 34)
         except IOError:
@@ -280,17 +265,16 @@ def stamp_image(img_bytes, metadata, output_filename):
         overlay = Image.new('RGBA', img.size, (0, 0, 0, 0))
         overlay_draw = ImageDraw.Draw(overlay)
         
-        # 👇 CHANGED: Reduced the alpha channel from 90 to 45 for a much weaker, subtler tint
+        # Transparent background fill setting dropped from 90 to 45 for maximum visibility
         overlay_draw.rectangle([(0, height - banner_height), (width, height)], fill=(0, 0, 0, 45))
-        
         img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
         
         draw = ImageDraw.Draw(img)
         line_1_text = f"{str(metadata.get('title', '')).strip()}  ·  {str(metadata.get('artist', '')).strip()}"
-        draw.text((50, height - banner_height + 25), line_1_text, font=title_font, fill="white")
+        draw.text((50, height - banner_height + 35), line_1_text, font=title_font, fill="white")
         
         line_2_text = f"{str(metadata.get('year', '')).strip()}  ·  {str(metadata.get('museum', '')).strip()}"
-        draw.text((50, height - banner_height + 80), line_2_text, font=sub_font, fill="rgb(225,225,225)")
+        draw.text((50, height - banner_height + 110), line_2_text, font=sub_font, fill="rgb(225,225,225)")
         
         img.save(output_filename, "JPEG", quality=90)
         return True
@@ -319,7 +303,11 @@ def run_bulk_collector():
     
     seen_titles = set()
     for art in artwork_list:
-        raw_title = art["title"].split(" by ")[0] 
+        title_str = art["title"]
+        if " by " in title_str:
+            raw_title = title_str.rsplit(" by ", 1)[0]
+        else:
+            raw_title = title_str
         seen_titles.add(normalize_title(raw_title))
         
     sparql_cache = load_json_file(SPARQL_CACHE_FILE, {})
@@ -341,34 +329,16 @@ def run_bulk_collector():
             continue
             
         print(f"   🖼️ Found verified piece: '{painting_meta['title']}' ({painting_meta['year']})")
-        print(f"   🧠 Asking Ollama to review and write a catalog description...")
-        
-        ollama_review = review_painting_with_ollama(painting_meta)
-        if not ollama_review:
-            continue
-            
-        try:
-            rating = float(ollama_review.get("importance_rating", 0))
-        except (ValueError, TypeError):
-            rating = 0
-            
-        print(f"📋 Curation Review Graded at: {rating}/10 importance.")
-        
-        if rating < 8.0:
-            print(f"🛑 Dropped. Score is below the 8.0 quality threshold.")
-            seen_titles.add(normalize_title(painting_meta['title']))
-            continue
-            
-        print(f"🌟 High-tier Masterpiece Accepted! Downloading asset...")
+        print(f"   🌟 Accepted! Downloading asset...")
         
         image_filename = f"art_{next_file_number}.jpg"
         base_image_url = painting_meta['image_url']
-        download_url = f"{base_image_url}?width=2560"
+        download_url = f"{base_image_url}?width=2560"  # Target 2K Width Bucket
         
         img_res = safe_get(download_url, headers=DOWNLOAD_HEADERS, timeout=20)
         
         if img_res is None or img_res.status_code != 200 or len(img_res.content) < 10000:
-            print("   ⚠️ 1920px thumbnail failed or is too small. Attempting original full-size image fallback...")
+            print("   ⚠️ 2560px thumbnail failed. Attempting original full-size image fallback...")
             img_res = safe_get(base_image_url, headers=DOWNLOAD_HEADERS, timeout=30)
         
         if img_res is None:
@@ -376,7 +346,7 @@ def run_bulk_collector():
         elif img_res.status_code != 200:
             print(f"   ❌ Wikimedia Image CDN rejected the request (HTTP {img_res.status_code}).")
         elif len(img_res.content) < 10000:
-            print(f"   ❌ Downloaded file is too small ({len(img_res.content)} bytes). Image likely corrupted or protected.")
+            print(f"   ❌ Downloaded file is too small ({len(img_res.content)} bytes).")
         else:
             success = stamp_image(img_res.content, painting_meta, image_filename)
             
@@ -387,7 +357,7 @@ def run_bulk_collector():
                     "image_url": f"{GITHUB_PAGES_URL}/{image_filename}",
                     "year": painting_meta['year'],
                     "museum": painting_meta['museum'],
-                    "description": ollama_review.get("description", "")
+                    "description": "Historical masterpiece entry."  # Placeholder for lightning fast overnight execution
                 }
                 artwork_list.append(new_entry)
                 seen_titles.add(normalize_title(painting_meta['title']))
