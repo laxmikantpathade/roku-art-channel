@@ -1514,13 +1514,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-jajcei%20vizeses%20%281903%29.jpg"
         },
         {
-            "title": "Praying Saviour",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1903",
-            "museum": "Csontv\u00e1ry Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-fohaszkodo%20udvozito%20%281903%29.jpg"
-        },
-        {
             "title": "View of Selemecb\u00e1nya",
             "artist": "Tivadar Csontv\u00e1ry Kosztka",
             "year": "1902",
@@ -1591,13 +1584,6 @@
             "year": "1542",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201963.102.jpg"
-        },
-        {
-            "title": "Zhao Mengfu Writing the Heart (Hridaya) Sutra in Exchange for Tea",
-            "artist": "Qiu Ying",
-            "year": "1542",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Qiu%20Ying%20-%20Zhao%20Mengfu%20Writing%20the%20Heart%20%28Hridaya%29%20Sutra%20in%20Exchange%20for%20Tea%20-%201963.102%20-%20Cleveland%20Museum%20of%20Art.tiff"
         },
         {
             "title": "A Tang Palace",
@@ -4475,13 +4461,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/3ZenobiusLondon.jpg"
         },
         {
-            "title": "Three Miracles of Saint Zenobius",
-            "artist": "Sandro Botticelli",
-            "year": "1500",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1506%20Botticelli%20Drei%20Wunder%20des%20Heiligen%20Zenobius%20anagoria.JPG"
-        },
-        {
             "title": "Queen Vashti Leaving the Royal Palace",
             "artist": "Sandro Botticelli",
             "year": "1480",
@@ -6036,13 +6015,6 @@
             "artist": "Mary Cassatt",
             "year": "1873",
             "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Spanish%20Dancer%20Wearing%20a%20Lace%20Mantilla%20-%201967.40%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Spanish Dancer Wearing a Lace Mantilla",
-            "artist": "Mary Cassatt",
-            "year": "1873",
-            "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20Dancer%20Wearing%20a%20Lace%20Mantilla%2C%20SAAM-1967.40%201.jpg"
         },
         {
@@ -7288,13 +7260,6 @@
             "year": "1900",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Longhorn%20Bull%20in%20a%20Landscape%20-%20Rosa%20Bonheur.webp"
-        },
-        {
-            "title": "Study of Rams' Heads",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20of%20Rams%27%20Heads%20-%20Rosa%20Bonheur.webp"
         },
         {
             "title": "Two Horses in a Stable",
@@ -8753,15 +8718,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20A%20Still%20Life%20with%20Devil%27s%20Trumpet%2C%20a%20Cactus%2C%20a%20Fig%20Branch%2C%20Honeysuckle%20and%20Other%20Flowers%20in%20a%20Blue%20Glass%20Vase%20Resting%20on%20a%20Ledge%20N08404-53-lr-1.jpg"
         }
     ],
-    "F\u00e9lix \u00c9mile Taunay": [
-        {
-            "title": "Rua Direita, Rio de Janeiro (atribu\u00eddo)",
-            "artist": "F\u00e9lix \u00c9mile Taunay",
-            "year": "1823",
-            "museum": "Pinacoteca de S\u00e3o Paulo",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rua%20Direita%2C%20Rio%20de%20Janeiro%20%28atribu%C3%ADdo%29%2C%20da%20Cole%C3%A7%C3%A3o%20Brasiliana%20Iconogr%C3%A1fica.jpg"
-        }
-    ],
+    "F\u00e9lix \u00c9mile Taunay": [],
     "Nainsukh": [],
     "Clara Peeters": [
         {
@@ -12481,13 +12438,6 @@
             "title": "Mariana in the South",
             "artist": "John William Waterhouse",
             "year": "1897",
-            "museum": "Leighton House",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Mariana%20in%20the%20South%20%281897%29.jpg"
-        },
-        {
-            "title": "Mariana in the South",
-            "artist": "John William Waterhouse",
-            "year": "1897",
             "museum": "http://www.wikidata.org/.well-known/genid/3a9a8c954713466feaf140c45de254a9",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Mariana%20in%20the%20South%20%281897%29.jpg"
         },
@@ -12560,13 +12510,6 @@
             "year": "1908",
             "museum": "http://www.wikidata.org/.well-known/genid/d642db7edca8c3b5395292c0c0c3a1fa",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%20and%20Daphne%20waterhouse.jpg"
-        },
-        {
-            "title": "The Danaides",
-            "artist": "John William Waterhouse",
-            "year": "1906",
-            "museum": "Aberdeen Archives, Gallery and Museums collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Danaides%20Waterhouse%201906.jpg"
         },
         {
             "title": "The Danaides",
@@ -13280,13 +13223,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Adam%20Kazimierz%20Czartoryski%20-%20%C3%89lisabeth%20Vig%C3%A9e-Lebrun.jpg"
         },
         {
-            "title": "Duchesse de Guiche",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1794",
-            "museum": "http://www.wikidata.org/.well-known/genid/d7948aca5717bc1a189479dd56e28af5",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89lisabeth%20Louise%20Vig%C3%A9e%20Le%20Brun%20-%20Duchesse%20de%20Guiche%201794.jpg"
-        },
-        {
             "title": "Countess Ecaterina Vladimirovna Apraxine, nee Princess Galitzine (1768-1854)",
             "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
             "year": "1796",
@@ -13425,13 +13361,6 @@
             "year": "1774",
             "museum": "Mus\u00e9e Fabre",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Allegory%20of%20Poetry%2C%201774%2C%20by%20Elisabeth%20Vigee%20Le%20Brun.jpg"
-        },
-        {
-            "title": "Portrait of Agla\u00e9 Ang\u00e9lique Gabrielle de Gramont (1787-1842), wife of General Aleksandr Davydov",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1824",
-            "museum": "http://www.wikidata.org/.well-known/genid/1a0828bd4e8866d4ef55f5923f0ccaf0",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aglae%20Gabrielle%20de%20Gramont.jpg"
         },
         {
             "title": "Louise-Marie-Ad\u00e9la\u00efde de Bourbon-Penthi\u00e8vre, Duchess of Orl\u00e9ans",
@@ -19382,13 +19311,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Honmoku%20Bay%20of%20Musashi%20Province%20-%2008.148.9%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "Shibaura Bay of Musashi Province",
-            "artist": "Utagawa Hiroshige",
-            "year": "1827",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Shibaura%20Bay%20of%20Musashi%20Province%20-%2008.148.7%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
             "title": "Koyurugi Beach of Sagami Province",
             "artist": "Utagawa Hiroshige",
             "year": "1827",
@@ -20740,13 +20662,6 @@
             "year": "1786",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20Portrait%20of%20Baroness%20Von%20Bauer%2C%20half%20length%2C%20Wearing%20a%20White%2C%20Lace%20Dress.jpg"
-        },
-        {
-            "title": "Portrait of Ludwig, Crown Prince of Bavaria",
-            "artist": "Angelica Kauffman",
-            "year": "1807",
-            "museum": "Bavarian State Painting Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Ludwig%2C%20Crown%20Prince%20of%20Bavaria.png"
         },
         {
             "title": "Beauty Directed by Prudence Rejects wit Scorn the Solicitations of Folly",
@@ -22146,13 +22061,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Thomson%20Blue%20Lake%20Sketch%20for%20In%20the%20Northland.jpg"
         },
         {
-            "title": "Sky (\"The Light that Never Was\")",
-            "artist": "Tom Thomson",
-            "year": "1913",
-            "museum": "National Gallery of Canada",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomson%2C%20Sky%20%28The%20Light%20that%20Never%20Was%29.jpg"
-        },
-        {
             "title": "View over a Lake: Shore with Houses",
             "artist": "Tom Thomson",
             "year": "1913",
@@ -22282,13 +22190,6 @@
             "year": "1560",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Basavana%20-%20Page%20from%20Tales%20of%20a%20Parrot%20%28Tuti-nama%29-%20Thirty-first%20night-%20The%20donkey%2C%20in%20-%201962.279.207.a%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
-            "title": "The hunter throws away the baby parrots, who pretend to be dead, and captures the mother, from a Tuti-nama (Tales of a Parrot): Fifth Night",
-            "artist": "Basawan",
-            "year": "1560",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Basavana%20-%20Page%20from%20Tales%20of%20a%20Parrot%20%28Tuti-nama%29-%20Fifth%20night-%20The%20hunter%20throws%20awa%20-%201962.279.35.a%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
             "title": "Page from Tales of a Parrot (Tuti-nama): text page",
@@ -22487,13 +22388,6 @@
             "year": "1894",
             "museum": "Solomon R. Guggenheim Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Les%20artilleurs.jpg"
-        },
-        {
-            "title": "The Football Players",
-            "artist": "Henri Rousseau",
-            "year": "1908",
-            "museum": "Solomon R. Guggenheim Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20The%20Football%20Players.jpg"
         },
         {
             "title": "The Banks of the Bi\u00e8vre near Bic\u00eatre",
@@ -22900,13 +22794,6 @@
             "year": "1900",
             "museum": "http://www.wikidata.org/.well-known/genid/5e53fcbbf596d8d350af623aa9a4138a",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Le%20Pentre%20et%20son%20mod%C3%A8le.jpg"
-        },
-        {
-            "title": "Study for Family Fishing",
-            "artist": "Henri Rousseau",
-            "year": "1895",
-            "museum": "Israel Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Famille%20p%C3%AAchant%20%28esquisse%29.jpg"
         },
         {
             "title": "Stroller and Child",
@@ -26904,25 +26791,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%20at%20the%20Shrines%20of%20Juno%20and%20Ceres%20%28Palace%20Green%20Murals%29%20-%201922P194%20-%20Birmingham%20Museums%20Trust.jpg"
         },
         {
-            "title": "Cupid and Psyche - Palace Green Murals",
-            "artist": "Edward Burne-Jones",
-            "year": "1876",
-            "museum": "Birmingham Museums Trust",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%20Receiving%20the%20Casket%20Back%20%28Palace%20Green%20Murals%29%20-%201922P197%20-%20Birmingham%20Museums%20Trust.jpg"
-        },
-        {
             "title": "Cupid and Psyche",
             "artist": "Edward Burne-Jones",
             "year": "1872",
             "museum": "Birmingham Museums Trust",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P201%20-%20Birmingham%20Museums%20Trust.jpg"
-        },
-        {
-            "title": "Pygmalion and the Image - The Godhead Fires",
-            "artist": "Edward Burne-Jones",
-            "year": "1878",
-            "museum": "Birmingham Museums Trust",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Pygmalion%20and%20the%20Image%20-%20The%20Godhead%20Fires%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Male - Study of southern Italian peasant boy seen to the front",
@@ -27044,13 +26917,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20The%20King%20and%20Other%20Mourners%20%28Palace%20Green%20Murals%29%20-%201922P188%20-%20Birmingham%20Museums%20Trust.jpg"
         },
         {
-            "title": "Cupid and Psyche - Palace Green Murals",
-            "artist": "Edward Burne-Jones",
-            "year": "1876",
-            "museum": "Birmingham Museums Trust",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%20Gazes%20in%20Despair%20at%20Cupid%20%28Palace%20Green%20Murals%29%20-%201922P192%20-%20Birmingham%20Museums%20Trust.jpg"
-        },
-        {
             "title": "Cupid and Psyche",
             "artist": "Edward Burne-Jones",
             "year": "1872",
@@ -27091,13 +26957,6 @@
             "year": "1876",
             "museum": "Birmingham Museums Trust",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%2C%20Holding%20the%20Lamp%2C%20Gazes%20at%20Cupid%20%28Palace%20Green%20Murals%29%20-%201922P191%20-%20Birmingham%20Museums%20Trust.jpg"
-        },
-        {
-            "title": "Cupid and Psyche",
-            "artist": "Edward Burne-Jones",
-            "year": "1872",
-            "museum": "Birmingham Museums Trust",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P203%20-%20Birmingham%20Museums%20Trust.jpg"
         },
         {
             "title": "Cupid and Psyche",
@@ -29087,13 +28946,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec%20-%20La%20Blanchisseuse.jpg"
         },
         {
-            "title": "Jeanne avril dansant",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1892",
-            "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20Jane%20Avril%20Dancing%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Mademoiselle Dihau au piano - Toulouse-Lautrec - 1890 - MTL.132",
             "artist": "Henri de Toulouse-Lautrec",
             "year": "1890",
@@ -30682,13 +30534,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Birch%20Trees%20in%20the%20Autumn%20-%20Woll%2069.jpg"
         },
         {
-            "title": "Birch Trees with Woman Walking",
-            "artist": "Edvard Munch",
-            "year": "1882",
-            "museum": "http://www.wikidata.org/.well-known/genid/d78fc054cc65eae7c25811814125bbe7",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Birch%20Trees%20with%20Woman%20Walking%20-%20Woll%2068.jpg"
-        },
-        {
             "title": "Birch Trunks",
             "artist": "Edvard Munch",
             "year": "1914",
@@ -31244,20 +31089,6 @@
     ],
     "Soga Sh\u014dhaku": [
         {
-            "title": "Dragon Amid Waves",
-            "artist": "Soga Sh\u014dhaku",
-            "year": "1750",
-            "museum": "Los Angeles County Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragon%20Amid%20Waves%20LACMA%20M.80.21.jpg"
-        },
-        {
-            "title": "Horses and Cranes",
-            "artist": "Soga Sh\u014dhaku",
-            "year": "1750",
-            "museum": "Los Angeles County Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Horses%20and%20Cranes%20LACMA%20M.81.204.1-.2.jpg"
-        },
-        {
             "title": "The Eight Immortals of the Wine Cup",
             "artist": "Soga Sh\u014dhaku",
             "year": "1765",
@@ -31384,13 +31215,6 @@
             "year": "1883",
             "museum": "Sree Chitra Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rani%20Bharani%20Thirunal%20Lakshmi%20Bayi%20of%20Travancore%20%281848%E2%80%931901%29.jpg"
-        },
-        {
-            "title": "Damayanti (Untitled)",
-            "artist": "Raja Ravi Varma",
-            "year": "1900",
-            "museum": "http://www.wikidata.org/.well-known/genid/891e8c4856e4f97d1dd16a9d44e2b7b3",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ladies%20in%20the%20moonlight%20by%20RRV.jpg"
         },
         {
             "title": "A native noble man",
@@ -31794,13 +31618,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20-%20Himmelfahrt%20der%20hl.%20Rosalie%20-%207449%20-%20Bavarian%20State%20Painting%20Collections.jpg"
         },
         {
-            "title": "Portret van de landvoogdes Infanta Isabella Clara Eugenia (1566-1633) als weduwe",
-            "artist": "Anthony van Dyck",
-            "year": "1620",
-            "museum": "Bavarian State Painting Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20%28Kopie%20nach%29%20-%20Isabella%2C%20Statthalterin%20der%20Niederlande%20als%20Clarissin%20-%206865%20-%20Bavarian%20State%20Painting%20Collections.jpg"
-        },
-        {
             "title": "Luigia Cattaneo-Gentile",
             "artist": "Anthony van Dyck",
             "year": "1622",
@@ -31876,13 +31693,6 @@
             "year": "1634",
             "museum": "Museu de Belles Arts de Val\u00e8ncia",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Portrait%20of%20Francesc%20de%20Montcada.jpg"
-        },
-        {
-            "title": "The Crucified Christ Adored by Saints Dominic and Catherine of Siena",
-            "artist": "Anthony van Dyck",
-            "year": "1629",
-            "museum": "Gustaf Adolf Sparre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20The%20Crucified%20Christ%20Adored%20by%20Saints%20Dominic%20and%20Catherine%20of%20Siena%20L07033-6-lr-1.jpg"
         },
         {
             "title": "The Crucified Christ Adored by Saints Dominic and Catherine of Siena",
@@ -32891,15 +32701,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Saint%20George%20and%20the%20Dragon%20%28Saint%20Georges%20et%20le%20dragon%29%20-%20BF2093%20-%20Barnes%20Foundation.jpg"
         }
     ],
-    "Sessh\u016b T\u014dy\u014d": [
-        {
-            "title": "Huike Offering His Arm to Bodhidharma",
-            "artist": "Sessh\u016b T\u014dy\u014d",
-            "year": "1496",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bodhidharma.and.Huike-Sesshu.Toyo.jpg"
-        }
-    ],
+    "Sessh\u016b T\u014dy\u014d": [],
     "Govardhan": [],
     "Peter Paul Rubens": [
         {
@@ -33333,13 +33135,6 @@
             "title": "The Arch of the Mint (front)",
             "artist": "Peter Paul Rubens",
             "year": "1634",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Voorzijde%20van%20de%20erepoort%20van%20de%20Munt%20%28Pompa%20Introitus%20Ferdinandi%29%20-%20316%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.jpg"
-        },
-        {
-            "title": "The Arch of the Mint (front)",
-            "artist": "Peter Paul Rubens",
-            "year": "1635",
             "museum": "Royal Museum of Fine Arts Antwerp",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Voorzijde%20van%20de%20erepoort%20van%20de%20Munt%20%28Pompa%20Introitus%20Ferdinandi%29%20-%20316%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.jpg"
         },
@@ -34833,13 +34628,6 @@
             "year": "1725",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Manaku%20-%20The%20Monkey%20Leader%20Angada%20Steals%20Ravana%27s%20Crown%20from%20His%20Fortress%2C%20Folio%20from%20the%20Siege%20of%20Lanka%20series%20-%2019.24.2%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Rama Releases the Demon Spies Shuka and Sarana: Folio from the Siege of Lanka series",
-            "artist": "Manaku",
-            "year": "1725",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rama%20Releases%20the%20Demon%20Spies%20Shuka%20and%20Sarana-%20Folio%20from%20a%20Ramayana%20%27Siege%20of%20Lanka%27%20Series%20MET%20DP278165.jpg"
         },
         {
             "title": "Poet Jayadeva is worshipping Radha and Krishna",
