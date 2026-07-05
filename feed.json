@@ -6973,6 +6973,13 @@
             "description": "Historical masterpiece entry."
         },
         {
+            "title": "Untitled (floral still life) by Edward Mitchell Bannister",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_997.jpg",
+            "year": "1864",
+            "museum": "Smithsonian American Art Museum",
+            "description": "Historical masterpiece entry."
+        },
+        {
             "title": "Evening on the Baltic Sea by Caspar David Friedrich",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_998.jpg",
             "year": "1830",
@@ -7208,13 +7215,6 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1031.jpg",
             "year": "1830",
             "museum": "Hamburger Kunsthalle",
-            "description": "Historical masterpiece entry."
-        },
-        {
-            "title": "A Still Life Of Flowers In a Roemer With a Field Mouse And An Ear Of Wheat by Clara Peeters",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1032.jpg",
-            "year": "1650",
-            "museum": "Historical Collection",
             "description": "Historical masterpiece entry."
         },
         {
@@ -7456,6 +7456,13 @@
             "description": "Historical masterpiece entry."
         },
         {
+            "title": "Interior by Berthe Morisot",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1067.jpg",
+            "year": "Unknown",
+            "museum": "Historical Collection",
+            "description": "Historical masterpiece entry."
+        },
+        {
             "title": "Young Woman at a Table, 'Poudre de riz' by Henri de Toulouse-Lautrec",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1068.jpg",
             "year": "1887",
@@ -7488,6 +7495,13 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1072.jpg",
             "year": "1859",
             "museum": "Delaware Art Museum",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Woodland Stream, an Idyll by Robert S. Duncanson",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1073.jpg",
+            "year": "1865",
+            "museum": "High Museum of Art",
             "description": "Historical masterpiece entry."
         },
         {
@@ -7526,6 +7540,13 @@
             "description": "Historical masterpiece entry."
         },
         {
+            "title": "The Lute Player (facing left) by Judith Leyster",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1079.jpg",
+            "year": "1630",
+            "museum": "National Gallery of Ireland",
+            "description": "Historical masterpiece entry."
+        },
+        {
             "title": "L’Étude by Jean-Honoré Fragonard",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1080.jpg",
             "year": "1769",
@@ -7544,6 +7565,13 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1082.jpg",
             "year": "1777",
             "museum": "Cleveland Museum of Art",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Boy Lying on his Stomach by Edvard Munch",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1083.jpg",
+            "year": "1910",
+            "museum": "Munch Museum",
             "description": "Historical masterpiece entry."
         }
     ]
