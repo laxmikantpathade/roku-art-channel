@@ -852,13 +852,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Vrubel%20-%20Bogatyr%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Tamara and the Demon",
-            "artist": "Mikhail Vrubel",
-            "year": "1890",
-            "museum": "Tretyakov Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamara%20and%20demon.png"
-        },
-        {
             "title": "Tamara and Demon",
             "artist": "Mikhail Vrubel",
             "year": "1891",
@@ -1479,13 +1472,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Company%20Passing%20over%20a%20Bridge%2C%20c%201903.jpg"
         },
         {
-            "title": "Woman Sitting by the Window",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1890",
-            "museum": "Hungarian National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Contv%C3%A1ry%20Ablakn%C3%A1l%20%C3%BCl%C5%91%20n%C5%91%201890.jpg"
-        },
-        {
             "title": "Baalbek",
             "artist": "Tivadar Csontv\u00e1ry Kosztka",
             "year": "1906",
@@ -1563,13 +1549,6 @@
             "year": "1850",
             "museum": "Yale University Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Qiu%20Ying%20-%20Lady%20preparing%20for%20a%20journey%20-%201944.110%20-%20Yale%20University%20Art%20Gallery.jpg"
-        },
-        {
-            "title": "A Tang Palace",
-            "artist": "Qiu Ying",
-            "year": "1523",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Qiu%20Ying%20-%20A%20Tang%20Palace%20-%2012.134.8%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         }
     ],
     "Katsushika Hokusai": [
@@ -1805,13 +1784,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20The%20Legendary%20Empress%20Jing%C5%AB%20-%2014.76.36%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "Drunken Asaina",
-            "artist": "Katsushika Hokusai",
-            "year": "1810",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Drunken%20Asaina%20-%201991.151%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
             "title": "Album of Sketches by Katsushika Hokusai and His Disciples",
             "artist": "Katsushika Hokusai",
             "year": "1834",
@@ -1908,13 +1880,6 @@
             "year": "1799",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Rochishin%20Chopping%20Off%20the%20Head%20of%20Nio%20-%2056.121.40%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Fuji Musume, the Wisteria Maid",
-            "artist": "Katsushika Hokusai",
-            "year": "1799",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Fuji%20Musume%2C%20the%20Wisteria%20Maid%20-%2056.121.39%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Snake Heads",
@@ -6947,13 +6912,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Metamort%20et%20Flambeau.jpg"
         },
         {
-            "title": "Souvenir",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Souvenir%20-%20Rosa%20Bonheur.webp"
-        },
-        {
             "title": "Horse Tied to a Gate",
             "artist": "Rosa Bonheur",
             "year": "1900",
@@ -7965,13 +7923,6 @@
             "year": "1667",
             "museum": "Munich Central Collecting Point",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20-%20The%20Art%20of%20Painting%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Girl with a Red Hat",
-            "artist": "Johannes Vermeer",
-            "year": "1669",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vermeer%20-%20Girl%20with%20a%20Red%20Hat.JPG"
         },
         {
             "title": "Lady Writing a Letter with her Maid",
@@ -10422,13 +10373,6 @@
             "year": "1640",
             "museum": "http://www.wikidata.org/.well-known/genid/4329fb6d53203cda4d2dea392be4e81c",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20gentileschi%20venus%20and%20cupid060552%29.jpg"
-        },
-        {
-            "title": "Susannah and the Elders",
-            "artist": "Artemisia Gentileschi",
-            "year": "1650",
-            "museum": "Bassano Civic Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20e%20i%20vecchioni%20di%20Artemisia%20Gentileschi%2C%20Museo%20Civico%20di%20Bassano%20del%20Grappa.JPG"
         },
         {
             "title": "Cleopatra discovered by her servants",
@@ -13519,13 +13463,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20by%20Robert%20S%20Duncanson.JPG"
         },
         {
-            "title": "Pompeii",
-            "artist": "Robert S. Duncanson",
-            "year": "1855",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RobertDuncanson-Pompeii%201855.jpg"
-        },
-        {
             "title": "Vesuvius and Pompeii",
             "artist": "Robert S. Duncanson",
             "year": "1870",
@@ -14352,13 +14289,6 @@
             "year": "1603",
             "museum": "Uffizi Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sacrifice%20of%20Isaac-Caravaggio%20%28Uffizi%29.jpg"
-        },
-        {
-            "title": "Medusa",
-            "artist": "Caravaggio",
-            "year": "1597",
-            "museum": "Uffizi Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Medusa%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Self-Portrait as Bacchus",
@@ -16902,13 +16832,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissaro%20Camille%20Landschaft%40Nieders.%20Landesmuseum20170622.jpg"
         },
         {
-            "title": "Peasant woman sitting in moret",
-            "artist": "Camille Pissarro",
-            "year": "1902",
-            "museum": "Museum of Montserrat",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Paysanne%20assise%20interieur%20a%20moret.jpg"
-        },
-        {
             "title": "A Square in Caracas",
             "artist": "Camille Pissarro",
             "year": "1854",
@@ -19185,13 +19108,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ando%20Hiroshige%20-%20Night%20Scene%20on%20the%20Sumida%20River%20-%201920.274%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
-            "title": "Matsuchiyama on the Sumida River",
-            "artist": "Utagawa Hiroshige",
-            "year": "1849",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Matsuchiyama%20on%20the%20Sumida%20River%20-%201939.1863%20-%20Art%20Institute%20of%20Chicago.jpg"
-        },
-        {
             "title": "Shichirigahama and Enoshima",
             "artist": "Utagawa Hiroshige",
             "year": "1851",
@@ -20748,13 +20664,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%2C%20Portrait%20of%20Lady%20Georgiana%2C%20Lady%20Henrietta%20Frances%20and%20George%20John%20Spencer%2C%20Viscount%20Althorp%20%281774%29.jpg"
         },
         {
-            "title": "Portrait of Henri Reboul",
-            "artist": "Angelica Kauffman",
-            "year": "1798",
-            "museum": "http://www.wikidata.org/.well-known/genid/4fe332553e423a0ecfd99134ae24e9b2",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Henri%20Reboul%20by%20Angelica%20Kauffmann.jpg"
-        },
-        {
             "title": "Pliny the Younger and his Mother at Misenum, 79 A.D.",
             "artist": "Angelica Kauffman",
             "year": "1785",
@@ -21056,13 +20965,6 @@
             "year": "1916",
             "museum": "Brooklyn Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20Handsome%20Drinks%20-%20Marsden%20Hartley%20-%20overall.jpg"
-        },
-        {
-            "title": "Handsome Drinks",
-            "artist": "Marsden Hartley",
-            "year": "1916",
-            "museum": "Brooklyn Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Handsome%20Drinks%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Sustained Comedy",
@@ -21620,13 +21522,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Schiele%20-%20Self-Portrait%20with%20Lowered%20Head%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Self-Portrait with Physalis",
-            "artist": "Egon Schiele",
-            "year": "1912",
-            "museum": "Leopold Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Schiele%20-%20Self-Portrait%20with%20Physalis%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Self-Seer II (Death and Man)",
             "artist": "Egon Schiele",
             "year": "1911",
@@ -21917,13 +21812,6 @@
     "Abd al-Samad": [],
     "Wen Zhengming": [
         {
-            "title": "\"In Exchange for Tea\" with Wen Zhengming\u2019s Calligraphy of The Heart Sutra",
-            "artist": "Wen Zhengming",
-            "year": "1542",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Chou%20Ying%20and%20Wen%20Bi-1542.jpg"
-        },
-        {
             "title": "Orchids and Bamboo",
             "artist": "Wen Zhengming",
             "year": "1550",
@@ -21978,13 +21866,6 @@
             "year": "1551",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20Garden%20of%20the%20Inept%20Administrator%20-%201979.458.1a%E2%80%93ii%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Living Aloft: Master Liu's Retreat",
-            "artist": "Wen Zhengming",
-            "year": "1543",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%98%8E%20%E6%96%87%E5%BE%B5%E6%98%8E%20%E6%A8%93%E5%B1%85%E5%9C%96%E8%BB%B8-Living%20Aloft-%20Master%20Liu%27s%20Retreat%20MET%20DP274197.jpg"
         },
         {
             "title": "Eight Songs of the Xiao and Xiang Rivers",
@@ -22100,13 +21981,6 @@
             "artist": "Henri Rousseau",
             "year": "1897",
             "museum": "Museum of Modern Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Boh%C3%A9mienne%20endormie.jpg"
-        },
-        {
-            "title": "The Sleeping Gypsy",
-            "artist": "Henri Rousseau",
-            "year": "1897",
-            "museum": "John Quinn Art Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Boh%C3%A9mienne%20endormie.jpg"
         },
         {
@@ -22619,13 +22493,6 @@
             "year": "1900",
             "museum": "Mus\u00e9e National d'Art Moderne",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Le%20Pentre%20et%20son%20mod%C3%A8le.jpg"
-        },
-        {
-            "title": "Le Peintre et son mod\u00e8le",
-            "artist": "Henri Rousseau",
-            "year": "1900",
-            "museum": "http://www.wikidata.org/.well-known/genid/5e53fcbbf596d8d350af623aa9a4138a",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7oise%20Foliot%20-%20Henri%20Rousseau%20-%20L%27Artiste%20peignant%20sa%20femme.jpg"
         },
         {
             "title": "Le Peintre et son mod\u00e8le",
@@ -23419,13 +23286,6 @@
             "year": "1526",
             "museum": "Kunstmuseum Basel",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20and%20Amor%2C%20by%20Hans%20Holbein%20the%20Younger.jpg"
-        },
-        {
-            "title": "Portrait of Sir Richard Southwell",
-            "artist": "Hans Holbein the Younger",
-            "year": "1536",
-            "museum": "Uffizi Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20d.%20J.%20060.jpg"
         },
         {
             "title": "The Body of the Dead Christ in the Tomb",
@@ -25349,13 +25209,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha-Maud%20Adams%20as%20Joan%20of%20Arc-1909.jpg"
         },
         {
-            "title": "Slavs in their Original Homeland",
-            "artist": "Alphonse Mucha",
-            "year": "1912",
-            "museum": "museum collection of the Prague City Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Slovane%20v%20pravlasti%2081x61m.jpg"
-        },
-        {
             "title": "The Celebration of Svantovit in Rujana",
             "artist": "Alphonse Mucha",
             "year": "1912",
@@ -25860,13 +25713,6 @@
             "year": "1853",
             "museum": "Minnesota Marine Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autumn%20on%20the%20Hudson%20Frederic%20Edwin%20Church.jpg"
-        },
-        {
-            "title": "Beacon, off Mount Desert Island",
-            "artist": "Frederic Edwin Church",
-            "year": "1851",
-            "museum": "http://www.wikidata.org/.well-known/genid/ea063e6932338f47013097abbf11d359",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Beacon%2C%20off%20Mount%20Desert%20Island%20Frederic%20Edwin%20Church.jpg"
         },
         {
             "title": "Birch Trees in Autumn",
@@ -29958,13 +29804,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Nordische%20Landschaft%2C%20Fr%C3%BChling.jpg"
         },
         {
-            "title": "Early Snow",
-            "artist": "Caspar David Friedrich",
-            "year": "1827",
-            "museum": "Hamburger Kunsthalle",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C%20Caspar%20David%20-%20Fr%C3%BChschnee.jpg"
-        },
-        {
             "title": "Evening on the Baltic Sea",
             "artist": "Caspar David Friedrich",
             "year": "1830",
@@ -30131,13 +29970,6 @@
             "year": "1826",
             "museum": "Museum der bildenden K\u00fcnste",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Friedhof%20im%20Schnee%20%28MbK%29.jpg"
-        },
-        {
-            "title": "Cross in the Mountains",
-            "artist": "Caspar David Friedrich",
-            "year": "1822",
-            "museum": "Ducal Museum Gotha",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Kreuz%20im%20Gebirge%20%28Schloss%20Friedenstein%29.jpg"
         },
         {
             "title": "Evening",
@@ -30911,13 +30743,6 @@
             "artist": "Soga Sh\u014dhaku",
             "year": "1765",
             "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Soga%20Shohaku%20-%20The%20Eight%20Immortals%20of%20the%20Wine%20Cup%20-%201976.11%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
-            "title": "The Eight Immortals of the Wine Cup",
-            "artist": "Soga Sh\u014dhaku",
-            "year": "1765",
-            "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Soga%20Shohaku%20-%20The%20Eight%20Immortals%20of%20the%20Wine%20Cup%20-%201976.11.1%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
@@ -30970,13 +30795,6 @@
             "year": "1850",
             "museum": "National Gallery of Modern Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%20-%20Woman%20Holding%20a%20Fruit%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Shakuntala writing a love letter on a lotus leaf",
-            "artist": "Raja Ravi Varma",
-            "year": "1880",
-            "museum": "Ashmolean Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%20-%20Shakuntala%20writing%20a%20love%20letter%20on%20a%20lotus%20leaf.jpg"
         },
         {
             "title": "Woman Holding a Fan",
