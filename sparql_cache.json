@@ -885,13 +885,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Water%20Lilies%20-%20Google%20Art%20Project%20%28431238%29.jpg"
         },
         {
-            "title": "The Doges Palace (Le Palais ducal)",
-            "artist": "Claude Monet",
-            "year": "1908",
-            "museum": "Brooklyn Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Doges%20Palace%20%28Le%20Palais%20ducal%29%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "The Japanese bridge",
             "artist": "Claude Monet",
             "year": "1921",
@@ -1363,13 +1356,6 @@
             "year": "1881",
             "museum": "Montreal Museum of Fine Arts",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%AAte%20de%20jeune%20fille%20napolitaine%20-%20P.A.%20Renoir%201881%20%28Head%20of%20a%20young%20neapolitan%20girl%29.jpg"
-        },
-        {
-            "title": "Boy with a Whip",
-            "artist": "Pierre-Auguste Renoir",
-            "year": "1885",
-            "museum": "Hermitage Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%2C%20Pierre-Auguste%20-%20Boy%20with%20a%20Whip.jpg"
         },
         {
             "title": "Young Parisian",
@@ -4060,13 +4046,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leocadia%20Zorrilla.jpg"
         },
         {
-            "title": "Pilgrimage to the Fountain of San Isidro",
-            "artist": "Francisco Goya",
-            "year": "1819",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peregrinaci%C3%B3n%20a%20la%20fuente%20de%20San%20Isidro.jpg"
-        },
-        {
             "title": "The Game of Horse and Rider",
             "artist": "Francisco Goya",
             "year": "1791",
@@ -4713,13 +4692,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zanobi-Altar.jpg"
         },
         {
-            "title": "Madonna and Child with an Angel",
-            "artist": "Sandro Botticelli",
-            "year": "1465",
-            "museum": "Museo degli Innocenti",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20botticelli%2C%20madonna%20col%20bambino%20e%20un%20angelo%20ispirato%20alla%20lippina%2C%201465-66.JPG"
-        },
-        {
             "title": "Lamentation over the Dead Christ",
             "artist": "Sandro Botticelli",
             "year": "1490",
@@ -5299,13 +5271,6 @@
             "year": "1490",
             "museum": "http://www.wikidata.org/.well-known/genid/1112e53cc28aee02597c9bc378044a0f",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20Ishizuka%20106.jpg"
-        },
-        {
-            "title": "The Story of Nastagio Degli Onesti, part four",
-            "artist": "Sandro Botticelli",
-            "year": "1483",
-            "museum": "Palazzo Pucci",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20nastagio4.jpg"
         },
         {
             "title": "Madonna and Child",
@@ -6425,13 +6390,6 @@
             "title": "The See-Saw",
             "artist": "Jean-Honor\u00e9 Fragonard",
             "year": "1750",
-            "museum": "F\u00fchrermuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
-        },
-        {
-            "title": "The See-Saw",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1757",
             "museum": "F\u00fchrermuseum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
         },
@@ -9102,13 +9060,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Home%20in%20the%20Woods%201847.jpg"
         },
         {
-            "title": "II Penseroso",
-            "artist": "Thomas Cole",
-            "year": "1845",
-            "museum": "Los Angeles County Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20Il%20Penseroso.jpg"
-        },
-        {
             "title": "Indian at Sunset",
             "artist": "Thomas Cole",
             "year": "1845",
@@ -10193,13 +10144,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rua%20Direita%2C%20Rio%20de%20Janeiro%20%28atribu%C3%ADdo%29%2C%20da%20Cole%C3%A7%C3%A3o%20Brasiliana%20Iconogr%C3%A1fica.jpg"
         },
         {
-            "title": "Rua Direita, Rio de Janeiro (atribu\u00eddo)",
-            "artist": "F\u00e9lix \u00c9mile Taunay",
-            "year": "1823",
-            "museum": "Brasiliana Iconogr\u00e1fica",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rua%20Direita%2C%20Rio%20de%20Janeiro%20%28atribu%C3%ADdo%29%2C%20da%20Cole%C3%A7%C3%A3o%20Brasiliana%20Iconogr%C3%A1fica.jpg"
-        },
-        {
             "title": "Rua Direita, Rio de Janeiro",
             "artist": "F\u00e9lix \u00c9mile Taunay",
             "year": "1823",
@@ -10291,13 +10235,6 @@
             "year": "1777",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP166097.jpg"
-        },
-        {
-            "title": "Villagers around a fire",
-            "artist": "Nainsukh",
-            "year": "1770",
-            "museum": "Indian Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Villagers%20around%20a%20fire.jpg"
         },
         {
             "title": "Raja Balwant Singh of Jasrota examining a painting with Nainsukh",
@@ -12468,13 +12405,6 @@
         {
             "title": "Penitent Magdalene",
             "artist": "Artemisia Gentileschi",
-            "year": "1629",
-            "museum": "Museum Correale",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maddalena%20penitente%20Artemisia.jpg"
-        },
-        {
-            "title": "Penitent Magdalene",
-            "artist": "Artemisia Gentileschi",
             "year": "1630",
             "museum": "Museum Correale",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maddalena%20penitente%20Artemisia.jpg"
@@ -12937,13 +12867,6 @@
             "year": "1207",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Scholar%20viewing%20a%20waterfall%20-%201973.120.9%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Attending an Imperial Banquet",
-            "artist": "Ma Yuan",
-            "year": "1200",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan-Banquet%20by%20Lantern%20Light%20%28large%29.jpg"
         }
     ],
     "Wassily Kandinsky": [
@@ -16017,13 +15940,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RobertDucanson-Loch%20Long%201867.jpg"
         },
         {
-            "title": "Mount Healthy, Ohio",
-            "artist": "Robert S. Duncanson",
-            "year": "1844",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RobertDucanson-Mt%20Healthy%20Ohio%201844.jpg"
-        },
-        {
             "title": "Mountain Pool",
             "artist": "Robert S. Duncanson",
             "year": "1870",
@@ -18338,13 +18254,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Velasco%20Valle%20de%20Mexico%201877.gif"
         },
         {
-            "title": "Atlantic Ocean",
-            "artist": "Jos\u00e9 Mar\u00eda Velasco",
-            "year": "1889",
-            "museum": "Museo Nacional de Arte",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Velasco%20en%20el%20MUNAL%20DSC0317%20%2835575758042%29.jpg"
-        },
-        {
             "title": "Gran Cometa de 1882",
             "artist": "Jos\u00e9 Mar\u00eda Velasco",
             "year": "1910",
@@ -18415,13 +18324,6 @@
             "year": "1626",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20001.png"
-        },
-        {
-            "title": "Standing Cavalier",
-            "artist": "Judith Leyster",
-            "year": "1630",
-            "museum": "Royal Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Style%20of%20Frans%20Hals%20%28Antwerp%20c.%201580-Haarlem%201666%29%20-%20Study%20of%20a%20Standing%20Man%20-%20RCIN%20404807%20-%20Royal%20Collection.jpg"
         },
         {
             "title": "Boy playing the Flute",
@@ -18639,13 +18541,6 @@
             "year": "1632",
             "museum": "Munich Central Collecting Point",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
-        },
-        {
-            "title": "An Artist in Her Studio",
-            "artist": "Judith Leyster",
-            "year": "1632",
-            "museum": "Cultural Heritage Agency of the Netherlands Art Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
         },
         {
             "title": "An Artist in Her Studio",
@@ -19852,13 +19747,6 @@
             "title": "The Pilots\u2019 Jetty, Le Havre, Morning, Cloudy and Misty Weather",
             "artist": "Camille Pissarro",
             "year": "1903",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Pilots%E2%80%99%20Jetty%2C%20Le%20Havre%2C%20Morning%2C%20Cloudy%20and%20Misty%20Weather%2C%201903.jpg"
-        },
-        {
-            "title": "The Pilots\u2019 Jetty, Le Havre, Morning, Cloudy and Misty Weather",
-            "artist": "Camille Pissarro",
-            "year": "1903",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20The%20Pilots%E2%80%99%20Jetty%2C%20Le%20Havre%2C%20Morning%2C%20Cloudy%20and%20Misty%20Weather%2C%201903.jpg"
         },
@@ -20867,13 +20755,6 @@
             "year": "1902",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20A.%20B.%20Widener%20SC-000402.jpg"
-        },
-        {
-            "title": "Miss Mathilde Townsend",
-            "artist": "John Singer Sargent",
-            "year": "1907",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Miss%20Mathilde%20Townsend.jpg"
         },
         {
             "title": "Valdemosa, Majorca: Thistles and Herbage on a Hillside",
@@ -22105,13 +21986,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Pierre%20Seurat%20-%20Port-en-Bessin%2C%20The%20Outer%20Harbor%20%28Low%20Tide%29%20-%204-1934%20-%20Saint%20Louis%20Art%20Museum.jpg"
         },
         {
-            "title": "Grassy Riverbank",
-            "artist": "Georges Seurat",
-            "year": "1881",
-            "museum": "Dallas Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Grassy%20Riverbank%20-%201985.R.68%20-%20Dallas%20Museum%20of%20Art.jpg"
-        },
-        {
             "title": "Low Tide at Grandcamp",
             "artist": "Georges Seurat",
             "year": "1885",
@@ -22152,13 +22026,6 @@
             "year": "1883",
             "museum": "Courtauld Institute of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Boat%20by%20the%20Riverbank%20PC%2080.jpg"
-        },
-        {
-            "title": "Man in a Boat",
-            "artist": "Georges Seurat",
-            "year": "1884",
-            "museum": "Courtauld Institute of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Homme%20dans%20une%20barque%201884.jpg"
         },
         {
             "title": "Man Painting a Boat",
@@ -26156,13 +26023,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Basavana%20-%20A%20feast%20for%20Babur%20hosted%20by%20his%20half-brother%20Jahangir%20Mirza%20in%20Ghazni%20in%20Ma%20-%202013.300%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
-            "title": "The siege of Arbela in the era of Hulagu Khan, from a Chingiz-nama (Book of Chingiz Khan) of the Jami al-tavarikh (Compendium of Chronicles) of Rashid al-Din (Persian, 1247\u20131318)",
-            "artist": "Basawan",
-            "year": "1596",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sur%20Das%20Gujarati%20-%20The%20siege%20of%20Arbela%20in%20the%20era%20of%20Hulagu%20Khan%2C%20from%20a%20Chingiz-nama%20%28Book%20of%20-%201947.502%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
             "title": "Courtier Awaiting Akbar's Command",
             "artist": "Basawan",
             "year": "1575",
@@ -27009,28 +26869,13 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%ED%95%B4%EC%A7%88%EB%85%98%20%EC%82%B0%EC%82%AC%EC%9D%98%20%EC%A2%85%EC%86%8C%EB%A6%AC%20%EC%A1%B0%EC%84%A0-%E7%85%99%E5%AF%BA%E6%9A%AE%E9%8D%BE%E5%9C%96%20%E6%9C%9D%E9%AE%AE-Evening%20bell%20from%20mist-shrouded%20temple%20%28left%29%3B%20Autumn%20moon%20over%20Lake%20Dongting%20%28right%29%20MET%20DT220.jpg"
         }
     ],
-    "Guo Xi": [
-        {
-            "title": "Old Trees, Level Distance",
-            "artist": "Guo Xi",
-            "year": "1080",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8C%97%E5%AE%8B%20%E9%83%AD%E7%86%99%20%E6%A8%B9%E8%89%B2%E5%B9%B3%E9%81%A0%E5%9C%96%20%E5%8D%B7%20-Old%20Trees%2C%20Level%20Distance%20MET%20DP167812.jpg"
-        }
-    ],
+    "Guo Xi": [],
     "Payag": [
         {
             "title": "The Battle of Samugarh",
             "artist": "Payag",
             "year": "1658",
             "museum": "Arthur M. Sackler Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Payag%20-%20The%20Battle%20of%20Samugarh%20-%201999.298%20-%20Arthur%20M.%20Sackler%20Museum.jpg"
-        },
-        {
-            "title": "The Battle of Samugarh",
-            "artist": "Payag",
-            "year": "1658",
-            "museum": "Harvard Art Museums",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Payag%20-%20The%20Battle%20of%20Samugarh%20-%201999.298%20-%20Arthur%20M.%20Sackler%20Museum.jpg"
         }
     ],
@@ -29426,5 +29271,2681 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20%281828-1882%29%20-%20Beata%20Beatrix%20-%20NG%201721%20-%20National%20Galleries%20of%20Scotland.jpg"
         }
     ],
-    "Li Tang": []
+    "Li Tang": [],
+    "Hieronymus Bosch": [
+        {
+            "title": "The Garden of Earthly Delights",
+            "artist": "Hieronymus Bosch",
+            "year": "1490",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Garden%20of%20Earthly%20Delights%20by%20Bosch%20High%20Resolution%202.jpg"
+        },
+        {
+            "title": "Ship of Fools",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Department of Paintings of the Louvre",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20011.jpg"
+        },
+        {
+            "title": "Ecce Homo",
+            "artist": "Hieronymus Bosch",
+            "year": "1490",
+            "museum": "St\u00e4del Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecce%20Homo%20%28SM%201577%29.png"
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Museum of Fine Arts Ghent (MSK)",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20-%20Christ%20Carrying%20the%20Cross%2C%20ca.%201510%20-%20ca.%201516%2C%20Inv.%201902-H.jpg"
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "artist": "Hieronymus Bosch",
+            "year": "1510",
+            "museum": "Museum of Fine Arts Ghent (MSK)",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20-%20Christ%20Carrying%20the%20Cross%2C%20ca.%201510%20-%20ca.%201516%2C%20Inv.%201902-H.jpg"
+        },
+        {
+            "title": "Temptation of Saint Anthony",
+            "artist": "Hieronymus Bosch",
+            "year": "1501",
+            "museum": "National Museum of Ancient Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Temptation%20of%20Saint%20Anthony.jpg"
+        },
+        {
+            "title": "The Last Judgment",
+            "artist": "Hieronymus Bosch",
+            "year": "1450",
+            "museum": "Academy of Fine Arts Vienna",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20097%20exterior%2002.jpg"
+        },
+        {
+            "title": "The Last Judgment",
+            "artist": "Hieronymus Bosch",
+            "year": "1506",
+            "museum": "Academy of Fine Arts Vienna",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20097%20exterior%2002.jpg"
+        },
+        {
+            "title": "The Last Judgment",
+            "artist": "Hieronymus Bosch",
+            "year": "1450",
+            "museum": "Academy of Fine Arts Vienna",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Last%20judgement%20Bosch.jpg"
+        },
+        {
+            "title": "The Last Judgment",
+            "artist": "Hieronymus Bosch",
+            "year": "1506",
+            "museum": "Academy of Fine Arts Vienna",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Last%20judgement%20Bosch.jpg"
+        },
+        {
+            "title": "Two Male Heads",
+            "artist": "Hieronymus Bosch",
+            "year": "1480",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Annas%20and%20Kajafas%20001.jpg"
+        },
+        {
+            "title": "The Temptations of St. Anthony (Hieronymus Bosch, S\u00e3o Paulo)",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "S\u00e3o Paulo Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20-%20tentacoesstoantao01.jpg"
+        },
+        {
+            "title": "The Last Judgment",
+            "artist": "Hieronymus Bosch",
+            "year": "1530",
+            "museum": "Bavarian State Painting Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Last%20Judgement.jpg"
+        },
+        {
+            "title": "The Last Judgment",
+            "artist": "Hieronymus Bosch",
+            "year": "1530",
+            "museum": "Alte Pinakothek, upper floor, gallery IIa",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Last%20Judgement.jpg"
+        },
+        {
+            "title": "An Allegory of Intemperance",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20003.jpg"
+        },
+        {
+            "title": "A Tavern Quarrel",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Centre for Old Arts 't Vliegend Peert",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hy%20soect%20de%20byle.jpg"
+        },
+        {
+            "title": "Ecce Homo",
+            "artist": "Hieronymus Bosch",
+            "year": "1511",
+            "museum": "http://www.wikidata.org/.well-known/genid/732604dc95fef8d440610098825cdc33",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20%28%3F%29%20Ecce%20Homo.jpg"
+        },
+        {
+            "title": "Death and the Miser",
+            "artist": "Hieronymus Bosch",
+            "year": "1480",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20050.jpg"
+        },
+        {
+            "title": "Death and the Miser",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20050.jpg"
+        },
+        {
+            "title": "Death and the Miser",
+            "artist": "Hieronymus Bosch",
+            "year": "1480",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20050.jpg"
+        },
+        {
+            "title": "Death and the Miser",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Samuel H. Kress Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20050.jpg"
+        },
+        {
+            "title": "The Haywain Triptych",
+            "artist": "Hieronymus Bosch",
+            "year": "1510",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20De%20hooiwagen%20%28c.1516%2C%20Prado%29.jpg"
+        },
+        {
+            "title": "Christ in Limbo",
+            "artist": "Hieronymus Bosch",
+            "year": "1550",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20in%20Limbo.jpg"
+        },
+        {
+            "title": "Christ Mocked",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Royal Museum of Fine Arts Antwerp",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20Crowned%20with%20Thorns%20with%20Donor.jpg"
+        },
+        {
+            "title": "Christ Mocked",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Royal Museum of Fine Arts Antwerp",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Scorel%20-%20De%20bespotting%20van%20Christus%2C%201520-1530%2C%20840.tif"
+        },
+        {
+            "title": "Christ Mocked",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Vlaamse Kunstcollectie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20Crowned%20with%20Thorns%20with%20Donor.jpg"
+        },
+        {
+            "title": "Christ Mocked",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Vlaamse Kunstcollectie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Scorel%20-%20De%20bespotting%20van%20Christus%2C%201520-1530%2C%20840.tif"
+        },
+        {
+            "title": "Cutting the Stone",
+            "artist": "Hieronymus Bosch",
+            "year": "1503",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cutting%20the%20Stone%20%28Bosch%29.jpg"
+        },
+        {
+            "title": "The Epiphany",
+            "artist": "Hieronymus Bosch",
+            "year": "1494",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Triptych%20of%20the%20Adoration%20of%20the%20Magi%20-%20WGA2606.jpg"
+        },
+        {
+            "title": "The Seven Deadly Sins and the Four Last Things",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch-%20The%20Seven%20Deadly%20Sins%20and%20the%20Four%20Last%20Things.JPG"
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "artist": "Hieronymus Bosch",
+            "year": "1505",
+            "museum": "Royal Monastery of San Lorenzo de El Escorial",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/ChristCarryingCrossBoschMadridVersion.jpg"
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "artist": "Hieronymus Bosch",
+            "year": "1505",
+            "museum": "Royal Palace of Madrid",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/ChristCarryingCrossBoschMadridVersion.jpg"
+        },
+        {
+            "title": "The Hermit Saint",
+            "artist": "Hieronymus Bosch",
+            "year": "1493",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Hermit%20Saints%20Triptych.jpg"
+        },
+        {
+            "title": "The Hermit Saint",
+            "artist": "Hieronymus Bosch",
+            "year": "1493",
+            "museum": "Doge's Palace",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Hermit%20Saints%20Triptych.jpg"
+        },
+        {
+            "title": "The Hermit Saint",
+            "artist": "Hieronymus Bosch",
+            "year": "1493",
+            "museum": "Gallerie dell'Accademia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Hermit%20Saints%20Triptych.jpg"
+        },
+        {
+            "title": "St. John  on Patmos",
+            "artist": "Hieronymus Bosch",
+            "year": "1489",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20%28ca.%201450%20-%208.1516%29%20-%20John%20on%20Patmos%20-%20Scenes%20of%20the%20Passion%20of%20Christ%20-%201647A%20-%20Gem%C3%A4ldegalerie.jpg"
+        },
+        {
+            "title": "St. John  on Patmos",
+            "artist": "Hieronymus Bosch",
+            "year": "1489",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20op%20Patmos%20Saint%20John%20on%20Patmos%20Berlin%2C%20Staatlichen%20Museen%20zu%20Berlin%2C%20Gemaldegalerie%20HR.jpg"
+        },
+        {
+            "title": "Crucifixion with a Donor",
+            "artist": "Hieronymus Bosch",
+            "year": "1485",
+            "museum": "Royal Museums of Fine Arts of Belgium",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Crucifixion%20with%20a%20Donor%2C%20ca.%201480-85.jpg"
+        },
+        {
+            "title": "The Temptation of Saint Anthony",
+            "artist": "Hieronymus Bosch",
+            "year": "1510",
+            "museum": "Chrysler Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20Jheronimus%20Bosch%20005.jpg"
+        },
+        {
+            "title": "The Wayfarer",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20The%20Pedlar%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Wayfarer",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Jacques Goudstikker collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20The%20Pedlar%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Paradise and Hell",
+            "artist": "Hieronymus Bosch",
+            "year": "1513",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20of%20Jheronimus%20Bosch%20003.jpg"
+        },
+        {
+            "title": "Paradise and Hell",
+            "artist": "Hieronymus Bosch",
+            "year": "1513",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20115%20inner%20wings.jpg"
+        },
+        {
+            "title": "Paradise and Hell",
+            "artist": "Hieronymus Bosch",
+            "year": "1513",
+            "museum": "http://www.wikidata.org/.well-known/genid/eeae5bd50d3046a6a40329329fd40503",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20of%20Jheronimus%20Bosch%20003.jpg"
+        },
+        {
+            "title": "Paradise and Hell",
+            "artist": "Hieronymus Bosch",
+            "year": "1513",
+            "museum": "http://www.wikidata.org/.well-known/genid/eeae5bd50d3046a6a40329329fd40503",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20115%20inner%20wings.jpg"
+        },
+        {
+            "title": "St. John the Baptist in the Wilderness",
+            "artist": "Hieronymus Bosch",
+            "year": "1489",
+            "museum": "L\u00e1zaro Galdiano Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Saint%20John%20the%20Baptist%20in%20the%20Desert%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "The Adoration of the Magi",
+            "artist": "Hieronymus Bosch",
+            "year": "1475",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Adoration%20of%20the%20Magi%20Hieronymus%20Bosch%20autograph%20ca.%201470%E2%80%9375%20%28NY%29.jpg"
+        },
+        {
+            "title": "Concert in the Egg",
+            "artist": "Hieronymus Bosch",
+            "year": "1560",
+            "museum": "Palais des Beaux-Arts de Lille",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Concert%20in%20the%20Egg.jpg"
+        },
+        {
+            "title": "Head of an old woman",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/BoschHeadOfAWomanFragment.jpg"
+        },
+        {
+            "title": "Head of an old woman",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Gebruder Douwes",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/BoschHeadOfAWomanFragment.jpg"
+        },
+        {
+            "title": "The Temptation of Saint Anthony",
+            "artist": "Hieronymus Bosch",
+            "year": "1525",
+            "museum": "Centraal Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20002.jpg"
+        },
+        {
+            "title": "Saint Christopher Carrying the Christ Child",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20Saint%20Christopher%20-%20Google%20Art%20ProjectFXD%20%28Cropped%29.jpg"
+        },
+        {
+            "title": "Saint Jerome",
+            "artist": "Hieronymus Bosch",
+            "year": "1482",
+            "museum": "Museum of Fine Arts Ghent (MSK)",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Heilige%20Hi%C3%ABronymus%20in%20gebed%2C%20Jheronimus%20Bosch%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Gent%2C%201908%20H.jpg"
+        },
+        {
+            "title": "Saint Jerome",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Museum of Fine Arts Ghent (MSK)",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Heilige%20Hi%C3%ABronymus%20in%20gebed%2C%20Jheronimus%20Bosch%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Gent%2C%201908%20H.jpg"
+        },
+        {
+            "title": "Saint Jerome",
+            "artist": "Hieronymus Bosch",
+            "year": "1482",
+            "museum": "Vlaamse Kunstcollectie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Heilige%20Hi%C3%ABronymus%20in%20gebed%2C%20Jheronimus%20Bosch%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Gent%2C%201908%20H.jpg"
+        },
+        {
+            "title": "Saint Jerome",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Vlaamse Kunstcollectie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Heilige%20Hi%C3%ABronymus%20in%20gebed%2C%20Jheronimus%20Bosch%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Gent%2C%201908%20H.jpg"
+        },
+        {
+            "title": "Christ Carrying the Cross",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Kunsthistorisches Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20054.jpg"
+        },
+        {
+            "title": "The Temptation of St Anthony",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Thyssen-Bornemisza family Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20096.jpg"
+        },
+        {
+            "title": "The Temptation of St Anthony",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "http://www.wikidata.org/.well-known/genid/5866f7b2d13cb40694930bf481adf7a3",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20096.jpg"
+        },
+        {
+            "title": "The Deadly Sins",
+            "artist": "Hieronymus Bosch",
+            "year": "1520",
+            "museum": "http://www.wikidata.org/.well-known/genid/768765e960dce324fa7821f837d2532f",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20015.jpg"
+        },
+        {
+            "title": "Christ Crowned with Thorns",
+            "artist": "Hieronymus Bosch",
+            "year": "1495",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Christ%20Mocked%20%28The%20Crowning%20with%20Thorns%29%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Last Judgement",
+            "artist": "Hieronymus Bosch",
+            "year": "1475",
+            "museum": "Groeningemuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20laatste%20oordeel%20drieluik.jpg"
+        },
+        {
+            "title": "Last Judgement",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Groeningemuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20laatste%20oordeel%20drieluik.jpg"
+        },
+        {
+            "title": "Last Judgement",
+            "artist": "Hieronymus Bosch",
+            "year": "1475",
+            "museum": "Vlaamse Kunstcollectie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20laatste%20oordeel%20drieluik.jpg"
+        },
+        {
+            "title": "Last Judgement",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Vlaamse Kunstcollectie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20laatste%20oordeel%20drieluik.jpg"
+        },
+        {
+            "title": "The holy Jacob and the magician Hermogenes",
+            "artist": "Hieronymus Bosch",
+            "year": "1550",
+            "museum": "Mus\u00e9e des Beaux-Arts de Valenciennes",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Jacques%20et%20le%20magicien%20Hermogene.jpg"
+        },
+        {
+            "title": "The Temptation of St Anthony",
+            "artist": "Hieronymus Bosch",
+            "year": "1550",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20verzoeking%20van%20de%20heilige%20Antonius%20de%20Heremiet.%20Rijksmuseum%20SK-A-3240.jpeg"
+        },
+        {
+            "title": "The Temptation of St Anthony",
+            "artist": "Hieronymus Bosch",
+            "year": "1550",
+            "museum": "Noordbrabants Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20verzoeking%20van%20de%20heilige%20Antonius%20de%20Heremiet.%20Rijksmuseum%20SK-A-3240.jpeg"
+        },
+        {
+            "title": "Adoration of the Magi",
+            "artist": "Hieronymus Bosch",
+            "year": "1493",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20or%20follower%20-%20Adoration%20of%20the%20Magi.jpg"
+        },
+        {
+            "title": "Adoration of the Magi",
+            "artist": "Hieronymus Bosch",
+            "year": "1520",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20or%20follower%20-%20Adoration%20of%20the%20Magi.jpg"
+        },
+        {
+            "title": "Adoration of the Magi",
+            "artist": "Hieronymus Bosch",
+            "year": "1493",
+            "museum": "Julius B\u00f6hler AG",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20or%20follower%20-%20Adoration%20of%20the%20Magi.jpg"
+        },
+        {
+            "title": "Adoration of the Magi",
+            "artist": "Hieronymus Bosch",
+            "year": "1520",
+            "museum": "Julius B\u00f6hler AG",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20or%20follower%20-%20Adoration%20of%20the%20Magi.jpg"
+        },
+        {
+            "title": "Death of the Reprobate",
+            "artist": "Hieronymus Bosch",
+            "year": "1490",
+            "museum": "http://www.wikidata.org/.well-known/genid/33add93f907711c1f47e0d066641a026",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/BoschDeathOfTheReprobate.jpg"
+        },
+        {
+            "title": "Head of a Halberdier",
+            "artist": "Hieronymus Bosch",
+            "year": "1490",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boskh%20Ieronim%20alebarda.jpg"
+        },
+        {
+            "title": "Head of a Halberdier",
+            "artist": "Hieronymus Bosch",
+            "year": "1551",
+            "museum": "Museo del Prado",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boskh%20Ieronim%20alebarda.jpg"
+        },
+        {
+            "title": "Visions of the Hereafter: Ascent of the Blessed",
+            "artist": "Hieronymus Bosch",
+            "year": "1490",
+            "museum": "Palazzo Grimani di Santa Maria Formosa",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20013.jpg"
+        },
+        {
+            "title": "The Temptation of St Anthony",
+            "artist": "Hieronymus Bosch",
+            "year": "1520",
+            "museum": "Royal Museums of Fine Arts of Belgium",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Temptation%20of%20Saint%20Anthony.jpg"
+        },
+        {
+            "title": "The Temptation of St Anthony",
+            "artist": "Hieronymus Bosch",
+            "year": "1525",
+            "museum": "Royal Museums of Fine Arts of Belgium",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Temptation%20of%20Saint%20Anthony.jpg"
+        },
+        {
+            "title": "The Marriage Feast at Cana",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Castle Huis Bergh",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20copyist%20The%20marriage-feast%20at%20Cana%20Huis%20Bergh.jpg"
+        },
+        {
+            "title": "Cutting the Stone",
+            "artist": "Hieronymus Bosch",
+            "year": "1552",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20snijden%20van%20de%20kei.%20Rijksmuseum%20SK-A-1601.jpeg"
+        },
+        {
+            "title": "Cutting the Stone",
+            "artist": "Hieronymus Bosch",
+            "year": "1552",
+            "museum": "Noordbrabants Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20snijden%20van%20de%20kei.%20Rijksmuseum%20SK-A-1601.jpeg"
+        },
+        {
+            "title": "The Temptation of Saint Anthony",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Gem\u00e4ldegalerie Berlin",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20The%20Temptation%20of%20St.%20Anthony%20Berlin.jpg"
+        },
+        {
+            "title": "Tondal's Vision",
+            "artist": "Hieronymus Bosch",
+            "year": "1550",
+            "museum": "L\u00e1zaro Galdiano Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20037.jpg"
+        },
+        {
+            "title": "Visions of the Hereafter: Hell",
+            "artist": "Hieronymus Bosch",
+            "year": "1490",
+            "museum": "Doge's Palace",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Accademia%20-%20Visioni%20dell%27Aldil%C3%A0%20-%20L%27inferno%20-%20Bosch.jpg"
+        },
+        {
+            "title": "Visions of the Hereafter: Fall of the Damned into Hell",
+            "artist": "Hieronymus Bosch",
+            "year": "1490",
+            "museum": "Doge's Palace",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20Fall%20of%20the%20Damned.jpg"
+        },
+        {
+            "title": "The adoration of the magi",
+            "artist": "Hieronymus Bosch",
+            "year": "1650",
+            "museum": "Rijksmuseum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20-%20Adoration%20of%20the%20Magi%20-%20Rijksmuseum.jpg"
+        },
+        {
+            "title": "The adoration of the magi",
+            "artist": "Hieronymus Bosch",
+            "year": "1650",
+            "museum": "National Art Gallery of the Netherlands",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20-%20Adoration%20of%20the%20Magi%20-%20Rijksmuseum.jpg"
+        },
+        {
+            "title": "The adoration of the magi",
+            "artist": "Hieronymus Bosch",
+            "year": "1650",
+            "museum": "Kabinet van Heteren Gevers",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Jheronimus%20Bosch%20-%20Adoration%20of%20the%20Magi%20-%20Rijksmuseum.jpg"
+        },
+        {
+            "title": "Visions of the Hereafter: Terrestrial Paradise",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Doge's Palace",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20Terrestrial%20Paradise.jpg"
+        },
+        {
+            "title": "Instruments of the Passion of Christ",
+            "artist": "Hieronymus Bosch",
+            "year": "1498",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Predella.jpg"
+        },
+        {
+            "title": "Franco van Langhel and His Sons with Saint John the Evangelist (outer face); Pieter van Os with Saint Peter (inner face)",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Franco%20van%20Langhel%20and%20His%20Sons%20with%20Saint%20John%20the%20Evangelist.jpg"
+        },
+        {
+            "title": "Franco van Langhel and His Sons with Saint John the Evangelist (outer face); Pieter van Os with Saint Peter (inner face)",
+            "artist": "Hieronymus Bosch",
+            "year": "1500",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Pieter%20van%20Os%20with%20St%20Peter.jpg"
+        },
+        {
+            "title": "Heilwich van der Rullen and Her Daughters with Saint Mary Magdalen (outer face); Hendrixke van Langhel and Her Deceased Child with Saint Catherine (inner face)",
+            "artist": "Hieronymus Bosch",
+            "year": "1498",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Heilwig%20van%20der%20Rullen%20and%20Her%20Daughters%20with%20Saint%20Mary%20Magdalen.jpg"
+        },
+        {
+            "title": "Heilwich van der Rullen and Her Daughters with Saint Mary Magdalen (outer face); Hendrixke van Langhel and Her Deceased Child with Saint Catherine (inner face)",
+            "artist": "Hieronymus Bosch",
+            "year": "1498",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Hendrixke%20van%20Langhel%20with%20St%20Catherine.jpg"
+        },
+        {
+            "title": "Christ and the Woman Taken in Adultery",
+            "artist": "Hieronymus Bosch",
+            "year": "1549",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20follower%20Christ%20and%20the%20Woman%20Taken%20in%20Adultery.jpg"
+        },
+        {
+            "title": "Christ and the Woman Taken in Adultery",
+            "artist": "Hieronymus Bosch",
+            "year": "1575",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20follower%20Christ%20and%20the%20Woman%20Taken%20in%20Adultery.jpg"
+        },
+        {
+            "title": "Christ in Limbo",
+            "artist": "Hieronymus Bosch",
+            "year": "1550",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20follower%20Christ%20in%20Limbo%20Philadelphia.jpg"
+        },
+        {
+            "title": "Retinue of the Magi",
+            "artist": "Hieronymus Bosch",
+            "year": "1550",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%2C%20Retinue%20of%20the%20Magi.jpg"
+        },
+        {
+            "title": "Retinue of the Magi",
+            "artist": "Hieronymus Bosch",
+            "year": "1550",
+            "museum": "Julius B\u00f6hler AG",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%2C%20Retinue%20of%20the%20Magi.jpg"
+        }
+    ],
+    "Alphonse Mucha": [
+        {
+            "title": "Gismonda",
+            "artist": "Alphonse Mucha",
+            "year": "1894",
+            "museum": "National Gallery Prague",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%201894%20-%20Gismonda.jpg"
+        },
+        {
+            "title": "Gismonda",
+            "artist": "Alphonse Mucha",
+            "year": "1894",
+            "museum": "National Gallery Prague",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20-%20Gismonda.jpg"
+        },
+        {
+            "title": "Zodiac",
+            "artist": "Alphonse Mucha",
+            "year": "1896",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20Mucha%20-%20Zodiac%2C%201869.jpg"
+        },
+        {
+            "title": "Zodiac",
+            "artist": "Alphonse Mucha",
+            "year": "1897",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20Mucha%20-%20Zodiac%2C%201869.jpg"
+        },
+        {
+            "title": "R\u00eaveur",
+            "artist": "Alphonse Mucha",
+            "year": "1897",
+            "museum": "http://www.wikidata.org/.well-known/genid/efba7392fa1d13b18bf6b82f9712db26",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20F.%20Champenois%20Imprimeur-%C3%89diteur.jpg"
+        },
+        {
+            "title": "R\u00eaveur",
+            "artist": "Alphonse Mucha",
+            "year": "1897",
+            "museum": "http://www.wikidata.org/.well-known/genid/efba7392fa1d13b18bf6b82f9712db26",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Reverie%201897.jpg"
+        },
+        {
+            "title": "Maude Adams (1872\u20131953) as Joan of Arc",
+            "artist": "Alphonse Mucha",
+            "year": "1909",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha-Maud%20Adams%20as%20Joan%20of%20Arc-1909.jpg"
+        },
+        {
+            "title": "Portrait of Josephine Crane-Bradley as Slavia",
+            "artist": "Alphonse Mucha",
+            "year": "1908",
+            "museum": "National Gallery Prague",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SlaviaMucha.jpg"
+        },
+        {
+            "title": "Slavs in their Original Homeland",
+            "artist": "Alphonse Mucha",
+            "year": "1912",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Slovane%20v%20pravlasti%2081x61m.jpg"
+        },
+        {
+            "title": "The Celebration of Svantovit in Rujana",
+            "artist": "Alphonse Mucha",
+            "year": "1912",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Slavnost%20svatovitova%20na%20rujane.jpg"
+        },
+        {
+            "title": "The Introduction of Slavonic Liturgy",
+            "artist": "Alphonse Mucha",
+            "year": "1912",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zavedeni%20slovanske%20liturgie%20na%20velke%20morave.jpg"
+        },
+        {
+            "title": "The Bulgarian Tsar Simeon",
+            "artist": "Alphonse Mucha",
+            "year": "1923",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Car%20Simeon%20Bulharsky%20-%20Alfons%20Mucha.jpg"
+        },
+        {
+            "title": "The Bohemian King P\u0159emysl Otakar II",
+            "artist": "Alphonse Mucha",
+            "year": "1923",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Premysl%20otakar%20ii%20kral%20zelezny%20a%20zlaty.jpg"
+        },
+        {
+            "title": "The coronation of the Serbian Tsar Stefan Du\u0161an as East Roman Emperor",
+            "artist": "Alphonse Mucha",
+            "year": "1926",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Coronation%20of%20Emperor%20Du%C5%A1an%2C%20in%20%22The%20Slavonic%20Epic%22%20%281926%29.jpg"
+        },
+        {
+            "title": "Jan Mil\u00ed\u010d of Krom\u011b\u0159\u00ed\u017e",
+            "artist": "Alphonse Mucha",
+            "year": "1916",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20milic%20z%20kromerize.jpg"
+        },
+        {
+            "title": "Master Jan Hus Preaching at the Bethlehem Chapel",
+            "artist": "Alphonse Mucha",
+            "year": "1916",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazani%20mistra%20jana%20husa%20v%20kapli%20betlemske%2081x61m.jpg"
+        },
+        {
+            "title": "The Meeting at K\u0159\u00ed\u017eky",
+            "artist": "Alphonse Mucha",
+            "year": "1916",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Na%20Krizku.jpg"
+        },
+        {
+            "title": "After the Battle of Grunwald",
+            "artist": "Alphonse Mucha",
+            "year": "1924",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20the%20Battle%20of%20Grunwald%20-%20Alfons%20Mucha.jpg"
+        },
+        {
+            "title": "After the Battle of V\u00edtkov Hill",
+            "artist": "Alphonse Mucha",
+            "year": "1923",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Po%20bitv%C4%9B%20na%20V%C3%ADtkov%C4%9B.jpg"
+        },
+        {
+            "title": "Petr Chel\u010dick\u00fd at Vod\u0148any",
+            "artist": "Alphonse Mucha",
+            "year": "1918",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Petr%20chelcicky.jpg"
+        },
+        {
+            "title": "The Hussite King Ji\u0159\u00ed of Pod\u011bbrady",
+            "artist": "Alphonse Mucha",
+            "year": "1923",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Jiri%20z%20Podebrad.jpg"
+        },
+        {
+            "title": "Defense of Sziget Against the Turks",
+            "artist": "Alphonse Mucha",
+            "year": "1916",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20defense%20of%20Szigetvar.jpg"
+        },
+        {
+            "title": "The Printing of the Bible of Kralice in Ivan\u010dice",
+            "artist": "Alphonse Mucha",
+            "year": "1914",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Skola%20Ivancice.jpg"
+        },
+        {
+            "title": "The Last days of Jan Amos Komensk\u00fd in Naarden",
+            "artist": "Alphonse Mucha",
+            "year": "1918",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Komenius.jpg"
+        },
+        {
+            "title": "Holy Mount Athos",
+            "artist": "Alphonse Mucha",
+            "year": "1926",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%2C%20Alfons%20-%20Der%20Heilige%20Berg%20Athos%20-%201926.jpg"
+        },
+        {
+            "title": "The Oath of Omladina Under the Slavic Linden Tree",
+            "artist": "Alphonse Mucha",
+            "year": "1926",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Omladina.jpg"
+        },
+        {
+            "title": "The Abolition of Serfdom in Russia",
+            "artist": "Alphonse Mucha",
+            "year": "1914",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Zruseni%20nevolnictvi.jpg"
+        },
+        {
+            "title": "Apotheosis of the Slavs",
+            "artist": "Alphonse Mucha",
+            "year": "1928",
+            "museum": "museum collection of the Prague City Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Apoteoza.jpg"
+        },
+        {
+            "title": "Woman in the Wilderness",
+            "artist": "Alphonse Mucha",
+            "year": "1923",
+            "museum": "Mucha Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20in%20the%20Wilderness.jpg"
+        },
+        {
+            "title": "Woman With a Burning Candle",
+            "artist": "Alphonse Mucha",
+            "year": "1933",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Femme%20regardant%20une%20bougie%20allum%C3%A9e%2002.jpg"
+        },
+        {
+            "title": "Czech Heart",
+            "artist": "Alphonse Mucha",
+            "year": "1917",
+            "museum": "National Gallery Prague",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Czech%20Heart%20-%20O%203641%20-%20National%20Gallery%20Prague.jpg"
+        },
+        {
+            "title": "Poster design for Mo\u00ebt et Chandon champagne.",
+            "artist": "Alphonse Mucha",
+            "year": "1899",
+            "museum": "National Museum in Warsaw",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Mo%C3%ABt%20et%20Chandon.jpg"
+        },
+        {
+            "title": "Spring",
+            "artist": "Alphonse Mucha",
+            "year": "1896",
+            "museum": "http://www.wikidata.org/.well-known/genid/c7c51b3d3521de1e3009675fe18545fc",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%201896%20-%20Spring.jpg"
+        },
+        {
+            "title": "Summer",
+            "artist": "Alphonse Mucha",
+            "year": "1896",
+            "museum": "http://www.wikidata.org/.well-known/genid/d106183001762ccf6f427d14aeaa4a54",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%201896%20-%20Summer.jpg"
+        },
+        {
+            "title": "Winter",
+            "artist": "Alphonse Mucha",
+            "year": "1896",
+            "museum": "http://www.wikidata.org/.well-known/genid/46ea37c264fec331ca41932a466f3965",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%201896%20-%20Winter.jpg"
+        },
+        {
+            "title": "Autumn",
+            "artist": "Alphonse Mucha",
+            "year": "1896",
+            "museum": "http://www.wikidata.org/.well-known/genid/9ddb22f8f2859443d9e12c7e3fcde99b",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%201896%20-%20Autumn.jpg"
+        },
+        {
+            "title": "Self-portrait (1907)",
+            "artist": "Alphonse Mucha",
+            "year": "1907",
+            "museum": "Mucha Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20Selbstportr%C3%A4t.jpg"
+        },
+        {
+            "title": "Portrait of Mucha's Daughter, Jaroslava",
+            "artist": "Alphonse Mucha",
+            "year": "1931",
+            "museum": "Mucha Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Portrait%20de%20Jaroslava%2002.jpg"
+        },
+        {
+            "title": "Fate",
+            "artist": "Alphonse Mucha",
+            "year": "1920",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20Mucha%20-%20Fate.jpg"
+        },
+        {
+            "title": "Advertisement for Job cigarettes.",
+            "artist": "Alphonse Mucha",
+            "year": "1896",
+            "museum": "Biblioth\u00e8que nationale de France",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20Mucha%20-%20Advertisment%20for%20Job%20cigarettes%2C%201896.jpg"
+        },
+        {
+            "title": "Song of Bohemia",
+            "artist": "Alphonse Mucha",
+            "year": "1918",
+            "museum": "Mucha Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Chant%20de%20Boh%C3%A8me%2002.jpg"
+        },
+        {
+            "title": "France Embraces Bohemia",
+            "artist": "Alphonse Mucha",
+            "year": "1919",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Le%20Baiser%20de%20la%20France%20%C3%A0%20la%20Boh%C3%AAme%2001.jpg"
+        },
+        {
+            "title": "Self-portrait, sketching in his apartment, Paris",
+            "artist": "Alphonse Mucha",
+            "year": "1889",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Autoportrait%20de%20Mucha%20dans%20son%20appartement%20%C3%A0%20Paris.jpg"
+        },
+        {
+            "title": "Study for Woman in the Wilderness",
+            "artist": "Alphonse Mucha",
+            "year": "1923",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20%C3%89tude%20pour%20Femme%20dans%20le%20d%C3%A9sert%2002.jpg"
+        },
+        {
+            "title": "Study for Woman in the Wilderness 2",
+            "artist": "Alphonse Mucha",
+            "year": "1923",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Studie%20%C2%AB%C5%BDeny%20v%20divo%C4%8Din%C4%9B%C2%BB.jpg"
+        },
+        {
+            "title": "Girl with loose hair and tulips",
+            "artist": "Alphonse Mucha",
+            "year": "1920",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Fille%20aux%20cheveux%20l%C3%A2ch%C3%A9s%20et%20aux%20tulipes%2002.jpg"
+        },
+        {
+            "title": "Portrait of Mucha's Son, Ji\u0159\u00ed",
+            "artist": "Alphonse Mucha",
+            "year": "1925",
+            "museum": "Mucha Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Jiri%20-%20Alfons%20Mucha.jpg"
+        },
+        {
+            "title": "The Light of Hope",
+            "artist": "Alphonse Mucha",
+            "year": "1933",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20La%20Lumi%C3%A8re%20de%20l%27Espoir%2002.jpg"
+        },
+        {
+            "title": "Portrait of Hanna Vitousek",
+            "artist": "Alphonse Mucha",
+            "year": "1912",
+            "museum": "http://www.wikidata.org/.well-known/genid/ecb33daa1a0ac847a218a5419a050aeb",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20Mucha%20Portrait%20of%20Hanna%20Vitousek%201912.jpeg"
+        }
+    ],
+    "Frederic Edwin Church": [
+        {
+            "title": "Heart of the Andes",
+            "artist": "Frederic Edwin Church",
+            "year": "1859",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Church%20Heart%20of%20the%20Andes.jpg"
+        },
+        {
+            "title": "The Icebergs",
+            "artist": "Frederic Edwin Church",
+            "year": "1861",
+            "museum": "Dallas Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20The%20Icebergs%20-%201979.28%20-%20Dallas%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "The Icebergs",
+            "artist": "Frederic Edwin Church",
+            "year": "1861",
+            "museum": "Dallas Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Icebergs%20%28Frederic%20Edwin%20Church%29%2C%201861%20%28color%29.jpg"
+        },
+        {
+            "title": "Aurora Borealis",
+            "artist": "Frederic Edwin Church",
+            "year": "1865",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Aurora%20Borealis%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "El Rio de Luz",
+            "artist": "Frederic Edwin Church",
+            "year": "1877",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Rio%20de%20Luz%20%28The%20River%20of%20Light%29%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "The Meteor of 1860",
+            "artist": "Frederic Edwin Church",
+            "year": "1860",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Church%20Meteor%20of%201860.jpg"
+        },
+        {
+            "title": "Niagara",
+            "artist": "Frederic Edwin Church",
+            "year": "1857",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Niagara%20by%20Frederic%20Edwin%20Church%2C%201857%20-%20Corcoran%20Gallery%20of%20Art%20-%20DSC01135.JPG"
+        },
+        {
+            "title": "Niagara",
+            "artist": "Frederic Edwin Church",
+            "year": "1857",
+            "museum": "Corcoran Gallery of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Niagara%20by%20Frederic%20Edwin%20Church%2C%201857%20-%20Corcoran%20Gallery%20of%20Art%20-%20DSC01135.JPG"
+        },
+        {
+            "title": "Niagara Falls, from the American Side",
+            "artist": "Frederic Edwin Church",
+            "year": "1867",
+            "museum": "Scottish National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Niagara%20Falls%2C%20from%20the%20American%20Side%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Niagara Falls, from the American Side",
+            "artist": "Frederic Edwin Church",
+            "year": "1867",
+            "museum": "Scottish National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Niagara%20Falls%2C%20from%20the%20American%20Side%20-%20NG%20799%20-%20National%20Galleries%20of%20Scotland.jpg"
+        },
+        {
+            "title": "Niagara Falls, from the American Side",
+            "artist": "Frederic Edwin Church",
+            "year": "1867",
+            "museum": "National Galleries Scotland",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Niagara%20Falls%2C%20from%20the%20American%20Side%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Niagara Falls, from the American Side",
+            "artist": "Frederic Edwin Church",
+            "year": "1867",
+            "museum": "National Galleries Scotland",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Niagara%20Falls%2C%20from%20the%20American%20Side%20-%20NG%20799%20-%20National%20Galleries%20of%20Scotland.jpg"
+        },
+        {
+            "title": "Cathedral, Chillo, Ecuador",
+            "artist": "Frederic Edwin Church",
+            "year": "1857",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20Chillo%20Ecuador%20by%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Storm Over Hudson Valley",
+            "artist": "Frederic Edwin Church",
+            "year": "1867",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Storm%20Over%20Hudson%20Valley%20by%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Hillside",
+            "artist": "Frederic Edwin Church",
+            "year": "1860",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Painting%2C%20Hillside%2C%201860%E2%80%9370%20%28CH%2018202031%29.jpg"
+        },
+        {
+            "title": "Mountain Stream, Yemen Valley, Palestine",
+            "artist": "Frederic Edwin Church",
+            "year": "1868",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mountain%20Stream%20Yemen%20Valley%20Palestine%20by%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Wild Sugar Cane, Jamaica",
+            "artist": "Frederic Edwin Church",
+            "year": "1865",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wild%20Sugar%20Cane%20Jamaica%20by%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Painting. Study. In the Woods Maine.",
+            "artist": "Frederic Edwin Church",
+            "year": "1865",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Painting%20Study%20in%20the%20Woods%20Maine%20by%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Pichincha",
+            "artist": "Frederic Edwin Church",
+            "year": "1867",
+            "museum": "Philadelphia Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%2C%20American%20-%20Pichincha%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Morning in the Tropics",
+            "artist": "Frederic Edwin Church",
+            "year": "1858",
+            "museum": "Walters Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederick%20Edwin%20Church%20-%20Morning%20in%20the%20Tropics%20-%20Walters%2037147.jpg"
+        },
+        {
+            "title": "The Parthenon",
+            "artist": "Frederic Edwin Church",
+            "year": "1871",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Parthenon%20%281871%29%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "The Aegean Sea",
+            "artist": "Frederic Edwin Church",
+            "year": "1877",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aegean%20Sea%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Erechtheion",
+            "artist": "Frederic Edwin Church",
+            "year": "1869",
+            "museum": "http://www.wikidata.org/.well-known/genid/d4c7b69d1789258bb8ebb3e5868f6471",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Erechtheum%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Moonrise in Greece",
+            "artist": "Frederic Edwin Church",
+            "year": "1889",
+            "museum": "Santa Barbara Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moonrise%20Frederic%20Edwin%20Church%201889.jpeg"
+        },
+        {
+            "title": "Chimborazo Volcano",
+            "artist": "Frederic Edwin Church",
+            "year": "1884",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Chimborazo%20Volcano%20by%20Frederic%20Edwin%20Church%201884.jpeg"
+        },
+        {
+            "title": "The Iceberg",
+            "artist": "Frederic Edwin Church",
+            "year": "1891",
+            "museum": "Carnegie Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Der%20Eisberg%20-%201891.jpeg"
+        },
+        {
+            "title": "Icebergs and Wreck in Sunset",
+            "artist": "Frederic Edwin Church",
+            "year": "1860",
+            "museum": "http://www.wikidata.org/.well-known/genid/b670daf1371bf63d963cc95b09368733",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Icebergs%20and%20Wreck%20in%20Sunset%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Tamaca Palms",
+            "artist": "Frederic Edwin Church",
+            "year": "1854",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamaca%20Palms%20by%20Frederic%20Edwin%20Church%2C%201854%20-%20Corcoran%20Gallery%20of%20Art%20-%20DSC01132.JPG"
+        },
+        {
+            "title": "Tamaca Palms",
+            "artist": "Frederic Edwin Church",
+            "year": "1854",
+            "museum": "Corcoran Gallery of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamaca%20Palms%20by%20Frederic%20Edwin%20Church%2C%201854%20-%20Corcoran%20Gallery%20of%20Art%20-%20DSC01132.JPG"
+        },
+        {
+            "title": "Our Banner in the Sky",
+            "artist": "Frederic Edwin Church",
+            "year": "1861",
+            "museum": "Fine Arts Museums of San Francisco",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Our%20Banner%20in%20the%20Sky%201861.jpg"
+        },
+        {
+            "title": "Twilight",
+            "artist": "Frederic Edwin Church",
+            "year": "1858",
+            "museum": "Fine Arts Museums of San Francisco",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Twilight%20by%20Frederick%20Edwin%20Church%2C%201858%2C%20oil%20on%20canvas%20mounted%20on%20hardboard%20panel%20-%20De%20Young%20Museum%20-%20DSC00930.JPG"
+        },
+        {
+            "title": "Rainy Season in the Tropics",
+            "artist": "Frederic Edwin Church",
+            "year": "1866",
+            "museum": "Fine Arts Museums of San Francisco",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Rainy%20Season%20in%20the%20Tropics%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "A Country Home",
+            "artist": "Frederic Edwin Church",
+            "year": "1854",
+            "museum": "Seattle Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Country%20Home%20Frederic%20Edwin%20Church%20HQ.jpg"
+        },
+        {
+            "title": "A Waterfall in Colombia",
+            "artist": "Frederic Edwin Church",
+            "year": "1853",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20A%20Waterfall%20in%20Colombia%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Above the Clouds at Sunrise",
+            "artist": "Frederic Edwin Church",
+            "year": "1849",
+            "museum": "Tuscaloosa Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Above%20the%20Clouds%20at%20Sunrise%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Al Ayn",
+            "artist": "Frederic Edwin Church",
+            "year": "1882",
+            "museum": "Mead Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Ayn%20Frederic%20Edwin%20Church%201882.jpeg"
+        },
+        {
+            "title": "Autumn",
+            "artist": "Frederic Edwin Church",
+            "year": "1875",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Autumn.jpg"
+        },
+        {
+            "title": "Autumn Shower",
+            "artist": "Frederic Edwin Church",
+            "year": "1859",
+            "museum": "http://www.wikidata.org/.well-known/genid/1127de2f0730e662bb6bff616ec9e962",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autumn%20Shower%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Autumn in North America",
+            "artist": "Frederic Edwin Church",
+            "year": "1856",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autumn%20in%20North%20America-Frederic%20Church.jpg"
+        },
+        {
+            "title": "Autumn on the Hudson",
+            "artist": "Frederic Edwin Church",
+            "year": "1853",
+            "museum": "Minnesota Marine Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autumn%20on%20the%20Hudson%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Beacon, off Mount Desert Island",
+            "artist": "Frederic Edwin Church",
+            "year": "1851",
+            "museum": "http://www.wikidata.org/.well-known/genid/ea063e6932338f47013097abbf11d359",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Beacon%2C%20off%20Mount%20Desert%20Island%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Birch Trees in Autumn",
+            "artist": "Frederic Edwin Church",
+            "year": "1865",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Birch%20Trees%20in%20Autumn%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Camp Fire in the Maine Wilderness",
+            "artist": "Frederic Edwin Church",
+            "year": "1851",
+            "museum": "http://www.wikidata.org/.well-known/genid/89c72e2143481d7876600df9783bec39",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camp%20Fire%20in%20the%20Maine%20Wilderness%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Chimborazo",
+            "artist": "Frederic Edwin Church",
+            "year": "1864",
+            "museum": "The Huntington Library, Art Museum, and Botanical Gardens",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Church%20Chimborazo.jpg"
+        },
+        {
+            "title": "Cloud Study",
+            "artist": "Frederic Edwin Church",
+            "year": "1871",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Cloud%20Study%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Clouds over Olana",
+            "artist": "Frederic Edwin Church",
+            "year": "1872",
+            "museum": "Olana State Historic Site",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clouds%20over%20Olana%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Coast Scene",
+            "artist": "Frederic Edwin Church",
+            "year": "1852",
+            "museum": "http://www.wikidata.org/.well-known/genid/9d4281e11848c33afc21223700cf1d1d",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Coast%20Scene%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Colombia or Ecuador, Church Roofs",
+            "artist": "Frederic Edwin Church",
+            "year": "1853",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Colombia%20or%20Ecuador%2C%20church%20roofs%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Cotopaxi",
+            "artist": "Frederic Edwin Church",
+            "year": "1862",
+            "museum": "Detroit Institute of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cotopaxi%20church.jpg"
+        },
+        {
+            "title": "Cotopaxi",
+            "artist": "Frederic Edwin Church",
+            "year": "1855",
+            "museum": "Smithsonian American Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Cotopaxi%20-%20Google%20Art%20Project%20%28549119%29.jpg"
+        },
+        {
+            "title": "Cotopaxi",
+            "artist": "Frederic Edwin Church",
+            "year": "1855",
+            "museum": "Museum of Fine Arts, Houston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Cotopaxi%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Cotopaxi seen from Ambato, Ecuador",
+            "artist": "Frederic Edwin Church",
+            "year": "1853",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Cotopaxi%20seen%20from%20Ambato%2C%20Ecuador%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Cross in the Wilderness",
+            "artist": "Frederic Edwin Church",
+            "year": "1857",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Cross%20in%20the%20Wilderness.jpg"
+        },
+        {
+            "title": "El Khasne, Petra",
+            "artist": "Frederic Edwin Church",
+            "year": "1874",
+            "museum": "Olana State Historic Site",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Khasne%20Petra.jpg"
+        },
+        {
+            "title": "El Khasne, Petra",
+            "artist": "Frederic Edwin Church",
+            "year": "1874",
+            "museum": "Olana State Historic Site",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Khasne%2C%20Petra%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Eruption at Cotopaxi",
+            "artist": "Frederic Edwin Church",
+            "year": "1865",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Eruption%20at%20Cotopaxi%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Figures in a New England Landscape",
+            "artist": "Frederic Edwin Church",
+            "year": "1852",
+            "museum": "http://www.wikidata.org/.well-known/genid/107c5de3512e6e314da1f801440c2aa7",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Figures%20in%20a%20New%20England%20Landscape%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Figures in an Ecuadorian Landscape",
+            "artist": "Frederic Edwin Church",
+            "year": "1872",
+            "museum": "http://www.wikidata.org/.well-known/genid/08e09e0aaa4cae89608f650b46f96b89",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Figures%20in%20an%20Ecuadorian%20Landscape%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Fog off Mount Desert",
+            "artist": "Frederic Edwin Church",
+            "year": "1850",
+            "museum": "http://www.wikidata.org/.well-known/genid/aa85ed47e259b86f0ca208cf138ce56c",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fog%20off%20Mount%20Desert%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Grand Manan Island, Bay of Fundy",
+            "artist": "Frederic Edwin Church",
+            "year": "1852",
+            "museum": "Wadsworth Atheneum Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Manan%20Island%2C%20Bay%20of%20Fundy.jpg"
+        },
+        {
+            "title": "Home by the Lake",
+            "artist": "Frederic Edwin Church",
+            "year": "1852",
+            "museum": "Crystal Bridges Museum of American Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Home%20by%20the%20Lake%20%281852%29.jpg"
+        },
+        {
+            "title": "Hooker and Company Journeying through the Wilderness from Plymouth to Hartford, in 1636",
+            "artist": "Frederic Edwin Church",
+            "year": "1846",
+            "museum": "Wadsworth Atheneum Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hooker%20and%20Company%20Frederic%20Edwin%20Church.jpeg"
+        },
+        {
+            "title": "Horseshoe Falls, Niagara",
+            "artist": "Frederic Edwin Church",
+            "year": "1857",
+            "museum": "Olana State Historic Site",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20church%20-%20niagara%20falls.jpg"
+        },
+        {
+            "title": "In the Tropics",
+            "artist": "Frederic Edwin Church",
+            "year": "1856",
+            "museum": "Virginia Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20In%20the%20Tropics.jpg"
+        },
+        {
+            "title": "Jerusalem from the Mount of Olives",
+            "artist": "Frederic Edwin Church",
+            "year": "1870",
+            "museum": "The Nelson-Atkins Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Jerusalem%20from%20the%20Mount%20of%20Olives%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "July Sunset, Berkshire County, Massachusetts",
+            "artist": "Frederic Edwin Church",
+            "year": "1847",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/July%20Sunset%2C%20Berkshire%20County%2C%20Massachusetts.jpg"
+        },
+        {
+            "title": "La Magdalena",
+            "artist": "Frederic Edwin Church",
+            "year": "1854",
+            "museum": "http://www.wikidata.org/.well-known/genid/ba28ffcf87d0edc2488b2fc4fa1c5435",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Magdalena%20aka%20Scene%20on%20the%20Magdalena%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Landscape in the Adirondacks",
+            "artist": "Frederic Edwin Church",
+            "year": "1878",
+            "museum": "http://www.wikidata.org/.well-known/genid/e45ef6c45c6030b785f13e507591a3ae",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20in%20the%20Adirondacks%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Lower Falls, Rochester",
+            "artist": "Frederic Edwin Church",
+            "year": "1849",
+            "museum": "Los Angeles County Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederick%20Edwin%20Church%2C%20Lower%20Falls%2C%20Rochester%20%281849%29.jpg"
+        },
+        {
+            "title": "Marine, Sunset",
+            "artist": "Frederic Edwin Church",
+            "year": "1881",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marine%E2%80%94Sunset%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Morning, Looking East over the Hudson Valley from Catskill Mountains",
+            "artist": "Frederic Edwin Church",
+            "year": "1848",
+            "museum": "Albany Institute of History & Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morning%2C%20Looking%20East%20over%20the%20Hudson%20Valley%20from%20Catskill%20Mountains.jpg"
+        },
+        {
+            "title": "Moses Viewing the Promised Land",
+            "artist": "Frederic Edwin Church",
+            "year": "1846",
+            "museum": "http://www.wikidata.org/.well-known/genid/201b2c147655f98682460aea122d92fe",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moses%20Viewing%20the%20Promised%20Land%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Mount Chimborazo",
+            "artist": "Frederic Edwin Church",
+            "year": "1863",
+            "museum": "Olana State Historic Site",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Chimborazo%20%281865%29%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Mount Katahdin from Lake Millinocket",
+            "artist": "Frederic Edwin Church",
+            "year": "1878",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Mount%20Katahdin%20from%20Lake%20Millinocket%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Mount Katahdin from Millinocket Camp",
+            "artist": "Frederic Edwin Church",
+            "year": "1895",
+            "museum": "Portland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Mount%20Katahdin%20from%20Millinocket%20Camp.jpg"
+        },
+        {
+            "title": "Twilight (Sunset)",
+            "artist": "Frederic Edwin Church",
+            "year": "1856",
+            "museum": "Albany Institute of History & Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Twilight%20%28Sunset%29%20by%20Frederic%20E.%20Church%2C%201856%2C%20oil%20on%20canvas%20-%20Albany%20Institute%20of%20History%20and%20Art%20-%20DSC08132.JPG"
+        },
+        {
+            "title": "Mount Desert Island, Maine Coast",
+            "artist": "Frederic Edwin Church",
+            "year": "1850",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Mt.%20Desert%20Island%2C%20Maine%20Coast%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Mount Desert Island\u00a0?, Landscape",
+            "artist": "Frederic Edwin Church",
+            "year": "1850",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Mt.%20Desert%20Island%20%3F%2C%20landscape%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Mt. Ktaadn",
+            "artist": "Frederic Edwin Church",
+            "year": "1853",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mt%20Ktaadn%20by%20Frederic%20Edwin%20Church%201853.jpeg"
+        },
+        {
+            "title": "New England Scenery",
+            "artist": "Frederic Edwin Church",
+            "year": "1851",
+            "museum": "Michele & Donald D'Amour Museum of Fine Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20England%20Scenery%2C%20Frederic%20Edwin%20Church%2C%201851%20-%20Museum%20of%20Fine%20Arts%2C%20Springfield%2C%20MA%20-%20DSC03984.JPG"
+        },
+        {
+            "title": "View of Cotopaxi",
+            "artist": "Frederic Edwin Church",
+            "year": "1867",
+            "museum": "Yale University Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Cotopaxi%20by%20Frederic%20Edwin%20Church%201867.jpeg"
+        },
+        {
+            "title": "Newport Mountain, Mount Desert",
+            "artist": "Frederic Edwin Church",
+            "year": "1851",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/ChurchFredericEdwinNewportMountain.jpg"
+        },
+        {
+            "title": "North Lake",
+            "artist": "Frederic Edwin Church",
+            "year": "1847",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Lake%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Oosisoak",
+            "artist": "Frederic Edwin Church",
+            "year": "1861",
+            "museum": "http://www.wikidata.org/.well-known/genid/70bc5d0a97cce719260c6e248eb408f3",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Oosisoak%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Otter Creek, Mt. Desert",
+            "artist": "Frederic Edwin Church",
+            "year": "1850",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Otter%20Creek%20Mt%20Desert%20by%20Frederic%20Edwin%20Church%201850.jpeg"
+        },
+        {
+            "title": "Our Flag",
+            "artist": "Frederic Edwin Church",
+            "year": "1864",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/WLA%20ima%20Frederic%20Edwin%20Church%20Our%20Flag.jpg"
+        },
+        {
+            "title": "Parthenon",
+            "artist": "Frederic Edwin Church",
+            "year": "1869",
+            "museum": "http://www.wikidata.org/.well-known/genid/1bcfc28af9c90da6b2709dd9286b8f6c",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Parthenon%20%281869%29%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Rutland Falls, Vermont",
+            "artist": "Frederic Edwin Church",
+            "year": "1848",
+            "museum": "White House",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rutland%20Falls%2C%20VT%20by%20Frederic%20Edwin%20Church%2C%201848.jpg"
+        },
+        {
+            "title": "Setting Sun",
+            "artist": "Frederic Edwin Church",
+            "year": "1864",
+            "museum": "http://www.wikidata.org/.well-known/genid/777be4fedb0402810ac8c6ba1cd54b27",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Setting%20Sun%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Sky at sunset, Jamaica, West Indies",
+            "artist": "Frederic Edwin Church",
+            "year": "1865",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Sky%20at%20sunset%2C%20Jamaica%2C%20West%20Indies%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "South American Landscape",
+            "artist": "Frederic Edwin Church",
+            "year": "1854",
+            "museum": "Cooper Hewitt, Smithsonian Design Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20South%20American%20Landscape%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "South American Landscape",
+            "artist": "Frederic Edwin Church",
+            "year": "1856",
+            "museum": "Thyssen-Bornemisza Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20South%20American%20landscape.jpg"
+        },
+        {
+            "title": "Springtime in the Levant",
+            "artist": "Frederic Edwin Church",
+            "year": "1879",
+            "museum": "http://www.wikidata.org/.well-known/genid/e932b3b6384ffb9ef7ed27d5c86ab19e",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Springtime%20in%20the%20Levant%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Storm in the Mountains",
+            "artist": "Frederic Edwin Church",
+            "year": "1847",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201969.52.jpg"
+        },
+        {
+            "title": "Storm in the Mountains",
+            "artist": "Frederic Edwin Church",
+            "year": "1847",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Storm%20in%20the%20Mountains%20-%201969.52%20-%20Cleveland%20Museum%20of%20Art.tiff"
+        },
+        {
+            "title": "Study",
+            "artist": "Frederic Edwin Church",
+            "year": "1874",
+            "museum": "http://www.wikidata.org/.well-known/genid/6fdc06dfabc1d2e13da1394159c450e4",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20%281874%29%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Study for \"Under Niagara\"",
+            "artist": "Frederic Edwin Church",
+            "year": "1858",
+            "museum": "Olana State Historic Site",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20for%20%22Under%20Niagara%22%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Study for Cotopaxi",
+            "artist": "Frederic Edwin Church",
+            "year": "1861",
+            "museum": "http://www.wikidata.org/.well-known/genid/8ef30c83956e488835369d0f095a66db",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Oil%20Study%20of%20Cotopaxi%20Frederic%20Edwin%20Church.jpg"
+        },
+        {
+            "title": "Study for View near Stockbridge, Massachusetts",
+            "artist": "Frederic Edwin Church",
+            "year": "1847",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20for%20View%20near%20Stockbridge%2C%20Massachusetts%20Frederic%20Edwin%20Church.jpg"
+        }
+    ],
+    "Tawaraya S\u014dtatsu": [
+        {
+            "title": "Waves at Matsushima",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1650",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Soutatsu%20Matsushima.jpg"
+        },
+        {
+            "title": "Waves at Matsushima",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1650",
+            "museum": "Freer Gallery of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Soutatsu%20Matsushima.jpg"
+        },
+        {
+            "title": "Waves at Matsushima",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1800",
+            "museum": "Freer Gallery of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Soutatsu%20Matsushima.jpg"
+        },
+        {
+            "title": "Maize and Cockscombs",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1650",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C3%B4tatsu%20-%20Maize%20and%20Cockscombs%20-%201959.599%20-%20Art%20Institute%20of%20Chicago.jpg"
+        },
+        {
+            "title": "The Bird's Nest Patriarch",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1620",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20The%20Zen%20Priest%20Choka%20-%201958.289%20-%20Cleveland%20Museum%20of%20Art.tiff"
+        },
+        {
+            "title": "Selections from the New Collection of Japanese Poems from Ancient and Modern Times (Shinkokin wakash\u016b) with Printed Designs of Chinese Lions and Crab Finger Grass",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1610",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Poem-Card%20from%20the%20Shinkokin%20wakashu%20%28New%20Collection%20of%20Japanese%20Poems%20from%20-%201966.118%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Puppy with Dandelions",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1620",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Puppy%20with%20Dandelions%20-%201992.382%20-%20Cleveland%20Museum%20of%20Art.tiff"
+        },
+        {
+            "title": "Kenshu, Monk with Shrimp",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1620",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Kenshu%2C%20Monk%20with%20Shrimp%20-%201992.388%20-%20Cleveland%20Museum%20of%20Art.tiff"
+        },
+        {
+            "title": "Crossing at Sano",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1620",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Crossing%20at%20Sano%20%28Sano%20no%20watari%29%20-%201949.554%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Crossing at Sano",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1620",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20%28Japanese%2C%20c.%201570-c.%201640%29%20-%20Crossing%20at%20Sano%20-%201949.554%20-%20Cleveland%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "The Beach at Sumiyoshi from the Tales of Ise",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1634",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20The%20Beach%20at%20Sumiyoshi%20from%20the%20%22Tales%20of%20Ise%22%20%28%22Ise%20Monogatari%22%29%20-%201951.398%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Water mirror, a scene from the \"Tales of Ise\"",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1700",
+            "museum": "Suntory Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Tawaraya%20Sotatsu%20%28Calligraphy%20by%20Konoe%20Hisatsugu%29%20-%20Scenes%20from%20the%20Tale%20of%20Ise%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "White Heron (Shirosagi zu)",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1616",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20White%20Heron%20%28Shirosagi%20zu%29%20-%202018.853.13%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "\u201cTrees Encoiled in Vines of Ivy\u201d (Yadorigi)",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1624",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BC%9D%E4%BF%B5%E5%B1%8B%E5%AE%97%E9%81%94%E7%AD%86%20%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E%E5%9B%B3%E3%80%8C%E5%AE%BF%E6%9C%A8%E3%80%8D-Scene%20from%20%22The%20Ivy%22%20%28Yadorigi%29%2C%20chapter%2049%20of%20the%20Tale%20of%20Genji%20MET%20DP145864.jpg"
+        },
+        {
+            "title": "\u201cMount Utsu\u201d (Utsu no yama), from The Tales of Ise (Ise monogatari)",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1634",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP352201.jpg"
+        },
+        {
+            "title": "\u201cMount Utsu\u201d (Utsu no yama), from The Tales of Ise (Ise monogatari)",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1634",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20%E2%80%9CMount%20Utsu%E2%80%9D%20%28Utsu%20no%20yama%29%2C%20from%20The%20Tales%20of%20Ise%20%28Ise%20monogatari%29%20-%202015.300.88%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Scenes from Sekiya (The Barrier Gate) and Miotsukushi (Channel Markers) chapters of The Tale of Genji",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1631",
+            "museum": "Seikad\u014d Bunko Library",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Genji%20screen%201.jpg"
+        },
+        {
+            "title": "Scenes from Sekiya (The Barrier Gate) and Miotsukushi (Channel Markers) chapters of The Tale of Genji",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1631",
+            "museum": "Seikad\u014d Bunko Library",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Genji%20screen%202.jpg"
+        },
+        {
+            "title": "Waterfowls in Lotus Pond",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1700",
+            "museum": "Kyoto National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Water%20fowl%20in%20the%20lotus%20pond.jpg"
+        },
+        {
+            "title": "Poem scroll with deer",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1700",
+            "museum": "MOA Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Poem%20scroll%20with%20deer%20%28overall%20view%29.jpg"
+        },
+        {
+            "title": "Poem scroll with deer",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1700",
+            "museum": "Seattle Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Poem%20scroll%20with%20deer%20%28overall%20view%29.jpg"
+        },
+        {
+            "title": "Poem scroll with deer",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1700",
+            "museum": "Gotoh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Poem%20scroll%20with%20deer%20%28overall%20view%29.jpg"
+        },
+        {
+            "title": "Poem scroll with deer",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1700",
+            "museum": "Yamatane Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Poem%20scroll%20with%20deer%20%28overall%20view%29.jpg"
+        },
+        {
+            "title": "Poem scroll with deer",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1700",
+            "museum": "Suntory Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Poem%20scroll%20with%20deer%20%28overall%20view%29.jpg"
+        },
+        {
+            "title": "Poem scroll with deer",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1700",
+            "museum": "Sunritz Hattori Museum of Arts",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Poem%20scroll%20with%20deer%20%28overall%20view%29.jpg"
+        },
+        {
+            "title": "Puppy",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1616",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Studio%20of%20Tawaraya%20S%C5%8Dtatsu%20%E4%BF%B5%E5%B1%8B%E5%AE%97%E9%81%94%E5%B7%A5%E6%88%BF%20-%20Puppy%20-%202022.432.11%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Black Pines and Maple Trees",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1650",
+            "museum": "Yamatane Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20Pine%20and%20Maple%20Tree.jpg"
+        },
+        {
+            "title": "Bulls",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1700",
+            "museum": "Chomyo-ji Temple",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BF%B5%E5%B1%8B%E5%AE%97%E9%81%94%20%E7%89%9B%E5%9B%B3%20%E5%8F%B3.png"
+        },
+        {
+            "title": "Bulls",
+            "artist": "Tawaraya S\u014dtatsu",
+            "year": "1700",
+            "museum": "Chomyo-ji Temple",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BF%B5%E5%B1%8B%E5%AE%97%E9%81%94%20%E7%89%9B%E5%9B%B3%20%E5%B7%A6.png"
+        }
+    ],
+    "Kan\u014d Eitoku": [
+        {
+            "title": "Cypress Trees",
+            "artist": "Kan\u014d Eitoku",
+            "year": "1590",
+            "museum": "Tokyo National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%8B%A9%E9%87%8E%E6%B0%B8%E5%BE%B3%E3%80%8A%E6%AA%9C%E5%9B%B3%E5%B1%8F%E9%A2%A8%E3%80%8B1590%E5%B9%B4%E3%80%8116%E4%B8%96%E7%B4%80%E3%80%81%E6%A1%83%E5%B1%B1%E6%99%82%E4%BB%A3%E3%80%81%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg"
+        },
+        {
+            "title": "Women at Chinese Court",
+            "artist": "Kan\u014d Eitoku",
+            "year": "1562",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kano%20Eitoku%20-%20Women%20at%20Chinese%20Court%20-%2029.100.495g%2C%20h%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Chinese Lions",
+            "artist": "Kan\u014d Eitoku",
+            "year": "1550",
+            "museum": "Museum of the Imperial Collections",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kano%20Eitoku%20002.jpg"
+        },
+        {
+            "title": "Rakuch\u016b rakugai zu (Uesugi)",
+            "artist": "Kan\u014d Eitoku",
+            "year": "1600",
+            "museum": "Yonezawa City Uesugi Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kan%C5%8D%20Eitoku%20-%20Rakuch%C5%AB%20rakugai%20zu%20%28Uesugi%29%20-%20right%20screen.jpg"
+        },
+        {
+            "title": "Birds and Flowers of the Four Seasons",
+            "artist": "Kan\u014d Eitoku",
+            "year": "1566",
+            "museum": "Juk\u014d-in",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Birds%20and%20flowers%20of%20the%20four%20seasons.jpg"
+        }
+    ],
+    "Edward Burne-Jones": [
+        {
+            "title": "Luna",
+            "artist": "Edward Burne-Jones",
+            "year": "1870",
+            "museum": "http://www.wikidata.org/.well-known/genid/7d6d4baf335b9a0db28ca9a7e2e6984e",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Luna%20-%20Edward%20Burne-Jones%20%281870%29.jpg"
+        },
+        {
+            "title": "The Evening Star",
+            "artist": "Edward Burne-Jones",
+            "year": "1870",
+            "museum": "http://www.wikidata.org/.well-known/genid/59c27c418d3c8d04215e78d07cb05cba",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Evening%20Star%20-%20Edward%20Burne-Jones%20%281870%29.jpg"
+        },
+        {
+            "title": "The Sirens",
+            "artist": "Edward Burne-Jones",
+            "year": "1875",
+            "museum": "South African National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sirens%20-%20Edward%20Burne-Jones%20%281875%29.jpg"
+        },
+        {
+            "title": "Perseus and Andromeda",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Art Gallery of South Australia",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20BURNE-Jones%20-%20Perseus%20and%20Andromeda%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Perseus and the Graiae",
+            "artist": "Edward Burne-Jones",
+            "year": "1877",
+            "museum": "Amgueddfa Cymru \u2013 Museum Wales",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Perseus%20and%20the%20Graiae%2C%201875-1878.jpg"
+        },
+        {
+            "title": "The Doom Fulfilled",
+            "artist": "Edward Burne-Jones",
+            "year": "1888",
+            "museum": "Southampton City Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Perseus.jpeg"
+        },
+        {
+            "title": "The Doom Fulfilled",
+            "artist": "Edward Burne-Jones",
+            "year": "1888",
+            "museum": "Staatsgalerie Stuttgart",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Doom%20Fulfilled.jpg"
+        },
+        {
+            "title": "Perseus and the Sea Nymphs",
+            "artist": "Edward Burne-Jones",
+            "year": "1877",
+            "museum": "Southampton City Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Perseus%20and%20the%20Sea%20Nymphs%20-%20Edward%20Burne-Jones%2C%201877.jpg"
+        },
+        {
+            "title": "The Arming of Perseus",
+            "artist": "Edward Burne-Jones",
+            "year": "1885",
+            "museum": "Southampton City Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Arming%20of%20Perseus%20-%20Edward%20Burne-Jones%2C%201885.jpg"
+        },
+        {
+            "title": "The Baleful Head",
+            "artist": "Edward Burne-Jones",
+            "year": "1885",
+            "museum": "Southampton City Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Baleful%20Head%20by%20Edward%20Burne-Jones%20%281885%29.jpg"
+        },
+        {
+            "title": "The Death of Medusa",
+            "artist": "Edward Burne-Jones",
+            "year": "1888",
+            "museum": "Staatsgalerie Stuttgart",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20Medusa%201888-1892%20Edward%20Burne%20Jones.jpg"
+        },
+        {
+            "title": "The Finding of Medusa",
+            "artist": "Edward Burne-Jones",
+            "year": "1888",
+            "museum": "Staatsgalerie Stuttgart",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Finding%20of%20Medusa%201888-1892%20Edward%20Burne%20Jones.jpg"
+        },
+        {
+            "title": "The Rock of Doom",
+            "artist": "Edward Burne-Jones",
+            "year": "1885",
+            "museum": "Staatsgalerie Stuttgart",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Rock%20of%20Doom%201885-1888%20Edward%20Burne-Jones.jpg"
+        },
+        {
+            "title": "Study of a Young Woman's Head",
+            "artist": "Edward Burne-Jones",
+            "year": "1895",
+            "museum": "Museum of Fine Arts Boston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Edward%20Coley%20Burne-Jones%20-%20Study%20of%20a%20Young%20Woman%27s%20Head%20-%2005.105%20-%20Museum%20of%20Fine%20Arts.jpg"
+        },
+        {
+            "title": "A Sea-Nymph",
+            "artist": "Edward Burne-Jones",
+            "year": "1881",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Coley%20Burne-Jones%20-%20A%20Sea-Nymph%20-%202010.83%20-%20Minneapolis%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "The Mirror of Venus.",
+            "artist": "Edward Burne-Jones",
+            "year": "1877",
+            "museum": "Calouste Gulbenkian Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Burne-Jones%2C%20Edward%20-%20The%20Mirror%20of%20Venus%20-%201875%20-%20hi%20res.jpg"
+        },
+        {
+            "title": "Alfred, Lord Tennyson",
+            "artist": "Edward Burne-Jones",
+            "year": "1840",
+            "museum": "National Portrait Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Lord%20Tennyson%201840.jpg"
+        },
+        {
+            "title": "Love and the Pilgrim",
+            "artist": "Edward Burne-Jones",
+            "year": "1896",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Love%20and%20the%20Pilgrim%20-%20N05381%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "Love and the Pilgrim",
+            "artist": "Edward Burne-Jones",
+            "year": "1896",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Love%20and%20the%20Pilgrim%20-%20N05381%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "The Annunciation and the Adoration of the Magi",
+            "artist": "Edward Burne-Jones",
+            "year": "1861",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20The%20Annunciation%20and%20the%20Adoration%20of%20the%20Magi%20-%20N04743%20-%20Tate.jpg"
+        },
+        {
+            "title": "The Annunciation and the Adoration of the Magi",
+            "artist": "Edward Burne-Jones",
+            "year": "1861",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20The%20Annunciation%20and%20the%20Adoration%20of%20the%20Magi%20-%20N04743%20-%20Tate.jpg"
+        },
+        {
+            "title": "The Morning of the Resurrection",
+            "artist": "Edward Burne-Jones",
+            "year": "1886",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20The%20Morning%20of%20the%20Resurrection%20-%20N04888%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "The Morning of the Resurrection",
+            "artist": "Edward Burne-Jones",
+            "year": "1886",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20The%20Morning%20of%20the%20Resurrection%20-%20N04888%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "Frieze of Eight Women Gathering Apples",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Frieze%20of%20Eight%20Women%20Gathering%20Apples%20-%20N05119%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "Frieze of Eight Women Gathering Apples",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Frieze%20of%20Eight%20Women%20Gathering%20Apples%20-%20N05119%20-%20National%20Gallery.jpg"
+        },
+        {
+            "title": "Decorative Design: Sun Ripening Corn",
+            "artist": "Edward Burne-Jones",
+            "year": "1890",
+            "museum": "Tate",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Decorative%20Design%2C%20Sun%20Ripening%20Corn%20-%20T03313%20-%20Tate.jpg"
+        },
+        {
+            "title": "Love among the Ruins",
+            "artist": "Edward Burne-Jones",
+            "year": "1894",
+            "museum": "National Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20Love%20Among%20the%20Ruins.jpg"
+        },
+        {
+            "title": "Troy Triptych",
+            "artist": "Edward Burne-Jones",
+            "year": "1871",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Troy%20Triptych%20-%201922P179%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Troy Triptych - Study of Two Putti",
+            "artist": "Edward Burne-Jones",
+            "year": "1871",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Troy%20Triptych%20-%20Study%20of%20Two%20Putti%20-%201922P184%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%27s%20Sisters%20Visit%20Her%20%28Palace%20Green%20Murals%29%20-%201922P190%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%20Sent%20by%20Venus%20%28Palace%20Green%20Murals%29%20-%201922P195%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P202%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Landscape - Study",
+            "artist": "Edward Burne-Jones",
+            "year": "1863",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Landscape%20-%20Study%20-%201954P60%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "The Briar Rose Series",
+            "artist": "Edward Burne-Jones",
+            "year": "1889",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Briar%20Rose%20Series%20-%201961P50.1%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Pygmalion and the Image - The Soul Attains",
+            "artist": "Edward Burne-Jones",
+            "year": "1878",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Pygmalion%20and%20the%20Image%20-%20The%20Soul%20Attains%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Troy Triptych",
+            "artist": "Edward Burne-Jones",
+            "year": "1885",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Troy%20Triptych%20-%201922P178%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Troy Triptych",
+            "artist": "Edward Burne-Jones",
+            "year": "1873",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Study%20of%20%27Love%20Subduing%20Oblivion%27%20%28Troy%20Triptych%29%20-%201922P182%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%20at%20the%20Shrines%20of%20Juno%20and%20Ceres%20%28Palace%20Green%20Murals%29%20-%201922P194%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%20Receiving%20the%20Casket%20Back%20%28Palace%20Green%20Murals%29%20-%201922P197%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P201%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Pygmalion and the Image - The Godhead Fires",
+            "artist": "Edward Burne-Jones",
+            "year": "1878",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Pygmalion%20and%20the%20Image%20-%20The%20Godhead%20Fires%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Male - Study of southern Italian peasant boy seen to the front",
+            "artist": "Edward Burne-Jones",
+            "year": "1860",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Male%20-%20Study%20of%20Southern%20Italian%20Peasant%20Boy%20-%20Figure%20Carrys%20A%20Bag%20Over%20His%20Right%20Shoulder%3B%20A%20Three-Quarter%20View%20%281860-62%29%2C%20by%20Edward%20Burne-Jones.jpg"
+        },
+        {
+            "title": "Troy Triptych",
+            "artist": "Edward Burne-Jones",
+            "year": "1873",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Study%20of%20%27Oblivion%20Conquering%20Fame%27%20%28Troy%20Triptych%29%20-%201922P181%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Zephyrus%20Bearing%20Psyche%20%28Palace%20Green%20Murals%29%20-%201922P189%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Cupid%20Flying%20away%20from%20Psyche%20%28Palace%20Green%20Murals%29%20-%201922P193%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%20Giving%20the%20Coin%20to%20Charon%20%28Palace%20Green%20Murals%29%20-%201922P196%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P200%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P209%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "The Backgammon Players",
+            "artist": "Edward Burne-Jones",
+            "year": "1861",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Backgammon%20Players%20-%201923P146%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Lucretia",
+            "artist": "Edward Burne-Jones",
+            "year": "1867",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Lucretia%20-%201931P61%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "King Cophetua and the Beggar Maid - Cartoon Study",
+            "artist": "Edward Burne-Jones",
+            "year": "1883",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20King%20Cophetua%20and%20the%20Beggar%20Maid%20-%20Cartoon%20Study%20-%201947P18%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "The Briar Rose Series",
+            "artist": "Edward Burne-Jones",
+            "year": "1889",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Briar%20Rose%20Series%20-%201961P50.6%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Pygmalion and the Image - The Hand Refrains",
+            "artist": "Edward Burne-Jones",
+            "year": "1878",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Pygmalion%20and%20the%20Image%20-%20The%20Hand%20Refrains%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Pygmalion and the Image - The Heart Desires",
+            "artist": "Edward Burne-Jones",
+            "year": "1878",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Pygmalion%20and%20the%20Image%20-%20The%20Heart%20Desires%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Wheel of Fortune",
+            "artist": "Edward Burne-Jones",
+            "year": "1879",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Wheel%20of%20Fortune%2C%20Nude%20Study%20of%20a%20Slave%20-%201904P224%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Male - Study of southern Italian peasant boy seen from the back",
+            "artist": "Edward Burne-Jones",
+            "year": "1860",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Male%20-%20Study%20of%20southern%20Italian%20peasant%20boy%20%281860-62%29%2C%20by%20Edward%20Burne-Jones.jpg"
+        },
+        {
+            "title": "Troy Triptych",
+            "artist": "Edward Burne-Jones",
+            "year": "1873",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Study%20of%20%27Fame%20Overthrowing%20Fortune%27%20%28Troy%20Triptych%29%20-%201922P180%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Troy Triptych",
+            "artist": "Edward Burne-Jones",
+            "year": "1871",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Troy%20Triptych%20-%201922P186%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20The%20King%20and%20Other%20Mourners%20%28Palace%20Green%20Murals%29%20-%201922P188%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%20Gazes%20in%20Despair%20at%20Cupid%20%28Palace%20Green%20Murals%29%20-%201922P192%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P206%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P208%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "An Idyll",
+            "artist": "Edward Burne-Jones",
+            "year": "1862",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20An%20Idyll%20-%201924P91%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Landscape - Study",
+            "artist": "Edward Burne-Jones",
+            "year": "1863",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Landscape%20-%20Study%20-%201954P62%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "The Briar Rose Series",
+            "artist": "Edward Burne-Jones",
+            "year": "1889",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Briar%20Rose%20Series%20-%201961P50.3%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "The Briar Rose Series",
+            "artist": "Edward Burne-Jones",
+            "year": "1889",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Briar%20Rose%20Series%20-%201961P50.5%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Parnassus",
+            "artist": "Edward Burne-Jones",
+            "year": "1871",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Parnassus%20-%201912P36%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Cupid%20Finding%20Psyche%20Asleep%20by%20a%20Fountain%20%28Palace%20Green%20Murals%29%20-%201922P187%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche - Palace Green Murals",
+            "artist": "Edward Burne-Jones",
+            "year": "1876",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Psyche%2C%20Holding%20the%20Lamp%2C%20Gazes%20at%20Cupid%20%28Palace%20Green%20Murals%29%20-%201922P191%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P199%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P203%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Cupid and Psyche",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Cupid%20and%20Psyche%20-%201922P207%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "The Annunciation",
+            "artist": "Edward Burne-Jones",
+            "year": "1857",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20The%20Annunciation%20-%201927P406%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Landscape - Study",
+            "artist": "Edward Burne-Jones",
+            "year": "1863",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Landscape%20-%20Study%20-%201954P61%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "The Briar Rose Series",
+            "artist": "Edward Burne-Jones",
+            "year": "1889",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Briar%20Rose%20Series%20-%201961P50.2%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "The Briar Rose Series",
+            "artist": "Edward Burne-Jones",
+            "year": "1889",
+            "museum": "Birmingham Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Briar%20Rose%20Series%20-%201961P50.4%20-%20Birmingham%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Study for \"The Sleeping Beauty\": Head of a Maiden",
+            "artist": "Edward Burne-Jones",
+            "year": "1885",
+            "museum": "Fogg Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Study%20for%20%22The%20Sleeping%20Beauty%22%2C%20Head%20of%20a%20Maiden%20-%201943.188%20-%20Fogg%20Museum.jpg"
+        },
+        {
+            "title": "Study for \"The Sleeping Beauty\": Head of a Maiden",
+            "artist": "Edward Burne-Jones",
+            "year": "1885",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Study%20for%20%22The%20Sleeping%20Beauty%22%2C%20Head%20of%20a%20Maiden%20-%201943.188%20-%20Fogg%20Museum.jpg"
+        },
+        {
+            "title": "Dana\u00eb Watching the Building of the Brazen Tower",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Fogg Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Dana%C3%AB%20Watching%20the%20Building%20of%20the%20Brazen%20Tower%20-%201943.189%20-%20Fogg%20Museum.jpg"
+        },
+        {
+            "title": "Dana\u00eb Watching the Building of the Brazen Tower",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Dana%C3%AB%20Watching%20the%20Building%20of%20the%20Brazen%20Tower%20-%201943.189%20-%20Fogg%20Museum.jpg"
+        },
+        {
+            "title": "Woman up a Ladder Smelling Blossom",
+            "artist": "Edward Burne-Jones",
+            "year": "1860",
+            "museum": "Victoria and Albert Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20%28attributed%20to%29%20-%20Woman%20up%20a%20Ladder%20Smelling%20Blossom%20-%20CIRC.311-1960%20-%20Victoria%20and%20Albert%20Museum.jpg"
+        },
+        {
+            "title": "Study for 'The Sleeping Knights'",
+            "artist": "Edward Burne-Jones",
+            "year": "1870",
+            "museum": "Walker Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Study%20for%20%27The%20Sleeping%20Knights%27%20-%20WAG%201634%20-%20Walker%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Azarias",
+            "artist": "Edward Burne-Jones",
+            "year": "1870",
+            "museum": "Lady Lever Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20%28after%29%20-%20Azarias%20-%20LL%203637%20-%20Lady%20Lever%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Ananias",
+            "artist": "Edward Burne-Jones",
+            "year": "1870",
+            "museum": "Lady Lever Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20%28after%29%20-%20Ananias%20-%20LL%203636%20-%20Lady%20Lever%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Cupid Delivering Psyche",
+            "artist": "Edward Burne-Jones",
+            "year": "1870",
+            "museum": "Sheffield Galleries and Museums Trust",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Cupid%20Delivering%20Psyche%20-%20VIS.3833%20-%20Sheffield%20Galleries%20and%20Museums%20Trust.jpg"
+        },
+        {
+            "title": "Dana\u00eb and the brazen Tower",
+            "artist": "Edward Burne-Jones",
+            "year": "1872",
+            "museum": "Ashmolean Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Dana%C3%AB%20and%20the%20brazen%20Tower%20-%20WA1948.32%20-%20Ashmolean%20Museum.jpg"
+        },
+        {
+            "title": "Venus Discordia",
+            "artist": "Edward Burne-Jones",
+            "year": "1873",
+            "museum": "National Museum Cardiff",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Venus%20Discordia%20-%20NMW%20A%20181%20-%20National%20Museum%20Cardiff.jpg"
+        },
+        {
+            "title": "Laus veneris",
+            "artist": "Edward Burne-Jones",
+            "year": "1874",
+            "museum": "Laing Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Laus%20veneris%20-%20TWCMS%20%2C%20B8145%20-%20Laing%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Study of a Head",
+            "artist": "Edward Burne-Jones",
+            "year": "1880",
+            "museum": "National Museum Cardiff",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Study%20of%20a%20Head%20-%20NMW%20A%20244%20-%20National%20Museum%20Cardiff.jpg"
+        },
+        {
+            "title": "Stella Vespertina",
+            "artist": "Edward Burne-Jones",
+            "year": "1880",
+            "museum": "William Morris Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Stella%20Vespertina%20-%20O87%20-%20William%20Morris%20Gallery.jpg"
+        },
+        {
+            "title": "Helen, a Mermaid",
+            "artist": "Edward Burne-Jones",
+            "year": "1880",
+            "museum": "The Tullie",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Helen%2C%20a%20Mermaid%20-%201949.125.454A%20-%20The%20Tullie.jpg"
+        },
+        {
+            "title": "Peresus and the Graiae",
+            "artist": "Edward Burne-Jones",
+            "year": "1877",
+            "museum": "Southampton City Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Peresus%20and%20the%20Graiae%20-%20SOTAG%20%2C%20101%20-%20Southampton%20City%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Perseus and the Sea Nymphs (The Arming of Perseus)",
+            "artist": "Edward Burne-Jones",
+            "year": "1877",
+            "museum": "Southampton City Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Perseus%20and%20the%20Sea%20Nymphs%20%28The%20Arming%20of%20Perseus%29%20-%20SOTAG%20%2C%20102%20-%20Southampton%20City%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "The Call of Perseus",
+            "artist": "Edward Burne-Jones",
+            "year": "1877",
+            "museum": "Southampton City Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20The%20Call%20of%20Perseus%20-%20SOTAG%20%2C%20100%20-%20Southampton%20City%20Art%20Gallery.jpg"
+        },
+        {
+            "title": "Wheel of Fortune",
+            "artist": "Edward Burne-Jones",
+            "year": "1882",
+            "museum": "National Museum Cardiff",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Wheel%20of%20Fortune%20-%20NMW%20A%20206%20-%20National%20Museum%20Cardiff.jpg"
+        },
+        {
+            "title": "Cupid's Hunting Fields",
+            "artist": "Edward Burne-Jones",
+            "year": "1880",
+            "museum": "Victoria and Albert Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Cupid%27s%20Hunting%20Fields%20-%20CAI.9%20-%20Victoria%20and%20Albert%20Museum.jpg"
+        },
+        {
+            "title": "Head of Sleeping Attendant from 'Briar Rose'",
+            "artist": "Edward Burne-Jones",
+            "year": "1883",
+            "museum": "Victoria and Albert Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Head%20of%20Sleeping%20Attendant%20from%20%27Briar%20Rose%27%20-%20E.328-1990%20-%20Victoria%20and%20Albert%20Museum.jpg"
+        },
+        {
+            "title": "Sibylla Delphica",
+            "artist": "Edward Burne-Jones",
+            "year": "1886",
+            "museum": "Manchester Art Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Sibylla%20Delphica%20-%201886.5%20-%20Manchester%20Art%20Gallery.jpg"
+        }
+    ],
+    "Owonsan": [],
+    "Nandalal Bose": [],
+    "Gu Kaizhi": [
+        {
+            "title": "Wise and Benevolent Women",
+            "artist": "Gu Kaizhi",
+            "year": "350",
+            "museum": "The Palace Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gu%20Kaizhi.%20Wise%20and%20Benevolent%20Women.%20Scroll.%20Song%20copy%20of%204%20century%20work.%20Palace%20museum%2C%20Beizing.jpg"
+        }
+    ]
 }
