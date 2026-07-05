@@ -1372,13 +1372,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/WLA%20metmuseum%20Bouquet%20of%20Chrysanthemums%20by%20Auguste%20Renoir.jpg"
         },
         {
-            "title": "A Young Girl with Daisies",
-            "artist": "Pierre-Auguste Renoir",
-            "year": "1889",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20girl%20with%20dasies.jpeg"
-        },
-        {
             "title": "View of the Seacoast near Wargemont in Normandy",
             "artist": "Pierre-Auguste Renoir",
             "year": "1880",
@@ -1547,13 +1540,6 @@
             "year": "1897",
             "museum": "Hungarian National Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Arch%2C%20c%201897.jpg"
-        },
-        {
-            "title": "Butcher Birds",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1893",
-            "museum": "Csontv\u00e1ry Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Butcher%20Birds%2C%201893.jpg"
         },
         {
             "title": "Castellammare di Stabia",
@@ -4827,13 +4813,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anguissola%20A%20man%20with%20his%20daughter.jpg"
         },
         {
-            "title": "A Man with his Daughter",
-            "artist": "Sofonisba Anguissola",
-            "year": "1580",
-            "museum": "National Museum in Warsaw",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Portrait%20of%20a%20man%20with%20his%20daughter%20-%20M.Ob.1079%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg"
-        },
-        {
             "title": "Portrait of Giuliano Cesarini",
             "artist": "Sofonisba Anguissola",
             "year": "1586",
@@ -5437,13 +5416,6 @@
             "year": "1872",
             "museum": "St\u00e4del Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Orchestra%20Musicians%20%28SM%20sg237%29.png"
-        },
-        {
-            "title": "Henri Rouart in front of his Factory",
-            "artist": "Edgar Degas",
-            "year": "1875",
-            "museum": "Carnegie Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Henri%20Rouart%20in%20front%20of%20his%20Factory.jpg"
         },
         {
             "title": "H\u00e9l\u00e8ne Rouart in her Father's Study",
@@ -6263,13 +6235,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20Caresse%20Maternelle%20-%201970.252%20-%20Museum%20of%20Fine%20Arts.jpg"
         },
         {
-            "title": "Ellen Mary in a White Coat",
-            "artist": "Mary Cassatt",
-            "year": "1896",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stevenson%20Cassatt%20-%20Ellen%20Mary%20in%20a%20White%20Coat%20-%201982.630%20-%20Museum%20of%20Fine%20Arts.jpg"
-        },
-        {
             "title": "Maternal Caress",
             "artist": "Mary Cassatt",
             "year": "1896",
@@ -6331,13 +6296,6 @@
             "year": "1881",
             "museum": "Museum of Fine Arts, Houston",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Susan%20Comforting%20the%20Baby%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Child Picking a Fruit",
-            "artist": "Mary Cassatt",
-            "year": "1893",
-            "museum": "Virginia Museum of Fine Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/VMFA%2075-18%20v1%20TF%20x%20conflict-20131119-162201-668x1024.jpg"
         },
         {
             "title": "Portrait of Reine LeFebvre Holding a Nude Baby",
@@ -9034,24 +8992,9 @@
             "year": "1840",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/F%C3%A9lix%20Taunay%20-%201840%20ca.%20-%20Praia%20da%20Lapa%20e%20Morro%20do%20Castelo.jpg"
-        },
-        {
-            "title": "View of \"M\u00e3e d'\u00c1gua\" (Landscape of Tijuca)",
-            "artist": "F\u00e9lix \u00c9mile Taunay",
-            "year": "1841",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Felix-Emile%20Taunay%20-%20Vista%20da%20M%C3%A3e%20D%27%C3%81gua%2C%20c.%201841.jpg"
         }
     ],
-    "Nainsukh": [
-        {
-            "title": "Two Elephants Fighting in a Courtyard Before Muhammad Shah",
-            "artist": "Nainsukh",
-            "year": "1735",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nainsukh%20-%20Two%20Elephants%20Fighting%20in%20a%20Courtyard%20Before%20Muhammad%20Shah%20-%202005.1%20-%20Cleveland%20Museum%20of%20Art.jpg"
-        }
-    ],
+    "Nainsukh": [],
     "Clara Peeters": [
         {
             "title": "Still life with fish, oysters and shrimps",
@@ -9080,13 +9023,6 @@
             "year": "1615",
             "museum": "http://www.wikidata.org/.well-known/genid/c4bee24d670ac4d99b3c3dd0456e9997",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20A%20still%20life%20with%20carp%20in%20a%20ceramic%20colander%20etc.jpg"
-        },
-        {
-            "title": "Still life of fish with a candlestick",
-            "artist": "Clara Peeters",
-            "year": "1611",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Bodeg%C3%B3n%20%28Prado%29%2002.jpg"
         },
         {
             "title": "Still Life with Fish",
@@ -9241,13 +9177,6 @@
             "year": "1630",
             "museum": "Shipley Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20life%20with%20Shrimp%20and%20Eggs%20-%201630s.jpg"
-        },
-        {
-            "title": "Floral Still Life",
-            "artist": "Clara Peeters",
-            "year": "1610",
-            "museum": "Kr\u00f6ller-M\u00fcller Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Bloemstilleven%20-%20Kr%C3%B6ller-M%C3%BCller%20Museum%20KM%20103.173.jpg"
         },
         {
             "title": "Still Life of Fish and Lemons",
@@ -10240,13 +10169,6 @@
             "year": "1914",
             "museum": "Neue Galerie",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maison%20foresti%C3%A8re%20%C3%A0%20Weissenbach.jpg"
-        },
-        {
-            "title": "Park at Kammer Castle",
-            "artist": "Gustav Klimt",
-            "year": "1909",
-            "museum": "Neue Galerie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Park%20at%20Kammer%20Castle.jpg"
         },
         {
             "title": "Portrait of Marie Henneberg",
@@ -13441,13 +13363,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20%28Schule%29%20001b.jpg"
         },
         {
-            "title": "Portrait of the Artist's daughter Lavinia",
-            "artist": "Titian",
-            "year": "1565",
-            "museum": "Kunsthistorisches Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Portrait%20of%20his%20daughter%20Lavinia%20GG%203379.jpg"
-        },
-        {
             "title": "Mars, Venus and Amor",
             "artist": "Titian",
             "year": "1550",
@@ -13544,13 +13459,6 @@
             "year": "1545",
             "museum": "Yale University Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%28Tiziano%20Vecellio%29%20-%20Portrait%20of%20Guidobaldo%20II%20della%20Rovere%2C%20Duke%20of%20Urbino%20-%201956.7.1%20-%20Yale%20University%20Art%20Gallery.jpg"
-        },
-        {
-            "title": "Diana and\u00a0Callisto",
-            "artist": "Titian",
-            "year": "1562",
-            "museum": "Yale University Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Titian%20%28Tiziano%20Vecellio%2C%20Italian%2C%20ca.%201488%E2%80%931576%29%20-%20Diana%20and%20Callisto%20-%20ILE2014.14.1%20-%20Yale%20University%20Art%20Gallery.jpg"
         },
         {
             "title": "Madonna and Child with Saint John the Baptist",
@@ -16049,13 +15957,6 @@
             "year": "1500",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Twelve%20Views%20of%20Tiger%20Hill%2C%20Suzhou%2C%20The%20Thousand%20Buddha%20Hall%20and%20the%20Pagoda%20of%20the%20%22Cloudy%20Cliff%22%20Monastery%20-%201964.371.7%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
-        {
-            "title": "The Five Sages Terrace, from Twelve Views of Tiger Hill, Suzhou",
-            "artist": "Shen Zhou",
-            "year": "1500",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Twelve%20Views%20of%20Tiger%20Hill%2C%20Suzhou%2C%20The%20Five%20Sages%20Terrace%20-%201964.371.8%20-%20Cleveland%20Museum%20of%20Art.tiff"
         },
         {
             "title": "Flowering Crab Apple",
@@ -20895,13 +20796,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20de%20Barberana.jpg"
         },
         {
-            "title": "Saint Paul",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1618",
-            "museum": "Museu Nacional d'Art de Catalunya",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20-%20Saint%20Paul%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Prince Balthasar Charles as a Hunter",
             "artist": "Diego Vel\u00e1zquez",
             "year": "1636",
@@ -22316,13 +22210,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Schiele%20-%20Portrait%20of%20Edith%20%28the%20artist%27s%20wife%29%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Portrait of the artist's wife, Edith Schiele",
-            "artist": "Egon Schiele",
-            "year": "1918",
-            "museum": "Belvedere",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Schiele%20-%20Bildnis%20der%20Frau%20des%20K%C3%BCnstlers%2C%20Edith%20Schiele%20-%201991%20-%20%C3%96sterreichische%20Galerie%20Belvedere.jpg"
-        },
-        {
             "title": "Portrait of Victor Ritter von Bauer",
             "artist": "Egon Schiele",
             "year": "1918",
@@ -22543,13 +22430,6 @@
     "Sunayani Devi": [],
     "Ni Zan": [
         {
-            "title": "Six Gentlemen",
-            "artist": "Ni Zan",
-            "year": "1345",
-            "museum": "Shanghai Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan%20-%20Six%20Gentlemen.jpg"
-        },
-        {
             "title": "Bamboo, Rock, and Tall Tree",
             "artist": "Ni Zan",
             "year": "1349",
@@ -22569,20 +22449,6 @@
             "year": "1372",
             "museum": "National Palace Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan.%20The%20Rongxi%20Studio.1372.%2074%2C7x35%2C3.%20National%20Palace%20Museum%2C%20Taipei.jpg"
-        },
-        {
-            "title": "Falling Maple Leaves on the Wu River",
-            "artist": "Ni Zan",
-            "year": "1366",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9E%AB%E8%90%BD%E5%90%B4%E6%B1%9F%E5%9B%BE%E8%BD%B4.%E5%85%83.%E5%80%AA%E7%93%92.%E7%BB%98.%E7%BA%B8%E6%9C%AC%E6%B0%B4%E5%A2%A8.%E5%85%83%E9%A1%BA%E5%B8%9D%E8%87%B3%E6%AD%A3%E4%BA%8C%E5%8D%81%E5%85%AD%E5%B9%B4.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2.jpg"
-        },
-        {
-            "title": "Dew on Paulownia Trees and the Elegant Echoes of Guqin",
-            "artist": "Ni Zan",
-            "year": "1343",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A1%90%E9%9C%B2%E6%B8%85%E7%90%B4%E5%9B%BE%E8%BD%B4.%E5%85%83.%E5%80%AA%E7%93%92%E7%BB%98.%E7%BA%B8%E6%9C%AC%E6%B0%B4%E5%A2%A8.%E5%85%83%E8%87%B3%E6%AD%A3%E4%B8%89%E5%B9%B4.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg"
         },
         {
             "title": "Qing Bi Pavilion",
@@ -23077,13 +22943,6 @@
             "year": "1897",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20Boy%20on%20the%20Rocks%2C%201895-1897%2C%20NGA%2046538.jpg"
-        },
-        {
-            "title": "The Hungry Lion Throws Itself on the Antelope",
-            "artist": "Henri Rousseau",
-            "year": "1905",
-            "museum": "Beyeler Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20%E2%80%94%20The%20Hungry%20Lion%20Throws%20Itself%20on%20the%20Antelope.jpg"
         },
         {
             "title": "A Centennial of Independence",
@@ -25023,13 +24882,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Reclining%20Nude%201933.jpg"
         },
         {
-            "title": "Three Girls",
-            "artist": "Amrita Sher-Gil",
-            "year": "1935",
-            "museum": "National Gallery of Modern Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Amrita%20Sher-Gil%20Group%20of%20Three%20Girls.jpg"
-        },
-        {
             "title": "Young Man with Apples",
             "artist": "Amrita Sher-Gil",
             "year": "1932",
@@ -26967,13 +26819,6 @@
             "title": "Cotopaxi",
             "artist": "Frederic Edwin Church",
             "year": "1855",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Cotopaxi%20-%20Google%20Art%20Project%20%28549119%29.jpg"
-        },
-        {
-            "title": "Cotopaxi",
-            "artist": "Frederic Edwin Church",
-            "year": "1855",
             "museum": "Museum of Fine Arts, Houston",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Cotopaxi%20-%20Google%20Art%20Project.jpg"
         },
@@ -27877,13 +27722,6 @@
             "year": "1871",
             "museum": "Birmingham Museums Trust",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Parnassus%20-%201912P36%20-%20Birmingham%20Museums%20Trust.jpg"
-        },
-        {
-            "title": "Cupid and Psyche - Palace Green Murals",
-            "artist": "Edward Burne-Jones",
-            "year": "1876",
-            "museum": "Birmingham Museums Trust",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Cupid%20Finding%20Psyche%20Asleep%20by%20a%20Fountain%20%28Palace%20Green%20Murals%29%20-%201922P187%20-%20Birmingham%20Museums%20Trust.jpg"
         },
         {
             "title": "Cupid and Psyche - Palace Green Murals",
@@ -30137,13 +29975,6 @@
             "year": "1885",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20Carmen%20Gaudin%2C%201885%2C%20NGA%2052229.jpg"
-        },
-        {
-            "title": "A la Bastille (Jeanne Wenz)",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1888",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20la%20Bastille%20%28Jeanne%20Wenz%29%20A18847.jpg"
         },
         {
             "title": "Lady with a Dog",
@@ -33429,13 +33260,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%81vila%2C%20Cathedral%20of%20the%20Saviour%20071.jpg"
         },
         {
-            "title": "Portrait of a Woman",
-            "artist": "El Greco",
-            "year": "1578",
-            "museum": "http://www.wikidata.org/.well-known/genid/7464f1152cb22448d4c157d79cd04cc1",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Snap%202013.12.19%2001h16m07s%20007.png"
-        },
-        {
             "title": "Portrait of a Lady",
             "artist": "El Greco",
             "year": "1578",
@@ -33588,13 +33412,6 @@
             "year": "1600",
             "museum": "http://www.wikidata.org/.well-known/genid/1b643a970baa35531ab4b09bf8bc4b36",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20El%20Greco%20-%20SAINT%20VERONICA%20HOLDING%20THE%20VEIL%2C%20Frati%2022c.jpg"
-        },
-        {
-            "title": "Portrait of Lu\u00eds Gonzaga",
-            "artist": "El Greco",
-            "year": "1583",
-            "museum": "Museum of Fine Arts, Budapest",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20young%20man%2C%20traditionally%20identified%20as%20Saint%20Aloysius%20%28Luigi%29%20Gonzaga%20%281568-1591%29%2C%20half-length%2C%20with%20a%20book%2C%20lot-6377922.jpg"
         },
         {
             "title": "Saint Andrew",
@@ -33943,13 +33760,6 @@
             "year": "1473",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sessh%C5%AB%20T%C5%8Dy%C5%8D%20-%20Birds%20and%20Flowers%20-%201964.157%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
-            "title": "Birds and Flowers",
-            "artist": "Sessh\u016b T\u014dy\u014d",
-            "year": "1473",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sessh%C5%AB%20T%C5%8Dy%C5%8D%20-%20Birds%20and%20Flowers%20-%201964.157.1%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
             "title": "Huike Offering His Arm to Bodhidharma",
