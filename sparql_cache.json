@@ -626,13 +626,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%2C%20Claude%20-%20Charing%20Cross%20Bridge%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "The Church of San Giorgio Maggiore, Venice",
-            "artist": "Claude Monet",
-            "year": "1908",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%2C%20Claude%20-%20The%20Church%20of%20San%20Giorgio%20Maggiore%2C%20Venice%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "The Bank of the Seine",
             "artist": "Claude Monet",
             "year": "1880",
@@ -2577,13 +2570,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Portrait%20of%20a%20Musician%20-%20Pinacoteca%20Ambrosiana.jpg"
         },
         {
-            "title": "Tavola Doria",
-            "artist": "Leonardo da Vinci",
-            "year": "1503",
-            "museum": "Uffizi Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Battaglia%20di%20Anghiari%20di%20Leonardo.jpg"
-        },
-        {
             "title": "Annunciation",
             "artist": "Leonardo da Vinci",
             "year": "1478",
@@ -3109,13 +3095,6 @@
             "year": "1844",
             "museum": "Finnish National Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Aivazovski%20%281817%E2%80%931900%29-%20The%20Bay%20of%20Naples%20-%20Napolinlahti%20-%20Neapelbukten%20%2829467251075%29.jpg"
-        },
-        {
-            "title": "Sunny Day",
-            "artist": "Ivan Aivazovsky",
-            "year": "1884",
-            "museum": "Feodosia National Gallery I. K. Aivazovsky",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%201884.jpg"
         },
         {
             "title": "Landscape in Crimea.",
@@ -3797,13 +3776,6 @@
             "year": "1629",
             "museum": "Mauritshuis",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20The%20laughing%20man.jpg"
-        },
-        {
-            "title": "Two African men",
-            "artist": "Rembrandt",
-            "year": "1661",
-            "museum": "Mauritshuis",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20157.jpg"
         },
         {
             "title": "Portrait of an old man",
@@ -6621,13 +6593,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20%28Baby%20Getting%20Up%20from%20His%20Nap%29%20MET%20DT2028.jpg"
         },
         {
-            "title": "Mother and Child (The Oval Mirror)",
-            "artist": "Mary Cassatt",
-            "year": "1899",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassat1.jpg"
-        },
-        {
             "title": "Lydia Crocheting in the Garden at Marly",
             "artist": "Mary Cassatt",
             "year": "1880",
@@ -8032,13 +7997,6 @@
             "year": "1900",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheep%20in%20a%20meadow%20-%20Rosa%20Bonheur.webp"
-        },
-        {
-            "title": "Head of a lamb",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20a%20lamb%20-%20Rosa%20Bonheur.webp"
         },
         {
             "title": "Cow (Study)",
@@ -11286,13 +11244,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Die%20Musik%20II%2C%201898.jpg"
         },
         {
-            "title": "Head Study of a Girl from Hana",
-            "artist": "Gustav Klimt",
-            "year": "1883",
-            "museum": "Leopold Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Studienkopf%20einer%20Hannakin%2C%20um%201883%2C%20Inv.%204143.jpg"
-        },
-        {
             "title": "Castle Kammer at Attersee IV",
             "artist": "Gustav Klimt",
             "year": "1910",
@@ -12336,13 +12287,6 @@
     ],
     "Ma Yuan": [
         {
-            "title": "Walking on a Mountain Path in Spring",
-            "artist": "Ma Yuan",
-            "year": "1190",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%8D%E7%BB%98%E9%9B%86%E7%8F%8D%E5%86%8C%2013%20%E5%8D%97%E5%AE%8B%20%E9%A9%AC%E8%BF%9C%20%E5%B1%B1%E5%BE%84%E6%98%A5%E8%A1%8C.jpg"
-        },
-        {
             "title": "The Football Players",
             "artist": "Ma Yuan",
             "year": "1207",
@@ -12616,13 +12560,6 @@
             "year": "1936",
             "museum": "Mus\u00e9e National d'Art Moderne",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201936%20-%20Composition%209.jpg"
-        },
-        {
-            "title": "Shapes in Tension",
-            "artist": "Wassily Kandinsky",
-            "year": "1936",
-            "museum": "Mus\u00e9e National d'Art Moderne",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C%20Wassily%20-%20Shapes%20in%20Tension%2C%201936%2C%20GAC.jpg"
         },
         {
             "title": "Thirty",
@@ -15873,13 +15810,6 @@
         {
             "title": "The Lute Player",
             "artist": "Caravaggio",
-            "year": "1595",
-            "museum": "Hermitage Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Caravaggio%20020.jpg"
-        },
-        {
-            "title": "The Lute Player",
-            "artist": "Caravaggio",
             "year": "1596",
             "museum": "http://www.wikidata.org/.well-known/genid/eaae2f486117bc27cb610d046de4761c",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lute%20Player-Caravaggio%20%28Metropolitan%20Museum%20of%20Art%29.jpg"
@@ -17565,13 +17495,6 @@
             "year": "1877",
             "museum": "Instituto Nacional de Bellas Artes y Literatura",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Velasco%20Valle%20de%20Mexico%201877.gif"
-        },
-        {
-            "title": "Gran Cometa de 1882",
-            "artist": "Jos\u00e9 Mar\u00eda Velasco",
-            "year": "1910",
-            "museum": "Veracruz State Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Cometa%20-%201882%20-%20Jos%C3%A9%20Mar%C3%ADa%20Velasco.jpg"
         }
     ],
     "Judith Leyster": [
@@ -17580,13 +17503,6 @@
             "artist": "Judith Leyster",
             "year": "1631",
             "museum": "Kunsthandel P. de Boer",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20Merry%20Trio.jpg"
-        },
-        {
-            "title": "Merry Trio",
-            "artist": "Judith Leyster",
-            "year": "1631",
-            "museum": "http://www.wikidata.org/.well-known/genid/6e0345e566775028f147ef6c8f716a5e",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20Merry%20Trio.jpg"
         },
         {
@@ -18362,13 +18278,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kreupelhout%20-%20s0111V1962%20-%20Van%20Gogh%20Museum.jpg"
         },
         {
-            "title": "Undergrowth",
-            "artist": "Vincent van Gogh",
-            "year": "1889",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kreupelhout%20-%20s0051V1962%20-%20Van%20Gogh%20Museum.jpg"
-        },
-        {
             "title": "Butterflies and Poppies",
             "artist": "Vincent van Gogh",
             "year": "1889",
@@ -18577,13 +18486,6 @@
             "year": "1887",
             "museum": "Barnes Foundation",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20The%20Factory%20-%20BF303%20-%20Barnes%20Foundation.jpg"
-        },
-        {
-            "title": "Vase with Cornflowers and Poppies",
-            "artist": "Vincent van Gogh",
-            "year": "1890",
-            "museum": "http://www.wikidata.org/.well-known/genid/c681e44ea89b773ef7abea723279e26c",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Vase%20with%20Cornflowers%20and%20Poppies%20-%20F280%20JH2032.jpg"
         },
         {
             "title": "The Potato Peeler",
@@ -20744,13 +20646,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MB-Mori-01%20Morisot%20Die-Themse%201.jpg"
         },
         {
-            "title": "In a Villa at the Seaside",
-            "artist": "Berthe Morisot",
-            "year": "1874",
-            "museum": "Norton Simon Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27In%20a%20Villa%20at%20the%20Seaside%27%20by%20Berthe%20Morisot%2C%20Norton%20Simon%20Museum.jpg"
-        },
-        {
             "title": "l'\u00c9t\u00e9",
             "artist": "Berthe Morisot",
             "year": "1879",
@@ -21220,13 +21115,6 @@
             "year": "1886",
             "museum": "Baltimore Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Preparatory%20Sketch%20for%20the%20Painting%20La%20Gr%C3%A8ve%20du%20Bas-Butin%2C%20Honfleur%20PC%20169.jpg"
-        },
-        {
-            "title": "La Grande Jatte (Study I)",
-            "artist": "Georges Seurat",
-            "year": "1884",
-            "museum": "Buffalo AKG Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20%C3%89tude%20pour%20%22La%20Grande%20Jatte%22%20%28Study%20for%20%22La%20Grande%20Jatte%22%29%20-%201948-7%20-%20Albright%E2%80%93Knox%20Art%20Gallery.tiff"
         },
         {
             "title": "A Man Leaning on a Parapet",
@@ -21700,15 +21588,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dahlias%20by%20Kuroda%20Seiki%20%28Kuroda%20Kinenkan%29.jpg"
         }
     ],
-    "Ustad Mansur": [
-        {
-            "title": "Jurra",
-            "artist": "Ustad Mansur",
-            "year": "1700",
-            "museum": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peregrine%20Falcon%20on%20Perch%20%28CSMVS%2015.302%29.jpg"
-        }
-    ],
+    "Ustad Mansur": [],
     "Jeong Seon": [],
     "Utagawa Hiroshige": [
         {
@@ -22621,13 +22501,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Velazquez-The%20Surrender%20of%20Breda.jpg"
         },
         {
-            "title": "Portrait of Francisco Lezcano",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1634",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vel%C3%A1zquez%20-%20Francisco%20Lezcano%2C%20el%20Ni%C3%B1o%20de%20Vallecas%20%28Museo%20del%20Prado%2C%201643-45%29.jpg"
-        },
-        {
             "title": "View of the Garden of the Villa Medici",
             "artist": "Diego Vel\u00e1zquez",
             "year": "1630",
@@ -23088,13 +22961,6 @@
             "year": "1648",
             "museum": "Museo del Prado",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Velazquez-CondeBenavente.jpg"
-        },
-        {
-            "title": "Kitchen Scene",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1618",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20-%20Kitchen%20Scene%20-%201935.380%20-%20Art%20Institute%20of%20Chicago.jpg"
         }
     ],
     "Hasegawa T\u014dhaku": [
@@ -25040,13 +24906,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20View%20of%20Lake%20Tai%20-%201982.7.1%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "Summer Retreat in the Eastern Grove",
-            "artist": "Wen Zhengming",
-            "year": "1492",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20Summer%20Retreat%20in%20the%20Eastern%20Grove%20-%201989.363.60%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
             "title": "The Cassia Grove Studio",
             "artist": "Wen Zhengming",
             "year": "1532",
@@ -26764,20 +26623,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Yin%20-%20Farewell%20at%20the%20Bridge%20of%20the%20Hanging%20Rainbow%20-%201989.363.53%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "Bamboo in a Spring Thunderstorm",
-            "artist": "Tang Yin",
-            "year": "1512",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%94%90%E5%AF%85%E7%AD%86%20%E6%98%A5%E9%9B%B7%E9%A2%A8%E7%AB%B9%E5%9B%B3-%E6%98%8E%20%E5%94%90%E5%AF%85%20%E5%A2%A8%E7%AB%B9%E5%9C%96%20%E6%89%87%E9%A0%81-Bamboo%20in%20a%20Spring%20Thunderstorm%20MET%20DP153567.jpg"
-        },
-        {
-            "title": "Shuangjian Xingwo",
-            "artist": "Tang Yin",
-            "year": "1519",
-            "museum": "The Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%94%90%E5%AF%85%E5%8F%8C%E7%9B%91%E8%A1%8C%E7%AA%9D%E5%9B%BE%E5%B9%B6%E4%B9%A6%E8%AE%B0%E5%86%8C-3.png"
-        },
-        {
             "title": "Clearing after Snow on a Mountain Pass",
             "artist": "Tang Yin",
             "year": "1507",
@@ -27781,13 +27626,6 @@
             "year": "1849",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20004.jpg"
-        },
-        {
-            "title": "The Bower Meadow",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1872",
-            "museum": "Manchester Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20-%20The%20Bower%20Meadow.jpg"
         },
         {
             "title": "Dantis Amor",
@@ -29062,13 +28900,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Na%20Krizku.jpg"
         },
         {
-            "title": "After the Battle of Grunwald",
-            "artist": "Alphonse Mucha",
-            "year": "1924",
-            "museum": "museum collection of the Prague City Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20the%20Battle%20of%20Grunwald%20-%20Alfons%20Mucha.jpg"
-        },
-        {
             "title": "After the Battle of V\u00edtkov Hill",
             "artist": "Alphonse Mucha",
             "year": "1923",
@@ -29983,13 +29814,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Poem-Card%20from%20the%20Shinkokin%20wakashu%20%28New%20Collection%20of%20Japanese%20Poems%20from%20-%201966.118%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
-            "title": "Puppy with Dandelions",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1620",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Puppy%20with%20Dandelions%20-%201992.382%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
-        {
             "title": "Kenshu, Monk with Shrimp",
             "artist": "Tawaraya S\u014dtatsu",
             "year": "1620",
@@ -30137,13 +29961,6 @@
             "year": "1550",
             "museum": "Museum of the Imperial Collections",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kano%20Eitoku%20002.jpg"
-        },
-        {
-            "title": "Birds and Flowers of the Four Seasons",
-            "artist": "Kan\u014d Eitoku",
-            "year": "1566",
-            "museum": "Juk\u014d-in",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Birds%20and%20flowers%20of%20the%20four%20seasons.jpg"
         }
     ],
     "Edward Burne-Jones": [
@@ -32621,22 +32438,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20Eve%20Naming%20the%20Birds%20-%20PC.94%20-%20Pollok%20House.jpg"
         }
     ],
-    "Mir Sayyid Ali": [
-        {
-            "title": "Rustam and the Seven Warriors at the hunting-ground of Afrasiyab",
-            "artist": "Mir Sayyid Ali",
-            "year": "1530",
-            "museum": "Nasser D. Khalili Collection of Islamic Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Khalili%20Collection%20Islamic%20Art%20mss%201030%20fol%20135b.jpg"
-        },
-        {
-            "title": "Self-Portrait of Mir Sayyid Ali",
-            "artist": "Mir Sayyid Ali",
-            "year": "1555",
-            "museum": "Los Angeles County Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%20of%20Mir%20Sayyid%20Ali%20LACMA%20M.90.141.1.jpg"
-        }
-    ],
+    "Mir Sayyid Ali": [],
     "Jamini Roy": [],
     "Henri de Toulouse-Lautrec": [
         {
@@ -34002,13 +33804,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Landschaft%20mit%20Br%C3%BCcke.jpg"
         },
         {
-            "title": "Sea beach in the fog",
-            "artist": "Caspar David Friedrich",
-            "year": "1807",
-            "museum": "Belvedere",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Meeresstrand%20im%20Nebel%20%28ca.1807%29.jpg"
-        },
-        {
             "title": "Seashore with fisherman",
             "artist": "Caspar David Friedrich",
             "year": "1807",
@@ -34487,13 +34282,6 @@
             "year": "1766",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Preliminary%20Drawing%20of%20Three%20Deer%20Mounted%20on%20a%20Hanging-scroll%20Painting%20of%20Flowering%20Bush%20Clover%20-%202019.105%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Wisteria",
-            "artist": "Ogata K\u014drin",
-            "year": "1687",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Wisteria%20-%2029.100.526%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Irises at Yatsuhashi (Eight Bridges)",
@@ -38242,13 +38030,6 @@
             "year": "1516",
             "museum": "Uffizi Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20009.jpg"
-        },
-        {
-            "title": "Saint Philip",
-            "artist": "Albrecht D\u00fcrer",
-            "year": "1516",
-            "museum": "Uffizi Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Durer%2C%20san%20filippo.jpg"
         },
         {
             "title": "The Apostle James the Elder",
