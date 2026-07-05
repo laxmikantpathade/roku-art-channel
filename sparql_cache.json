@@ -1330,13 +1330,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Jeune%20Fille%20au%20chapeau%20rose%20et%20noir.jpg"
         },
         {
-            "title": "The Farm at Les Collettes, Cagnes",
-            "artist": "Pierre-Auguste Renoir",
-            "year": "1911",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Farm%20at%20Les%20Collettes%2C%20Cagnes%20MET%20DT215205.jpg"
-        },
-        {
             "title": "Hills around the Bay of Moulin Huet, Guernsey",
             "artist": "Pierre-Auguste Renoir",
             "year": "1883",
@@ -1500,15 +1493,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-setakocsikazas%20ujholdkor%20athenban.jpg"
         }
     ],
-    "Qiu Ying": [
-        {
-            "title": "Lady preparing for a\u00a0journey",
-            "artist": "Qiu Ying",
-            "year": "1850",
-            "museum": "Yale University Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Qiu%20Ying%20-%20Lady%20preparing%20for%20a%20journey%20-%201944.110%20-%20Yale%20University%20Art%20Gallery.jpg"
-        }
-    ],
+    "Qiu Ying": [],
     "Katsushika Hokusai": [
         {
             "title": "Dragon flying over Mount Fuji",
@@ -2050,13 +2035,6 @@
             "year": "1485",
             "museum": "Biblioteca Ambrosiana",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000V-33.jpg"
-        },
-        {
-            "title": "Madonna of the Carnation",
-            "artist": "Leonardo da Vinci",
-            "year": "1475",
-            "museum": "Bavarian State Painting Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/LEONARDO-DA-VINCI%20-%20MADONNA-MIT-DER-NELKE-7779%20917154%20BSTGS.jpg"
         },
         {
             "title": "Saint John the Baptist",
@@ -3169,13 +3147,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tronie%20van%20een%20oude%20man%2C%20Rembrandt%20van%20Rijn%2C%20c.%201630%2C%20Mauritshuis%2C%20The%20Hague.jpg"
         },
         {
-            "title": "The Laughing Man",
-            "artist": "Rembrandt",
-            "year": "1629",
-            "museum": "Mauritshuis",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20The%20laughing%20man.jpg"
-        },
-        {
             "title": "Portrait of an old man",
             "artist": "Rembrandt",
             "year": "1667",
@@ -4184,13 +4155,6 @@
             "title": "Madonna and Child",
             "artist": "Sandro Botticelli",
             "year": "1467",
-            "museum": "Mus\u00e9e du Petit Palais",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20botticelli%2C%20madonna%20col%20bambino%20%28avignone%29%2C%201467-70%20ca.%2001.jpg"
-        },
-        {
-            "title": "Madonna and Child",
-            "artist": "Sandro Botticelli",
-            "year": "1467",
             "museum": "Department of Paintings of the Louvre",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20botticelli%2C%20madonna%20col%20bambino%20%28avignone%29%2C%201467-70%20ca.%2001.jpg"
         },
@@ -4489,13 +4453,6 @@
             "year": "1570",
             "museum": "Galleria Doria Pamphilj",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anguissola%2C%20Sofonisba%20-%20Bildnis%20eines%20Paares%20-%20c.%201570.jpg"
-        },
-        {
-            "title": "Portrait of a Monk",
-            "artist": "Sofonisba Anguissola",
-            "year": "1556",
-            "museum": "Cook collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20-%20portrait%20of%20a%20monk%20c.%201556.jpg"
         },
         {
             "title": "Young Man",
@@ -4855,13 +4812,6 @@
             "artist": "Edgar Degas",
             "year": "1871",
             "museum": "Foundation E.G. B\u00fchrle Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Ludovic%20Lepic%20et%20ses%20Filles%20-%2036%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg"
-        },
-        {
-            "title": "Count Lepic and His Daughters",
-            "artist": "Edgar Degas",
-            "year": "1871",
-            "museum": "Kunsthaus Z\u00fcrich",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Ludovic%20Lepic%20et%20ses%20Filles%20-%2036%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg"
         },
         {
@@ -5647,13 +5597,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20and%20Child%20with%20a%20Rose%20Scarf%20MET%20DT7251.jpg"
         },
         {
-            "title": "Lady at the Tea Table",
-            "artist": "Mary Cassatt",
-            "year": "1884",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20at%20the%20Tea%20Table%20MET%20DT516.jpg"
-        },
-        {
             "title": "Denise at Her Dressing Table",
             "artist": "Mary Cassatt",
             "year": "1908",
@@ -5729,13 +5672,6 @@
             "year": "1901",
             "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sara%20in%20a%20Green%20Bonnet%201929.6.11%201a.jpg"
-        },
-        {
-            "title": "Spanish Dancer Wearing a Lace Mantilla",
-            "artist": "Mary Cassatt",
-            "year": "1873",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20Dancer%20Wearing%20a%20Lace%20Mantilla%2C%20SAAM-1967.40%201.jpg"
         },
         {
             "title": "Head of a Young Girl",
@@ -8676,13 +8612,6 @@
     "Joaqu\u00edn Clausell": [],
     "Paul C\u00e9zanne": [
         {
-            "title": "Plate with Fruit and Pot of Preserves (Assiette avec fruits et pot de conserves)",
-            "artist": "Paul C\u00e9zanne",
-            "year": "1880",
-            "museum": "Barnes Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Plate%20with%20Fruit%20and%20Pot%20of%20Preserves%20%28Assiette%20avec%20fruits%20et%20pot%20de%20conserves%29%20-%20BF50%20-%20Barnes%20Foundation.jpg"
-        },
-        {
             "title": "Gardener (Le Jardinier)",
             "artist": "Paul C\u00e9zanne",
             "year": "1885",
@@ -10590,13 +10519,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C%20Wassily%20-%20J%C3%BCngster%20Tag%20%28The%20Day%20of%20the%20Last%20Judgement%29%2C%201912%2C%20GAC.jpg"
         },
         {
-            "title": "Painting with a Red Stain",
-            "artist": "Wassily Kandinsky",
-            "year": "1914",
-            "museum": "Mus\u00e9e National d'Art Moderne",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20-%20Bild%20mit%20rotem%20Fleck%2C%20Pompidou.jpg"
-        },
-        {
             "title": "Akhtyrka, Framework for a Pile of Hay and Farm",
             "artist": "Wassily Kandinsky",
             "year": "1917",
@@ -10749,13 +10671,6 @@
             "year": "1930",
             "museum": "Mus\u00e9e National d'Art Moderne",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20-%20Zwei%20Quadrate%2C%201930.jpg"
-        },
-        {
-            "title": "Lightweight",
-            "artist": "Wassily Kandinsky",
-            "year": "1930",
-            "museum": "Mus\u00e9e National d'Art Moderne",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leichtes%20-%20Wassily%20Kandinsky%2C%20GAC.jpg"
         },
         {
             "title": "Thirteen Rectangles",
@@ -11341,13 +11256,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nadezhda%20Stasova%20by%20Repin.jpg"
         },
         {
-            "title": "Portrait of V. I. Repina",
-            "artist": "Ilya Repin",
-            "year": "1886",
-            "museum": "Russian Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vera%20Repina%20by%20Repin%20%281886%29.jpg"
-        },
-        {
             "title": "Portrait of writer, dramatist, poetess and translator Tatiana Lvovna Shchepkina-Kupernik",
             "artist": "Ilya Repin",
             "year": "1914",
@@ -11621,13 +11529,6 @@
             "year": "1878",
             "museum": "http://www.wikidata.org/.well-known/genid/b83e1e181a1a9cfb3989697063f29f67",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RemorsodeNero.jpg"
-        },
-        {
-            "title": "The Awakening of Adonis",
-            "artist": "John William Waterhouse",
-            "year": "1899",
-            "museum": "Andrew Lloyd Webber Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Awakening%20of%20Adonis%20-%20John%20William%20Waterhouse%20%281899%29.jpg"
         },
         {
             "title": "The Bouquet",
@@ -14743,13 +14644,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Autumn.jpg"
         },
         {
-            "title": "Hound and Hunter",
-            "artist": "Winslow Homer",
-            "year": "1892",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Hound%20and%20Hunter%20%281892%29.jpg"
-        },
-        {
             "title": "A Light on the Sea",
             "artist": "Winslow Homer",
             "year": "1897",
@@ -14926,13 +14820,6 @@
             "year": "1494",
             "museum": "National Palace Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cockscom%2C%20Shen%20Zhou.jpg"
-        },
-        {
-            "title": "Return to Stone Lake",
-            "artist": "Shen Zhou",
-            "year": "1446",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Return%20to%20Stone%20Lake%20-%201951.187%20-%20Art%20Institute%20of%20Chicago.jpg"
         },
         {
             "title": "Twelve Views of Tiger Hill",
@@ -18077,13 +17964,6 @@
             "artist": "Georges Seurat",
             "year": "1885",
             "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat-Le%20Bec%20du%20Hoc%20%C3%A0%20Grandcamp.jpg"
-        },
-        {
-            "title": "Le Bec du Hoc, Grandcamp",
-            "artist": "Georges Seurat",
-            "year": "1885",
-            "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat-Le%20Bec%20du%20Hoc%20%C3%A0%20Grandcamp.jpg"
         },
         {
@@ -21233,13 +21113,6 @@
             "year": "1915",
             "museum": "National Gallery of Canada",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Thomson%20Blue%20Lake%20Sketch%20for%20In%20the%20Northland.jpg"
-        },
-        {
-            "title": "View over a Lake: Shore with Houses",
-            "artist": "Tom Thomson",
-            "year": "1913",
-            "museum": "National Gallery of Canada",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Thomson%20View%20Over%20a%20Lake-Shore%20with%20Houses.jpg"
         }
     ],
     "Abd al-Samad": [],
@@ -21963,13 +21836,6 @@
             "year": "1912",
             "museum": "Audain Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/War%20Canoes%2C%20Alert%20Bay.jpeg"
-        },
-        {
-            "title": "The Indian Church",
-            "artist": "Emily Carr",
-            "year": "1929",
-            "museum": "Art Gallery of Ontario",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emily%20Carr%20-%20Indian%20Church.jpg"
         },
         {
             "title": "Guyasdoms D'Sonoqua",
@@ -23229,13 +23095,6 @@
             "year": "1538",
             "museum": "Yale University Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20-%20Portrait%20of%20a%20Hanseatic%20Merchant%20-%201977.187%20-%20Yale%20University%20Art%20Gallery.jpg"
-        },
-        {
-            "title": "Portrait of Thomas Godsalve and his Son John",
-            "artist": "Hans Holbein the Younger",
-            "year": "1528",
-            "museum": "Staatliche Kunstsammlungen Dresden",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20d.%20J.%20063.jpg"
         },
         {
             "title": "William Fitzwilliam, Earl of Southampton",
@@ -24870,13 +24729,6 @@
             "title": "Niagara Falls, from the American Side",
             "artist": "Frederic Edwin Church",
             "year": "1867",
-            "museum": "Scottish National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Niagara%20Falls%2C%20from%20the%20American%20Side%20-%20NG%20799%20-%20National%20Galleries%20of%20Scotland.jpg"
-        },
-        {
-            "title": "Niagara Falls, from the American Side",
-            "artist": "Frederic Edwin Church",
-            "year": "1867",
             "museum": "National Galleries Scotland",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Niagara%20Falls%2C%20from%20the%20American%20Side%20-%20Google%20Art%20Project.jpg"
         },
@@ -25457,25 +25309,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20The%20Zen%20Priest%20Choka%20-%201958.289%20-%20Cleveland%20Museum%20of%20Art.tiff"
         },
         {
-            "title": "Selections from the New Collection of Japanese Poems from Ancient and Modern Times (Shinkokin wakash\u016b) with Printed Designs of Chinese Lions and Crab Finger Grass",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1610",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Poem-Card%20from%20the%20Shinkokin%20wakashu%20%28New%20Collection%20of%20Japanese%20Poems%20from%20-%201966.118%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
             "title": "Kenshu, Monk with Shrimp",
             "artist": "Tawaraya S\u014dtatsu",
             "year": "1620",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Kenshu%2C%20Monk%20with%20Shrimp%20-%201992.388%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
-        {
-            "title": "Crossing at Sano",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1620",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Crossing%20at%20Sano%20%28Sano%20no%20watari%29%20-%201949.554%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
             "title": "The Beach at Sumiyoshi from the Tales of Ise",
@@ -25499,13 +25337,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20%E2%80%9CMount%20Utsu%E2%80%9D%20%28Utsu%20no%20yama%29%2C%20from%20The%20Tales%20of%20Ise%20%28Ise%20monogatari%29%20-%202015.300.88%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "Scenes from Sekiya (The Barrier Gate) and Miotsukushi (Channel Markers) chapters of The Tale of Genji",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1631",
-            "museum": "Seikad\u014d Bunko Library",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Genji%20screen%202.jpg"
-        },
-        {
             "title": "Waterfowls in Lotus Pond",
             "artist": "Tawaraya S\u014dtatsu",
             "year": "1700",
@@ -25524,20 +25355,6 @@
             "artist": "Tawaraya S\u014dtatsu",
             "year": "1700",
             "museum": "Gotoh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Poem%20scroll%20with%20deer%20%28overall%20view%29.jpg"
-        },
-        {
-            "title": "Poem scroll with deer",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1700",
-            "museum": "Yamatane Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Poem%20scroll%20with%20deer%20%28overall%20view%29.jpg"
-        },
-        {
-            "title": "Poem scroll with deer",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1700",
-            "museum": "Suntory Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Poem%20scroll%20with%20deer%20%28overall%20view%29.jpg"
         },
         {
@@ -30082,13 +29899,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%2C%20The%20Milkmaid%20%281904%29.jpg"
         },
         {
-            "title": "Kerala Varma Valiya Koil Thampuran",
-            "artist": "Raja Ravi Varma",
-            "year": "1880",
-            "museum": "Sree Chitra Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kerala%20Varma%20Valiya%20Koil%20Thampuran%20Changanassery%20Lakshmipuram%20Palace.jpg"
-        },
-        {
             "title": "Maharani Lakshmi Bayi",
             "artist": "Raja Ravi Varma",
             "year": "1883",
@@ -30165,13 +29975,6 @@
             "artist": "Anthony van Dyck",
             "year": "1630",
             "museum": "Electoral Gallery Dusseldorf",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20-%20Bildnis%20einer%20Dame%20-%20368%20-%20Bavarian%20State%20Painting%20Collections.jpg"
-        },
-        {
-            "title": "Portrait of a Lady (second wife of Sebastiaen van Leerse)",
-            "artist": "Anthony van Dyck",
-            "year": "1630",
-            "museum": "Johann Wilhelm von der Pfalz collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20-%20Bildnis%20einer%20Dame%20-%20368%20-%20Bavarian%20State%20Painting%20Collections.jpg"
         },
         {
@@ -30856,13 +30659,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RomualdGreco.jpg"
         },
         {
-            "title": "Christ as Savior",
-            "artist": "El Greco",
-            "year": "1610",
-            "museum": "El Greco Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Christ%20as%20Saviour%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Christ on the Cross",
             "artist": "El Greco",
             "year": "1573",
@@ -31218,13 +31014,6 @@
             "year": "1610",
             "museum": "Museum of Fine Arts Boston",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El-greco%20st%20catherine%20boston.jpg"
-        },
-        {
-            "title": "The Holy Family with Mary Magdalen",
-            "artist": "El Greco",
-            "year": "1590",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Holy%20Family%20with%20Mary%20Magdalen%20-%201926.247%20-%20Cleveland%20Museum%20of%20Art.tiff"
         },
         {
             "title": "The Holy Family with Mary Magdalen",
@@ -33472,13 +33261,6 @@
             "year": "1730",
             "museum": "National Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Delhi-National%20Museum-Jayadeva%20worshipping%20Radha%20and%20Krishna-20131006.jpg"
-        },
-        {
-            "title": "Friends persuading hesitant Radha to enter the bower of love where Krishna awaits her",
-            "artist": "Manaku",
-            "year": "1730",
-            "museum": "National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sakhi%20take%20Radha%20to%20meet%20krishna.jpg"
         },
         {
             "title": "Krishna dallying with cowherd maidens",
