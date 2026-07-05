@@ -7106,13 +7106,6 @@
             "description": "Historical masterpiece entry."
         },
         {
-            "title": "View over a Lake: Shore with Houses by Tom Thomson",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1016.jpg",
-            "year": "1913",
-            "museum": "National Gallery of Canada",
-            "description": "Historical masterpiece entry."
-        },
-        {
             "title": "Portrait of Thomas Godsalve and his Son John by Hans Holbein the Younger",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1017.jpg",
             "year": "1528",
@@ -7145,6 +7138,13 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1021.jpg",
             "year": "1610",
             "museum": "El Greco Museum",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Selections from the New Collection of Japanese Poems from Ancient and Modern Times (Shinkokin wakashū) with Printed Designs of Chinese Lions and Crab Finger Grass by Tawaraya Sōtatsu",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1022.jpg",
+            "year": "1610",
+            "museum": "Cleveland Museum of Art",
             "description": "Historical masterpiece entry."
         },
         {
@@ -7586,6 +7586,13 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1085.jpg",
             "year": "1615",
             "museum": "Richard Green Fine Paintings",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Les Poseuses, small version by Georges Seurat",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1086.jpg",
+            "year": "1887",
+            "museum": "Paul G. Allen Collection",
             "description": "Historical masterpiece entry."
         }
     ]
