@@ -134,13 +134,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Stra%C5%BC%20nocna%20poczt%C3%B3wka%202%20%28cropped%29.jpg"
         },
         {
-            "title": "Czw\u00f3rka ukrai\u0144ska",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1873",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Do%20miasta%20poczt%C3%B3wka%20%28cropped%29.jpg"
-        },
-        {
             "title": "Girl from the Duchy of \u0141owicz",
             "artist": "J\u00f3zef Che\u0142mo\u0144ski",
             "year": "1900",
@@ -2006,13 +1999,6 @@
             "year": "1850",
             "museum": "Los Angeles County Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Walking%20Courtesan%20LACMA%20M.81.61.4.jpg"
-        },
-        {
-            "title": "Watermelon",
-            "artist": "Katsushika Hokusai",
-            "year": "1839",
-            "museum": "Museum of the Imperial Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Suika-zu%20by%20Katsushika%20Hokusai.jpg"
         },
         {
             "title": "Five Treasure Balls (hoju) and Five \u201cLongevity\u201d\u00a0Character",
@@ -3890,13 +3876,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Borstbeeld%20van%20een%20lachende%20jonge%20man%20Rijksmuseum%20SK-A-3934.jpeg"
         },
         {
-            "title": "Bust of a laughing young man",
-            "artist": "Rembrandt",
-            "year": "1630",
-            "museum": "Charles Sedelmeyer collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Borstbeeld%20van%20een%20lachende%20jonge%20man%20Rijksmuseum%20SK-A-3934.jpeg"
-        },
-        {
             "title": "Portrait of Dr. Ephra\u00efm Bueno",
             "artist": "Rembrandt",
             "year": "1640",
@@ -5397,13 +5376,6 @@
     "Reza Abbasi": [],
     "Edgar Degas": [
         {
-            "title": "Cow",
-            "artist": "Edgar Degas",
-            "year": "1876",
-            "museum": "Philadelphia Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20Vaca.JPG"
-        },
-        {
             "title": "The Ballet Class",
             "artist": "Edgar Degas",
             "year": "1878",
@@ -6010,13 +5982,6 @@
         {
             "title": "Blind Man's Bluff",
             "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1760",
-            "museum": "F\u00fchrermuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Das%20Blindekuhspiel%20-%203220%20-%20F%C3%BChrermuseum.jpg"
-        },
-        {
-            "title": "Blind Man's Bluff",
-            "artist": "Jean-Honor\u00e9 Fragonard",
             "year": "1757",
             "museum": "F\u00fchrermuseum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
@@ -6092,13 +6057,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20Reader.jpg"
         },
         {
-            "title": "The Swing",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1767",
-            "museum": "Wallace Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20Swing.jpg"
-        },
-        {
             "title": "The Chemise Withdrawn",
             "artist": "Jean-Honor\u00e9 Fragonard",
             "year": "1770",
@@ -6111,13 +6069,6 @@
             "year": "1752",
             "museum": "Beaux-Arts de Paris",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeroboam.jpg"
-        },
-        {
-            "title": "Adoration of the Shepherds",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1775",
-            "museum": "Department of Paintings of the Louvre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%201775%20adoration%20des%20bergers%20Louvre.jpg"
         },
         {
             "title": "The Lock",
@@ -7218,25 +7169,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%204%20-%20Youth%20-%201907.jpg"
         },
         {
-            "title": "The Ten Largest, No. 5, Adulthood",
-            "artist": "Hilma af Klint",
-            "year": "1907",
-            "museum": "Hilma af Klint Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%205%20-%20Adulthood%20-%201907.jpg"
-        },
-        {
             "title": "The Ten Largest, No. 6",
             "artist": "Hilma af Klint",
             "year": "1907",
             "museum": "Hilma af Klint Foundation",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%206%20-%201907.jpg"
-        },
-        {
-            "title": "The Ten Largest, No. 8, Adulthood",
-            "artist": "Hilma af Klint",
-            "year": "1907",
-            "museum": "Hilma af Klint Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilma%20af%20Klint%20-%20The%20Ten%20Largest%20No.%208%20-%20Adulthood%20-%201907.jpg"
         },
         {
             "title": "The Ten Largest, No. 10, Old Age",
@@ -11011,13 +10948,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mardi%20gras%2C%20par%20Paul%20C%C3%A9zanne%2C%20Yorck.jpg"
         },
         {
-            "title": "Artist's portrait with hat",
-            "artist": "Paul C\u00e9zanne",
-            "year": "1879",
-            "museum": "Kunstmuseum Bern",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20l%27artiste%20au%20chapeau%20%C3%A0%20large%20bord%2C%20par%20Paul%20C%C3%A9zanne%2C%20Yorck.jpg"
-        },
-        {
             "title": "Mont Sainte-Victoire seen from Bellevue",
             "artist": "Paul C\u00e9zanne",
             "year": "1892",
@@ -12362,13 +12292,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Cockerel%20and%20Tengu-Mask%20-%2074.1.121%20-%20Minneapolis%20Institute%20of%20Art.jpg"
         },
         {
-            "title": "Rooster and Family",
-            "artist": "Ito Jakuchu",
-            "year": "1797",
-            "museum": "Minneapolis Institute of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Rooster%20and%20Family%20-%202015.79.181%20-%20Minneapolis%20Institute%20of%20Art.jpg"
-        },
-        {
             "title": "New Year's Sun and Old Pine Tree",
             "artist": "Ito Jakuchu",
             "year": "1800",
@@ -12530,13 +12453,6 @@
             "year": "1203",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Watching%20the%20Deer%20by%20a%20Pine%20Shaded%20Stream%20-%201997.88%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
-            "title": "Drinking in the Moonlight",
-            "artist": "Ma Yuan",
-            "year": "1189",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Drinking%20in%20the%20Moonlight%20-%201997.89%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
             "title": "Viewing plum blossoms by moonlight",
@@ -12707,13 +12623,6 @@
             "year": "1928",
             "museum": "Mus\u00e9e National d'Art Moderne",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20-%20Sur%20les%20pointes%2C%201928.jpg"
-        },
-        {
-            "title": "A Circle (A)",
-            "artist": "Wassily Kandinsky",
-            "year": "1928",
-            "museum": "Mus\u00e9e National d'Art Moderne",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C%20Wassily%20-%20Ein%20Kreis%20%28A%29%2C%201928%2C%20GAC.jpg"
         },
         {
             "title": "Cold",
@@ -17282,13 +17191,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Rainy%20Day%20in%20Camp%20by%20Winslow%20Homer%201871.jpeg"
         },
         {
-            "title": "The Beach, Late Afternoon",
-            "artist": "Winslow Homer",
-            "year": "1870",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Beach%2C%20Late%20Afternoon%20MET%20ap67.187.207.jpg"
-        },
-        {
             "title": "Maine Coast",
             "artist": "Winslow Homer",
             "year": "1896",
@@ -17979,13 +17881,6 @@
             "artist": "Judith Leyster",
             "year": "1635",
             "museum": "Virginia Museum of Fine Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Frans%20Hals%20-%20Virginia%20Violinist.jpg"
-        },
-        {
-            "title": "Boy Playing A Violin",
-            "artist": "Judith Leyster",
-            "year": "1635",
-            "museum": "Charles Sedelmeyer collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Frans%20Hals%20-%20Virginia%20Violinist.jpg"
         },
         {
@@ -18971,13 +18866,6 @@
             "year": "1899",
             "museum": "Museum Langmatt Sidney and Jenny Brown Foundation",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Automne%20%C3%A1%20%C3%89ragny%2C%20Camille%20Pissarro%20-%203159%20%28cropped%29.jpg"
-        },
-        {
-            "title": "Autumn in the Meadow at \u00c9ragny",
-            "artist": "Camille Pissarro",
-            "year": "1899",
-            "museum": "Museum Langmatt Sidney and Jenny Brown Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Automne%20dans%20le%20pr%C3%A9%20%C3%A0%20%C3%89ragny%20-%201294.jpg"
         },
         {
             "title": "Peasant Woman Resting at the Foot of a Tree, Effect of Sunshine, \u00c9ragny",
@@ -21983,13 +21871,6 @@
             "year": "1851",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Shichirigahama%20and%20Enoshima%20-%202015.300.150a%2C%20b%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Woman Walking in the Snow",
-            "artist": "Utagawa Hiroshige",
-            "year": "1847",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP-14527-002.jpg"
         },
         {
             "title": "The Imado Bridge at the Foot of Mount Matsuchi",
@@ -26522,13 +26403,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Childe%20Hassam%20-%20Spring%20on%20West%2078th%20Street%2002.jpg"
         },
         {
-            "title": "Church at Old Lyme",
-            "artist": "Childe Hassam",
-            "year": "1906",
-            "museum": "Parrish Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederick%20Childe%20Hassam%2C%20Church%20at%20Old%20Lyme%2C%201906.%20Oil%20on%20canvas.%20Parrish%20Art%20Museum%2C%20Southampton%2C%20NY.jpg"
-        },
-        {
             "title": "A Back Road",
             "artist": "Childe Hassam",
             "year": "1884",
@@ -26965,13 +26839,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Abanindranath%20Tagore%20-%20The%20Passing%20of%20Shah%20Jahan%2C%201902.jpg"
         },
         {
-            "title": "Arab",
-            "artist": "Abanindranath Tagore",
-            "year": "1887",
-            "museum": "Victoria Memorial",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Abanindranath%20Tagore%20-%20Arab%2026-5x18-2%20cm%20-%20Watercolour%20-%20Portrait%20Study%20-%20ACCN%20R%208112%20-%20Victoria%20Memorial%20Hall%20-%20Kolkata%202023-05-31%200392.jpg"
-        },
-        {
             "title": "Rabindranath in the role of 'blind singer'",
             "artist": "Abanindranath Tagore",
             "year": "1916",
@@ -27081,13 +26948,6 @@
             "year": "1560",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Daswanth%20-%20Page%20from%20Tales%20of%20a%20Parrot%20%28Tuti-nama%29%2C%20Fifth%20night%2C%20The%20parrot%20mother%20cautions%20her%20young%20on%20the%20danger%20of%20playing%20with%20foxes%20-%201962.279.32.a%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
-        {
-            "title": "The Parrot Addresses Khujasta at the Beginning of the Sixth Night, from a Tuti-nama (Tales of a Parrot)",
-            "artist": "Daswanth",
-            "year": "1560",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/India%2C%20Mughal%2C%20Reign%20of%20Akbar%2C%2016th%20century%20-%20Page%20from%20Tales%20of%20a%20Parrot%20%28Tuti-nama%29-%20Sixth%20night-%20The%20parrot%20addresses%20-%201962.279.37.b%20-%20Cleveland%20Museum%20of%20Art.jpg"
         }
     ],
     "Hans Holbein the Younger": [
@@ -27764,15 +27624,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20-%20Terminus%2C%20the%20Device%20of%20Erasmus%20-%201971.166%20-%20Cleveland%20Museum%20of%20Art.tiff"
         }
     ],
-    "Kshitindranath Majumdar": [
-        {
-            "title": "R\u0101dh\u0101 and Krishna",
-            "artist": "Kshitindranath Majumdar",
-            "year": "1914",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Radha%20and%20Krishna%20%28Myths%20of%20the%20Hindus%29.jpg"
-        }
-    ],
+    "Kshitindranath Majumdar": [],
     "Amrita Sher-Gil": [
         {
             "title": "Village scene",
@@ -28111,13 +27963,6 @@
             "year": "1865",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Beloved%20by%20Dante%20Gabriel%20Rossetti.jpg"
-        },
-        {
-            "title": "The Adoration",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1860",
-            "museum": "Tate",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20-%20The%20Seed%20of%20David%20%281856%20ca%29%20-%202.jpg"
         },
         {
             "title": "David",
@@ -29518,13 +29363,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Chant%20de%20Boh%C3%A8me%2002.jpg"
         },
         {
-            "title": "Self-portrait, sketching in his apartment, Paris",
-            "artist": "Alphonse Mucha",
-            "year": "1889",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Autoportrait%20de%20Mucha%20dans%20son%20appartement%20%C3%A0%20Paris.jpg"
-        },
-        {
             "title": "Study for Woman in the Wilderness",
             "artist": "Alphonse Mucha",
             "year": "1923",
@@ -30043,13 +29881,6 @@
             "year": "1849",
             "museum": "Los Angeles County Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederick%20Edwin%20Church%2C%20Lower%20Falls%2C%20Rochester%20%281849%29.jpg"
-        },
-        {
-            "title": "Marine, Sunset",
-            "artist": "Frederic Edwin Church",
-            "year": "1881",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marine%E2%80%94Sunset%20Frederic%20Edwin%20Church.jpg"
         },
         {
             "title": "Moses Viewing the Promised Land",
@@ -32002,13 +31833,6 @@
             "year": "1878",
             "museum": "Jersey Museum and Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20%281829-1896%29%20-%20A%20Jersey%20Lily%20-%20PW-0000-00108%20-%20Jersey%20Museum%20and%20Art%20Gallery.jpg"
-        },
-        {
-            "title": "Meditation",
-            "artist": "John Everett Millais",
-            "year": "1879",
-            "museum": "Shipley Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20%281829-1896%29%20%28attributed%20to%29%20-%20Meditation%20-%20TWCMS%20%2C%20B3210%20-%20Shipley%20Art%20Gallery.jpg"
         },
         {
             "title": "Princess Elizabeth in Prison at St James\u2019s",
@@ -34749,13 +34573,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%B3%A2%E6%BF%A4%E5%9B%B3%E5%B1%8F%E9%A2%A8-Rough%20Waves%20MET%20DT1615.jpg"
         },
         {
-            "title": "Hotei",
-            "artist": "Ogata K\u014drin",
-            "year": "1704",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP-12232-076.jpg"
-        },
-        {
             "title": "Flowers of Spring and Autumn",
             "artist": "Ogata K\u014drin",
             "year": "1750",
@@ -37066,13 +36883,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20a%20young%20man%2C%20traditionally%20identified%20as%20Saint%20Aloysius%20%28Luigi%29%20Gonzaga%20%281568-1591%29%2C%20half-length%2C%20with%20a%20book%2C%20lot-6377922.jpg"
         },
         {
-            "title": "Apostle Saint Andrew",
-            "artist": "El Greco",
-            "year": "1610",
-            "museum": "El Greco Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20St.%20Andrew%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Saint Andrew",
             "artist": "El Greco",
             "year": "1610",
@@ -37497,5 +37307,6 @@
             "museum": "Kyoto National Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sesshu%20-%20View%20of%20Ama-no-Hashidate.jpg"
         }
-    ]
+    ],
+    "Govardhan": []
 }
