@@ -2037,13 +2037,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000V-33.jpg"
         },
         {
-            "title": "Saint John the Baptist",
-            "artist": "Leonardo da Vinci",
-            "year": "1514",
-            "museum": "Department of Paintings of the Louvre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20-%20Saint%20John%20the%20Baptist%20C2RMF%20retouched.jpg"
-        },
-        {
             "title": "Saint Jerome in the Wilderness",
             "artist": "Leonardo da Vinci",
             "year": "1480",
@@ -2063,13 +2056,6 @@
             "year": "1482",
             "museum": "Uffizi Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Adoration%2C%20c1481%2C%20Uffizi.jpg"
-        },
-        {
-            "title": "Salvator Mundi",
-            "artist": "Leonardo da Vinci",
-            "year": "1500",
-            "museum": "Louvre Abu Dhabi",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Salvator%20Mundi%2C%20c.1500%2C%20oil%20on%20walnut%2C%2045.4%20%C3%97%2065.6%20cm.jpg"
         },
         {
             "title": "Portrait of a Young Fianc\u00e9e",
@@ -3555,13 +3541,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20y%20Lucientes%20-%20Still-Life%20Three%20Salmon%20Steaks%20-%20WGA10065.jpg"
         },
         {
-            "title": "Dead Birds",
-            "artist": "Francisco Goya",
-            "year": "1808",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aves%20muertas%20por%20Francisco%20de%20Goya.jpg"
-        },
-        {
             "title": "Dead hares",
             "artist": "Francisco Goya",
             "year": "1808",
@@ -4411,13 +4390,6 @@
             "year": "1559",
             "museum": "Nivaagaard Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Portr%C3%A6tgruppe%20med%20kunstnerens%20fader%20Amilcare%20Anguissola%20og%20hendes%20s%C3%B8skende%20Minerva%20og%20Astrubale%2C%20ca.%201559%2C%200001NMK%2C%20Nivaagaards%20Malerisamling.jpg"
-        },
-        {
-            "title": "Portrait of a Young Woman in Profile",
-            "artist": "Sofonisba Anguissola",
-            "year": "1580",
-            "museum": "Hermitage Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Bildnis%20einer%20jungen%20Frau%20im%20Profil.jpeg"
         },
         {
             "title": "Portrait of Giuliano Cesarini",
@@ -8595,13 +8567,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PM%20165041%20USA%20Washington.jpg"
         },
         {
-            "title": "A Still Life Of Flowers In a Roemer With a Field Mouse And An Ear Of Wheat",
-            "artist": "Clara Peeters",
-            "year": "1650",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Still%20Life%20Of%20Flowers%20In%20a%20Roemer%20%28Peeters%29.jpg"
-        },
-        {
             "title": "Still Life with a Peregrine Falcon and Birds",
             "artist": "Clara Peeters",
             "year": "1615",
@@ -10185,13 +10150,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20%27Saint%20Catherine%20of%20Alexandria%27%2C%20oil%20on%20canvas%20painting%2C%20c.%201620%2C%20El%20Paso%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "Salome with the Head of Saint John the Baptist",
-            "artist": "Artemisia Gentileschi",
-            "year": "1615",
-            "museum": "Museum of Fine Arts, Budapest",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Salome%20with%20the%20Head%20of%20Saint%20John%20the%20Baptist%20by%20Artemisia%20Gentileschi%20ca.%201610-1615.jpg"
-        },
-        {
             "title": "Judith and her maidservant with the head of Holofernes",
             "artist": "Artemisia Gentileschi",
             "year": "1608",
@@ -10430,13 +10388,6 @@
             "year": "1800",
             "museum": "Museum of the Imperial Collections",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Cockatoos%20in%20an%20old%20pine%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
-        },
-        {
-            "title": "White goose and reeds",
-            "artist": "Ito Jakuchu",
-            "year": "1800",
-            "museum": "Museum of the Imperial Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20White%20goose%20and%20reeds%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
         },
         {
             "title": "Birds on blossoming peach tree",
@@ -10705,13 +10656,6 @@
             "artist": "Wassily Kandinsky",
             "year": "1932",
             "museum": "Strasbourg Museum of Modern and Contemporary Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%BChle%20Entfernung%20-%20Wassily%20Kandinsky.jpg"
-        },
-        {
-            "title": "Cold Remoteness",
-            "artist": "Wassily Kandinsky",
-            "year": "1932",
-            "museum": "Mus\u00e9e National d'Art Moderne",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%BChle%20Entfernung%20-%20Wassily%20Kandinsky.jpg"
         },
         {
@@ -13849,13 +13793,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20%281571%20-%201610%29%20-%20Half-length%20portrait%20of%20a%20young%20woman%20-%20356%20-%20Gem%C3%A4ldegalerie.jpg"
         },
         {
-            "title": "The Incredulity of Saint Thomas",
-            "artist": "Caravaggio",
-            "year": "1601",
-            "museum": "Sanssouci Picture Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20incredulity.jpg"
-        },
-        {
             "title": "Sleeping Cupid",
             "artist": "Caravaggio",
             "year": "1608",
@@ -15059,13 +14996,6 @@
             "title": "An Artist in Her Studio",
             "artist": "Judith Leyster",
             "year": "1632",
-            "museum": "F\u00fchrermuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
-        },
-        {
-            "title": "An Artist in Her Studio",
-            "artist": "Judith Leyster",
-            "year": "1632",
             "museum": "Munich Central Collecting Point",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
         },
@@ -15089,13 +15019,6 @@
             "year": "1632",
             "museum": "Dienst Verspreide Rijkscollecties",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Leyster%20-%20Het%20atelier%20van%20een%20kunstenares%20-%20NK3276%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg"
-        },
-        {
-            "title": "An Artist in Her Studio",
-            "artist": "Judith Leyster",
-            "year": "1632",
-            "museum": "Stichting Nederlands Kunstbezit",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirck%20van%20der%20Lisse%20%28Liss%2C%20J.%29%20%281600%20%28um%29%20-1669%29%20-%20Portr%C3%A4tzeichnung%20bei%20einer%20Malerin%20im%20Atelier%20-%202302%20-%20F%C3%BChrermuseum.jpg"
         },
         {
             "title": "An Artist in Her Studio",
@@ -15224,13 +15147,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20A%20boy%20blowing%20bubbles.jpg"
         },
         {
-            "title": "Portrait of a boy with a cat",
-            "artist": "Judith Leyster",
-            "year": "1630",
-            "museum": "http://www.wikidata.org/.well-known/genid/591bb3f14bc627ab8d4a0db547260c61",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20%28attr.%29%20-%20Portret%20van%20een%20jongen%20met%20een%20kat%2C%20een%20rode%20hoed%20en%20een%20stuk%20brood.jpg"
-        },
-        {
             "title": "interior with drinking people",
             "artist": "Judith Leyster",
             "year": "1635",
@@ -15242,13 +15158,6 @@
             "artist": "Judith Leyster",
             "year": "1635",
             "museum": "Mus\u00e9e Girodet",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joueur%20de%20luth%2C%20par%20Judith%20Leyster.jpg"
-        },
-        {
-            "title": "interior with drinking people",
-            "artist": "Judith Leyster",
-            "year": "1635",
-            "museum": "Mus\u00e9es Nationaux R\u00e9cup\u00e9ration",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joueur%20de%20luth%2C%20par%20Judith%20Leyster.jpg"
         }
     ],
@@ -18491,13 +18400,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ando%20Hiroshige%20-%20Night%20Scene%20on%20the%20Sumida%20River%20-%201920.274%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
-            "title": "Shichirigahama and Enoshima",
-            "artist": "Utagawa Hiroshige",
-            "year": "1851",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Shichirigahama%20and%20Enoshima%20-%202015.300.150a%2C%20b%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
             "title": "Shiraito Waterfall at Hakone",
             "artist": "Utagawa Hiroshige",
             "year": "1827",
@@ -18508,13 +18410,6 @@
     "Kim Hong-do": [],
     "Bishandas": [],
     "J.M.W. Turner": [
-        {
-            "title": "Cliveden on Thames",
-            "artist": "J.M.W. Turner",
-            "year": "1807",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Cliveden%20on%20Thames%20-%20Google%20Art%20Project.jpg"
-        },
         {
             "title": "Cliveden on Thames",
             "artist": "J.M.W. Turner",
@@ -19746,13 +19641,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Countess%20Catherine%20Skawronska%2C%20by%20Angelika%20Kauffmann%2C%201789%2C%20oil%20on%20canvas%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg%2C%20Germany%20-%20DSC03425.jpg"
         },
         {
-            "title": "Agrippina Mourns the Urn of Germanicus",
-            "artist": "Angelica Kauffman",
-            "year": "1793",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Agrippina%20trauert%20%C3%BCber%20der%20Urne%20des%20Germanicus%2C%20Angelika%20Kauffmann%20%281793%29%2C%20Kunstpalast%20D%C3%BCsseldorf.jpg"
-        },
-        {
             "title": "Erato, the Muse of Lyric Poetry with a Putto",
             "artist": "Angelica Kauffman",
             "year": "1750",
@@ -20906,15 +20794,7 @@
         }
     ],
     "Sunayani Devi": [],
-    "Ni Zan": [
-        {
-            "title": "New Bamboo in the Spring Rain",
-            "artist": "Ni Zan",
-            "year": "1371",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%98%A5%E9%9B%A8%E6%96%B0%E7%AF%81%E5%9B%BE%E8%BD%B4.%E5%85%83.%E5%80%AA%E7%93%92.%E7%BB%98.%E7%BA%B8%E6%9C%AC%E6%B0%B4%E5%A2%A8.%E6%98%8E%E6%B4%AA%E6%AD%A6%E5%9B%9B%E5%B9%B4.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg"
-        }
-    ],
+    "Ni Zan": [],
     "M. A. Rahman Chughtai": [],
     "Asit Kumar Haldar": [],
     "Tom Thomson": [
@@ -21864,13 +21744,6 @@
             "year": "1931",
             "museum": "Vancouver Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emily%20Carr%20-%20Totem%20and%20Forest.jpg"
-        },
-        {
-            "title": "Trees in France",
-            "artist": "Emily Carr",
-            "year": "1911",
-            "museum": "McMichael Canadian Art Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emily%20Carr%20-%20Trees%20in%20France.jpg"
         },
         {
             "title": "Breton Farm Yard",
@@ -25954,13 +25827,6 @@
     "Gu Kaizhi": [],
     "Pieter Bruegel the Elder": [
         {
-            "title": "Landscape with Rabbit Hunt",
-            "artist": "Pieter Bruegel the Elder",
-            "year": "1560",
-            "museum": "Fondation Custodia",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20I%20-%20Landscape%20with%20Rabbit%20Hunt.jpg"
-        },
-        {
             "title": "Dull Gret",
             "artist": "Pieter Bruegel the Elder",
             "year": "1561",
@@ -26164,13 +26030,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Heuernte.jpg"
         },
         {
-            "title": "Parable of the Sower",
-            "artist": "Pieter Bruegel the Elder",
-            "year": "1557",
-            "museum": "Timken Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%20030.jpg"
-        },
-        {
             "title": "Landscape with the Flight into Egypt",
             "artist": "Pieter Bruegel the Elder",
             "year": "1563",
@@ -26183,13 +26042,6 @@
             "year": "1568",
             "museum": "Museo di Capodimonte",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%20035-2.jpg"
-        },
-        {
-            "title": "Adoration of the Magi",
-            "artist": "Pieter Bruegel the Elder",
-            "year": "1556",
-            "museum": "Royal Museums of Fine Arts of Belgium",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anbetung%20der%20K%C3%B6nige%20%28Bruegel%2C%20um%201564%29.jpg"
         },
         {
             "title": "The Wedding Dance",
@@ -28892,13 +28744,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Abend%20am%20Ostseestrand.jpg"
         },
         {
-            "title": "Sturzacker",
-            "artist": "Caspar David Friedrich",
-            "year": "1830",
-            "museum": "Hamburger Kunsthalle",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Sturzacker%20%28ca.%201830%29.jpg"
-        },
-        {
             "title": "Mountain landscape in Bohemia",
             "artist": "Caspar David Friedrich",
             "year": "1830",
@@ -29030,13 +28875,6 @@
             "year": "1817",
             "museum": "Museum Behnhaus Dr\u00e4gerhaus",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20K%C3%BCstenlandschaft%20im%20Abendlicht.jpg"
-        },
-        {
-            "title": "Hill and Ploughed Field near Dresden",
-            "artist": "Caspar David Friedrich",
-            "year": "1825",
-            "museum": "Hamburger Kunsthalle",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hill%20and%20Ploughed%20Field%20near%20Dresden%20by%20Caspar%20David%20Friedrich.jpg"
         },
         {
             "title": "Graveyard under Snow",
@@ -29440,13 +29278,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Building%20Workers%20in%20the%20Studio%20-%20MM.M.00161%20-%20Munch%20Museum.jpg"
         },
         {
-            "title": "Building Workers in the Studio",
-            "artist": "Edvard Munch",
-            "year": "1920",
-            "museum": "Munch Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20Building%20Workers%20in%20the%20Studio%2C%201920%2C%20MM.M.00155.jpg"
-        },
-        {
             "title": "By the Garden Table",
             "artist": "Edvard Munch",
             "year": "1882",
@@ -29800,13 +29631,6 @@
             "title": "Coastal Landscape at Hvitsten",
             "artist": "Edvard Munch",
             "year": "1916",
-            "museum": "http://www.wikidata.org/.well-known/genid/d7d7eaec9d98227e9bc62c5edcb1f1fd",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Coastal%20Landscape%20at%20Hvitsten%20-%20Woll%201186.jpg"
-        },
-        {
-            "title": "Coastal Landscape at Hvitsten",
-            "artist": "Edvard Munch",
-            "year": "1916",
             "museum": "http://www.wikidata.org/.well-known/genid/a94d749d5563b6d08f95dfeb313b63b5",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Coastal%20Landscape%20at%20Hvitsten%20-%20Woll%201187.jpg"
         }
@@ -29841,13 +29665,6 @@
             "year": "1898",
             "museum": "Sree Chitra Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%20-%20Mahabharata%20-%20Shakuntala.jpg"
-        },
-        {
-            "title": "The Maharani of Travancore",
-            "artist": "Raja Ravi Varma",
-            "year": "1887",
-            "museum": "Royal Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%20%281848-1906%29%20-%20The%20Maharani%20of%20Travancore%20-%20RCIN%20404097%20-%20Royal%20Collection.jpg"
         },
         {
             "title": "Woman Holding a Fruit",
@@ -30463,13 +30280,6 @@
     ],
     "El Greco": [
         {
-            "title": "Saint James the Younger",
-            "artist": "El Greco",
-            "year": "1595",
-            "museum": "Museum of Fine Arts, Budapest",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Saint%20James%20the%20Younger%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "The Tears of Saint Peter",
             "artist": "El Greco",
             "year": "1585",
@@ -30496,13 +30306,6 @@
             "year": "1600",
             "museum": "Museum of Santa Cruz",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Evangelista%20and%20John%20Baptista.jpg"
-        },
-        {
-            "title": "St Luke painting the Virgin",
-            "artist": "El Greco",
-            "year": "1560",
-            "museum": "Benaki Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20St%20Luke%20Painting%20the%20Virgin%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Ecstasy of Saint Francis Receiving the Stigmata",
@@ -30761,13 +30564,6 @@
             "artist": "El Greco",
             "year": "1590",
             "museum": "Thyssen-Bornemisza Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mourning%20madonna.jpg"
-        },
-        {
-            "title": "Mourning madonna",
-            "artist": "El Greco",
-            "year": "1590",
-            "museum": "Thyssen-Bornemisza family Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mourning%20madonna.jpg"
         },
         {
@@ -32015,13 +31811,6 @@
             "title": "Heller Altarpiece",
             "artist": "Albrecht D\u00fcrer",
             "year": "1610",
-            "museum": "Munich Residence",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/HMF%20Duerer%20Gruenewald%20Harrich%20Heller-Altar%20DSC%206312.jpg"
-        },
-        {
-            "title": "Heller Altarpiece",
-            "artist": "Albrecht D\u00fcrer",
-            "year": "1610",
             "museum": "Dominikanerkloster Frankfurt am Main",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/HMF%20Duerer%20Gruenewald%20Harrich%20Heller-Altar%20DSC%206312.jpg"
         },
@@ -32570,13 +32359,6 @@
             "year": "1507",
             "museum": "Museo del Prado",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Eva.jpg"
-        },
-        {
-            "title": "Portrait of a Man",
-            "artist": "Albrecht D\u00fcrer",
-            "year": "1521",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Bildnis%20eines%20unbekannten%20Mannes.jpg"
         }
     ],
     "Albert Bierstadt": [
