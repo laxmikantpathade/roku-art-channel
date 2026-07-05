@@ -2058,32 +2058,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Adoration%2C%20c1481%2C%20Uffizi.jpg"
         },
         {
-            "title": "Portrait of a Young Fianc\u00e9e",
-            "artist": "Leonardo da Vinci",
-            "year": "1495",
-            "museum": "http://www.wikidata.org/.well-known/genid/54806b2d845cbed6f55c572f4f13a483",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Profile%20of%20a%20Young%20Fiancee%20-%20da%20Vinci.jpg"
-        },
-        {
             "title": "Leda and the Swan",
             "artist": "Leonardo da Vinci",
             "year": "1510",
             "museum": "http://www.wikidata.org/.well-known/genid/55bffe3c1ac91dd370fd038fa05907a4",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20for%20the%20Kneeling%20Leda.jpg"
-        },
-        {
-            "title": "Annunciation",
-            "artist": "Leonardo da Vinci",
-            "year": "1478",
-            "museum": "Department of Paintings of the Louvre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Annonciation%2C%20by%20Leonardo%20da%20Vinci%2C%20from%20C2RMF%20retouched.jpg"
-        },
-        {
-            "title": "Annunciation",
-            "artist": "Leonardo da Vinci",
-            "year": "1475",
-            "museum": "Campana collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Annonciation%2C%20by%20Leonardo%20da%20Vinci%2C%20from%20C2RMF%20retouched.jpg"
         },
         {
             "title": "The Holy Infants Embracing",
@@ -2105,13 +2084,6 @@
             "year": "1505",
             "museum": "http://www.wikidata.org/.well-known/genid/f40fba0957c5e82b9a8c45264b78b0e8",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%81%94%E6%96%87%E8%A5%BF%E8%87%AA%E7%95%AB%E5%83%8F.jpg"
-        },
-        {
-            "title": "Lucan portrait of Leonardo da Vinci",
-            "artist": "Leonardo da Vinci",
-            "year": "1505",
-            "museum": "http://www.wikidata.org/.well-known/genid/f40fba0957c5e82b9a8c45264b78b0e8",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20LUCAN%20self-portrait%20REVERSE.jpg"
         },
         {
             "title": "Madonna of the Yarnwinder",
@@ -6512,13 +6484,6 @@
     ],
     "Rosa Bonheur": [
         {
-            "title": "Returning from the Fair",
-            "artist": "Rosa Bonheur",
-            "year": "1873",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Returning%20from%20the%20Fair%20-%20Rosa%20Bonheur%20-%20AC%20PWC.1937.3.jpg"
-        },
-        {
             "title": "Tethered pony",
             "artist": "Rosa Bonheur",
             "year": "1900",
@@ -10827,13 +10792,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201908%20-%20Moscow%20Environs.jpg"
         },
         {
-            "title": "Fugue",
-            "artist": "Wassily Kandinsky",
-            "year": "1914",
-            "museum": "Beyeler Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201914%20-%20Fugue.jpg"
-        },
-        {
             "title": "Bright Picture",
             "artist": "Wassily Kandinsky",
             "year": "1913",
@@ -11459,13 +11417,6 @@
             "year": "1903",
             "museum": "Harris Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Psyche%20Opening%20the%20Door%20into%20Cupid%27s%20Garden%2C%201903.jpg"
-        },
-        {
-            "title": "Psyche Opening the Golden Box",
-            "artist": "John William Waterhouse",
-            "year": "1904",
-            "museum": "http://www.wikidata.org/.well-known/genid/d971568cffe5970062843d55a84fe1e9",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Psyche-Waterhouse.jpg"
         },
         {
             "title": "The Remorse of the Emperor Nero after the Murder of his Mother",
@@ -12921,13 +12872,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elisabeth%20Vig%C3%A9e-Lebrun%20%28and%20workshop%29%20Portrait%20Anne%20Catherine%20Le%20Preudhomme%20de%20Chatenoy%20Comtesse%20der%20Verdun.jpg"
         },
         {
-            "title": "Portrait of Countess Maria Theresia Bucquoi, ne Parr (1746-1818)",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1793",
-            "museum": "Minneapolis Institute of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Louise%20Elisabeth%20Vig%C3%A9e-Le%20Brun%20-%20Portrait%20de%20la%20comtesse%20Maria%20Theresia%20Bucquoi.jpg"
-        },
-        {
             "title": "Yolande-Martine-Gabrielle de Polastron, Duchess de Polignac",
             "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
             "year": "1782",
@@ -13285,13 +13229,6 @@
             "year": "1868",
             "museum": "Cincinnati Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Woodland%20Pool%27%20by%20Robert%20Scott%20Duncanson%2C%201868%2C%20Cincinnati%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Woodland Stream, an Idyll",
-            "artist": "Robert S. Duncanson",
-            "year": "1865",
-            "museum": "High Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Woodland%20Stream%2C%20an%20Idyll%20by%20Robert%20S.%20Duncanson%2C%20c.%201865%2C%20High%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Lancaster, New Hampshire",
@@ -14530,13 +14467,6 @@
             "year": "1870",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saddle%20Horse%20in%20Farm%20Yard%20by%20Winslow%20Homer%2C%20c.%201870-1875.JPG"
-        },
-        {
-            "title": "Saddle Horse in Farm Yard",
-            "artist": "Winslow Homer",
-            "year": "1870",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Saddle%20Horse%20in%20Farm%20Yard%20%281870-1875%29.jpg"
         },
         {
             "title": "The Dinner Horn (Blowing the Horn at Seaside)",
@@ -17601,13 +17531,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20boats-entry-to-the-medina-in-the-isle-of-wight.jpg"
         },
         {
-            "title": "Boats (Entry of the Midina to the Isle of Wight)",
-            "artist": "Berthe Morisot",
-            "year": "1895",
-            "museum": "Harvard Art Museums",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20boats-entry-to-the-medina-in-the-isle-of-wight.jpg"
-        },
-        {
             "title": "Woman with a Child in a Boat",
             "artist": "Berthe Morisot",
             "year": "1892",
@@ -17753,13 +17676,6 @@
             "year": "1893",
             "museum": "http://www.wikidata.org/.well-known/genid/4808144b19d84aec0845742f9cc398c4",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Julie%20r%C3%AAveuse%2C%20par%20Berthe%20Morisot.jpg"
-        },
-        {
-            "title": "Interior",
-            "artist": "Berthe Morisot",
-            "year": "Unknown",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20interior.jpg"
         },
         {
             "title": "The Port at Lorient",
@@ -18391,22 +18307,7 @@
     ],
     "Ustad Mansur": [],
     "Jeong Seon": [],
-    "Utagawa Hiroshige": [
-        {
-            "title": "Night Scene on the Sumida River",
-            "artist": "Utagawa Hiroshige",
-            "year": "1849",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ando%20Hiroshige%20-%20Night%20Scene%20on%20the%20Sumida%20River%20-%201920.274%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
-            "title": "Shiraito Waterfall at Hakone",
-            "artist": "Utagawa Hiroshige",
-            "year": "1827",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Hiroshige%20-%20Shiraito%20Waterfall%20at%20Hakone%20-%2008.148.4%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        }
-    ],
+    "Utagawa Hiroshige": [],
     "Kim Hong-do": [],
     "Bishandas": [],
     "J.M.W. Turner": [
@@ -19239,13 +19140,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20aguador%20de%20Sevilla%2C%20por%20Diego%20Vel%C3%A1zquez.jpg"
         },
         {
-            "title": "Saint Peter Weeping",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1617",
-            "museum": "http://www.wikidata.org/.well-known/genid/b2b5f00c847524c2a21b76a865daa5ad",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20l%C3%A1grimas%20de%20San%20Pedro%2C%20by%20Diego%20Vel%C3%A1zquez.jpg"
-        },
-        {
             "title": "Portrait of Cardinal Camillo Massimi (1620-1677)",
             "artist": "Diego Vel\u00e1zquez",
             "year": "1650",
@@ -19564,13 +19458,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jupiter%20and%20Callisto%203.%20Angelica%20Kauffman.jpg"
         },
         {
-            "title": "Portrait of Giuliana Pubblicola Santacroce as Lucretia.",
-            "artist": "Angelica Kauffman",
-            "year": "1791",
-            "museum": "\u0141azienki Palace",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%20Giuliana%20Pubblicola%20Santacroce.jpg"
-        },
-        {
             "title": "Chancellor Andrzej Zamoyski with His Children Before a Bust of Jan Zamoyski.",
             "artist": "Angelica Kauffman",
             "year": "1793",
@@ -19618,13 +19505,6 @@
             "year": "1786",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%20Izabelle%20Lubomirska.JPG"
-        },
-        {
-            "title": "Portrait of Stanis\u0142aw Poniatowski (1754-1833).",
-            "artist": "Angelica Kauffman",
-            "year": "1786",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffman%20Stanis%C5%82aw%20Poniatowski.jpg"
         },
         {
             "title": "A personification of Hebe",
@@ -21105,13 +20985,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Basavana%20-%20Page%20from%20Tales%20of%20a%20Parrot%20%28Tuti-nama%29-%20text%20page%20-%201962.279.35.b%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
-            "title": "The hunter offers the mother parrot to the king of Kamarupa, from a Tuti-nama (Tales of a Parrot): Fifth Night",
-            "artist": "Basawan",
-            "year": "1560",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Basavana%20-%20Page%20from%20Tales%20of%20a%20Parrot%20%28Tuti-nama%29-%20Fifth%20night-%20The%20hunter%20offers%20the%20-%201962.279.36.b%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
             "title": "A holy man prostrating himself before a learned prince",
             "artist": "Basawan",
             "year": "1585",
@@ -22008,13 +21881,6 @@
             "year": "1918",
             "museum": "http://www.wikidata.org/.well-known/genid/95f3043e0d1fe4be8ac1421ea2013b53",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Avenue%20of%20the%20Allies%27%20by%20Childe%20Hassam%2C%201918..jpg"
-        },
-        {
-            "title": "Old House, Easthampton, Long Island",
-            "artist": "Childe Hassam",
-            "year": "1919",
-            "museum": "New Britain Museum of American Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20House%2C%20Easthampton%2C%20Long%20Island%2C%20by%20Frederick%20Childe%20Hassam%2C%201919%2C%20oil%20on%20canvas%20-%20New%20Britain%20Museum%20of%20American%20Art%20-%20DSC09002.JPG"
         },
         {
             "title": "Nymph on a Rocky Ledge",
@@ -23148,13 +23014,6 @@
             "year": "1872",
             "museum": "Delaware Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronica%20Veronese%20DAM.jpg"
-        },
-        {
-            "title": "Found",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1859",
-            "museum": "Delaware Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20-%20Found%20%281859%29%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Lady Lilith",
@@ -24548,13 +24407,6 @@
             "year": "1861",
             "museum": "Dallas Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20The%20Icebergs%20-%201979.28%20-%20Dallas%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "The Icebergs",
-            "artist": "Frederic Edwin Church",
-            "year": "1861",
-            "museum": "Dallas Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Icebergs%20%28Frederic%20Edwin%20Church%29%2C%201861%20%28color%29.jpg"
         },
         {
             "title": "Aurora Borealis",
@@ -27557,13 +27409,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lautrec%20the%20actor%20henry%20samary%201889.jpg"
         },
         {
-            "title": "Conqu\u00eate de passage",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1896",
-            "museum": "Mus\u00e9e des Augustins",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Augustins%20-%20Conqu%C3%AAte%20de%20passage%2C%201896%20-%20Henri%20de%20Toulouse-Lautrec%20RO%20618.jpg"
-        },
-        {
             "title": "La Blanchisseuse",
             "artist": "Henri de Toulouse-Lautrec",
             "year": "1889",
@@ -27632,13 +27477,6 @@
             "year": "1895",
             "museum": "Staatliche Kunstsammlungen Dresden",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20R.%20de%20Toulouse-Lautrec%20-%20Two%20Friends%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Young Woman at a Table, 'Poudre de riz'",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1887",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Een%20jonge%20vrouw%20aan%20tafel%2C%20%27Poudre%20de%20riz%27%20-%20s0274V1962%20-%20Van%20Gogh%20Museum.jpg"
         },
         {
             "title": "Miss Lo\u00efe Fuller",
@@ -31004,13 +30842,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bouquet%20in%20a%20Chinese%20Vase%20MET%20DP240599.jpg"
         },
         {
-            "title": "Pandora",
-            "artist": "Odilon Redon",
-            "year": "1914",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pandora%2C%201914%20-%20Odilon%20Redon.jpg"
-        },
-        {
             "title": "The Chariot of Apollo",
             "artist": "Odilon Redon",
             "year": "1905",
@@ -31072,13 +30903,6 @@
             "year": "1912",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Evocation%20of%20Roussel%20by%20Odilon%20Redon%20%28National%20Gallery%20of%20Art%29.jpg"
-        },
-        {
-            "title": "Large Vase with Flowers",
-            "artist": "Odilon Redon",
-            "year": "1912",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Large%20Vase%20with%20Flowers%20-Odilon%20Redon.PNG"
         },
         {
             "title": "Flowers: Poppies and Daisies",
@@ -32986,13 +32810,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20A%20View%20From%20Sacramento.jpg"
         },
         {
-            "title": "Bay of Monterey",
-            "artist": "Albert Bierstadt",
-            "year": "1850",
-            "museum": "http://www.wikidata.org/.well-known/genid/a4493a3ea5dfea468a0363a12ccbeb25",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Cala%2C%20Bay%20of%20Monterey.jpg"
-        },
-        {
             "title": "Boating through Yosemite Valley with Half Dome in the Distance",
             "artist": "Albert Bierstadt",
             "year": "1850",
@@ -33213,13 +33030,6 @@
             "year": "1929",
             "museum": "Art Institute of Chicago",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Art%20Institute%20of%20Chicago-1037.jpg"
-        },
-        {
-            "title": "Silver Sun",
-            "artist": "Arthur Dove",
-            "year": "1929",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20dove%2C%20sole%20d%27argento%2C%201929.jpg"
         },
         {
             "title": "Black and White",
