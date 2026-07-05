@@ -87,6 +87,18 @@ def normalize_title(title):
     title = re.sub(r'[^a-z0-9]', '', title)
     return title
 
+def get_next_available_index(folder="."):
+    """Scans the folder to locate the highest existing art_X.jpg and returns X + 1."""
+    max_num = 0
+    for f in os.listdir(folder):
+        if f.startswith("art_") and f.endswith(".jpg"):
+            match = re.search(r'art_(\d+)\.jpg', f)
+            if match:
+                num = int(match.group(1))
+                if num > max_num:
+                    max_num = num
+    return max_num + 1
+
 def get_real_painting_from_wikidata(artist_name, seen_titles, sparql_cache):
     """Pulls from local hard-drive cache first. Uses SPARQL only if cache is empty."""
     
@@ -264,6 +276,12 @@ def run_bulk_collector():
     # Load primary feed and build seen titles
     feed_data = load_json_file("feed.json", {"artwork_list": []})
     artwork_list = feed_data.get("artwork_list", [])
+    
+    # 🌟 NEW DYNAMIC SLOT CALCULATION 🌟
+    # Calculate file numbering based on the actual physical files left on your disk
+    next_file_number = get_next_available_index(".")
+    
+    # Keep historical logs synced with total count to keep the loop conditional clear
     current_count = len(artwork_list)
     
     seen_titles = set()
@@ -274,7 +292,8 @@ def run_bulk_collector():
     # Load persistent SPARQL Cache
     sparql_cache = load_json_file(SPARQL_CACHE_FILE, {})
     
-    print(f"📂 Found {current_count} existing artworks in feed.json.")
+    print(f"📂 Found {current_count} historical metadata rows in feed.json.")
+    print(f"🚀 Next safe file naming sequence begins at: art_{next_file_number}.jpg")
     print(f"🗃️ Loaded SPARQL Cache containing data for {len(sparql_cache.keys())} artists.")
     
     while current_count < TARGET_IMAGES:
@@ -310,7 +329,9 @@ def run_bulk_collector():
             continue
             
         print(f"🌟 High-tier Masterpiece Accepted! Downloading asset...")
-        image_filename = f"art_{current_count + 1}.jpg"
+        
+        # 🌟 USE DYNAMIC IDENTIFIER FOR STORAGE 🌟
+        image_filename = f"art_{next_file_number}.jpg"
         base_image_url = painting_meta['image_url']
         download_url = f"{base_image_url}?width=1920"
         
@@ -347,6 +368,7 @@ def run_bulk_collector():
                 # Save progress
                 save_json_file({"artwork_list": artwork_list}, "feed.json")
                 current_count += 1
+                next_file_number += 1 # Progress file tracking forward sequentially
                 
                 if current_count % 25 == 0:
                     push_to_github()
