@@ -1647,13 +1647,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tivadar%20Csontv%C3%A1ry%20-%20Modliaca%20sa%20starenka%20-%20O%202392%20-%20Slovak%20National%20Gallery.jpg"
         },
         {
-            "title": "The Lonely Cedar",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1907",
-            "museum": "Hungarian National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-maganyos%20cedrus%20%281907%29.jpg"
-        },
-        {
             "title": "Mysterious Island",
             "artist": "Tivadar Csontv\u00e1ry Kosztka",
             "year": "1903",
@@ -4186,13 +4179,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Castres%29%20Autoportrait%20aux%20lunettes%2C%20Francisco%20de%20Goya%20y%20Lucientes%2C%20Mus%C3%A9e%20Goya.jpg"
         },
         {
-            "title": "The Time and the old woman",
-            "artist": "Francisco Goya",
-            "year": "1810",
-            "museum": "Palais des Beaux-Arts de Lille",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Goya%20-%20The%20Time%20-%20c.%201810.jpg"
-        },
-        {
             "title": "La Tirana",
             "artist": "Francisco Goya",
             "year": "1794",
@@ -5408,15 +5394,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1549%20Anna.jpg"
         }
     ],
-    "Reza Abbasi": [
-        {
-            "title": "Tahmuras Defeating the Divs",
-            "artist": "Reza Abbasi",
-            "year": "1590",
-            "museum": "Chester Beatty Library",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tahmuras%20Defeating%20the%20Divs.jpg"
-        }
-    ],
+    "Reza Abbasi": [],
     "Edgar Degas": [
         {
             "title": "Cow",
@@ -5522,13 +5500,6 @@
             "year": "1876",
             "museum": "Hugh Lane Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20041.jpg"
-        },
-        {
-            "title": "Ukrainian Dancers",
-            "artist": "Edgar Degas",
-            "year": "1899",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Ukrainian%20Dancers%20-%20c.%201899.png"
         },
         {
             "title": "Ballet Dancers",
@@ -7229,13 +7200,6 @@
             "year": "1876",
             "museum": "Fogg Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Woman%20on%20a%20Striped%20Sofa%20with%20a%20Dog%20-%201961.159%20-%20Fogg%20Museum.jpg"
-        },
-        {
-            "title": "Woman on a Striped Sofa with a Dog",
-            "artist": "Mary Cassatt",
-            "year": "1876",
-            "museum": "Harvard Art Museums",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Woman%20on%20a%20Striped%20Sofa%20with%20a%20Dog%20-%201961.159%20-%20Fogg%20Museum.jpg"
         }
     ],
     "Hilma af Klint": [
@@ -8068,13 +8032,6 @@
             "year": "1865",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Metamort%20et%20Flambeau.jpg"
-        },
-        {
-            "title": "Horses Eating Hay in a Stable",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Horses%20Eating%20Hay%20in%20a%20Stable%20-%20Rosa%20Bonheur.webp"
         },
         {
             "title": "Souvenir",
@@ -9844,13 +9801,6 @@
             "title": "Roses and Tulips on a Marble Slab",
             "artist": "Rachel Ruysch",
             "year": "1747",
-            "museum": "collection Willem V Prince of Orange Nassau",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20pdba%20rachel%20ruysch%20fleurs%20tablette.jpg"
-        },
-        {
-            "title": "Roses and Tulips on a Marble Slab",
-            "artist": "Rachel Ruysch",
-            "year": "1747",
             "museum": "Palais des Beaux-Arts de Lille",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20pdba%20rachel%20ruysch%20roses%20tulipes.jpg"
         },
@@ -10813,13 +10763,6 @@
             "artist": "Paul C\u00e9zanne",
             "year": "1877",
             "museum": "Museum of Fine Arts, Budapest",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20The%20Buffet%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "The Buffet",
-            "artist": "Paul C\u00e9zanne",
-            "year": "1877",
-            "museum": "Munich Central Collecting Point",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20The%20Buffet%20-%20Google%20Art%20Project.jpg"
         },
         {
@@ -16616,13 +16559,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20The%20Maid%20of%20Orleans%20-%20MNK%20II-a-383%20-%20National%20Museum%20Krak%C3%B3w.jpg"
         },
         {
-            "title": "Portrait of Miko\u0142aj Zyblikiewicz",
-            "artist": "Jan Matejko",
-            "year": "1887",
-            "museum": "National Museum in Krak\u00f3w",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Portrait%20of%20Miko%C5%82aj%20Zyblikiewicz%20-%20MNK%20II-a-523%20-%20National%20Museum%20Krak%C3%B3w.jpg"
-        },
-        {
             "title": "Carton for the polychrome from St Mary's Church - bust of an angel",
             "artist": "Jan Matejko",
             "year": "1889",
@@ -17839,13 +17775,6 @@
             "year": "1877",
             "museum": "Instituto Nacional de Bellas Artes y Literatura",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Velasco%20Valle%20de%20Mexico%201877.gif"
-        },
-        {
-            "title": "Gran Cometa de 1882",
-            "artist": "Jos\u00e9 Mar\u00eda Velasco",
-            "year": "1910",
-            "museum": "Instituto Nacional de Bellas Artes y Literatura",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Cometa%20-%201882%20-%20Jos%C3%A9%20Mar%C3%ADa%20Velasco.jpg"
         },
         {
             "title": "Gran Cometa de 1882",
@@ -21821,13 +21750,6 @@
             "title": "Vase of Flowers",
             "artist": "Georges Seurat",
             "year": "1878",
-            "museum": "Fogg Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hydrangeas%20by%20Georges%20Pierre%20Seurat%2C%20c.%201878-1879%2C%20oil%20on%20canvas%20-%20Fogg%20Art%20Museum%2C%20Harvard%20University%20-%20DSC00709.jpg"
-        },
-        {
-            "title": "Vase of Flowers",
-            "artist": "Georges Seurat",
-            "year": "1878",
             "museum": "Harvard Art Museums",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Pierre%20Seurat%20-%20Vase%20of%20Flowers%20-%201974.100%20-%20Harvard%20Art%20Museums.jpg"
         },
@@ -21986,13 +21908,6 @@
             "year": "1890",
             "museum": "Kagoshima City Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20Studio%20by%20Kuroda%20Seiki%20%28Kagoshima%20City%20Museum%20of%20Art%29.jpg"
-        },
-        {
-            "title": "At Kamakura (at Kotsubo)",
-            "artist": "Kuroda Seiki",
-            "year": "1915",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Kamakura%20%28at%20Kotsubo%29%20by%20Kuroda%20Seiki%20%28Kuroda%20Kinenkan%29.tiff"
         },
         {
             "title": "Autumn Scenery",
@@ -22183,13 +22098,6 @@
             "artist": "J.M.W. Turner",
             "year": "1805",
             "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Walton%20Reach%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Walton Reach",
-            "artist": "J.M.W. Turner",
-            "year": "1805",
-            "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Walton%20Reach%20-%20Google%20Art%20Project.jpg"
         },
         {
@@ -25279,13 +25187,6 @@
     "Abd al-Samad": [],
     "Wen Zhengming": [
         {
-            "title": "A Thousand Peaks Vying for Splendor",
-            "artist": "Wen Zhengming",
-            "year": "1550",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27A%20Thousand%20Cliffs%20Contend%20in%20Splendor%27%20by%20Wen%20Zhengming.jpg"
-        },
-        {
             "title": "\"In Exchange for Tea\" with Wen Zhengming\u2019s Calligraphy of The Heart Sutra",
             "artist": "Wen Zhengming",
             "year": "1542",
@@ -25410,13 +25311,6 @@
             "year": "1514",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP161037.jpg"
-        },
-        {
-            "title": "Flowers, Landscapes, and Poems",
-            "artist": "Wen Zhengming",
-            "year": "1558",
-            "museum": "Princeton Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20%E6%96%87%E5%BE%B5%E6%98%8E%20-%20Flowers%2C%20Landscapes%2C%20and%20Poems%20-%20y1975-33%20-%20Princeton%20University%20Art%20Museum.jpg"
         },
         {
             "title": "Landscape with Mountain Village",
@@ -25960,13 +25854,6 @@
             "year": "1905",
             "museum": "Barnes Foundation",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Woman%20Walking%20in%20an%20Exotic%20Forest%20%28Femme%20se%20promenant%20dans%20une%20for%C3%AAt%20exotique%29%20-%20BF388%20-%20Barnes%20Foundation.jpg"
-        },
-        {
-            "title": "Woman with Basket of Eggs",
-            "artist": "Henri Rousseau",
-            "year": "1900",
-            "museum": "Barnes Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Woman%20with%20Basket%20of%20Eggs%20%28La%20Femme%20au%20panier%20d%27%C5%93ufs%29%20-%20BF544%20-%20Barnes%20Foundation.jpg"
         },
         {
             "title": "View of Montsouris Park, the Kiosk",
@@ -27029,20 +26916,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bharat%20Mata%20by%20Abanindranath%20Tagore.jpg"
         },
         {
-            "title": "The Victory of Buddha",
-            "artist": "Abanindranath Tagore",
-            "year": "1914",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Abanindranath%20Tagore%20-%20The%20Victory%20of%20Buddha%2C%201914.jpg"
-        },
-        {
-            "title": "Tissarakshita, Queen of Asoka",
-            "artist": "Abanindranath Tagore",
-            "year": "1911",
-            "museum": "Royal Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Asoka%27s%20Queen.jpg"
-        },
-        {
             "title": "The Bodhisattva's Tusks",
             "artist": "Abanindranath Tagore",
             "year": "1914",
@@ -27190,13 +27063,6 @@
             "year": "1516",
             "museum": "National Palace Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/T%27ang%20Yin%20002.jpg"
-        },
-        {
-            "title": "Fishing in Reclusion among Mountains and Rivers",
-            "artist": "Tang Yin",
-            "year": "1523",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/T%27ang%20Yin%20003.jpg"
         },
         {
             "title": "Picking Lotuses",
@@ -27900,13 +27766,6 @@
     ],
     "Kshitindranath Majumdar": [
         {
-            "title": "The Birth of Gang\u0101",
-            "artist": "Kshitindranath Majumdar",
-            "year": "1914",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Birth%20of%20Gang%C4%81.jpg"
-        },
-        {
             "title": "R\u0101dh\u0101 and Krishna",
             "artist": "Kshitindranath Majumdar",
             "year": "1914",
@@ -27930,13 +27789,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Reclining%20Nude%201933.jpg"
         },
         {
-            "title": "The Vina Player",
-            "artist": "Amrita Sher-Gil",
-            "year": "1937",
-            "museum": "Lahore Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Vina%20Player%20%28cropped%29.jpg"
-        },
-        {
             "title": "Three Girls",
             "artist": "Amrita Sher-Gil",
             "year": "1935",
@@ -27949,13 +27801,6 @@
             "year": "1930",
             "museum": "National Gallery of Modern Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Young%20Man%20-%201930%20by%20Amrita%20Sher-Gil.png"
-        },
-        {
-            "title": "Klara Szepessy",
-            "artist": "Amrita Sher-Gil",
-            "year": "1932",
-            "museum": "National Gallery of Modern Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Amrita%20Sger-Gil%20Klarra%20Szepessy.jpg"
         },
         {
             "title": "Bride's Toilet",
@@ -34065,13 +33910,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dans%20les%20Vagues%2C%20by%20Paul%20Gauguin%2C%20Cleveland%20Museum%20of%20Art%2C%201978.63.jpg"
         },
         {
-            "title": "F\u00eate Gloanec",
-            "artist": "Paul Gauguin",
-            "year": "1888",
-            "museum": "Mus\u00e9e des Beaux-Arts d'Orl\u00e9ans",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20-%20Stilleben%20F%C3%AAte%20Gloanec%20-1888.jpg"
-        },
-        {
             "title": "Clovis",
             "artist": "Paul Gauguin",
             "year": "1886",
@@ -34972,13 +34810,6 @@
             "year": "1849",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Rabbits%20-%2008.148.2%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Blossoming Trees",
-            "artist": "Ogata K\u014drin",
-            "year": "1849",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogata%20K%C5%8Drin%20-%20Blossoming%20Trees%20-%2008.148.1%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Old Man and Woman",
@@ -37277,13 +37108,394 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20bernard%20El%20Greco.jpg"
         }
     ],
-    "Gaganendranath Tagore": [
+    "Gaganendranath Tagore": [],
+    "Odilon Redon": [
         {
-            "title": "Meeting at the Staircase",
-            "artist": "Gaganendranath Tagore",
-            "year": "1920",
-            "museum": "National Gallery of Modern Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaganendranath%20Tagore%20-%20Meeting%20at%20the%20Staircase%20-%20Google%20Art%20Project.jpg"
+            "title": "Apparition",
+            "artist": "Odilon Redon",
+            "year": "1907",
+            "museum": "Princeton Art Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Apparition%20-%20y1944-64%20-%20Princeton%20University%20Art%20Museum.jpg"
+        },
+        {
+            "title": "The Death of Orpheus",
+            "artist": "Odilon Redon",
+            "year": "1904",
+            "museum": "Fogg Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20Orpheus%2C%20c.%201904.jpg"
+        },
+        {
+            "title": "The Death of Orpheus",
+            "artist": "Odilon Redon",
+            "year": "1904",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20Orpheus%2C%20c.%201904.jpg"
+        },
+        {
+            "title": "Village Square, Brittany",
+            "artist": "Odilon Redon",
+            "year": "1883",
+            "museum": "Fogg Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Village%20Square%2C%20Brittany%2C%201883.jpg"
+        },
+        {
+            "title": "Village Square, Brittany",
+            "artist": "Odilon Redon",
+            "year": "1883",
+            "museum": "Harvard Art Museums",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Village%20Square%2C%20Brittany%2C%201883.jpg"
+        },
+        {
+            "title": "Christ on the cross",
+            "artist": "Odilon Redon",
+            "year": "1910",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Redon%20-%20CHRIST%20EN%20CROIX%2C%20RF%201984%2053.jpg"
+        },
+        {
+            "title": "Battle with the dragon",
+            "artist": "Odilon Redon",
+            "year": "1907",
+            "museum": "Wallraf\u2013Richartz Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Saint%20Georges%20et%20le%20dragon%20-%20Wallraf-Richartz.jpg"
+        },
+        {
+            "title": "The Chariot of Apollo",
+            "artist": "Odilon Redon",
+            "year": "1909",
+            "museum": "Mus\u00e9e des Beaux-Arts de Bordeaux",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/OdilonRedon-The%20Chariot%20of%20Apollo.png"
+        },
+        {
+            "title": "A Woman Reading a Book or Reading",
+            "artist": "Odilon Redon",
+            "year": "1914",
+            "museum": "Mus\u00e9e d'Orsay",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/OdilonRedon-1914-Reading.png"
+        },
+        {
+            "title": "A Woman Reading a Book or Reading",
+            "artist": "Odilon Redon",
+            "year": "1914",
+            "museum": "Mus\u00e9e des Beaux-Arts de Bordeaux",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/OdilonRedon-1914-Reading.png"
+        },
+        {
+            "title": "Bouquet de fleurs",
+            "artist": "Odilon Redon",
+            "year": "1900",
+            "museum": "Mus\u00e9e d'art et d'arch\u00e9ologie de Gu\u00e9ret",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Redon%2C%20Bouquet%20de%20fleurs.jpg"
+        },
+        {
+            "title": "Calvary",
+            "artist": "Odilon Redon",
+            "year": "1895",
+            "museum": "Foundation E.G. B\u00fchrle Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Le%20Calvaire%20-%2084%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg"
+        },
+        {
+            "title": "Calvary",
+            "artist": "Odilon Redon",
+            "year": "1895",
+            "museum": "Kunsthaus Z\u00fcrich",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Le%20Calvaire%20-%2084%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg"
+        },
+        {
+            "title": "Beatrice",
+            "artist": "Odilon Redon",
+            "year": "1885",
+            "museum": "http://www.wikidata.org/.well-known/genid/f64eef8fe3aa3a65fa6520bb4ddc843a",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Beatrice-1885.jpg"
+        },
+        {
+            "title": "Closed Eyes",
+            "artist": "Odilon Redon",
+            "year": "1889",
+            "museum": "Van Gogh Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gesloten%20ogen%20-%20Odlion%20Redon%20%28Van%20Gogh%20Museum.%29jpg.jpg"
+        },
+        {
+            "title": "Anemones and Tulips",
+            "artist": "Odilon Redon",
+            "year": "1902",
+            "museum": "Brooklyn Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20Anemones%20and%20Tulips%20%28An%C3%A9mones%20et%20Tulipes%29%20-%20Odilon%20Redon.jpg"
+        },
+        {
+            "title": "Trees in the Blue Sky",
+            "artist": "Odilon Redon",
+            "year": "1883",
+            "museum": "Museum of Modern Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%2C%20Trees%20in%20the%20Blue%20Sky%2C%20c.%201883%2C%20Oil%20over%20traces%20of%20graphite%20on%20light-brown%20wove%20paper%20mounted%20on%20board%2C%2030.2%20x%2024.1%20cm%2C%20MoMA%2C%20221.2000.png"
+        },
+        {
+            "title": "Rocks on the Beach",
+            "artist": "Odilon Redon",
+            "year": "1883",
+            "museum": "Museum of Modern Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Rocks%20on%20the%20Beach.%20c.%201883.jpg"
+        },
+        {
+            "title": "Window",
+            "artist": "Odilon Redon",
+            "year": "1907",
+            "museum": "Museum of Modern Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Window%27%20by%20Odilon%20Redon%2C%20c.%201907%2C%20Museum%20of%20Modern%20Art.JPG"
+        },
+        {
+            "title": "Butterflies",
+            "artist": "Odilon Redon",
+            "year": "1910",
+            "museum": "Museum of Modern Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Butterflies%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Chariot of Apollo",
+            "artist": "Odilon Redon",
+            "year": "1912",
+            "museum": "Museum of Modern Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Redon%2C%20Apollo-s-chariot-1912.jpg"
+        },
+        {
+            "title": "Etruscan Vase with Flowers",
+            "artist": "Odilon Redon",
+            "year": "1905",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Etruscan%20Vase%20with%20Flowers%20MET%20DT323419.jpg"
+        },
+        {
+            "title": "Bouquet in a Chinese Vase",
+            "artist": "Odilon Redon",
+            "year": "1912",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bouquet%20in%20a%20Chinese%20Vase%20MET%20DP240599.jpg"
+        },
+        {
+            "title": "Pandora",
+            "artist": "Odilon Redon",
+            "year": "1914",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pandora%2C%201914%20-%20Odilon%20Redon.jpg"
+        },
+        {
+            "title": "Madame Arthur Fontaine (Marie Escudier, born 1865)",
+            "artist": "Odilon Redon",
+            "year": "1901",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20Arthur%20Fontaine%20%28Marie%20Escudier%2C%20born%201865%29%20MET%20ep60.54.R.jpg"
+        },
+        {
+            "title": "The Chariot of Apollo",
+            "artist": "Odilon Redon",
+            "year": "1905",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Chariot%20of%20Apollo%2C%201905%20-%20Odilon%20Redon.jpg"
+        },
+        {
+            "title": "Les Landes \u00e0 Peyrelebade",
+            "artist": "Odilon Redon",
+            "year": "1885",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Redon%20-%20Les%20Landes%20%C3%A0%20Peyrelebade%2C%20circa%201885.jpg"
+        },
+        {
+            "title": "Rue de village",
+            "artist": "Odilon Redon",
+            "year": "1875",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Rue%20de%20village%20%28Dorpsstraat%20%29%20-%201714%20%28MK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg"
+        },
+        {
+            "title": "Les rochers (Rochers en Bretagne)",
+            "artist": "Odilon Redon",
+            "year": "1875",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Les%20rochers%20%28Rochers%20en%20Bretagne%29%20%28Rotsen%20in%20Bretagne%29%20-%202895%20%28MK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg"
+        },
+        {
+            "title": "Vase with Bindweed and Camomile",
+            "artist": "Odilon Redon",
+            "year": "1867",
+            "museum": "Museum Boijmans Van Beuningen",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Redon%20-%20Vase%20with%20Poppy%2C%20Camomile%20and%20Bindweed%2C%20circa%201867.jpg"
+        },
+        {
+            "title": "Baronne de Domecy",
+            "artist": "Odilon Redon",
+            "year": "1900",
+            "museum": "J. Paul Getty Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Baronne%20de%20Domecy%2025741601.jpg"
+        },
+        {
+            "title": "Village by the Sea in Brittany",
+            "artist": "Odilon Redon",
+            "year": "1880",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Village%20by%20the%20Sea%20in%20Brittany%20C15347.jpg"
+        },
+        {
+            "title": "Breton Village",
+            "artist": "Odilon Redon",
+            "year": "1890",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Breton%20Village%20A21237.jpg"
+        },
+        {
+            "title": "Saint Sebastian",
+            "artist": "Odilon Redon",
+            "year": "1910",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Sebastian%20by%20Odilon%20Redon.JPG"
+        },
+        {
+            "title": "Evocation of Roussel",
+            "artist": "Odilon Redon",
+            "year": "1912",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Evocation%20of%20Roussel%20by%20Odilon%20Redon%20%28National%20Gallery%20of%20Art%29.jpg"
+        },
+        {
+            "title": "Large Vase with Flowers",
+            "artist": "Odilon Redon",
+            "year": "1912",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Large%20Vase%20with%20Flowers%20-Odilon%20Redon.PNG"
+        },
+        {
+            "title": "Flowers: Poppies and Daisies",
+            "artist": "Odilon Redon",
+            "year": "1867",
+            "museum": "Art Institute of Chicago",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Flowers%2C%20Poppies%20and%20Daisies%20-%201977.605%20-%20Art%20Institute%20of%20Chicago.jpg"
+        },
+        {
+            "title": "Silence",
+            "artist": "Odilon Redon",
+            "year": "1911",
+            "museum": "Minneapolis Institute of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Silence%20-%2063.74%20-%20Minneapolis%20Institute%20of%20Arts.jpg"
+        },
+        {
+            "title": "The Golden Cell",
+            "artist": "Odilon Redon",
+            "year": "1892",
+            "museum": "British Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Redon.golden-cell.jpg"
+        },
+        {
+            "title": "Mystery",
+            "artist": "Odilon Redon",
+            "year": "1910",
+            "museum": "The Phillips Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Mystery%20-%20Google%20Art%20Project.jpg"
+        },
+        {
+            "title": "Pegasus and the Hydra",
+            "artist": "Odilon Redon",
+            "year": "1907",
+            "museum": "Kr\u00f6ller-M\u00fcller Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Redon%20-%20P%C3%A9gase%20et%20l%27hydre%2C%20c.%201907.jpg"
+        },
+        {
+            "title": "Pegasus and the Hydra",
+            "artist": "Odilon Redon",
+            "year": "1907",
+            "museum": "Kr\u00f6ller-M\u00fcller Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A9gase%20et%20l%27hydre.jpg"
+        },
+        {
+            "title": "Ophelia Among the Flowers",
+            "artist": "Odilon Redon",
+            "year": "1905",
+            "museum": "National Gallery",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%2C%20Ophelia%20among%20the%20Flowers%2C%20The%20National%20Gallery%2C%20London.jpg"
+        },
+        {
+            "title": "The Gothic Window",
+            "artist": "Odilon Redon",
+            "year": "1900",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Gothic%20Window%2C%20Odilon%20Redon%20-%20Indianapolis%20Museum%20of%20Art%20-%20DSC00651.JPG"
+        },
+        {
+            "title": "Two Young Girls among Flowers",
+            "artist": "Odilon Redon",
+            "year": "1912",
+            "museum": "Museum of Fine Arts, Houston",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Two%20Young%20Girls%20among%20Flowers%20-%2085.308%20-%20Museum%20of%20Fine%20Arts.jpg"
+        },
+        {
+            "title": "Saint George and the Dragon (Saint Georges et le dragon)",
+            "artist": "Odilon Redon",
+            "year": "1909",
+            "museum": "Barnes Foundation",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Saint%20George%20and%20the%20Dragon%20%28Saint%20Georges%20et%20le%20dragon%29%20-%20BF2093%20-%20Barnes%20Foundation.jpg"
+        }
+    ],
+    "Sessh\u016b T\u014dy\u014d": [
+        {
+            "title": "Birds and Flowers",
+            "artist": "Sessh\u016b T\u014dy\u014d",
+            "year": "1473",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sessh%C5%AB%20T%C5%8Dy%C5%8D%20-%20Birds%20and%20Flowers%20-%201964.157%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Birds and Flowers",
+            "artist": "Sessh\u016b T\u014dy\u014d",
+            "year": "1473",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sessh%C5%AB%20T%C5%8Dy%C5%8D%20-%20Birds%20and%20Flowers%20-%201964.157.1%20-%20Cleveland%20Museum%20of%20Art.tif"
+        },
+        {
+            "title": "Haboku, Splashed Ink Landscape",
+            "artist": "Sessh\u016b T\u014dy\u014d",
+            "year": "1473",
+            "museum": "Cleveland Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sessh%C5%AB%20T%C5%8Dy%C5%8D%20-%20Haboku%2C%20Splashed%20Ink%20Landscape%20-%201955.43%20-%20Cleveland%20Museum%20of%20Art.tiff"
+        },
+        {
+            "title": "Heron and Willow",
+            "artist": "Sessh\u016b T\u014dy\u014d",
+            "year": "1453",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sessh%C5%AB%20T%C5%8Dy%C5%8D%20-%20Heron%20and%20Willow%20-%2014.76.11%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Bird and Bamboo",
+            "artist": "Sessh\u016b T\u014dy\u014d",
+            "year": "1463",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sessh%C5%AB%20T%C5%8Dy%C5%8D%20-%20Bird%20and%20Bamboo%20-%2014.76.8%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Pavilion on Mountain Stream",
+            "artist": "Sessh\u016b T\u014dy\u014d",
+            "year": "1657",
+            "museum": "Metropolitan Museum of Art",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sessh%C5%AB%20T%C5%8Dy%C5%8D%20-%20Pavilion%20on%20Mountain%20Stream%20-%2029.100.529%20-%20Metropolitan%20Museum%20of%20Art.jpg"
+        },
+        {
+            "title": "Huike Offering His Arm to Bodhidharma",
+            "artist": "Sessh\u016b T\u014dy\u014d",
+            "year": "1496",
+            "museum": "Historical Collection",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bodhidharma.and.Huike-Sesshu.Toyo.jpg"
+        },
+        {
+            "title": "Winter Landscape",
+            "artist": "Sessh\u016b T\u014dy\u014d",
+            "year": "1470",
+            "museum": "Tokyo National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SesshuShuutouTou.jpg"
+        },
+        {
+            "title": "View of Amanohashidate",
+            "artist": "Sessh\u016b T\u014dy\u014d",
+            "year": "1503",
+            "museum": "Kyoto National Museum",
+            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sesshu%20-%20View%20of%20Ama-no-Hashidate.jpg"
         }
     ]
 }
