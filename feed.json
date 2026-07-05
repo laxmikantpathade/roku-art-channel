@@ -7148,13 +7148,6 @@
             "description": "Historical masterpiece entry."
         },
         {
-            "title": "Selections from the New Collection of Japanese Poems from Ancient and Modern Times (Shinkokin wakashū) with Printed Designs of Chinese Lions and Crab Finger Grass by Tawaraya Sōtatsu",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1022.jpg",
-            "year": "1610",
-            "museum": "Cleveland Museum of Art",
-            "description": "Historical masterpiece entry."
-        },
-        {
             "title": "Painting with a Red Stain by Wassily Kandinsky",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1023.jpg",
             "year": "1914",
@@ -7215,6 +7208,13 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1031.jpg",
             "year": "1830",
             "museum": "Hamburger Kunsthalle",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "A Still Life Of Flowers In a Roemer With a Field Mouse And An Ear Of Wheat by Clara Peeters",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1032.jpg",
+            "year": "1650",
+            "museum": "Historical Collection",
             "description": "Historical masterpiece entry."
         },
         {
@@ -7572,6 +7572,20 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1083.jpg",
             "year": "1910",
             "museum": "Munch Museum",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Polowanie na słonki by Józef Chełmoński",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1084.jpg",
+            "year": "1895",
+            "museum": "Historical Collection",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Cheesestack with knife, shrimps, crawfish, glass of wine and bread by Clara Peeters",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1085.jpg",
+            "year": "1615",
+            "museum": "Richard Green Fine Paintings",
             "description": "Historical masterpiece entry."
         }
     ]
