@@ -1428,13 +1428,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20the%20Seacoast%20near%20Wargemont%20in%20Normandy%20MET%20DP136266.jpg"
         },
         {
-            "title": "A Road in Louveciennes",
-            "artist": "Pierre-Auguste Renoir",
-            "year": "1870",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Une%20route%20%C3%A0%20Louveciennes.jpg"
-        },
-        {
             "title": "Eug\u00e8ne Murer (Hyacinthe-Eug\u00e8ne Meunier, 1841\u20131906)",
             "artist": "Pierre-Auguste Renoir",
             "year": "1877",
@@ -1661,13 +1654,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-fohaszkodo%20udvozito%20%281903%29.jpg"
         },
         {
-            "title": "Ottoman Bridge at Mostar",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1903",
-            "museum": "Csontv\u00e1ry Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-romai%20hid%20mosztarban%20%281903%29.jpg"
-        },
-        {
             "title": "View of Selemecb\u00e1nya",
             "artist": "Tivadar Csontv\u00e1ry Kosztka",
             "year": "1902",
@@ -1752,13 +1738,6 @@
             "year": "1523",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Qiu%20Ying%20-%20A%20Tang%20Palace%20-%2012.134.8%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Lady in a Bamboo Grove",
-            "artist": "Qiu Ying",
-            "year": "1523",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Qiu%20Ying%20-%20Lady%20in%20a%20Bamboo%20Grove%20-%2013.220.15%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         }
     ],
     "Katsushika Hokusai": [
@@ -2456,13 +2435,6 @@
             "year": "1475",
             "museum": "Campana collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Annonciation%2C%20by%20Leonardo%20da%20Vinci%2C%20from%20C2RMF%20retouched.jpg"
-        },
-        {
-            "title": "Leda and the Swan",
-            "artist": "Leonardo da Vinci",
-            "year": "1505",
-            "museum": "Uffizi Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leda%20Melzi%20Uffizi.jpg"
         },
         {
             "title": "Isleworth Mona Lisa",
@@ -4988,13 +4960,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Portrait%20of%20a%20man%20with%20his%20daughter%20-%20M.Ob.1079%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg"
         },
         {
-            "title": "Self-portrait at an Easel",
-            "artist": "Sofonisba Anguissola",
-            "year": "1556",
-            "museum": "\u0141a\u0144cut Castle",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%2C%20Selvportr%C3%A6t%20ved%20staffeliet%2C%201556%2C%20Museum%20Castle%20in%20%C5%81a%C5%84cut.jpg"
-        },
-        {
             "title": "Portrait of Giuliano Cesarini",
             "artist": "Sofonisba Anguissola",
             "year": "1586",
@@ -7191,13 +7156,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Untitled%20%28Four%20Cows%20Wading%20in%20Pond%29%20by%20Edward%20Mitchell%20Bannister%20-%20SAAM-1983.95.71%201.jpg"
         },
         {
-            "title": "Untitled (house in woods near lake)",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1895",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28house%20in%20woods%20near%20lake%29%20-%201983.95.118%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
             "title": "Untitled (houses and trees)",
             "artist": "Edward Mitchell Bannister",
             "year": "1898",
@@ -7844,13 +7802,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20Muletiers%20espagnols%20traversent%20les%20Pyr%C3%A9n%C3%A9es%20%281857%29.jpg"
         },
         {
-            "title": "A tiger resting on a ledge",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20tiger%20resting%20on%20a%20ledge%20-%20Rosa%20Bonheur.jpg"
-        },
-        {
             "title": "Blonde D'Aquitaine resting",
             "artist": "Rosa Bonheur",
             "year": "1900",
@@ -7863,13 +7814,6 @@
             "year": "1900",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20recumbent%20tigers%20-%20Rosa%20Bonheur.webp"
-        },
-        {
-            "title": "A study of a cow's head",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20study%20of%20a%20cow%27s%20head%202007%20CSK%2005110%200059%20.jpg"
         },
         {
             "title": "The Hay Harvest",
@@ -8323,13 +8267,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Genesee%20Scenery%201847.jpg"
         },
         {
-            "title": "Home in the Woods",
-            "artist": "Thomas Cole",
-            "year": "1847",
-            "museum": "Reynolda House Museum of American Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Home%20in%20the%20Woods%201847.jpg"
-        },
-        {
             "title": "Indian at Sunset",
             "artist": "Thomas Cole",
             "year": "1845",
@@ -8561,13 +8498,6 @@
             "year": "1655",
             "museum": "http://www.wikidata.org/.well-known/genid/41079c3154a17fff5e30b76bc3fd8648",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vermeer%20saint%20praxedis.jpg"
-        },
-        {
-            "title": "Woman with a Pearl Necklace",
-            "artist": "Johannes Vermeer",
-            "year": "1660",
-            "museum": "Gem\u00e4ldegalerie Berlin",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20van%20Delft%20-%20Young%20Woman%20with%20a%20Pearl%20Necklace%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Woman in Blue Reading a Letter",
@@ -12618,13 +12548,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophia%20Dragomirova%20by%20Repin.jpg"
         },
         {
-            "title": "Portrait of a Neapolitan woman",
-            "artist": "Ilya Repin",
-            "year": "1894",
-            "museum": "http://www.wikidata.org/.well-known/genid/02509ea754fb97ef8ab86cb961accccf",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Neapolitan%20woman%20%281894%29%20by%20Ilya%20Repin%20-%20%D0%9D%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B0%D0%BD%D0%BA%D0%B0.jpg"
-        },
-        {
             "title": "Maria tenisheva",
             "artist": "Ilya Repin",
             "year": "1893",
@@ -12954,13 +12877,6 @@
             "year": "1916",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20Gathering%20Almond%20Blossoms%20%281916%29.jpg"
-        },
-        {
-            "title": "Gathering Summer Flowers in a Devonshire Garden",
-            "artist": "John William Waterhouse",
-            "year": "1893",
-            "museum": "http://www.wikidata.org/.well-known/genid/66e289e9d5defcb3a1ea6b5444f13865",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20Gathering%20Summer%20Flowers%20in%20a%20Devonshire%20Garden%20%281893%29.jpg"
         },
         {
             "title": "Miss Betty Pollock",
@@ -14162,13 +14078,6 @@
             "year": "1790",
             "museum": "Museum of John Paul II Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vig%C3%A9e%20Le%20Brun%20Lady%20making%20a%20bouquet.jpg"
-        },
-        {
-            "title": "Portrait of Princess Juliane of Saxe-Coburg-Saalfeld (1795-1796)",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1795",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Fedorovna%20by%20E.Vigee-Lebrun.jpg"
         },
         {
             "title": "Portr\u00e4t der Sophia Vladimirovna Stroganova (Golitsyna)",
@@ -15808,13 +15717,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Power%20of%20Commonwealth%20at%20its%20Zenith%2C%20from%20the%20series%20%E2%80%9CHistory%20of%20Civilization%20in%20Poland%E2%80%9D%20-%20MP%205057%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg"
         },
         {
-            "title": "Coronation of the First King, 1001 AD, from the series \u201cHistory of Civilization in Poland\u201d",
-            "artist": "Jan Matejko",
-            "year": "1889",
-            "museum": "National Museum in Warsaw",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Coronation%20of%20the%20First%20King%2C%201001%20AD%2C%20from%20the%20series%20%E2%80%9CHistory%20of%20Civilization%20in%20Poland%E2%80%9D%20-%20MP%205060%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg"
-        },
-        {
             "title": "Portrait of Katarzyna Potocka n\u00e9e Branicka (1825\u20131907), wife of Adam",
             "artist": "Jan Matejko",
             "year": "1890",
@@ -16737,13 +16639,6 @@
             "artist": "Judith Leyster",
             "year": "1639",
             "museum": "Philadelphia Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20The%20Last%20Drop%2C%20as%20it%20was%20in%20April%201908%2C%20cataloguedunegra00fred%200%200145.jpg"
-        },
-        {
-            "title": "The Last Drop",
-            "artist": "Judith Leyster",
-            "year": "1639",
-            "museum": "Philadelphia Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%2C%20Dutch%20%28active%20Haarlem%20and%20Amsterdam%29%20-%20The%20Last%20Drop%20%28The%20Gay%20Cavalier%29%20-%20Google%20Art%20Project.jpg"
         },
         {
@@ -17552,13 +17447,6 @@
             "year": "1884",
             "museum": "Museum Boijmans Van Beuningen",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20A%20Weaver%27s%20Cottage%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Poplars near Nuenen",
-            "artist": "Vincent van Gogh",
-            "year": "1885",
-            "museum": "Museum Boijmans Van Beuningen",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Poplars%20near%20Nuenen%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Vase with Red and White Flowers",
@@ -19670,20 +19558,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Amgueddfa%20Cymru%20-%20Menyw%20a%20Phlentyn%20mewn%20D%C3%B4l%20yn%20Bougival%20-%20Woman%20and%20Child%20in%20a%20meadow%20at%20Bougival%20-%20222978.jpeg"
         },
         {
-            "title": "On the lake in the Bois de Boulogne",
-            "artist": "Berthe Morisot",
-            "year": "1884",
-            "museum": "http://www.wikidata.org/.well-known/genid/f2db61e4d18ca7ac320ddc1f7aad56a9",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20on-the-lake-in-the-bois-de-boulogne.jpg"
-        },
-        {
-            "title": "The Thames",
-            "artist": "Berthe Morisot",
-            "year": "1875",
-            "museum": "Impressionism: The Hasso Plattner Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MB-Mori-01%20Morisot%20Die-Themse%201.jpg"
-        },
-        {
             "title": "l'\u00c9t\u00e9",
             "artist": "Berthe Morisot",
             "year": "1879",
@@ -21623,13 +21497,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/10%20Inmaculada%20Concepci%C3%B3n%20%28National%20Gallery%20de%20Londres%2C%20c.%201618%29.jpg"
         },
         {
-            "title": "Infanta Margarita Teresa",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1653",
-            "museum": "Kunsthistorisches Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rodr%C3%ADguez%20de%20Silva%20y%20Vel%C3%A1zquez%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Infantin%20Margarita%20Teresa%20%281651-1673%29%20in%20rosafarbenem%20Kleid%20-%20GG%20321%20-%20Kunsthistorisches%20Museum.jpg"
-        },
-        {
             "title": "Portrait of the Infanta Maria Theresa of Spain",
             "artist": "Diego Vel\u00e1zquez",
             "year": "1652",
@@ -23345,13 +23212,6 @@
     "Asit Kumar Haldar": [],
     "Tom Thomson": [
         {
-            "title": "Sunset",
-            "artist": "Tom Thomson",
-            "year": "1915",
-            "museum": "National Gallery of Canada",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomson%2C%20Sunset.jpg"
-        },
-        {
             "title": "Lumber Dam",
             "artist": "Tom Thomson",
             "year": "1915",
@@ -23605,13 +23465,6 @@
             "year": "1530",
             "museum": "Art Institute of Chicago",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20Autumn%20Mountains%20-%201948.103%20-%20Art%20Institute%20of%20Chicago.jpg"
-        },
-        {
-            "title": "Old Trees by a Cold Waterfall",
-            "artist": "Wen Zhengming",
-            "year": "1531",
-            "museum": "Los Angeles County Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20Trees%20by%20a%20Cold%20Waterfall%20LACMA%2055.67.1.jpg"
         },
         {
             "title": "Peony",
@@ -24358,13 +24211,6 @@
             "year": "1895",
             "museum": "Jean Walter-Paul Guillaume Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7oise%20Foliot%20-%20Henri%20Rousseau%20-%20La%20Falaise.jpg"
-        },
-        {
-            "title": "Le Peintre et son mod\u00e8le",
-            "artist": "Henri Rousseau",
-            "year": "1900",
-            "museum": "Mus\u00e9e National d'Art Moderne",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7oise%20Foliot%20-%20Henri%20Rousseau%20-%20L%27Artiste%20peignant%20sa%20femme.jpg"
         },
         {
             "title": "Le Peintre et son mod\u00e8le",
@@ -25790,13 +25636,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20%281497-8-1543%29%20-%20Derich%20Born%20%281510%5E-%29%201549%29%20-%20RCIN%20405681%20-%20Royal%20Collection.jpg"
         },
         {
-            "title": "Sir Henry Guildford (1489-1532)",
-            "artist": "Hans Holbein the Younger",
-            "year": "1527",
-            "museum": "Royal Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20%281497-8-1543%29%20-%20Sir%20Henry%20Guildford%20%281489-1532%29%20-%20RCIN%20400046%20-%20Royal%20Collection.jpg"
-        },
-        {
             "title": "Thomas Howard, Third Duke of Norfolk (1473-1554)",
             "artist": "Hans Holbein the Younger",
             "year": "1539",
@@ -25945,13 +25784,6 @@
             "year": "1932",
             "museum": "National Gallery of Modern Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Man%20with%20Apples.jpg"
-        },
-        {
-            "title": "Nude",
-            "artist": "Amrita Sher-Gil",
-            "year": "1933",
-            "museum": "National Gallery of Modern Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Painting%20Sleep%201932.jpg"
         }
     ],
     "Dante Gabriel Rossetti": [
@@ -27109,13 +26941,6 @@
         {
             "title": "Head of a Halberdier",
             "artist": "Hieronymus Bosch",
-            "year": "1490",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boskh%20Ieronim%20alebarda.jpg"
-        },
-        {
-            "title": "Head of a Halberdier",
-            "artist": "Hieronymus Bosch",
             "year": "1551",
             "museum": "Museo del Prado",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boskh%20Ieronim%20alebarda.jpg"
@@ -28251,13 +28076,6 @@
             "artist": "Tawaraya S\u014dtatsu",
             "year": "1650",
             "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Soutatsu%20Matsushima.jpg"
-        },
-        {
-            "title": "Waves at Matsushima",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1650",
-            "museum": "Freer Gallery of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Soutatsu%20Matsushima.jpg"
         },
         {
@@ -31250,13 +31068,6 @@
             "year": "1900",
             "museum": "Los Angeles County Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec%2C%20Henri%20-%20Messalina.jpg"
-        },
-        {
-            "title": "Gaston Bonnefoy",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1891",
-            "museum": "Thyssen-Bornemisza Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20Gaston%20Bonnefoy.jpg"
         },
         {
             "title": "The Jockeys",
