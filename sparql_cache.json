@@ -633,13 +633,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/3607%20Paisaje%20en%20Port-Villez.jpg"
         },
         {
-            "title": "View of Bordighera",
-            "artist": "Claude Monet",
-            "year": "1884",
-            "museum": "Hammer Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20View%20of%20Bordighiera%2031db607334.jpg"
-        },
-        {
             "title": "Pond with Water Lilies",
             "artist": "Claude Monet",
             "year": "1907",
@@ -1174,13 +1167,6 @@
             "year": "1875",
             "museum": "Thyssen-Bornemisza Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Femme%20avec%20parasol%20dans%20un%20jardin%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Madame Cl\u00e9mentine Valensi Stora",
-            "artist": "Pierre-Auguste Renoir",
-            "year": "1870",
-            "museum": "Fine Arts Museums of San Francisco",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Madame%20Cl%C3%A9mentine%20Valensi%20Stora.jpg"
         },
         {
             "title": "Strawberries",
@@ -2867,13 +2853,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Simson%20bedroht%20seinen%20Schwiegervater%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205249842.jpg"
         },
         {
-            "title": "Samson betrayed by Delilah",
-            "artist": "Rembrandt",
-            "year": "1628",
-            "museum": "Gem\u00e4ldegalerie Berlin",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Simson%20und%20Delila%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205227355.jpg"
-        },
-        {
             "title": "Saskia as Flora",
             "artist": "Rembrandt",
             "year": "1641",
@@ -3975,13 +3954,6 @@
             "year": "1492",
             "museum": "Courtauld Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20Pala%20della%20Convertite.jpg"
-        },
-        {
-            "title": "Pallas and the Centaur",
-            "artist": "Sandro Botticelli",
-            "year": "1482",
-            "museum": "Uffizi Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pallade%20col%20Centauro%2C%20Sandro%20Botticelli%20%281482%29.jpg"
         },
         {
             "title": "Madonna of the Magnificat",
@@ -5838,13 +5810,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Boston%20Street%20Scene%20%28Boston%20Common%29%20-%20Walters%20372766.jpg"
         },
         {
-            "title": "After the Shower",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1885",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20After%20the%20Shower%20-%201983.95.61%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
             "title": "Approaching Storm",
             "artist": "Edward Mitchell Bannister",
             "year": "1886",
@@ -6389,13 +6354,6 @@
             "year": "1882",
             "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28man%20on%20path%20with%20trees%20in%20background%29%20-%201983.95.86%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Untitled (man with cows grazing near pond with house and trees in background)",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1864",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28man%20with%20cows%20grazing%20near%20pond%20with%20house%20and%20trees%20in%20background%29%20-%201983.95.80%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         }
     ],
     "Rosa Bonheur": [
@@ -7518,13 +7476,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Vermeer%20-%20%27De%20liefdesbrief%27%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "The Wine Glass",
-            "artist": "Johannes Vermeer",
-            "year": "1659",
-            "museum": "Gem\u00e4ldegalerie Berlin",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20van%20Delft%20-%20The%20Glass%20of%20Wine%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Woman with a Lute",
             "artist": "Johannes Vermeer",
             "year": "1662",
@@ -7579,13 +7530,6 @@
             "year": "1672",
             "museum": "Iveagh Bequest, 1929",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20van%20Delft%20013.jpg"
-        },
-        {
-            "title": "A Young Woman Seated at the Virginals",
-            "artist": "Johannes Vermeer",
-            "year": "1670",
-            "museum": "Leiden Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Woman%20Seated%20at%20a%20Virginal%2C%20Johannes%20Vermeer%2C%201670-1672%2C%20oil%20on%20canvas%2C%2025.5%20by%2020.1%20cm%2C%20The%20Leiden%20Collection.jpg"
         }
     ],
     "Rachel Ruysch": [
@@ -8191,13 +8135,6 @@
         {
             "title": "Still Life with Fish",
             "artist": "Clara Peeters",
-            "year": "1615",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stilleven%20met%20vis%2C%20Clara%20Peeters%2C%2017de%20eeuw%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20834.jpg"
-        },
-        {
-            "title": "Still Life with Fish",
-            "artist": "Clara Peeters",
             "year": "1600",
             "museum": "Vlaamse Kunstcollectie",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Stilleven%20met%20vis%20-%20834%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
@@ -8336,13 +8273,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20Life%20with%20Flowers%20in%20a%20Glass%20Vase%20Surrounded%20by%20Insects%20and%20a%20Snail%20071L18033%209QMJJ.jpg"
         },
         {
-            "title": "Still Life with Flowers Surrounded by Insects and a Snail",
-            "artist": "Clara Peeters",
-            "year": "1616",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20Life%20with%20Flowers%20Surrounded%20by%20Insects%20and%20a%20Snail%20-%202018.144.1%20-%20National%20Gallery%20of%20Art.jpg"
-        },
-        {
             "title": "Still life with an artichoke, a Siegburg jug, a Wan Li dish with butter, cherries and a herring",
             "artist": "Clara Peeters",
             "year": "1612",
@@ -8376,13 +8306,6 @@
             "year": "1640",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20peeters%20a%20basket%20of%20red%20and%20green%20grapes%20a%20goldfinch%20game%20and%20a114828%29.jpg"
-        },
-        {
-            "title": "Still life of fruit in a wicker basket, with nuts and a glass goblet",
-            "artist": "Clara Peeters",
-            "year": "1615",
-            "museum": "http://www.wikidata.org/.well-known/genid/7b4a52b6c631fd3d1896d6deeec13bdf",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20life%20of%20fruit%20in%20a%20wicker%20basket%2C%20with%20nuts%20and%20a%20glass%20goblet.jpg"
         },
         {
             "title": "Still life of flowers in a stoneware vase, with a pot with carnations",
@@ -8540,13 +8463,6 @@
             "year": "1895",
             "museum": "Barnes Foundation",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20A%20Table%20Corner%20%28Un%20coin%20de%20table%29%20-%20BF711%20-%20Barnes%20Foundation.jpg"
-        },
-        {
-            "title": "Madame C\u00e9zanne with Green Hat (Madame C\u00e9zanne au chapeau vert)",
-            "artist": "Paul C\u00e9zanne",
-            "year": "1890",
-            "museum": "Barnes Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Madame%20C%C3%A9zanne%20with%20Green%20Hat%20%28Madame%20C%C3%A9zanne%20au%20chapeau%20vert%29%20-%20BF141%20-%20Barnes%20Foundation.jpg"
         },
         {
             "title": "Terracotta Pots and Flowers (Pots en terre cuite et fleurs)",
@@ -10269,13 +10185,6 @@
             "year": "1794",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20%E4%BC%8A%E8%97%A4%E8%8B%A5%E5%86%B2%20-%20Banana%20Leaves%20-%202020.396.35%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Elephant and Whale",
-            "artist": "Ito Jakuchu",
-            "year": "1795",
-            "museum": "Miho Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elephant%20and%20Whale%20Screens%20by%20Ito%20Jakuchu%20%28Miho%20Museum%29R.jpg"
         },
         {
             "title": "Elephant and Whale",
@@ -14853,13 +14762,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Smiling%20boy%20with%20grapes%20in%20his%20hat.jpg"
         },
         {
-            "title": "Smiling boy holding grapes in his hat",
-            "artist": "Judith Leyster",
-            "year": "1629",
-            "museum": "http://www.wikidata.org/.well-known/genid/69c579bc2f2d62f73dd18d1c751ec6c0",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20Smiling%20boy%20with%20grapes%20in%20his%20hat.jpg"
-        },
-        {
             "title": "Early Brabantsson (folio 29)",
             "artist": "Judith Leyster",
             "year": "1643",
@@ -15091,13 +14993,6 @@
             "year": "1889",
             "museum": "Van Gogh Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wilde%20rozen%20-%20s0190V1962%20-%20Van%20Gogh%20Museum.jpg"
-        },
-        {
-            "title": "Grapes",
-            "artist": "Vincent van Gogh",
-            "year": "1887",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Druiven%20-%20s0194V1962%20-%20Van%20Gogh%20Museum.jpg"
         },
         {
             "title": "A Pair of Leather Clogs",
@@ -17128,13 +17023,6 @@
             "year": "1919",
             "museum": "Imperial War Museum London",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Gassed%20%281919%29.jpg"
-        },
-        {
-            "title": "Street in Venice",
-            "artist": "John Singer Sargent",
-            "year": "1882",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Street%20in%20Venice%20%28NGAi%29.jpg"
         },
         {
             "title": "The Misses Vickers",
@@ -21381,13 +21269,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emily%20Carr%201928%20Kitwancool.png"
         },
         {
-            "title": "Odds and Ends",
-            "artist": "Emily Carr",
-            "year": "1939",
-            "museum": "Art Gallery of Greater Victoria",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odds%20and%20Ends.jpg"
-        },
-        {
             "title": "First Nations War Canoes in Alert Bay",
             "artist": "Emily Carr",
             "year": "1912",
@@ -22044,15 +21925,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Childe%20Hassam%20-%20Bailey%27s%20Beach%2C%20Newport%2C%20R.I.%20-%201936.243%20-%20Art%20Institute%20of%20Chicago.jpg"
         }
     ],
-    "Abanindranath Tagore": [
-        {
-            "title": "Rabindranath in the role of 'blind singer'",
-            "artist": "Abanindranath Tagore",
-            "year": "1916",
-            "museum": "Victoria Memorial",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Abanindranath%20Tagore%20-%20Rabindranath%20in%20the%20Role%20of%20%E2%80%98Blind%20Singer%E2%80%99%2C%201916.jpg"
-        }
-    ],
+    "Abanindranath Tagore": [],
     "Tang Yin": [],
     "Tarsila do Amaral": [],
     "Miskin": [],
@@ -22670,13 +22543,6 @@
     ],
     "Kshitindranath Majumdar": [],
     "Amrita Sher-Gil": [
-        {
-            "title": "Village scene",
-            "artist": "Amrita Sher-Gil",
-            "year": "1938",
-            "museum": "http://www.wikidata.org/.well-known/genid/febc00627c5da1ce11c0675958cd7a39",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sher-Gil%20Village-group-1938.jpg"
-        },
         {
             "title": "Reclining Nude",
             "artist": "Amrita Sher-Gil",
@@ -23947,13 +23813,6 @@
         {
             "title": "Zodiac",
             "artist": "Alphonse Mucha",
-            "year": "1896",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20Mucha%20-%20Zodiac%2C%201869.jpg"
-        },
-        {
-            "title": "Zodiac",
-            "artist": "Alphonse Mucha",
             "year": "1897",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20Mucha%20-%20Zodiac%2C%201869.jpg"
@@ -24020,13 +23879,6 @@
             "year": "1916",
             "museum": "museum collection of the Prague City Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Na%20Krizku.jpg"
-        },
-        {
-            "title": "After the Battle of V\u00edtkov Hill",
-            "artist": "Alphonse Mucha",
-            "year": "1923",
-            "museum": "museum collection of the Prague City Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Po%20bitv%C4%9B%20na%20V%C3%ADtkov%C4%9B.jpg"
         },
         {
             "title": "Petr Chel\u010dick\u00fd at Vod\u0148any",
@@ -24958,13 +24810,6 @@
             "year": "1888",
             "museum": "Southampton City Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Perseus.jpeg"
-        },
-        {
-            "title": "The Doom Fulfilled",
-            "artist": "Edward Burne-Jones",
-            "year": "1888",
-            "museum": "Staatsgalerie Stuttgart",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Doom%20Fulfilled.jpg"
         },
         {
             "title": "Perseus and the Sea Nymphs",
@@ -26579,13 +26424,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Satan%20Smiting%20Job%20with%20Sore%20Boils%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "A Vision of the Last Judgment",
-            "artist": "William Blake",
-            "year": "1808",
-            "museum": "http://www.wikidata.org/.well-known/genid/862ed4639e71a3f925f45072629c211f",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20The%20Day%20of%20Judgment.jpg"
-        },
-        {
             "title": "Pity",
             "artist": "William Blake",
             "year": "1795",
@@ -28085,13 +27923,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20K%C3%BCste%20bei%20Mondschein%202.jpg"
         },
         {
-            "title": "Wolves in the forest in front of a cave",
-            "artist": "Caspar David Friedrich",
-            "year": "1790",
-            "museum": "http://www.wikidata.org/.well-known/genid/cf0588a503e647e31a1671494867426f",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20W%C3%B6lfe%20im%20Wald%20vor%20einer%20H%C3%B6hle.jpg"
-        },
-        {
             "title": "Snow hill with Ravens",
             "artist": "Caspar David Friedrich",
             "year": "1798",
@@ -29328,13 +29159,6 @@
             "year": "1893",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Coquette.jpg"
-        },
-        {
-            "title": "The Milkmaid.",
-            "artist": "Raja Ravi Varma",
-            "year": "1904",
-            "museum": "Sree Chitra Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%2C%20The%20Milkmaid%20%281904%29.jpg"
         },
         {
             "title": "Maharani Lakshmi Bayi",
@@ -32264,13 +32088,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Old%20Mill.jpg"
         },
         {
-            "title": "The Shore of the Turquoise Sea",
-            "artist": "Albert Bierstadt",
-            "year": "1878",
-            "museum": "http://www.wikidata.org/.well-known/genid/25606ededfabf479a7a6ed44b567af66",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/AlbertBierstadt-The%20Shore%20of%20the%20Turquoise%20Sea%201878.jpg"
-        },
-        {
             "title": "The Snow Mountain",
             "artist": "Albert Bierstadt",
             "year": "1863",
@@ -32729,13 +32546,6 @@
             "year": "1927",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hand%20Sewing%20Machine%20MET%20DP236131.jpg"
-        },
-        {
-            "title": "Clouds and Water",
-            "artist": "Arthur Dove",
-            "year": "1930",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clouds%20and%20Water%20MET%20DP236116.jpg"
         },
         {
             "title": "Mountain and Sky",
