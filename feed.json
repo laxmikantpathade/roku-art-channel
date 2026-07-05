@@ -6861,13 +6861,6 @@
             "description": "Historical masterpiece entry."
         },
         {
-            "title": "The England pear by Pierre-Auguste Renoir",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_981.jpg",
-            "year": "1870",
-            "museum": "Musée d'Orsay",
-            "description": "Historical masterpiece entry."
-        },
-        {
             "title": "Soldiers Casting Lots for Christ's Garments by William Blake",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_982.jpg",
             "year": "1800",
@@ -7103,6 +7096,13 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1015.jpg",
             "year": "1867",
             "museum": "Scottish National Gallery",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "View over a Lake: Shore with Houses by Tom Thomson",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1016.jpg",
+            "year": "1913",
+            "museum": "National Gallery of Canada",
             "description": "Historical masterpiece entry."
         },
         {
@@ -7593,6 +7593,34 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1086.jpg",
             "year": "1887",
             "museum": "Paul G. Allen Collection",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Crowning of Roxana by Peter Paul Rubens",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1087.jpg",
+            "year": "1650",
+            "museum": "Los Angeles County Museum of Art",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Charing Cross Bridge by Claude Monet",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1088.jpg",
+            "year": "1900",
+            "museum": "Historical Collection",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Dressing for the Carnival by Winslow Homer",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1089.jpg",
+            "year": "1877",
+            "museum": "Metropolitan Museum of Art",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Round Table by Egon Schiele",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1090.jpg",
+            "year": "1918",
+            "museum": "Historical Collection",
             "description": "Historical masterpiece entry."
         }
     ]

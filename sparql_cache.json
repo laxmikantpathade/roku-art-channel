@@ -528,13 +528,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20pont%20japonais%20%28Japanese%20Bridge%29%20-%20L2016-18-1%20-%20Auckland%20Art%20Gallery.jpg"
         },
         {
-            "title": "Charing Cross Bridge",
-            "artist": "Claude Monet",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%2C%20Claude%20-%20Charing%20Cross%20Bridge%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "The Bank of the Seine",
             "artist": "Claude Monet",
             "year": "1880",
@@ -14091,13 +14084,6 @@
     ],
     "Winslow Homer": [
         {
-            "title": "Dressing for the Carnival",
-            "artist": "Winslow Homer",
-            "year": "1877",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Dressing%20for%20the%20Carnival.jpg"
-        },
-        {
             "title": "Breezing Up",
             "artist": "Winslow Homer",
             "year": "1873",
@@ -20216,13 +20202,6 @@
             "year": "1915",
             "museum": "Leopold Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20with%20two%20children%20II%20Egon%20Schiele%201915.jpg"
-        },
-        {
-            "title": "Round Table",
-            "artist": "Egon Schiele",
-            "year": "1918",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Schiele%2C%20Round%20Table%2C%201918.%20Oil%20and%20tempera%20on%20canvas.jpg"
         },
         {
             "title": "Portrait of Poldi Lodzinsky",
@@ -30893,13 +30872,6 @@
             "year": "1626",
             "museum": "Los Angeles County Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Israelites%20Gathering%20Manna%20in%20the%20Desert%20LACMA%20M.69.20.jpg"
-        },
-        {
-            "title": "The Crowning of Roxana",
-            "artist": "Peter Paul Rubens",
-            "year": "1650",
-            "museum": "Los Angeles County Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Crowning%20of%20Roxana%20LACMA%20AC1992.152.143.jpg"
         },
         {
             "title": "The Holy Family with St. Elizabeth, St. John, and a Dove",
