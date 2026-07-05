@@ -6805,13 +6805,6 @@
             "description": "Historical masterpiece entry."
         },
         {
-            "title": "Flowers and fruit in a forest by Rachel Ruysch",
-            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_973.jpg",
-            "year": "1714",
-            "museum": "Johann Wilhelm von der Pfalz collection",
-            "description": "Historical masterpiece entry."
-        },
-        {
             "title": "Faaturuma (Melancholic) by Paul Gauguin",
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_974.jpg",
             "year": "1891",
@@ -6858,6 +6851,13 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_980.jpg",
             "year": "1914",
             "museum": "Vologodskai︠a︡ oblastnai︠a︡ kartinnai︠a︡ galerei︠a︡",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The England pear by Pierre-Auguste Renoir",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_981.jpg",
+            "year": "1870",
+            "museum": "Musée d'Orsay",
             "description": "Historical masterpiece entry."
         },
         {
@@ -7621,6 +7621,20 @@
             "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1090.jpg",
             "year": "1918",
             "museum": "Historical Collection",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Ronda by Childe Hassam",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1091.jpg",
+            "year": "1910",
+            "museum": "Hispanic Society of America",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Still life with tazza, stoneware jug, saltcellar and dainties by Clara Peeters",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/art_1092.jpg",
+            "year": "1611",
+            "museum": "Museo del Prado",
             "description": "Historical masterpiece entry."
         }
     ]
