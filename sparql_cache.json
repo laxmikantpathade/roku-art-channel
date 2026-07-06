@@ -155,13 +155,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Powr%C3%B3t%20z%20jarmarku.%20Wspomnienie%20Ukrainy.jpg"
         },
         {
-            "title": "Travelling in Russia",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1878",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20W%20podr%C3%B3%C5%BCy%201878.jpg"
-        },
-        {
             "title": "The Courier",
             "artist": "J\u00f3zef Che\u0142mo\u0144ski",
             "year": "1880",
@@ -1110,27 +1103,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Thunder%20God.tif"
         },
         {
-            "title": "Thunder God",
-            "artist": "Katsushika Hokusai",
-            "year": "1847",
-            "museum": "Katsushika Hokusai",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Thunder%20God%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Thunder God",
-            "artist": "Katsushika Hokusai",
-            "year": "1847",
-            "museum": "Freer Gallery of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20%281834%E2%80%9349%29%20God%20of%20Thunder.jpg"
-        },
-        {
-            "title": "Thunder God",
-            "artist": "Katsushika Hokusai",
-            "year": "1847",
-            "museum": "Freer Gallery of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Thunder%20God%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Walking Courtesan",
             "artist": "Katsushika Hokusai",
             "year": "1850",
@@ -1236,13 +1208,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Wild%20Geese%20and%20Water%20-%2029.100.1403%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "In Front of a Shop",
-            "artist": "Katsushika Hokusai",
-            "year": "1780",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20In%20Front%20of%20a%20Shop%20-%2014.76.34%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
             "title": "Woman Spinning Silk",
             "artist": "Katsushika Hokusai",
             "year": "1790",
@@ -1276,13 +1241,6 @@
             "year": "1847",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20The%20Legendary%20Empress%20Jing%C5%AB%20-%2014.76.36%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Album of Sketches by Katsushika Hokusai and His Disciples",
-            "artist": "Katsushika Hokusai",
-            "year": "1834",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Album%20of%20Sketches%20by%20Katsushika%20Hokusai%20and%20His%20Disciples%20-%2014.76.59.1%E2%80%93.102%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Minamoto no Yorimasa Aiming an Arrow",
@@ -4461,13 +4419,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassat%20-%20Lilacs%20in%20a%20Window%20-%20MMA%201997.207.jpg"
         },
         {
-            "title": "Portrait of an Elderly Lady in a Bonnet: Red Background",
-            "artist": "Mary Cassatt",
-            "year": "1887",
-            "museum": "Birmingham Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20an%20Elderly%20Lady%20in%20a%20Bonnet%20-%20Red%20Background%20by%20Mary%20Cassatt.jpg"
-        },
-        {
             "title": "A Woman and a Girl Driving",
             "artist": "Mary Cassatt",
             "year": "1881",
@@ -4571,13 +4522,6 @@
             "year": "1902",
             "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20The%20Caress%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Sara in a Green Bonnet",
-            "artist": "Mary Cassatt",
-            "year": "1901",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sara%20in%20a%20Green%20Bonnet%201929.6.11%201a.jpg"
         },
         {
             "title": "Head of a Young Girl",
@@ -5605,13 +5549,6 @@
             "year": "1900",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20Tigre%20royal%20du%20marche.jpg"
-        },
-        {
-            "title": "Highland cattle",
-            "artist": "Rosa Bonheur",
-            "year": "1876",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20Highland%20cattle%20%281876%29.jpg"
         }
     ],
     "Mahmud al-Wasiti": [],
@@ -6221,13 +6158,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vermeer%20-%20Woman%20with%20a%20Lute%20near%20a%20window.jpg"
         },
         {
-            "title": "Woman Holding a Balance",
-            "artist": "Johannes Vermeer",
-            "year": "1665",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Vermeer%20-%20Woman%20Holding%20a%20Balance%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "The Girl with the Wine Glass",
             "artist": "Johannes Vermeer",
             "year": "1650",
@@ -6508,13 +6438,6 @@
             "year": "1716",
             "museum": "Galleria Palatina",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Still-Life%20with%20Flowers%20-%20WGA20555.jpg"
-        },
-        {
-            "title": "Roses, tulips and other flowers in a glass vase on a marble ledge",
-            "artist": "Rachel Ruysch",
-            "year": "1709",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Flowers%20in%20a%20glass%20vase%20on%20a%20marble%20slab%20formerly%20of%20Munich%20Alte%20Pinakothek.jpg"
         },
         {
             "title": "Roses, tulips and other flowers in a glass vase on a marble ledge",
@@ -8400,13 +8323,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ito%20Jakuchu%20-%20White%20Cockatoo%20-%202006.210.7a-b%20-%20Yale%20University%20Art%20Gallery.jpg"
         },
         {
-            "title": "Chicken",
-            "artist": "Ito Jakuchu",
-            "year": "1775",
-            "museum": "Yale University Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ito%20Jakuchu%20-%20Chicken%20-%202006.210.9%20-%20Yale%20University%20Art%20Gallery.jpg"
-        },
-        {
             "title": "Lotu",
             "artist": "Ito Jakuchu",
             "year": "1767",
@@ -9408,13 +9324,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RemorsodeNero.jpg"
         },
         {
-            "title": "The Bouquet",
-            "artist": "John William Waterhouse",
-            "year": "1908",
-            "museum": "Falmouth Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Bouquet%20%28study%29.jpg"
-        },
-        {
             "title": "The Lady Clare",
             "artist": "John William Waterhouse",
             "year": "1900",
@@ -9614,13 +9523,6 @@
             "title": "Saint Eulalia",
             "artist": "John William Waterhouse",
             "year": "1885",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Saint%20Eulalia%20-%201885.jpg"
-        },
-        {
-            "title": "Saint Eulalia",
-            "artist": "John William Waterhouse",
-            "year": "1885",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Saint%20Eulalia%20-%201885.jpg"
         },
@@ -9728,13 +9630,6 @@
             "year": "1916",
             "museum": "Art Renewal Center",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20william%20waterhouse%20tristan%20and%20isolde%20with%20the%20potion.jpg"
-        },
-        {
-            "title": "Miranda",
-            "artist": "John William Waterhouse",
-            "year": "1916",
-            "museum": "http://www.wikidata.org/.well-known/genid/788b1e09e3035ffbe3cd8edbc8e32f00",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse-Miranda-The-Tempest.jpg"
         },
         {
             "title": "Miranda",
@@ -10124,13 +10019,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%28Tiziano%20Vecellio%29%2C%20between%201485%20and%201490-1576%20-%20Adoration%20of%20the%20Christ%20Child%20-%20%D0%93%D0%AD-230%20-%20Hermitage%20Museum.jpg"
         },
         {
-            "title": "Christ Blessing",
-            "artist": "Titian",
-            "year": "1570",
-            "museum": "Hermitage Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%2C%20Salvator%20Mundi%20%28Christ%20Blessing%29%2C%20c.%201570%2C%20oil%20on%20canvas%2C%2096%20x%2080%20cm%2C%20Hermitage%20Museum.jpg"
-        },
-        {
             "title": "Portrait of the Orator Francesco Filetto",
             "artist": "Titian",
             "year": "1538",
@@ -10389,13 +10277,6 @@
             "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
             "year": "1793",
             "museum": "Liechtenstein Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Princess%20Maria%20Josefa%20Hermenegilde%20von%20Esterhazy%20%281793%29%20Le%20Brun.jpg"
-        },
-        {
-            "title": "Portrait of Princess Hermenegilde von Esterh\u00e1zy (1769\u20131845), n\u00e9e Liechtenstein, as Ariadne on Naxos",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1793",
-            "museum": "Liechtenstein Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Princess%20Maria%20Josefa%20Hermenegilde%20von%20Esterhazy%20%281793%29%20Le%20Brun.jpg"
         },
         {
@@ -11593,13 +11474,6 @@
             "year": "1864",
             "museum": "National Museum in Krak\u00f3w",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Sigismund%20Augustus%20and%20Barbara%20Radziwill%20-%20MNK%20IX-10%20%2821723%29.jpg"
-        },
-        {
-            "title": "Portrait of Paris Maurizio",
-            "artist": "Jan Matejko",
-            "year": "1859",
-            "museum": "National Museum in Krak\u00f3w",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Portrait%20of%20Paris%20Maurizio%20-%20MNK%20IX-23%20%2830765%29.jpg"
         },
         {
             "title": "Sta\u0144czyk Faking a Toothache",
@@ -15288,13 +15162,6 @@
             "title": "Italian Landscape with Bridge and Tower",
             "artist": "J.M.W. Turner",
             "year": "1827",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Italian%20Landscape%20with%20Bridge%20and%20Tower%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Italian Landscape with Bridge and Tower",
-            "artist": "J.M.W. Turner",
-            "year": "1827",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Italian%20Landscape%20with%20Bridge%20and%20Tower%20-%20Google%20Art%20Project.jpg"
         },
@@ -15714,13 +15581,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dem%C3%B3crito%2C%20by%20Diego%20Vel%C3%A1zquez.jpg"
         },
         {
-            "title": "Portrait of Sebasti\u00e1n de Morra",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1644",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20%E2%80%93%20El%20buf%C3%B3n%20el%20Primo%20%28Museo%20del%20Prado%2C%201644%29.jpg"
-        },
-        {
             "title": "The Jester Calabacillas",
             "artist": "Diego Vel\u00e1zquez",
             "year": "1635",
@@ -16085,13 +15945,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20del%20pr%C3%ADncipe%20Baltasar%20Carlos%2C%20por%20Diego%20Vel%C3%A1zquez.jpg"
         },
         {
-            "title": "Saint Anthony Abbot and St. Paul, the first hermit",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1634",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vel%C3%A1zquez%20-%20San%20Antonio%20Abad%20y%20San%20Pablo%2C%20primer%20ermita%C3%B1o%20%28Museo%20del%20Prado%2C%201635-38%29.jpg"
-        },
-        {
             "title": "Saint John the Evangelist on the Island of Patmos",
             "artist": "Diego Vel\u00e1zquez",
             "year": "1618",
@@ -16226,13 +16079,6 @@
             "year": "1750",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20personification%20of%20Hebe%20-%20Angelica%20Kauffmann.jpg"
-        },
-        {
-            "title": "Portrait of Countess Catherine Skawronska",
-            "artist": "Angelica Kauffman",
-            "year": "1789",
-            "museum": "Germanisches Nationalmuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Countess%20Catherine%20Skawronska%2C%20by%20Angelika%20Kauffmann%2C%201789%2C%20oil%20on%20canvas%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg%2C%20Germany%20-%20DSC03425.jpg"
         },
         {
             "title": "Erato, the Muse of Lyric Poetry with a Putto",
@@ -16711,13 +16557,6 @@
             "year": "1908",
             "museum": "Saint Louis Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20White%20Birches%20-%201-1979%20-%20Saint%20Louis%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Painting No. 3",
-            "artist": "Marsden Hartley",
-            "year": "1913",
-            "museum": "Crystal Bridges Museum of American Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Painting%20No.%203%20-%20ASC.2012.61%20-%20Crystal%20Bridges%20Museum%20of%20American%20Art.jpg"
         },
         {
             "title": "Landscape No. 19",
@@ -17260,13 +17099,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomson%2C%20Sketch%20for%20The%20West%20Wind.jpg"
         },
         {
-            "title": "Boats",
-            "artist": "Tom Thomson",
-            "year": "1916",
-            "museum": "Art Gallery of Ontario",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Thomson%20-%20Bateaux%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "The Jack Pine",
             "artist": "Tom Thomson",
             "year": "1916",
@@ -17392,13 +17224,6 @@
         }
     ],
     "Henri Rousseau": [
-        {
-            "title": "The Dream",
-            "artist": "Henri Rousseau",
-            "year": "1910",
-            "museum": "Museum of Modern Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20005.jpg"
-        },
         {
             "title": "Tiger in a Tropical Storm",
             "artist": "Henri Rousseau",
@@ -17981,13 +17806,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rainy%20Day%2C%20Boston.JPG"
         },
         {
-            "title": "Boat Landing, Gloucester",
-            "artist": "Childe Hassam",
-            "year": "1918",
-            "museum": "New Britain Museum of American Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Childe%20Hassam%20-%20Boat%20Landing%2C%20Gloucester%20-%201989.27%20-%20New%20Britain%20Museum%20of%20American%20Art.jpg"
-        },
-        {
             "title": "The Dragon Cloud, Old Lyme",
             "artist": "Childe Hassam",
             "year": "1903",
@@ -18035,13 +17853,6 @@
             "year": "1911",
             "museum": "Honolulu Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hassam%20-%20%27Isles%20of%20Shoals%2C%20Broad%20Cove%27%2C%20oil%20on%20canvas%20painting%20by%20Childe%20Hassam%2C%201911.jpg"
-        },
-        {
-            "title": "Cab stand at night Madison square New York",
-            "artist": "Childe Hassam",
-            "year": "1935",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hassam%20-%20cab-stand-at-night-madison-square-new-york.jpg"
         },
         {
             "title": "The nymph of beryl gorge",
@@ -19404,13 +19215,6 @@
             "year": "1871",
             "museum": "http://www.wikidata.org/.well-known/genid/41d41b40a007965afac04b6723e1f4d2",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20-%20Pandora.jpg"
-        },
-        {
-            "title": "Hesterna Rosa",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1865",
-            "museum": "Delaware Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20-%20Hesterna%20Rosa%20%281865%29.jpg"
         },
         {
             "title": "Beata Beatrix",
@@ -25697,13 +25501,6 @@
             "title": "Madonna",
             "artist": "Peter Paul Rubens",
             "year": "1618",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Madonna%20-%20304%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Madonna",
-            "artist": "Peter Paul Rubens",
-            "year": "1618",
             "museum": "Vlaamse Kunstcollectie",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Madonna%20-%20304%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
         },
@@ -26484,13 +26281,6 @@
             "artist": "Albrecht D\u00fcrer",
             "year": "1516",
             "museum": "Samuel H. Kress Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Bildnis%20eines%20Geistlichen%20%28National%20Gallery%20of%20Art%29.jpg"
-        },
-        {
-            "title": "Portrait of a Clergyman (Johann Dorsch?)",
-            "artist": "Albrecht D\u00fcrer",
-            "year": "1516",
-            "museum": "Samuel H. Kress Collection of the National Gallery of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Bildnis%20eines%20Geistlichen%20%28National%20Gallery%20of%20Art%29.jpg"
         },
         {
