@@ -169,13 +169,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Za%20chrustem.jpg"
         },
         {
-            "title": "Four-In-Hand",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1879",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Czw%C3%B3rka%201879.jpg"
-        },
-        {
             "title": "In a Country Church",
             "artist": "J\u00f3zef Che\u0142mo\u0144ski",
             "year": "1871",
@@ -712,25 +705,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsarevna-Lebed%20by%20Mikhail%20Vrubel%20%28brightened%29.jpg"
         },
         {
-            "title": "The vision of Ezekiel",
-            "artist": "Mikhail Vrubel",
-            "year": "1906",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vrubel%20Videnie%20proroka%20Iezekiilya%201906.jpg"
-        },
-        {
             "title": "Bogatyr",
             "artist": "Mikhail Vrubel",
             "year": "1898",
             "museum": "Russian Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Vrubel%20-%20Bogatyr%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Tamara and Demon",
-            "artist": "Mikhail Vrubel",
-            "year": "1891",
-            "museum": "Tretyakov Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamaraydemon.jpg"
         },
         {
             "title": "Thirty-Three Bogatyrs",
@@ -2018,13 +1997,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20Konstantin-Assari-Shevket.jpg"
         },
         {
-            "title": "Sunset at sea",
-            "artist": "Ivan Aivazovsky",
-            "year": "1877",
-            "museum": "Sak\u0131p Sabanc\u0131 Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%9A.%20%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%97%D0%B0%D0%BA%D0%B0%D1%82%20%D0%BD%D0%B0%20%D0%BC%D0%BE%D1%80%D0%B5%20%281877%29.jpg"
-        },
-        {
             "title": "Ukrainian Landscape at Night",
             "artist": "Ivan Aivazovsky",
             "year": "1870",
@@ -2324,13 +2296,6 @@
             "year": "1876",
             "museum": "Feodosia National Gallery I. K. Aivazovsky",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Crash.jpg"
-        },
-        {
-            "title": "Moonlit Seascape With Shipwreck",
-            "artist": "Ivan Aivazovsky",
-            "year": "1863",
-            "museum": "http://www.wikidata.org/.well-known/genid/a5a4d4ede4754d6dbcdea8c769ef9de6",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivasovsky%20Ivan%20Constantinovich%20Moonlit%20Seascape%20With%20Shipwreck.jpg"
         },
         {
             "title": "Storm",
@@ -4483,13 +4448,6 @@
         {
             "title": "Blind Man's Bluff",
             "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1757",
-            "museum": "F\u00fchrermuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
-        },
-        {
-            "title": "Blind Man's Bluff",
-            "artist": "Jean-Honor\u00e9 Fragonard",
             "year": "1760",
             "museum": "F\u00fchrermuseum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
@@ -4588,13 +4546,6 @@
         {
             "title": "The See-Saw",
             "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1750",
-            "museum": "Thyssen-Bornemisza Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
-        },
-        {
-            "title": "The See-Saw",
-            "artist": "Jean-Honor\u00e9 Fragonard",
             "year": "1757",
             "museum": "Thyssen-Bornemisza Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
@@ -4654,13 +4605,6 @@
             "year": "1775",
             "museum": "Samuel H. Kress Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20The%20Swing%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Presumed portrait of Louis-Fran\u00e7ois Prault, formerly known as 'The Inspiration'",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1769",
-            "museum": "Department of Paintings of the Louvre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20Inspiration.jpg"
         },
         {
             "title": "The Triumph of Venus",
@@ -5698,13 +5642,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28houses%20and%20trees%29%20-%201983.95.127%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
-            "title": "Untitled (landscape, boat moored near bank with man walking)",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1896",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%2C%20boat%20moored%20near%20bank%20with%20man%20walking%29%20-%201983.95.114%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
             "title": "Untitled (landscape, boat moored near stream, man walking in foreground)",
             "artist": "Edward Mitchell Bannister",
             "year": "1879",
@@ -6195,13 +6132,6 @@
             "year": "1900",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Longhorn%20Bull%20in%20a%20Landscape%20-%20Rosa%20Bonheur.webp"
-        },
-        {
-            "title": "Two Horses in a Stable",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20Horses%20in%20a%20Stable%20-%20Rosa%20Bonheur.jpg"
         },
         {
             "title": "Two Deer in a Forest Glade",
@@ -6708,13 +6638,6 @@
             "artist": "Thomas Cole",
             "year": "1838",
             "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20View%20of%20Schroon%20Mountain%2C%20Essex%20County%2C%20New%20York%2C%20After%20a%20Storm%20-%201335.1917%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
-        {
-            "title": "View of Schroon Mountain, Essex County, New York, After a Storm",
-            "artist": "Thomas Cole",
-            "year": "1838",
-            "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20%28American%2C%201801-1848%29%20-%20View%20of%20Schroon%20Mountain%2C%20Essex%20County%2C%20New%20York%2C%20After%20a%20Storm%20-%201917.1335%20-%20Cleveland%20Museum%20of%20Art.jpg"
         },
         {
@@ -6837,13 +6760,6 @@
             "year": "1650",
             "museum": "Mauritshuis",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Vermeer%20-%20Diana%20and%20her%20Nymphs%20-%20406%20-%20Mauritshuis.jpg"
-        },
-        {
-            "title": "The Geographer",
-            "artist": "Johannes Vermeer",
-            "year": "1668",
-            "museum": "St\u00e4del Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Vermeer%2C%20Der%20Geograf%2C%201669.png"
         },
         {
             "title": "Saint Praxedis",
@@ -7959,13 +7875,6 @@
             "year": "1880",
             "museum": "Pushkin Museum of Fine Arts",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cezanne%20Self%20Portrait%20IMG%206937.JPG"
-        },
-        {
-            "title": "Bathers",
-            "artist": "Paul C\u00e9zanne",
-            "year": "1890",
-            "museum": "Pushkin Museum of Fine Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bathers%2C%20by%20Paul%20C%C3%A9zanne%2C%20Pushkin%20Museum%20of%20Fine%20Arts%2C%20Yorck.jpg"
         },
         {
             "title": "Le Jardinier Vallier (The Gardener Vallier)",
@@ -9593,13 +9502,6 @@
             "year": "1926",
             "museum": "Mus\u00e9e National d'Art Moderne",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20-%20D%C3%A9veloppement%2C%201926.jpg"
-        },
-        {
-            "title": "Easter Egg",
-            "artist": "Wassily Kandinsky",
-            "year": "1926",
-            "museum": "Mus\u00e9e National d'Art Moderne",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%2C%20Wassily%20-%20Osterei%20%28Easter%20Egg%29%2C%201926%2C%20GAC.jpg"
         },
         {
             "title": "Isolated Sounds",
@@ -12550,13 +12452,6 @@
             "title": "Portrait of a Courtesan",
             "artist": "Caravaggio",
             "year": "1590",
-            "museum": "Gem\u00e4ldegalerie Berlin",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20%281571%20-%201610%29%20-%20Half-length%20portrait%20of%20a%20young%20woman%20-%20356%20-%20Gem%C3%A4ldegalerie.jpg"
-        },
-        {
-            "title": "Portrait of a Courtesan",
-            "artist": "Caravaggio",
-            "year": "1601",
             "museum": "Gem\u00e4ldegalerie Berlin",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%28Michelangelo%20Merisi%29%20%281571%20-%201610%29%20-%20Half-length%20portrait%20of%20a%20young%20woman%20-%20356%20-%20Gem%C3%A4ldegalerie.jpg"
         },
@@ -15914,13 +15809,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20Jeune%20Femme%20arrosant%20un%20arbuste%2C%201876.jpg"
         },
         {
-            "title": "On the Beach, Les Petits-Dalles, F\u00e9camp",
-            "artist": "Berthe Morisot",
-            "year": "1873",
-            "museum": "Virginia Museum of Fine Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20Sur%20la%20Plage%2C%201873.jpg"
-        },
-        {
             "title": "Julie at the Table",
             "artist": "Berthe Morisot",
             "year": "1891",
@@ -17642,13 +17530,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20022.jpg"
         },
         {
-            "title": "Portrait of Philip IV in Fraga",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1644",
-            "museum": "The Frick Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Philip%20IV%20of%20Spain%20-%20Vel%C3%A1zquez%201644.jpg"
-        },
-        {
             "title": "Young Spanish Nobleman",
             "artist": "Diego Vel\u00e1zquez",
             "year": "1629",
@@ -18178,13 +18059,6 @@
         }
     ],
     "Marsden Hartley": [
-        {
-            "title": "Mt. Katahdin, Maine, No. 2",
-            "artist": "Marsden Hartley",
-            "year": "1939",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mt.%20Katahdin%20%28Maine%29%2C%20Autumn%20-2.jpg"
-        },
         {
             "title": "Mt. Katahdin, Maine, No. 2",
             "artist": "Marsden Hartley",
@@ -19086,13 +18960,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Orchids%20and%20Bamboo.jpg"
         },
         {
-            "title": "Autumn Mountains",
-            "artist": "Wen Zhengming",
-            "year": "1530",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20Autumn%20Mountains%20-%201948.103%20-%20Art%20Institute%20of%20Chicago.jpg"
-        },
-        {
             "title": "Peony",
             "artist": "Wen Zhengming",
             "year": "1532",
@@ -19405,13 +19272,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7oise%20Foliot%20-%20Henri%20Rousseau%20-%20La%20Fabrique%20de%20chaises%20%C3%A0%20Alfortville.jpg"
         },
         {
-            "title": "La Carriole du P\u00e8re Junier",
-            "artist": "Henri Rousseau",
-            "year": "1908",
-            "museum": "Jean Walter-Paul Guillaume Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri-Julien%20F%C3%A9lix%20Rousseau%20-%20La%20Carriole%20du%20P%C3%A8re%20Junier.jpg"
-        },
-        {
             "title": "Notre Dame",
             "artist": "Henri Rousseau",
             "year": "1909",
@@ -19585,13 +19445,6 @@
             "year": "1892",
             "museum": "Jean Walter-Paul Guillaume Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20L%27Enfant%20%C3%A0%20la%20poup%C3%A9e%20Orangerie%20RF1963-29.jpg"
-        },
-        {
-            "title": "The Chair Factory",
-            "artist": "Henri Rousseau",
-            "year": "1897",
-            "museum": "Jean Walter-Paul Guillaume Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri-Julien%20F%C3%A9lix%20Rousseau%20-%20La%20Fabrique%20de%20chaises.jpg"
         },
         {
             "title": "Outskirts of Paris",
@@ -21983,13 +21836,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Coronation%20of%20Emperor%20Du%C5%A1an%2C%20in%20%22The%20Slavonic%20Epic%22%20%281926%29.jpg"
         },
         {
-            "title": "Master Jan Hus Preaching at the Bethlehem Chapel",
-            "artist": "Alphonse Mucha",
-            "year": "1916",
-            "museum": "museum collection of the Prague City Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kazani%20mistra%20jana%20husa%20v%20kapli%20betlemske%2081x61m.jpg"
-        },
-        {
             "title": "The Meeting at K\u0159\u00ed\u017eky",
             "artist": "Alphonse Mucha",
             "year": "1916",
@@ -23962,13 +23808,6 @@
             "year": "1879",
             "museum": "Royal Holloway, University of London",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20%281829-1896%29%20-%20Princess%20Elizabeth%20in%20Prison%20at%20St%20James%E2%80%99s%20-%20THC0045%20-%20Royal%20Holloway%2C%20University%20of%20London.jpg"
-        },
-        {
-            "title": "James Fraser",
-            "artist": "John Everett Millais",
-            "year": "1880",
-            "museum": "Manchester Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20%281829-1896%29%20-%20James%20Fraser%20-%201979.134%20-%20Manchester%20Art%20Gallery.jpg"
         },
         {
             "title": "Luther Holden (1815\u20131905), Surgeon at St Bartholomew's Hospital (1865\u20131881)",
@@ -26095,13 +25934,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Berggipfel%20mit%20ziehenden%20Wolken%20%281835%29.jpg"
         },
         {
-            "title": "After the Storm",
-            "artist": "Caspar David Friedrich",
-            "year": "1817",
-            "museum": "Statens Museum for Kunst",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Efter%20stormen%2C%201817%2C%20KMS8817%2C%20Statens%20Museum%20for%20Kunst.jpg"
-        },
-        {
             "title": "Ruins at dusk (Church ruin in the forest)",
             "artist": "Caspar David Friedrich",
             "year": "1831",
@@ -26699,13 +26531,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Childhood%20Memory%20-%20Woll%20260.jpg"
         },
         {
-            "title": "Children and Ducks",
-            "artist": "Edvard Munch",
-            "year": "1906",
-            "museum": "Munch Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Children%20and%20Ducks%20-%20MM.M.00548%20-%20Munch%20Museum.jpg"
-        },
-        {
             "title": "Children in a Flowery Meadow",
             "artist": "Edvard Munch",
             "year": "1902",
@@ -26823,13 +26648,6 @@
             "year": "1916",
             "museum": "Munch Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20Cleopatra%20and%20the%20Slave%2C%201916%E2%80%9321%2C%20MM.M.00424.jpg"
-        },
-        {
-            "title": "Clothes on a Line in \u00c5sg\u00e5rdstrand",
-            "artist": "Edvard Munch",
-            "year": "1902",
-            "museum": "http://www.wikidata.org/.well-known/genid/adf761ca30455e5dabc60a5e225637d1",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20Klest%C3%B8rk%20i%20%C3%85sg%C3%A5rdstrand%20%28Clothes%20on%20a%20Line%20in%20%C3%85sg%C3%A5rdstrand%29%2C%201902%2C%20lot.53.jpg"
         },
         {
             "title": "Coastal Landscape",
@@ -27595,13 +27413,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RomualdGreco.jpg"
         },
         {
-            "title": "Christ on the Cross",
-            "artist": "El Greco",
-            "year": "1573",
-            "museum": "http://www.wikidata.org/.well-known/genid/2cfc10d04430bf7f779588de07a24ff1",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Christ%20on%20the%20Cross%201997%20NYP%2008584%200217%20000%28103035%29.jpg"
-        },
-        {
             "title": "Crucifixion with the Virgin Mary and Saint John the Evangelist",
             "artist": "El Greco",
             "year": "1600",
@@ -27868,13 +27679,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mather%20el%20greco.jpg"
         },
         {
-            "title": "The Immaculate Conception",
-            "artist": "El Greco",
-            "year": "1611",
-            "museum": "Thyssen-Bornemisza Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Inmaculada%20Concepci%C3%B3n%2C%20de%20El%20Greco%20y%20su%20hijo%20%28Museo%20Thyssen-Bornemisza%29.jpg"
-        },
-        {
             "title": "The Marriage of the Virgin",
             "artist": "El Greco",
             "year": "1613",
@@ -27885,13 +27689,6 @@
             "title": "The Veil of Veronica",
             "artist": "El Greco",
             "year": "1577",
-            "museum": "http://www.wikidata.org/.well-known/genid/7622cc4a2c3fa21e3ac7d3ef463af49b",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Faz%20El%20Greco%20Convento%20de%20Santo%20Domingo%20el%20Antiguo1.jpg"
-        },
-        {
-            "title": "The Veil of Veronica",
-            "artist": "El Greco",
-            "year": "1578",
             "museum": "http://www.wikidata.org/.well-known/genid/7622cc4a2c3fa21e3ac7d3ef463af49b",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Faz%20El%20Greco%20Convento%20de%20Santo%20Domingo%20el%20Antiguo1.jpg"
         },
@@ -29410,13 +29207,6 @@
             "year": "1892",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Study%20for%20The%20Landing%20of%20Columbus.jpg"
-        },
-        {
-            "title": "Summer Snow on the Peaks",
-            "artist": "Albert Bierstadt",
-            "year": "1850",
-            "museum": "Buffalo Bill Center of the West",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Summer%20Snow%20on%20the%20Peaks%20or%20Snow%20Capped%20Mountains.jpg"
         },
         {
             "title": "Study for \"Sunlight and Shadow\"",
