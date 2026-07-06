@@ -30,7 +30,7 @@ def main():
             if lower_file.endswith(('.jpg', '.jpeg', '.png', '.webp')):
                 if lower_file == target_id or \
                    lower_file.startswith(f"{target_id}.") or \
-                   lower_file.startswith(f"art_{target_id}."):
+                   lower_file.startswith(f"image_{target_id}."):
                     
                     file_path = os.path.join(d, filename)
                     try:
@@ -56,7 +56,7 @@ def main():
                     filename = os.path.basename(image_url).lower()
                     if filename == target_id or \
                        filename.startswith(f"{target_id}.") or \
-                       filename.startswith(f"art_{target_id}."):
+                       filename.startswith(f"image_{target_id}."):
                         item_index = idx
                         break
 
@@ -84,7 +84,7 @@ def main():
         print("\n\033[96mPhase 3: Syncing changes with GitHub...\033[0m")
         try:
             subprocess.run(["git", "add", "-A"], check=True)
-            commit_message = f"Purge art_{target_id} from catalog and images"
+            commit_message = f"Purge image_{target_id} from catalog and images"
             subprocess.run(["git", "commit", "-m", commit_message], check=True)
             subprocess.run(["git", "push"], check=True)
             print(f"\033[92m🚀 GitHub updated! The clean sweep is complete.\033[0m")
