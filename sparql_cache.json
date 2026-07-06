@@ -1269,13 +1269,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20Kosztka%2C%20Tivadar%20-%20Pilgrimage%20to%20the%20Cedars%20of%20Lebanon%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Old Fisherman",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1902",
-            "museum": "Ott\u00f3 Herman Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20Kosztka%2C%20Tivadar%20-%20Old%20Fisherman%20%281902%29.jpg"
-        },
-        {
             "title": "Mysterious Island",
             "artist": "Tivadar Csontv\u00e1ry Kosztka",
             "year": "1903",
@@ -1925,20 +1918,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Atlanticus%20-%20000V-33.jpg"
         },
         {
-            "title": "Saint Jerome in the Wilderness",
-            "artist": "Leonardo da Vinci",
-            "year": "1480",
-            "museum": "Pinacoteca Vaticana",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20%E2%80%94%20Jerome.jpg"
-        },
-        {
-            "title": "Leda and the Swan",
-            "artist": "Leonardo da Vinci",
-            "year": "1510",
-            "museum": "http://www.wikidata.org/.well-known/genid/55bffe3c1ac91dd370fd038fa05907a4",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20for%20the%20Kneeling%20Leda.jpg"
-        },
-        {
             "title": "The Holy Infants Embracing",
             "artist": "Leonardo da Vinci",
             "year": "1486",
@@ -1964,13 +1943,6 @@
             "artist": "Leonardo da Vinci",
             "year": "1501",
             "museum": "National Galleries Scotland",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Madonna%20of%20the%20Yarnwinder%2C%20Buccleuch%20version.jpg"
-        },
-        {
-            "title": "Madonna of the Yarnwinder",
-            "artist": "Leonardo da Vinci",
-            "year": "1501",
-            "museum": "Duke of Buccleuch collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Madonna%20of%20the%20Yarnwinder%2C%20Buccleuch%20version.jpg"
         }
     ],
@@ -4217,13 +4189,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Portrait%20of%20Juana%20of%20Austria%20with%20a%20Young%20Girl%2C%201561.jpg"
         },
         {
-            "title": "Portrait of a Couple",
-            "artist": "Sofonisba Anguissola",
-            "year": "1570",
-            "museum": "Galleria Doria Pamphilj",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anguissola%2C%20Sofonisba%20-%20Bildnis%20eines%20Paares%20-%20c.%201570.jpg"
-        },
-        {
             "title": "The Holy Family with Saints Anne and John the Baptist",
             "artist": "Sofonisba Anguissola",
             "year": "1592",
@@ -4484,13 +4449,6 @@
             "year": "1856",
             "museum": "Fitzwilliam Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20%281834-1917%29%20-%20The%20Castel%20Sant%20Elmo%20from%20the%20Capodimonte%2C%20Naples%20-%20PD.18-2000%20-%20Fitzwilliam%20Museum.jpg"
-        },
-        {
-            "title": "Copy after 'The Finding of Moses' by Veronese",
-            "artist": "Edgar Degas",
-            "year": "1855",
-            "museum": "Fitzwilliam Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20%281834-1917%29%20-%20The%20Finding%20of%20Moses%20%28copy%20after%20Paolo%20Veronese%29%20-%20PD.10-1978%20-%20Fitzwilliam%20Museum.jpg"
         },
         {
             "title": "Singer with a Glove",
@@ -5373,13 +5331,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Children%20in%20a%20Garden%20%28The%20Nurse%29%20-%202001.471%20-%20Museum%20of%20Fine%20Arts%2C%20Houston.jpg"
         },
         {
-            "title": "Children in a Garden (The Nurse)",
-            "artist": "Mary Cassatt",
-            "year": "1878",
-            "museum": "Museum of Fine Arts, Houston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Children%20in%20a%20Garden%20%28The%20Nurse%29%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Susan Comforting the Baby",
             "artist": "Mary Cassatt",
             "year": "1881",
@@ -6060,13 +6011,6 @@
             "year": "1864",
             "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20pier%29%20-%201983.95.73%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
-            "title": "Untitled (landscape with road near stream and trees)",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1864",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20road%20near%20stream%20and%20trees%29%20-%201983.95.141%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
             "title": "Untitled (landscape with rocks)",
@@ -9625,13 +9569,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20%27Saint%20Catherine%20of%20Alexandria%27%2C%20oil%20on%20canvas%20painting%2C%20c.%201620%2C%20El%20Paso%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "Judith and her maidservant with the head of Holofernes",
-            "artist": "Artemisia Gentileschi",
-            "year": "1608",
-            "museum": "National Museum of Art, Architecture and Design",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%2C%20Artemisia%20Gentileschi%20-%20Judith%20and%20her%20Maidservant%20with%20the%20Head%20of%20Holofernes%20-%20NG.M.02073%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg"
-        },
-        {
             "title": "Medea",
             "artist": "Artemisia Gentileschi",
             "year": "1620",
@@ -12284,13 +12221,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20d%27Aguesseau%20de%20Fresnes%20by%20Elisabeth%20Louise%20Vig%C3%A9e%20Le%20Brun%2C%201789%2C%20oil%20on%20wood%20-%20National%20Gallery%20of%20Art%2C%20Washington%20-%20DSC09999.JPG"
         },
         {
-            "title": "Portrait of Anne Catherine Le Preudhomme de Ch\u00e2tenoy, Comtesse de Verdun",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1781",
-            "museum": "Finnish National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elisabeth%20Vig%C3%A9e-Lebrun%20%28and%20workshop%29%20Portrait%20Anne%20Catherine%20Le%20Preudhomme%20de%20Chatenoy%20Comtesse%20der%20Verdun.jpg"
-        },
-        {
             "title": "Yolande-Martine-Gabrielle de Polastron, Duchess de Polignac",
             "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
             "year": "1782",
@@ -12494,13 +12424,6 @@
             "year": "1851",
             "museum": "Cincinnati Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Hole%2C%20in%20Little%20Miami%20River.jpg"
-        },
-        {
-            "title": "Cincinnati from Covington, Kentucky",
-            "artist": "Robert S. Duncanson",
-            "year": "1851",
-            "museum": "Cincinnati Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Duncanson%20-%20View%20of%20Cincinnati%2C%20Ohio%20from%20Covington%2C%20Kentucky.JPG"
         },
         {
             "title": "Ellen's Isle",
@@ -13907,13 +13830,6 @@
             "year": "1893",
             "museum": "Art Institute of Chicago",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Coast%20of%20Maine%20-%201931.505%20-%20Art%20Institute%20of%20Chicago.jpg"
-        },
-        {
-            "title": "High Cliff, Coast of Maine",
-            "artist": "Winslow Homer",
-            "year": "1894",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20High%20Cliff%2C%20Coast%20of%20Maine%20%281894%29.jpg"
         },
         {
             "title": "Playing Old Soldier",
@@ -17309,13 +17225,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Casseur%20de%20pierres.JPG"
         },
         {
-            "title": "Bathers at Asni\u00e8res",
-            "artist": "Georges Seurat",
-            "year": "1884",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Baigneurs%20a%20Asnieres.jpg"
-        },
-        {
             "title": "Poseuse de dos",
             "artist": "Georges Seurat",
             "year": "1887",
@@ -17342,13 +17251,6 @@
             "year": "1885",
             "museum": "http://www.wikidata.org/.well-known/genid/40bceaa9fa7af234215939b64ac24902",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20La%20Seine%20%C3%A0%20Courbevoie.jpg"
-        },
-        {
-            "title": "The Models",
-            "artist": "Georges Seurat",
-            "year": "1886",
-            "museum": "Barnes Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Models%20%28Poseuses%29%20-%20BF811%20-%20Barnes%20Foundation.jpg"
         },
         {
             "title": "Clothes on the Grass",
@@ -18370,13 +18272,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vel%C3%A1zquez%20-%20Caballero%2C%20Francisco%20Pacheco%20%28Museo%20del%20Prado%2C%20c.%201622%29.jpg"
         },
         {
-            "title": "Prince Balthasar Charles With a Dwarf",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1631",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Prince%20Baltasar%20and%20dwarf.jpg"
-        },
-        {
             "title": "The Immaculate Conception",
             "artist": "Diego Vel\u00e1zquez",
             "year": "1618",
@@ -18637,13 +18532,6 @@
             "year": "1760",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jupiter%20and%20Callisto%203.%20Angelica%20Kauffman.jpg"
-        },
-        {
-            "title": "Chancellor Andrzej Zamoyski with His Children Before a Bust of Jan Zamoyski.",
-            "artist": "Angelica Kauffman",
-            "year": "1793",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%20Andrzej%20Zamoyski.JPG"
         },
         {
             "title": "Portr\u00e4t des Johann Isaak Freiherr von Gerning",
@@ -19166,13 +19054,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/White%20Flower%20MET%20DT7601.jpg"
         },
         {
-            "title": "Landscape, New Mexico",
-            "artist": "Marsden Hartley",
-            "year": "1919",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%2C%20New%20Mexico%20MET%20DP236115.jpg"
-        },
-        {
             "title": "Movements",
             "artist": "Marsden Hartley",
             "year": "1913",
@@ -19546,13 +19427,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Schiele%20-%20Doppelbildnis%20Heinrich%20und%20Otto%20Benesch.jpg"
         },
         {
-            "title": "Portrait of Trude Engel",
-            "artist": "Egon Schiele",
-            "year": "1915",
-            "museum": "Lentos Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Schiele%20058.jpg"
-        },
-        {
             "title": "Krumau on the Vltava (The Small Town IV)",
             "artist": "Egon Schiele",
             "year": "1913",
@@ -19698,13 +19572,6 @@
             "year": "1911",
             "museum": "Leopold Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Schiele%20-%20Landscape%20with%20Ravens%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Cardinal and Nun (Caress)",
-            "artist": "Egon Schiele",
-            "year": "1912",
-            "museum": "Leopold Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Schiele%20-%20Cardinal%20and%20Nun%20%28Caress%29%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Crescent of Houses II (Island Town)",
@@ -20495,13 +20362,6 @@
             "year": "1908",
             "museum": "Barnes Foundation",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Study%20for%20View%20of%20the%20Pont%20de%20S%C3%A8vres%20%28Esquisse%20pour%20Vue%20du%20Pont%20de%20S%C3%A8vres%29%20-%20BF861%20-%20Barnes%20Foundation.jpg"
-        },
-        {
-            "title": "Landscape and Four Fisherman",
-            "artist": "Henri Rousseau",
-            "year": "1909",
-            "museum": "Barnes Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20and%20Four%20Fisherman%20%28Paysage%20et%20quatre%20p%C3%AAcheurs%20%C3%A0%20la%20ligne%29%20by%20Henri%20Rousseau.%20Original%20from%20Barnes%20Foundation.%20Digitally%20enhanced%20by%20rawpixel.%20%2850434770951%29.jpg"
         },
         {
             "title": "Scene in Bagneux on the Outskirts of Paris",
@@ -22562,13 +22422,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Last%20Judgement.jpg"
         },
         {
-            "title": "The Last Judgment",
-            "artist": "Hieronymus Bosch",
-            "year": "1530",
-            "museum": "Alte Pinakothek, upper floor, gallery IIa",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Last%20Judgement.jpg"
-        },
-        {
             "title": "An Allegory of Intemperance",
             "artist": "Hieronymus Bosch",
             "year": "1500",
@@ -22821,13 +22674,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Follower%20of%20Jheronimus%20Bosch%20015.jpg"
         },
         {
-            "title": "Christ Crowned with Thorns",
-            "artist": "Hieronymus Bosch",
-            "year": "1495",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Christ%20Mocked%20%28The%20Crowning%20with%20Thorns%29%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Last Judgement",
             "artist": "Hieronymus Bosch",
             "year": "1475",
@@ -23024,13 +22870,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20J.%20Bosch%20Hendrixke%20van%20Langhel%20with%20St%20Catherine.jpg"
         },
         {
-            "title": "Christ and the Woman Taken in Adultery",
-            "artist": "Hieronymus Bosch",
-            "year": "1549",
-            "museum": "Philadelphia Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20follower%20Christ%20and%20the%20Woman%20Taken%20in%20Adultery.jpg"
-        },
-        {
             "title": "Christ in Limbo",
             "artist": "Hieronymus Bosch",
             "year": "1550",
@@ -23187,13 +23026,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Czech%20Heart%20-%20O%203641%20-%20National%20Gallery%20Prague.jpg"
         },
         {
-            "title": "Poster design for Mo\u00ebt et Chandon champagne.",
-            "artist": "Alphonse Mucha",
-            "year": "1899",
-            "museum": "National Museum in Warsaw",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Mo%C3%ABt%20et%20Chandon.jpg"
-        },
-        {
             "title": "Spring",
             "artist": "Alphonse Mucha",
             "year": "1896",
@@ -23206,13 +23038,6 @@
             "year": "1896",
             "museum": "http://www.wikidata.org/.well-known/genid/d106183001762ccf6f427d14aeaa4a54",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%201896%20-%20Summer.jpg"
-        },
-        {
-            "title": "Autumn",
-            "artist": "Alphonse Mucha",
-            "year": "1896",
-            "museum": "http://www.wikidata.org/.well-known/genid/9ddb22f8f2859443d9e12c7e3fcde99b",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%201896%20-%20Autumn.jpg"
         },
         {
             "title": "Self-portrait (1907)",
@@ -23350,13 +23175,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Niagara%20Falls%2C%20from%20the%20American%20Side%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Niagara Falls, from the American Side",
-            "artist": "Frederic Edwin Church",
-            "year": "1867",
-            "museum": "National Galleries Scotland",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Niagara%20Falls%2C%20from%20the%20American%20Side%20-%20NG%20799%20-%20National%20Galleries%20of%20Scotland.jpg"
-        },
-        {
             "title": "Cathedral, Chillo, Ecuador",
             "artist": "Frederic Edwin Church",
             "year": "1857",
@@ -23488,13 +23306,6 @@
             "year": "1858",
             "museum": "Fine Arts Museums of San Francisco",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Twilight%20by%20Frederick%20Edwin%20Church%2C%201858%2C%20oil%20on%20canvas%20mounted%20on%20hardboard%20panel%20-%20De%20Young%20Museum%20-%20DSC00930.JPG"
-        },
-        {
-            "title": "Rainy Season in the Tropics",
-            "artist": "Frederic Edwin Church",
-            "year": "1866",
-            "museum": "Fine Arts Museums of San Francisco",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Rainy%20Season%20in%20the%20Tropics%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "A Country Home",
@@ -27215,13 +27026,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/CDFriedrich-Am%20Morgen%20ausfahrende%20Boote.jpg"
         },
         {
-            "title": "Cloud study",
-            "artist": "Caspar David Friedrich",
-            "year": "1798",
-            "museum": "Pomeranian State Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20%28zugeschr%29%20-%20Wolkenstudie.jpg"
-        },
-        {
             "title": "Landscape with bridge",
             "artist": "Caspar David Friedrich",
             "year": "1800",
@@ -27859,13 +27663,6 @@
             "year": "1882",
             "museum": "http://www.wikidata.org/.well-known/genid/b6c31f8ef233f036fc468f00aea2d4b8",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20By%20the%20Garden%20Table%20-%20Woll%2063.jpg"
-        },
-        {
-            "title": "By the Sea",
-            "artist": "Edvard Munch",
-            "year": "1906",
-            "museum": "http://www.wikidata.org/.well-known/genid/147e64de691e3a502dbf6a13858e84eb",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/By%20the%20Sea%20%28Munch%29.jpg"
         },
         {
             "title": "Cabaret",
@@ -30395,13 +30192,6 @@
             "artist": "Albrecht D\u00fcrer",
             "year": "1500",
             "museum": "Germanisches Nationalmuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1500%20Duerer%20Herkules%20im%20Kampf%20gegen%20die%20stymphalischen%20Voegel%20anagoria.JPG"
-        },
-        {
-            "title": "Hercules Killing the Stymphalian Birds",
-            "artist": "Albrecht D\u00fcrer",
-            "year": "1500",
-            "museum": "Bavarian State Painting Collections",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1500%20Duerer%20Herkules%20im%20Kampf%20gegen%20die%20stymphalischen%20Voegel%20anagoria.JPG"
         },
         {
