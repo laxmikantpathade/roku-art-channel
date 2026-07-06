@@ -1911,13 +1911,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20%22anger%20of%20the%20seas%22%20by%20Aivasovsky.jpg"
         },
         {
-            "title": "The Battle of Wyborg Bay",
-            "artist": "Ivan Aivazovsky",
-            "year": "1846",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20victory%20vyborg.jpg"
-        },
-        {
             "title": "Pushkin's Farewell to the sea",
             "artist": "Ivan Aivazovsky",
             "year": "1887",
@@ -3534,15 +3527,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20and%20Child%20with%20Two%20Angels%20MET%20EP256.jpg"
         }
     ],
-    "Sofonisba Anguissola": [
-        {
-            "title": "Portrait of Giuliano Cesarini",
-            "artist": "Sofonisba Anguissola",
-            "year": "1586",
-            "museum": "http://www.wikidata.org/.well-known/genid/56dd9ebadd251dec6db9fa9329b2f243",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20Portrait%20Giuliano%20II%20Cesarini%20aged%2014.jpg"
-        }
-    ],
+    "Sofonisba Anguissola": [],
     "Reza Abbasi": [],
     "Edgar Degas": [
         {
@@ -3588,13 +3573,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Melancholy%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Dance Rehearsal",
-            "artist": "Edgar Degas",
-            "year": "1870",
-            "museum": "The Phillips Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20La%20R%C3%A9p%C3%A9tition%20au%20foyer%20de%20la%20danse%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Women Combing Their Hair",
             "artist": "Edgar Degas",
             "year": "1875",
@@ -3605,13 +3583,6 @@
             "title": "Beach Scene",
             "artist": "Edgar Degas",
             "year": "1869",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20041.jpg"
-        },
-        {
-            "title": "Beach Scene",
-            "artist": "Edgar Degas",
-            "year": "1876",
             "museum": "National Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20041.jpg"
         },
@@ -4127,13 +4098,6 @@
             "year": "1760",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Happy%20Mother%20by%20Jean-Honor%C3%A9%20Fragonard%2C%20ca.%201760%2C%20Metropolitan%20Museum%20of%20Art%2C%2046.30.jpg"
-        },
-        {
-            "title": "The Two Sisters",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1769",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/FRAGONARDsisters.jpg"
         },
         {
             "title": "The Cascade",
@@ -5250,13 +5214,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20Le%20vieux%20monarque.jpg"
         },
         {
-            "title": "Metamort and Flambeau",
-            "artist": "Rosa Bonheur",
-            "year": "1865",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Metamort%20et%20Flambeau.jpg"
-        },
-        {
             "title": "Horse Tied to a Gate",
             "artist": "Rosa Bonheur",
             "year": "1900",
@@ -6058,13 +6015,6 @@
             "year": "1667",
             "museum": "Munich Central Collecting Point",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20-%20The%20Art%20of%20Painting%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "A Girl Asleep",
-            "artist": "Johannes Vermeer",
-            "year": "1657",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vermeer%20young%20women%20sleeping.jpg"
         },
         {
             "title": "Girl Reading a Letter at an Open Window",
@@ -8937,13 +8887,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Volga%20repin.JPG"
         },
         {
-            "title": "Portrait of general and statesman Mikhail Ivanovich Dragomirov.",
-            "artist": "Ilya Repin",
-            "year": "1889",
-            "museum": "State Historical Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragomirov%20by%20Repin.jpg"
-        },
-        {
             "title": "Get Thee Behind Me, Satan",
             "artist": "Ilya Repin",
             "year": "1895",
@@ -9012,13 +8955,6 @@
             "year": "1914",
             "museum": "Fine Arts Museum Kharkiv",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Schepkina-Kupernik%20by%20Repin.jpg"
-        },
-        {
-            "title": "Portrait of Sofya Dragomirova",
-            "artist": "Ilya Repin",
-            "year": "1889",
-            "museum": "Russian Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophia%20Dragomirova%20by%20Repin.jpg"
         },
         {
             "title": "Portrait of Countess Natalia Petrowna Golovina",
@@ -10674,13 +10610,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Scott%20Duncanson%20-%20The%20Caves.jpg"
         },
         {
-            "title": "The Rising Mist",
-            "artist": "Robert S. Duncanson",
-            "year": "1867",
-            "museum": "Cincinnati Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Rising%20Mist%27%20by%20Robert%20Scott%20Duncanson%2C%201867%2C%20Cincinnati%20Art%20Museum.jpg"
-        },
-        {
             "title": "Vale of Kashmir",
             "artist": "Robert S. Duncanson",
             "year": "1870",
@@ -10749,13 +10678,6 @@
             "year": "1870",
             "museum": "Detroit Institute of Arts",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20S.%20Duncanson%20-%20Storm%20Off%20the%20Irish%20Coast%20-%20F80.216%20-%20Detroit%20Institute%20of%20Arts.jpg"
-        },
-        {
-            "title": "Landscape",
-            "artist": "Robert S. Duncanson",
-            "year": "1865",
-            "museum": "Crystal Bridges Museum of American Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Seldon%20Duncanson%20-%20Landscape%20-%202010.104%20-%20Crystal%20Bridges%20Museum%20of%20American%20Art.jpg"
         },
         {
             "title": "Untitled (Landscape)",
@@ -11164,13 +11086,6 @@
             "year": "1594",
             "museum": "Galleria Borghese",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boy%20with%20a%20Basket%20of%20Fruit-Caravaggio%20%281593%29.jpg"
-        },
-        {
-            "title": "The Seven Works of Mercy",
-            "artist": "Caravaggio",
-            "year": "1600",
-            "museum": "Pio Monte della Misericordia",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Seven%20Works%20of%20Mercy-Caravaggio%20%281607%29.jpg"
         },
         {
             "title": "The Seven Works of Mercy",
@@ -12338,13 +12253,6 @@
             "year": "1889",
             "museum": "Van Gogh Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20The%20sheep-shearer%20%28after%20Millet%29%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Evening (after Millet)",
-            "artist": "Vincent van Gogh",
-            "year": "1889",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Avond%20%28naar%20Millet%29%20-%20s0174V1962%20-%20Van%20Gogh%20Museum.jpg"
         },
         {
             "title": "Evening (after Millet)",
@@ -13859,13 +13767,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20-%20Life%20Study%20%28Study%20of%20an%20Egyptian%20Girl%29.jpg"
         },
         {
-            "title": "Thistles",
-            "artist": "John Singer Sargent",
-            "year": "1885",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Thistles%20-%201996.446%20-%20Art%20Institute%20of%20Chicago.jpg"
-        },
-        {
             "title": "Venetian Glass Workers",
             "artist": "John Singer Sargent",
             "year": "1880",
@@ -14792,13 +14693,6 @@
             "year": "1883",
             "museum": "Solomon R. Guggenheim Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20002.jpg"
-        },
-        {
-            "title": "Sunday at Port-en-Bessin",
-            "artist": "Georges Seurat",
-            "year": "1888",
-            "museum": "Kr\u00f6ller-M\u00fcller Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20057.jpg"
         },
         {
             "title": "The Morning Walk",
@@ -17037,23 +16931,8 @@
         }
     ],
     "Abd al-Samad": [],
-    "Wen Zhengming": [
-        {
-            "title": "Orchids and Bamboo",
-            "artist": "Wen Zhengming",
-            "year": "1550",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Orchids%20and%20Bamboo.jpg"
-        }
-    ],
+    "Wen Zhengming": [],
     "Basawan": [
-        {
-            "title": "Mihrdukht aims her arrow at the ring",
-            "artist": "Basawan",
-            "year": "1570",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Meister%20der%20Hamza-N%C3%A2ma-Handschrift%20001.jpg"
-        },
         {
             "title": "A holy man prostrating himself before a learned prince",
             "artist": "Basawan",
@@ -17790,13 +17669,6 @@
             "year": "1902",
             "museum": "Cincinnati Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27At%20the%20Piano%27%20by%20Childe%20Hassam%2C%20Cincinnati%20Art%20Museum.JPG"
-        },
-        {
-            "title": "The Caulker",
-            "artist": "Childe Hassam",
-            "year": "1895",
-            "museum": "Cincinnati Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Caulker%27%20by%20Childe%20Hassam%2C%20Cincinnati%20Art%20Museum.JPG"
         },
         {
             "title": "THE CHILDREN",
@@ -19136,13 +19008,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch%20-%20Triptych%20of%20the%20Adoration%20of%20the%20Magi%20-%20WGA2606.jpg"
         },
         {
-            "title": "The Seven Deadly Sins and the Four Last Things",
-            "artist": "Hieronymus Bosch",
-            "year": "1500",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hieronymus%20Bosch-%20The%20Seven%20Deadly%20Sins%20and%20the%20Four%20Last%20Things.JPG"
-        },
-        {
             "title": "Christ Carrying the Cross",
             "artist": "Hieronymus Bosch",
             "year": "1505",
@@ -19670,13 +19535,6 @@
             "year": "1865",
             "museum": "Cooper Hewitt, Smithsonian Design Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wild%20Sugar%20Cane%20Jamaica%20by%20Frederic%20Edwin%20Church.jpg"
-        },
-        {
-            "title": "Painting. Study. In the Woods Maine.",
-            "artist": "Frederic Edwin Church",
-            "year": "1865",
-            "museum": "Cooper Hewitt, Smithsonian Design Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Painting%20Study%20in%20the%20Woods%20Maine%20by%20Frederic%20Edwin%20Church.jpg"
         },
         {
             "title": "Pichincha",
@@ -20271,13 +20129,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Frieze%20of%20Eight%20Women%20Gathering%20Apples%20-%20N05119%20-%20National%20Gallery.jpg"
         },
         {
-            "title": "Troy Triptych",
-            "artist": "Edward Burne-Jones",
-            "year": "1871",
-            "museum": "Birmingham Museums Trust",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Troy%20Triptych%20-%201922P179%20-%20Birmingham%20Museums%20Trust.jpg"
-        },
-        {
             "title": "Cupid and Psyche - Palace Green Murals",
             "artist": "Edward Burne-Jones",
             "year": "1876",
@@ -20311,13 +20162,6 @@
             "year": "1889",
             "museum": "Birmingham Museums Trust",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Briar%20Rose%20Series%20-%201961P50.1%20-%20Birmingham%20Museums%20Trust.jpg"
-        },
-        {
-            "title": "Pygmalion and the Image - The Soul Attains",
-            "artist": "Edward Burne-Jones",
-            "year": "1878",
-            "museum": "Birmingham Museums Trust",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Pygmalion%20and%20the%20Image%20-%20The%20Soul%20Attains%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Troy Triptych",
@@ -22363,13 +22207,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20Woman%20Seated%20in%20Bed%20-%202004.445%20-%20Museum%20of%20Fine%20Arts.jpg"
         },
         {
-            "title": "Carmen Gaudin in the Artist's Studio",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1888",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20Carmen%20Gaudin%20in%20the%20Artist%27s%20Studio%20-%2048.605%20-%20Museum%20of%20Fine%20Arts.jpg"
-        },
-        {
             "title": "The Jockeys",
             "artist": "Henri de Toulouse-Lautrec",
             "year": "1882",
@@ -22874,13 +22711,6 @@
             "year": "1889",
             "museum": "Mohamed Mahmoud Khalil Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201889%20La%20Vie%20et%20la%20Mort.jpg"
-        },
-        {
-            "title": "Portrait of the Artist with the Idol",
-            "artist": "Paul Gauguin",
-            "year": "1893",
-            "museum": "McNay Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20Autoportrait%20%C3%A0%20l%27idole.jpg"
         }
     ],
     "Caspar David Friedrich": [
@@ -23587,13 +23417,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Boy%27s%20Head%20-%20Woll%20228.jpg"
         },
         {
-            "title": "Bricklayers at Work on the Studio Building",
-            "artist": "Edvard Munch",
-            "year": "1920",
-            "museum": "Munch Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Bricklayers%20at%20Work%20on%20the%20Studio%20Building%20-%20MM.M.00298%20-%20Munch%20Museum%20%28cropped%29.jpg"
-        },
-        {
             "title": "Brothel Scene",
             "artist": "Edvard Munch",
             "year": "1897",
@@ -23683,13 +23506,6 @@
             "year": "1920",
             "museum": "Munch Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20Carpenters%20in%20the%20Studio%2C%201920%2C%20MM.M.00157.jpg"
-        },
-        {
-            "title": "Charlotte Corday",
-            "artist": "Edvard Munch",
-            "year": "1930",
-            "museum": "Munch Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Munch%20-%20Charlotte%20Corday%2C%201930%2C%20MM.M.00083.jpg"
         },
         {
             "title": "Charlotte Corday",
@@ -24851,13 +24667,6 @@
             "year": "1603",
             "museum": "Toledo Cathedral",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20035.jpg"
-        },
-        {
-            "title": "Saint Catherine",
-            "artist": "El Greco",
-            "year": "1610",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El-greco%20st%20catherine%20boston.jpg"
         },
         {
             "title": "The Holy Family with Mary Magdalen",
@@ -26666,13 +26475,6 @@
             "year": "1938",
             "museum": "Hirshhorn Museum and Sculpture Garden",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Dove%2C%20City%20Moon%2C%201938%20at%20Hirshhorn.jpg"
-        },
-        {
-            "title": "Long Island",
-            "artist": "Arthur Dove",
-            "year": "1940",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20g%20dove%20long%20island.jpg"
         },
         {
             "title": "Reflections",
