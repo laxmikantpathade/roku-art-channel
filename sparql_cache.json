@@ -189,13 +189,6 @@
             "artist": "Claude Monet",
             "year": "1886",
             "museum": "National Gallery of Norway",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Rain%2C%20%C3%89tretat%20-%20NG.M.00368%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg"
-        },
-        {
-            "title": "Rain at \u00c9tretat",
-            "artist": "Claude Monet",
-            "year": "1886",
-            "museum": "National Gallery of Norway",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Regnv%C3%A6r%2C%20Etretat%20-%20Google%20Art%20Project.jpg"
         },
         {
@@ -584,13 +577,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Water%20Lilies%20-%20Clear%20Morning%20with%20Willows%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "The Water Lilies - Morning",
-            "artist": "Claude Monet",
-            "year": "1920",
-            "museum": "Mus\u00e9e de l'Orangerie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Water%20Lilies%20-%20Morning%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "The Water Lilies - Setting Sun",
             "artist": "Claude Monet",
             "year": "1920",
@@ -719,13 +705,6 @@
             "year": "1885",
             "museum": "Mus\u00e9e d'Orsay",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Renoir%20-%20Maternity%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Monsieur et Madame Bernheim de Villers",
-            "artist": "Pierre-Auguste Renoir",
-            "year": "1910",
-            "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Monsieur%20et%20Madame%20Bernheim%20de%20Villers.jpg"
         },
         {
             "title": "Landscape of Cagnes",
@@ -1092,13 +1071,6 @@
             "year": "1904",
             "museum": "Csontv\u00e1ry Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-panaszfal%20bejaratanal%20jeruzsalemben%20%281904%29.jpg"
-        },
-        {
-            "title": "View of Selemecb\u00e1nya",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1902",
-            "museum": "Csontv\u00e1ry Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-selmecbanya%20latkepe%20%281902%29.jpg"
         },
         {
             "title": "Tennis Party",
@@ -1564,13 +1536,6 @@
             "year": "1804",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Turtles%20-%2056.121.12%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Portrait of the Poet Matsuo Bash\u014d (?)",
-            "artist": "Katsushika Hokusai",
-            "year": "1804",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Portrait%20of%20the%20Poet%20Matsuo%20Bash%C5%8D%20%28%5E%29%20-%2056.121.11%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Ebisu and Daikoku Celebrating the New Year Festival",
@@ -2219,13 +2184,6 @@
             "artist": "Rembrandt",
             "year": "1626",
             "museum": "Museum Catharijneconvent",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%2C%20The%20Baptism%20of%20the%20Eunuch%2C%201626%2C%20Museum%20Catharijneconvent%2C%20Utrecht.jpg"
-        },
-        {
-            "title": "The Baptism of the Eunuch",
-            "artist": "Rembrandt",
-            "year": "1626",
-            "museum": "Aartsbisschoppelijk Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%2C%20The%20Baptism%20of%20the%20Eunuch%2C%201626%2C%20Museum%20Catharijneconvent%2C%20Utrecht.jpg"
         },
         {
@@ -4079,13 +4037,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%2C%20Maisons%20au%20bord%20de%20la%20mer.gif"
         },
         {
-            "title": "The Parade",
-            "artist": "Edgar Degas",
-            "year": "1866",
-            "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20040.jpg"
-        },
-        {
             "title": "At the Milliner's",
             "artist": "Edgar Degas",
             "year": "1882",
@@ -5585,13 +5536,6 @@
             "year": "1900",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Three%20Wooly%20Sheep%20-%20Rosa%20Bonheur.webp"
-        },
-        {
-            "title": "A shepherd with his flock of sheep",
-            "artist": "Rosa Bonheur",
-            "year": "1850",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20shepherd%20with%20his%20flock%20of%20sheep%20-%20Rosa%20Bonheur.webp"
         },
         {
             "title": "A stag in a forest",
@@ -8611,13 +8555,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ito%20Jakuchu%20-%20Lotu%20-%202006.210.8a-b%20-%20Yale%20University%20Art%20Gallery.jpg"
         },
         {
-            "title": "Two Cranes",
-            "artist": "Ito Jakuchu",
-            "year": "1725",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Two%20Cranes%20-%202015.300.214%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
             "title": "White Plum Blossoms and Moon",
             "artist": "Ito Jakuchu",
             "year": "1755",
@@ -9857,13 +9794,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20The%20Crystal%20Ball.JPG"
         },
         {
-            "title": "The Favourites of the Emperor Honorius",
-            "artist": "John William Waterhouse",
-            "year": "1883",
-            "museum": "Art Gallery of South Australia",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20The%20Favorites%20of%20the%20Emperor%20Honorius%20-%201883.jpg"
-        },
-        {
             "title": "The Magic Circle",
             "artist": "John William Waterhouse",
             "year": "1886",
@@ -10860,13 +10790,6 @@
             "year": "1789",
             "museum": "Samuel H. Kress Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20d%27Aguesseau%20de%20Fresnes%20by%20Elisabeth%20Louise%20Vig%C3%A9e%20Le%20Brun%2C%201789%2C%20oil%20on%20wood%20-%20National%20Gallery%20of%20Art%2C%20Washington%20-%20DSC09999.JPG"
-        },
-        {
-            "title": "Yolande-Martine-Gabrielle de Polastron, Duchess de Polignac",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1782",
-            "museum": "Palace of Versailles",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Duchess%20de%20Polignac.jpg"
         },
         {
             "title": "Yolande-Martine-Gabrielle de Polastron, Duchess de Polignac",
@@ -12046,13 +11969,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fox%20Hunt%201893%20Winslow%20Homer.jpg"
         },
         {
-            "title": "Home, Sweet Home",
-            "artist": "Winslow Homer",
-            "year": "1863",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Home%2C%20Sweet%20Home%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Prisoners from the Front",
             "artist": "Winslow Homer",
             "year": "1866",
@@ -12135,13 +12051,6 @@
             "year": "1879",
             "museum": "Cooper Hewitt, Smithsonian Design Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Yellow%20Jacket%20by%20Winslow%20Homer.jpg"
-        },
-        {
-            "title": "The Bean Picker",
-            "artist": "Winslow Homer",
-            "year": "1876",
-            "museum": "Cooper Hewitt, Smithsonian Design Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Bean%20Picker%20by%20Winslow%20Homer.jpg"
         },
         {
             "title": "Man with a Knapsack",
@@ -12401,13 +12310,6 @@
             "year": "1869",
             "museum": "Museum of Fine Arts Boston",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Long%20Branch%2C%20New%20Jersey.jpg"
-        },
-        {
-            "title": "Gloucester Mackerel Fleet at Dawn",
-            "artist": "Winslow Homer",
-            "year": "1884",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Mackerel%20Fleet%20at%20Dawn%20%281884%29.jpg"
         },
         {
             "title": "Winter Coast",
@@ -12908,13 +12810,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20The%20sheep-shearer%20%28after%20Millet%29%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Ravine with a Small Stream",
-            "artist": "Vincent van Gogh",
-            "year": "1889",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ravijn%20met%20beekje%20-%20s0118V1962%20-%20Van%20Gogh%20Museum.jpg"
-        },
-        {
             "title": "Evening (after Millet)",
             "artist": "Vincent van Gogh",
             "year": "1889",
@@ -13018,13 +12913,6 @@
             "year": "1889",
             "museum": "Van Gogh Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rozen%20-%20s0187V1962%20-%20Van%20Gogh%20Museum.jpg"
-        },
-        {
-            "title": "Vase of Flowers",
-            "artist": "Vincent van Gogh",
-            "year": "1890",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vaas%20met%20bloemen%20-%20s0109V1962%20-%20Van%20Gogh%20Museum.jpg"
         },
         {
             "title": "View from Vincent's Studio",
@@ -14628,13 +14516,6 @@
             "year": "1921",
             "museum": "Museum of Fine Arts Boston",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Singer%20Sargent%2C%20John%20-%20Hercules%20-%201921.jpg"
-        },
-        {
-            "title": "Edith, Lady Playfair (Edith Russell)",
-            "artist": "John Singer Sargent",
-            "year": "1884",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Edith%2C%20Lady%20Playfair%20%28Edith%20Russell%29%20-%2033.530%20-%20Museum%20of%20Fine%20Arts.jpg"
         },
         {
             "title": "Frieze of the Prophets",
@@ -18081,13 +17962,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Portrait%20of%20a%20Woman%20in%20a%20Landscape%20%28Portrait%20de%20femme%20dans%20un%20paysage%29%20-%20BF260%20-%20Barnes%20Foundation.jpg"
         },
         {
-            "title": "View of the Quai d' Asni\u00e8res",
-            "artist": "Henri Rousseau",
-            "year": "1900",
-            "museum": "Barnes Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20View%20of%20the%20Quai%20d%27%20Asni%C3%A8res%20%28Vue%20du%20quai%20d%27Asni%C3%A8res%29%2C%20also%20called%20The%20Canal%20and%20Landscape%20with%20Tree%20Trunks%20%28Le%20Canal%20and%20Paysage%20avec%20troncs%20d%27arbre%29%20-%20BF583%20-%20Barnes%20Foundation.jpg"
-        },
-        {
             "title": "Woman Walking in an Exotic Forest",
             "artist": "Henri Rousseau",
             "year": "1905",
@@ -18674,13 +18548,6 @@
             "year": "1890",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Spring%20Morning%20in%20the%20Heart%20of%20the%20City%20MET%20DT5572.jpg"
-        },
-        {
-            "title": "Tuileries Garden",
-            "artist": "Childe Hassam",
-            "year": "1897",
-            "museum": "High Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Childe%20Hassam%20-%20%27Tuileries%20Garden%27%2C%20c.%201897.JPG"
         },
         {
             "title": "The Water Garden",
@@ -19436,13 +19303,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rossetti%20lady%20lilith%201867.jpg"
         },
         {
-            "title": "Mnemosyne",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1875",
-            "museum": "Delaware Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Dante%20Rosetti%2C%20Mnemosyne.jpg"
-        },
-        {
             "title": "Monna Rosa",
             "artist": "Dante Gabriel Rossetti",
             "year": "1867",
@@ -19709,13 +19569,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20-%20Monna%20VannaFXD.jpg"
         },
         {
-            "title": "Fair Rosamund",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1861",
-            "museum": "Amgueddfa Cymru \u2013 Museum Wales",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20-%20Fair%20Rosamund.jpg"
-        },
-        {
             "title": "La Donna della Finestra",
             "artist": "Dante Gabriel Rossetti",
             "year": "1879",
@@ -19763,13 +19616,6 @@
             "year": "1863",
             "museum": "Fogg Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Greensleeves-rossetti.jpg"
-        },
-        {
-            "title": "My Lady Greensleeves",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1863",
-            "museum": "Harvard Art Museums",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Greensleeves-rossetti-mod.jpg"
         },
         {
             "title": "My Lady Greensleeves",
@@ -20913,13 +20759,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Mount%20Katahdin%20from%20Lake%20Millinocket%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Mount Katahdin from Millinocket Camp",
-            "artist": "Frederic Edwin Church",
-            "year": "1895",
-            "museum": "Portland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Mount%20Katahdin%20from%20Millinocket%20Camp.jpg"
-        },
-        {
             "title": "Twilight (Sunset)",
             "artist": "Frederic Edwin Church",
             "year": "1856",
@@ -21721,13 +21560,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20vino%20de%20la%20fiesta%20de%20San%20Mart%C3%ADn%20%28Pieter%20Brueghel%20el%20Viejo%29%20%28restaurada%29.jpg"
         },
         {
-            "title": "Adoration of the Magi in a Winter Landscape",
-            "artist": "Pieter Bruegel the Elder",
-            "year": "1563",
-            "museum": "Museum collection Am R\u00f6merholz",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winterthur%20The%20Adoration%20of%20the%20Magi%20in%20the%20Snow%20027%204f%20ZS%20Breugel%20EKP%20crop.jpg"
-        },
-        {
             "title": "The Hay Harvest (early summer June/July)",
             "artist": "Pieter Bruegel the Elder",
             "year": "1589",
@@ -21987,13 +21819,6 @@
             "year": "1846",
             "museum": "Victoria and Albert Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Millais%2C%20John%20Everett%20%28Sir%29%20-%20Pizarro%20Seizing%20the%20Inca%20of%20Peru%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Ferdinand Lured by Ariel",
-            "artist": "John Everett Millais",
-            "year": "1849",
-            "museum": "Sudley House",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20lured%20by%20ariel.jpg"
         },
         {
             "title": "Thomas Combe (1796\u20131872)",
@@ -23199,13 +23024,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20M.%20de%20Lauradour.jpg"
         },
         {
-            "title": "The Englishman (William Tom Warrener, 1861\u20131934) at the Moulin Rouge",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1892",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%2C%20The%20Englishman%20at%20the%20Moulin%20Rouge%2C%201892.jpg"
-        },
-        {
             "title": "The Sofa",
             "artist": "Henri de Toulouse-Lautrec",
             "year": "1894",
@@ -24253,13 +24071,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Abend%20an%20der%20Ostsee%2C%20um%201826%2C%20MGS-20160312-001.jpg"
         },
         {
-            "title": "Idealised landscape with waterfall",
-            "artist": "Caspar David Friedrich",
-            "year": "1801",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Ideale%20Gebirgslandschaft%20mit%20Wasserfall.jpg"
-        },
-        {
             "title": "Mountain chapel in the mist",
             "artist": "Caspar David Friedrich",
             "year": "1811",
@@ -24682,13 +24493,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Card%20Players%20in%20Elgersburg%20-%20MM.M.00321%20-%20Munch%20Museum%20%28cropped%29.jpg"
         },
         {
-            "title": "Caricature Portrait of Tulla Larsen",
-            "artist": "Edvard Munch",
-            "year": "1905",
-            "museum": "Munch Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Self-Portrait%20Against%20a%20Green%20Background%20and%20Caricature%20Portrait%20of%20Tulla%20Larsen.jpg"
-        },
-        {
             "title": "Carpenters in the Studio",
             "artist": "Edvard Munch",
             "year": "1920",
@@ -24963,13 +24767,6 @@
             "artist": "Anthony van Dyck",
             "year": "1630",
             "museum": "Bavarian State Painting Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20-%20Bildnis%20eines%20Herrn%20-%20369%20-%20Bavarian%20State%20Painting%20Collections.jpg"
-        },
-        {
-            "title": "Portrait of a Gentleman",
-            "artist": "Anthony van Dyck",
-            "year": "1630",
-            "museum": "Electoral Gallery Dusseldorf",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20-%20Bildnis%20eines%20Herrn%20-%20369%20-%20Bavarian%20State%20Painting%20Collections.jpg"
         },
         {
