@@ -1122,13 +1122,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mysterious%20Island%2C%20c%201903.jpg"
         },
         {
-            "title": "A Street in Athens",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1904",
-            "museum": "http://www.wikidata.org/.well-known/genid/d0013d6c8b0b9c23152e5d3abdcd6393",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Street%20in%20Athens.jpg"
-        },
-        {
             "title": "Almonds Blossoming",
             "artist": "Tivadar Csontv\u00e1ry Kosztka",
             "year": "1901",
@@ -4149,13 +4142,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20038.jpg"
         },
         {
-            "title": "Dancer Posing for a Photographer (Dancer in Front of the Window)",
-            "artist": "Edgar Degas",
-            "year": "1875",
-            "museum": "Pushkin Museum of Fine Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20020.jpg"
-        },
-        {
             "title": "Dancers at the Barre",
             "artist": "Edgar Degas",
             "year": "1900",
@@ -4310,13 +4296,6 @@
             "year": "1769",
             "museum": "Mus\u00e9e Jacquemart-Andr\u00e9",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20modele.jpg"
-        },
-        {
-            "title": "Jean-Claude Richard, abb\u00e9 of Saint-Non",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1769",
-            "museum": "Museu Nacional d'Art de Catalunya",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Col%20renaixement%20ambit%2045%202%20big.jpg"
         },
         {
             "title": "The Bathers",
@@ -5165,13 +5144,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Landscape%20%28trees%20and%20rocks%20by%20lake%29%20-%201983.95.64%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
-            "title": "Landscape (trees)",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1864",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Landscape%20%28trees%29%20-%201983.95.65%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
             "title": "Landscape near Newport, R. I.",
             "artist": "Edward Mitchell Bannister",
             "year": "1877",
@@ -5867,13 +5839,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%2C%20a%20terrier%20-%20Rosa%20Bonheur.webp"
         },
         {
-            "title": "Two Deer in a Forest Glade",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20Deer%20in%20a%20Forest%20Glade%20-%20Rosa%20Bonheur.webp"
-        },
-        {
             "title": "A Pair of Black Sheep",
             "artist": "Rosa Bonheur",
             "year": "1900",
@@ -6141,13 +6106,6 @@
             "year": "1826",
             "museum": "Wadsworth Atheneum Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Kaaterskill%20Falls%201826.jpg"
-        },
-        {
-            "title": "Mountain Sunrise, Catskill",
-            "artist": "Thomas Cole",
-            "year": "1826",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Mountain%20Sunrise%20Catskill%201826.jpg"
         },
         {
             "title": "River in the Catskills",
@@ -6637,13 +6595,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Blumenstillleben%2C%201691%2C%20HK-28%2C%2066685.jpg"
         },
         {
-            "title": "Rachel Ruysch in her studio",
-            "artist": "Rachel Ruysch",
-            "year": "1692",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20and%20Michiel%20van%20Musscher%20-%20Rachel%20Ruysch%20in%20her%20studio.jpg"
-        },
-        {
             "title": "Stillife- fruits",
             "artist": "Rachel Ruysch",
             "year": "1715",
@@ -6693,25 +6644,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Museum%20der%20Bildenden%20Kunste%20Leipzig%20-%20Flowers%20with%20fruit%20-%201707.jpg"
         },
         {
-            "title": "Still-Life with Fruit and Insects",
-            "artist": "Rachel Ruysch",
-            "year": "1711",
-            "museum": "Johann Wilhelm von der Pfalz collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Still-Life%20with%20Fruit%20and%20Insects%20-%20WGA20557.jpg"
-        },
-        {
             "title": "Still-Life with Flower Bouquet and Plums",
             "artist": "Rachel Ruysch",
             "year": "1704",
             "museum": "Royal Museums of Fine Arts of Belgium",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RRuysch.jpg"
-        },
-        {
-            "title": "Flowers in a Vase",
-            "artist": "Rachel Ruysch",
-            "year": "1685",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Flowers%20in%20a%20vase%20-%20NG%206425.jpg"
         },
         {
             "title": "Vase with Flowers",
@@ -6789,13 +6726,6 @@
             "year": "1684",
             "museum": "Fitzwilliam Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Insects%20and%20a%20lizard%20in%20a%20wood%20-%20PD.87-1973.jpg"
-        },
-        {
-            "title": "Flowers in a terracotta vase",
-            "artist": "Rachel Ruysch",
-            "year": "1700",
-            "museum": "Fitzwilliam Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Flowers%20in%20a%20terracotta%20vase%20-%20PD.88-1973.jpg"
         },
         {
             "title": "Basket of Flowers",
@@ -9708,13 +9638,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophia%20Dragomirova%20by%20Repin.jpg"
         },
         {
-            "title": "Maria tenisheva",
-            "artist": "Ilya Repin",
-            "year": "1893",
-            "museum": "Belarusian National Arts Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Tenisheva%20by%20I.Repin%20%281892-1893%2C%20Belarus%20museum%29.jpg"
-        },
-        {
             "title": "Portrait of Countess Natalia Petrowna Golovina",
             "artist": "Ilya Repin",
             "year": "1896",
@@ -10002,13 +9925,6 @@
             "year": "1912",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20Portrait%20of%20Mrs.%20Charles%20Schreiber%20%281912%29.jpg"
-        },
-        {
-            "title": "Sweet Summer",
-            "artist": "John William Waterhouse",
-            "year": "1912",
-            "museum": "http://www.wikidata.org/.well-known/genid/7c0c9e030c9321b19c9c9caf0e6c0cc4",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse%2C%20JW%20-%20Sweet%20Summer%20%281912%29.jpg"
         },
         {
             "title": "The Rose Bower",
@@ -11818,13 +11734,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Burial%20of%20Saint%20Lucy-Caravaggio%20%281608%29.jpg"
         },
         {
-            "title": "The Martyrdom of Saint Ursula",
-            "artist": "Caravaggio",
-            "year": "1610",
-            "museum": "Gallerie d'Italia",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Martyrdom%20of%20Saint%20Ursula-Caravaggio%20%281610%29.jpg"
-        },
-        {
             "title": "The Entombment of Christ",
             "artist": "Caravaggio",
             "year": "1600",
@@ -12885,13 +12794,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20Merry%20Trio.jpg"
         },
         {
-            "title": "The lute player",
-            "artist": "Judith Leyster",
-            "year": "1620",
-            "museum": "Rijksmuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Copy%20of%20Lute%20Player%20by%20Frans%20Hals%20-%20SK-A-134.JPG"
-        },
-        {
             "title": "The Jolly Toper",
             "artist": "Judith Leyster",
             "year": "1629",
@@ -13114,13 +13016,6 @@
             "year": "1633",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20card%20players%20by%20lamplight.JPG"
-        },
-        {
-            "title": "Portrait of a Lutenist",
-            "artist": "Judith Leyster",
-            "year": "1635",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20copy%20of%20Lute%20Player%20with%20wide%20brimmed%20hat%20and%20cut-sleeved%20jacket%20facing%20left.JPG"
         },
         {
             "title": "Early Brabantson Tulip (folio 30)",
@@ -18271,30 +18166,9 @@
             "year": "1532",
             "museum": "Yale University Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20Peony%20-%201985.83.1%20-%20Yale%20University%20Art%20Gallery.jpg"
-        },
-        {
-            "title": "Garden of the Inept Administrator",
-            "artist": "Wen Zhengming",
-            "year": "1551",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20Garden%20of%20the%20Inept%20Administrator%20-%201979.458.1a%E2%80%93ii%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Landscape with Mountain Village",
-            "artist": "Wen Zhengming",
-            "year": "1546",
-            "museum": "Harvard Art Museums",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20Landscape%20with%20Mountain%20Village%20-%202010.610%20-%20Harvard%20Art%20Museums.jpg"
         }
     ],
     "Basawan": [
-        {
-            "title": "Akbar visits the tomb of Khwajah Mu'in ad-Din Chishti at Ajmer",
-            "artist": "Basawan",
-            "year": "1590",
-            "museum": "Victoria and Albert Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Basawan%20-%20Akbar%20visits%20the%20tomb%20of%20Khwajah%20Mu%27in%20ad-Din%20Chishti%20at%20Ajmer%20-%20Google%20Art%20Project.jpg"
-        },
         {
             "title": "Mihrdukht aims her arrow at the ring",
             "artist": "Basawan",
@@ -18818,13 +18692,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emily%20Carr%20-%20Breton%20Farm%20Yard.jpg"
         },
         {
-            "title": "Totem Walk at Sitka",
-            "artist": "Emily Carr",
-            "year": "1907",
-            "museum": "Art Gallery of Greater Victoria",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emily%20Carr%20-%20Totem%20Walk%20at%20Sitka%2C%201907.jpg"
-        },
-        {
             "title": "Path among Pines",
             "artist": "Emily Carr",
             "year": "1930",
@@ -19227,13 +19094,6 @@
             "year": "1918",
             "museum": "Mus\u00e9e National d'Art Moderne",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Childe%20Hassam-Avenue%20of%20the%20Allies-1917.jpg"
-        },
-        {
-            "title": "The Avenue in the Rain",
-            "artist": "Childe Hassam",
-            "year": "1917",
-            "museum": "White House",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Avenue%20in%20the%20Rain%20Frederick%20Childe%20Hassam%201917.jpeg"
         },
         {
             "title": "Golden Afternoon",
@@ -20545,13 +20405,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20050.jpg"
         },
         {
-            "title": "The Haywain Triptych",
-            "artist": "Hieronymus Bosch",
-            "year": "1510",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20De%20hooiwagen%20%28c.1516%2C%20Prado%29.jpg"
-        },
-        {
             "title": "Christ Mocked",
             "artist": "Hieronymus Bosch",
             "year": "1500",
@@ -20627,13 +20480,6 @@
             "year": "1489",
             "museum": "Gem\u00e4ldegalerie Berlin",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20op%20Patmos%20Saint%20John%20on%20Patmos%20Berlin%2C%20Staatlichen%20Museen%20zu%20Berlin%2C%20Gemaldegalerie%20HR.jpg"
-        },
-        {
-            "title": "Crucifixion with a Donor",
-            "artist": "Hieronymus Bosch",
-            "year": "1485",
-            "museum": "Royal Museums of Fine Arts of Belgium",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Crucifixion%20with%20a%20Donor%2C%20ca.%201480-85.jpg"
         },
         {
             "title": "The Wayfarer",
@@ -21725,13 +21571,6 @@
             "year": "1616",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Studio%20of%20Tawaraya%20S%C5%8Dtatsu%20%E4%BF%B5%E5%B1%8B%E5%AE%97%E9%81%94%E5%B7%A5%E6%88%BF%20-%20Puppy%20-%202022.432.11%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Black Pines and Maple Trees",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1650",
-            "museum": "Yamatane Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20Pine%20and%20Maple%20Tree.jpg"
         }
     ],
     "Kan\u014d Eitoku": [],
@@ -22043,13 +21882,6 @@
             "year": "1863",
             "museum": "Birmingham Museums Trust",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20Landscape%20-%20Study%20-%201954P62%20-%20Birmingham%20Museums%20Trust.jpg"
-        },
-        {
-            "title": "The Briar Rose Series",
-            "artist": "Edward Burne-Jones",
-            "year": "1889",
-            "museum": "Birmingham Museums Trust",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20-%20The%20Briar%20Rose%20Series%20-%201961P50.3%20-%20Birmingham%20Museums%20Trust.jpg"
         },
         {
             "title": "The Briar Rose Series",
@@ -24002,13 +23834,6 @@
             "year": "1888",
             "museum": "Museum of Fine Arts Boston",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20-%20Carmen%20Gaudin%20in%20the%20Artist%27s%20Studio%20-%2048.605%20-%20Museum%20of%20Fine%20Arts.jpg"
-        },
-        {
-            "title": "The Opera 'Messalina' at Bordeaux (Messaline descend l'escalier bord\u00e9 de figurants)",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1900",
-            "museum": "Los Angeles County Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec%2C%20Henri%20-%20Messalina.jpg"
         },
         {
             "title": "The Jockeys",
@@ -26208,13 +26033,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Antonio%20de%20Padua%20%28El%20Greco%29.jpg"
         },
         {
-            "title": "The Visitation",
-            "artist": "El Greco",
-            "year": "1610",
-            "museum": "Dumbarton Oaks",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Visitacion%20El%20Greco.jpg"
-        },
-        {
             "title": "Mater dolorosa",
             "artist": "El Greco",
             "year": "1590",
@@ -26964,13 +26782,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Opvoeding%20van%20Maria%20-%20306%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.jpg"
         },
         {
-            "title": "The education of Mary",
-            "artist": "Peter Paul Rubens",
-            "year": "1630",
-            "museum": "Vlaamse Kunstcollectie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Opvoeding%20van%20Maria%20-%20306%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.jpg"
-        },
-        {
             "title": "Lamentation (central panel of the Epitaph of Jan Michielsen and his Wife Maria Maes)",
             "artist": "Peter Paul Rubens",
             "year": "1618",
@@ -27102,13 +26913,6 @@
             "year": "1614",
             "museum": "Department of Paintings of the Louvre",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Ongeloof%20van%20Tomas%20-%20307%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Portrait of Nicolaas Rockox",
-            "artist": "Peter Paul Rubens",
-            "year": "1614",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Nicolaas%20Rockox%2C%20burgemeester%20van%20Antwerpen%20-%20308%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
         },
         {
             "title": "Portrait of Nicolaas Rockox",
@@ -28551,13 +28355,6 @@
             "year": "1753",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP166072.jpg"
-        },
-        {
-            "title": "Indrajit Makes Offerings: Folio from the Siege of Lanka series",
-            "artist": "Manaku",
-            "year": "1725",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Manaku%20-%20Indrajit%20Makes%20Offerings%2C%20Folio%20from%20the%20Siege%20of%20Lanka%20series%20-%2019.24.3%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Krishna dallying with cowherd maidens",
