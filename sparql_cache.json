@@ -591,13 +591,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20La%20Pointe%20de%20la%20H%C3%A8ve%20at%20Low%20Tide%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Le Bassin des Nympheas",
-            "artist": "Claude Monet",
-            "year": "1904",
-            "museum": "Denver Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Le%20Bassin%20des%20Nympheas%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Ice breaking up on the Seine near Bennecourt",
             "artist": "Claude Monet",
             "year": "1893",
@@ -1295,13 +1288,6 @@
             "year": "1904",
             "museum": "Csontv\u00e1ry Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-panaszfal%20bejaratanal%20jeruzsalemben%20%281904%29.jpg"
-        },
-        {
-            "title": "Waterfall at Jajce",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1903",
-            "museum": "Csontv\u00e1ry Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-jajcei%20vizeses%20%281903%29.jpg"
         },
         {
             "title": "View of Selemecb\u00e1nya",
@@ -2967,13 +2953,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alegor%C3%ADa%20de%20la%20villa%20de%20Madrid.JPG"
         },
         {
-            "title": "Attack on a Coach",
-            "artist": "Francisco Goya",
-            "year": "1787",
-            "museum": "http://www.wikidata.org/.well-known/genid/e9d842f0a2c9a9fa9bebd33b66ac07b8",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Asalto%20al%20coche.jpg"
-        },
-        {
             "title": "The Madhouse",
             "artist": "Francisco Goya",
             "year": "1814",
@@ -4068,13 +4047,6 @@
             "year": "1561",
             "museum": "Isabella Stewart Gardner Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Portrait%20of%20Juana%20of%20Austria%20with%20a%20Young%20Girl%2C%201561.jpg"
-        },
-        {
-            "title": "The Holy Family with Saints Anne and John the Baptist",
-            "artist": "Sofonisba Anguissola",
-            "year": "1592",
-            "museum": "Lowe Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Holy%20Family%20with%20Sts.%20Anne%20%26%20John%20the%20Baptist%27%20by%20Sofonisba%20Anguissola.JPG"
         }
     ],
     "Reza Abbasi": [],
@@ -4444,13 +4416,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Dancers%20at%20the%20Barre%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "At the Races in the Countryside",
-            "artist": "Edgar Degas",
-            "year": "1869",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20At%20the%20Races%20in%20the%20Countryside%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Houses at the seaside",
             "artist": "Edgar Degas",
             "year": "1869",
@@ -4505,13 +4470,6 @@
             "year": "1872",
             "museum": "St\u00e4del Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Orchestra%20Musicians%20%28SM%20sg237%29.png"
-        },
-        {
-            "title": "H\u00e9l\u00e8ne Rouart in her Father's Study",
-            "artist": "Edgar Degas",
-            "year": "1886",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20Rouart%20in%20her%20Father%27s%20Study.jpg"
         },
         {
             "title": "Dance Class at the Opera",
@@ -6120,13 +6078,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyrenees%20Farmers%2C%20Market%20Bound%20-%20Rosa%20Bonheur.jpg"
         },
         {
-            "title": "A Sioux Encampment",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Sioux%20Encampment%20-%20Rosa%20Bonheur.jpg"
-        },
-        {
             "title": "A Sheep, Ram and Lamb with the Flock",
             "artist": "Rosa Bonheur",
             "year": "1861",
@@ -6935,13 +6886,6 @@
             "year": "1660",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20van%20Delft%20019.jpg"
-        },
-        {
-            "title": "Officer and Laughing Girl",
-            "artist": "Johannes Vermeer",
-            "year": "1658",
-            "museum": "The Frick Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Vermeer%20-%20De%20Soldaat%20en%20het%20Lachende%20Meisje%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "The Little Street",
@@ -10479,13 +10423,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Repin%20timid%20boorman.jpg"
         },
         {
-            "title": "Cossacks on the Black Sea. Zaporozhian Cossacks in a \"chaika\" boat during a storm",
-            "artist": "Ilya Repin",
-            "year": "1908",
-            "museum": "http://www.wikidata.org/.well-known/genid/34628a576f897f580ff866686160a667",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Repin-Cossacks%20on%20the%20Black%20Sea%20%281908%29.jpg"
-        },
-        {
             "title": "Portrait of An Archdeacon",
             "artist": "Ilya Repin",
             "year": "1877",
@@ -10549,13 +10486,6 @@
             "year": "1900",
             "museum": "http://www.wikidata.org/.well-known/genid/ec12cc1ffb748e7df13509c2cb5cc9ae",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lady%20Clare.jpg"
-        },
-        {
-            "title": "The Magic Circle",
-            "artist": "John William Waterhouse",
-            "year": "1886",
-            "museum": "http://www.wikidata.org/.well-known/genid/c2a3159a97b86f8b5517ced57a53eea4",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20magic%20circle%2C%20by%20John%20William%20Waterhouse.jpg"
         },
         {
             "title": "The Charmer",
@@ -10703,13 +10633,6 @@
             "year": "1891",
             "museum": "Gallery Oldham",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Circe%20Offering%20the%20Cup%20to%20Odysseus%20%282457%20x%204023px%20ed.%29.jpg"
-        },
-        {
-            "title": "A Mermaid",
-            "artist": "John William Waterhouse",
-            "year": "1900",
-            "museum": "Royal Academy of Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20MermaidFXD.jpg"
         },
         {
             "title": "Gather Ye Rosebuds While Ye May",
@@ -11398,13 +11321,6 @@
             "year": "1561",
             "museum": "Royal Monastery of San Lorenzo de El Escorial",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Oraci%C3%B3n%20en%20el%20Huerto%20%28Tiziano%29.jpg"
-        },
-        {
-            "title": "Portrait of a Man in Armor",
-            "artist": "Titian",
-            "year": "1530",
-            "museum": "Hammer Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20man%20in%20armor%20%28Titian%29.jpg"
         },
         {
             "title": "Madonna and Child in an Evening Landscape",
@@ -13576,13 +13492,6 @@
     "Shin Yun-bok": [],
     "Shen Zhou": [
         {
-            "title": "The Staff-bearing Wanderer",
-            "artist": "Shen Zhou",
-            "year": "1450",
-            "museum": "National Palace Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou.%20Walking%20with%20a%20Staff.%20National%20Palace%20Museum%2C%20Taipei.jpg"
-        },
-        {
             "title": "Cockscomb",
             "artist": "Shen Zhou",
             "year": "1494",
@@ -15146,13 +15055,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D1%8B.%20%D0%92%D0%B5%D1%87%D0%B5%D1%80%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
         },
         {
-            "title": "Wilds",
-            "artist": "Ivan Shishkin",
-            "year": "1881",
-            "museum": "Tretyakov Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%B5%D0%B1%D1%80%D0%B8%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg"
-        },
-        {
             "title": "Apiary",
             "artist": "Ivan Shishkin",
             "year": "1882",
@@ -15417,13 +15319,6 @@
             "year": "1897",
             "museum": "http://www.wikidata.org/.well-known/genid/ff78c2bd8da09d0af24ad38f20bc1c77",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27At%20the%20Edge%20of%20the%20Pine%20Forest%27%20by%20Ivan%20Shishkin%2C%201898.jpg"
-        },
-        {
-            "title": "Autumn",
-            "artist": "Ivan Shishkin",
-            "year": "1892",
-            "museum": "http://www.wikidata.org/.well-known/genid/3eded6eff2fd180b996bd8a3d2e2951f",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autumn%20%28Shishkin%29.jpg"
         },
         {
             "title": "Merikyul Landscape",
@@ -16043,13 +15938,6 @@
             "year": "1884",
             "museum": "http://www.wikidata.org/.well-known/genid/3d1bb0956c1bb0cca30d4a9453e0ac08",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Mademoiselle%20Suzanne%20Poirson%20%281884%29.jpg"
-        },
-        {
-            "title": "Ellen Terry as Lady Macbeth",
-            "artist": "John Singer Sargent",
-            "year": "1889",
-            "museum": "Tate",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ellen%20Terry%20as%20Lady%20Macbeth.jpg"
         }
     ],
     "Berthe Morisot": [
@@ -16059,13 +15947,6 @@
             "year": "1879",
             "museum": "Buffalo AKG Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20Femme%20cousant%20%28Woman%20Sewing%29%2C%20ca.%201879.tif"
-        },
-        {
-            "title": "The Port of Nice",
-            "artist": "Berthe Morisot",
-            "year": "1881",
-            "museum": "Dallas Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20Port%20of%20Nice%20DMA.jpg"
         },
         {
             "title": "On the Terrace",
@@ -16502,13 +16383,6 @@
             "year": "1885",
             "museum": "National Gallery of Australia",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Study%20for%20Le%20Bec%20du%20Hoc%2C%20Grandcamp%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "The Rue St. Vincent, Paris, in Spring",
-            "artist": "Georges Seurat",
-            "year": "1884",
-            "museum": "Fitzwilliam Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%20Rue%20Saint-Vincent.jpg"
         },
         {
             "title": "Study for \"Bathers at Asni\u00e8res\"",
@@ -19713,13 +19587,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20View%20of%20the%20Quai%20d%27%20Asni%C3%A8res%20%28Vue%20du%20quai%20d%27Asni%C3%A8res%29%2C%20also%20called%20The%20Canal%20and%20Landscape%20with%20Tree%20Trunks%20%28Le%20Canal%20and%20Paysage%20avec%20troncs%20d%27arbre%29%20-%20BF583%20-%20Barnes%20Foundation.jpg"
         },
         {
-            "title": "Scouts Attacked by a Tiger (\u00c9claireurs attaqu\u00e9s par un tigre)",
-            "artist": "Henri Rousseau",
-            "year": "1904",
-            "museum": "Barnes Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20-%20Scouts%20Attacked%20by%20a%20Tiger%20%28%C3%89claireurs%20attaqu%C3%A9s%20par%20un%20tigre%29%20-%20BF584%20-%20Barnes%20Foundation.jpg"
-        },
-        {
             "title": "Woman Walking in an Exotic Forest",
             "artist": "Henri Rousseau",
             "year": "1905",
@@ -19916,13 +19783,6 @@
             "year": "1936",
             "museum": "Vancouver Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Carr%2CEmily%20-%20Scorned%20as%20timber.jpg"
-        },
-        {
-            "title": "First Nations War Canoes in Alert Bay",
-            "artist": "Emily Carr",
-            "year": "1912",
-            "museum": "Audain Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/War%20Canoes%2C%20Alert%20Bay.jpeg"
         },
         {
             "title": "Guyasdoms D'Sonoqua",
@@ -21680,13 +21540,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20-%20Christ%20Carrying%20the%20Cross%2C%20ca.%201510%20-%20ca.%201516%2C%20Inv.%201902-H.jpg"
         },
         {
-            "title": "Temptation of Saint Anthony",
-            "artist": "Hieronymus Bosch",
-            "year": "1501",
-            "museum": "National Museum of Ancient Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Temptation%20of%20Saint%20Anthony.jpg"
-        },
-        {
             "title": "The Last Judgment",
             "artist": "Hieronymus Bosch",
             "year": "1450",
@@ -21985,13 +21838,6 @@
             "artist": "Hieronymus Bosch",
             "year": "1500",
             "museum": "Groeningemuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20laatste%20oordeel%20drieluik.jpg"
-        },
-        {
-            "title": "Last Judgement",
-            "artist": "Hieronymus Bosch",
-            "year": "1475",
-            "museum": "Vlaamse Kunstcollectie",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosch%20laatste%20oordeel%20drieluik.jpg"
         },
         {
@@ -22987,13 +22833,6 @@
         }
     ],
     "Tawaraya S\u014dtatsu": [
-        {
-            "title": "Maize and Cockscombs",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1650",
-            "museum": "Art Institute of Chicago",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C3%B4tatsu%20-%20Maize%20and%20Cockscombs%20-%201959.599%20-%20Art%20Institute%20of%20Chicago.jpg"
-        },
         {
             "title": "Kenshu, Monk with Shrimp",
             "artist": "Tawaraya S\u014dtatsu",
@@ -25454,13 +25293,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcelle%20Lender%20Dancing%20the%20Bolero%20in%20Chilp%C3%A9ric%20A24275.jpg"
         },
         {
-            "title": "Maxime Dethomas",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1896",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maxime%20Dethomas%20E10117.jpg"
-        },
-        {
             "title": "Portrait of Jeanne Wenz",
             "artist": "Henri de Toulouse-Lautrec",
             "year": "1886",
@@ -27225,13 +27057,6 @@
             "year": "1883",
             "museum": "Sree Chitra Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rani%20Bharani%20Thirunal%20Lakshmi%20Bayi%20of%20Travancore%20%281848%E2%80%931901%29.jpg"
-        },
-        {
-            "title": "A native noble man",
-            "artist": "Raja Ravi Varma",
-            "year": "1901",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20native%20noble%20man.jpg"
         }
     ],
     "Anthony van Dyck": [
@@ -27369,13 +27194,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20-%20Studienkopf%20-%201240%20-%20Bavarian%20State%20Painting%20Collections.jpg"
         },
         {
-            "title": "Christ on the Cross",
-            "artist": "Anthony van Dyck",
-            "year": "1620",
-            "museum": "Bavarian State Painting Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20-%20Christus%20am%20Kreuz%20-%201015%20-%20Bavarian%20State%20Painting%20Collections.jpg"
-        },
-        {
             "title": "Portrait of the landscape painter Lucas van Uden",
             "artist": "Anthony van Dyck",
             "year": "1620",
@@ -27451,13 +27269,6 @@
             "year": "1692",
             "museum": "Munich Central Collecting Point",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20%28Kopie%20nach%29%20-%20K%C3%B6nigin%20Henriette%20Maria%20von%20England%20-%204999%20-%20Bavarian%20State%20Painting%20Collections.jpg"
-        },
-        {
-            "title": "Queen Henrietta Maria of England",
-            "artist": "Anthony van Dyck",
-            "year": "1620",
-            "museum": "Munich Central Collecting Point",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Godfrey%20Kneller%20%28Kniller%29%20%281646-1723%29%20%28Umkreis%20Anthonis%20van%20Dyck%29%20%28%29%20-%20Bildnis%20der%20K%C3%B6nigin%20Henrietta%20Maria%20von%20England%20-%200877%20-%20F%C3%BChrermuseum.jpg"
         },
         {
             "title": "Queen Henrietta Maria of England",
@@ -27646,13 +27457,6 @@
             "artist": "Anthony van Dyck",
             "year": "1628",
             "museum": "Stichting Nederlands Kunstbezit",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Adriaen%20Moens.jpg"
-        },
-        {
-            "title": "Portrait of Adriaen Moens",
-            "artist": "Anthony van Dyck",
-            "year": "1628",
-            "museum": "Collection Goudstikker heirs",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Adriaen%20Moens.jpg"
         },
         {
@@ -28663,13 +28467,6 @@
             "artist": "Peter Paul Rubens",
             "year": "1618",
             "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Christus%20op%20het%20stro%20-%20300%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Lamentation (central panel of the Epitaph of Jan Michielsen and his Wife Maria Maes)",
-            "artist": "Peter Paul Rubens",
-            "year": "1618",
-            "museum": "Royal Museum of Fine Arts Antwerp",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Lamentation%20%28Christ%20on%20the%20Straw%29.jpg"
         },
         {
@@ -28846,13 +28643,6 @@
             "year": "1614",
             "museum": "Vlaamse Kunstcollectie",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Blazoen%20van%20Nicolaas%20Rockox%20-%20309%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Coat of Arms of Nicolaas Rockox",
-            "artist": "Peter Paul Rubens",
-            "year": "1614",
-            "museum": "Vlaamse Kunstcollectie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Coat%20of%20Arms%20of%20Nicolaas%20Rockox.jpg"
         },
         {
             "title": "Portrait of Adriana Perez",
@@ -29450,13 +29240,6 @@
             "year": "1499",
             "museum": "Schloss Weimar",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20077.jpg"
-        },
-        {
-            "title": "Portrait of Hieronymus Holzschuher",
-            "artist": "Albrecht D\u00fcrer",
-            "year": "1526",
-            "museum": "Gem\u00e4ldegalerie Berlin",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20-%20Hieronymus%20Holzschuher%20%281469-1529%29%20mit%20Deckel%2C%201526%2C%20557E.jpg"
         },
         {
             "title": "Portrait of the Nuremberg Painter Michael Wolgemut",
