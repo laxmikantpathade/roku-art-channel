@@ -78,13 +78,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Stra%C5%BC%20nocna%20poczt%C3%B3wka%202%20%28cropped%29.jpg"
         },
         {
-            "title": "Girl from the Duchy of \u0141owicz",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Antoni%20Piotrowski%20-%20J%C3%B3zef%20Che%C5%82mo%C5%84ski.%20Wspomnienie%20%28page%2073%20crop%29.jpg"
-        },
-        {
             "title": "Przed odjazdem go\u015bci na Ukrainie",
             "artist": "J\u00f3zef Che\u0142mo\u0144ski",
             "year": "1875",
@@ -290,13 +283,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Road%20of%20La%20Roche-Guyon%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Wisteria",
-            "artist": "Claude Monet",
-            "year": "1925",
-            "museum": "Kunstmuseum Den Haag",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Wisteria%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "The Nets in Pourville",
             "artist": "Claude Monet",
             "year": "1882",
@@ -365,13 +351,6 @@
             "year": "1896",
             "museum": "National Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%2C%20Flood%20Waters.jpg"
-        },
-        {
-            "title": "Houses of Parliament, stormy sky",
-            "artist": "Claude Monet",
-            "year": "1904",
-            "museum": "Palais des Beaux-Arts de Lille",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Le%20Parlement%20de%20Londres%2C%20ciel%20orageux.jpg"
         },
         {
             "title": "Water-Lilies, Setting Sun",
@@ -519,13 +498,6 @@
             "year": "1875",
             "museum": "Barnes Foundation",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20Camille%20au%20m%C3%A9tier.jpg"
-        },
-        {
-            "title": "The Studio Boat (Le Bateau-atelier)",
-            "artist": "Claude Monet",
-            "year": "1876",
-            "museum": "Barnes Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20Le%20bateau%20atelier.jpg"
         },
         {
             "title": "Monsieur Coqueret (Father) (Portrait de Monsieur Coqueret [P\u00e8re])",
@@ -1643,13 +1615,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Juro%20%28God%20of%20Luck%29%20-%2056.121.19%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
-            "title": "Daikoku, Juro, and Ebisu (Gods of Luck)",
-            "artist": "Katsushika Hokusai",
-            "year": "1804",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Daikoku%2C%20Juro%2C%20and%20Ebisu%20%28Gods%20of%20Luck%29%20-%2056.121.18%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
             "title": "Nio the Guardian",
             "artist": "Katsushika Hokusai",
             "year": "1804",
@@ -1713,22 +1678,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Chinese%20Boy%20-%2056.121.7%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         }
     ],
-    "Leonardo da Vinci": [
-        {
-            "title": "Lucan portrait of Leonardo da Vinci",
-            "artist": "Leonardo da Vinci",
-            "year": "1505",
-            "museum": "Museum of the Ancient People of Lucania",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20LUCAN%20self-portrait%20REVERSE.jpg"
-        },
-        {
-            "title": "Madonna of the Yarnwinder",
-            "artist": "Leonardo da Vinci",
-            "year": "1501",
-            "museum": "National Galleries Scotland",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%2C%20Madonna%20of%20the%20Yarnwinder%2C%20Buccleuch%20version.jpg"
-        }
-    ],
+    "Leonardo da Vinci": [],
     "Ivan Aivazovsky": [
         {
             "title": "The Mekhitarist Fathers on Lazarus Island, Venice",
@@ -2422,13 +2372,6 @@
             "title": "Young woman with earrings",
             "artist": "Rembrandt",
             "year": "1638",
-            "museum": "Hermitage Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young-Woman-with-Earrings.jpg"
-        },
-        {
-            "title": "Young woman with earrings",
-            "artist": "Rembrandt",
-            "year": "1654",
             "museum": "Hermitage Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Young-Woman-with-Earrings.jpg"
         },
@@ -3555,13 +3498,6 @@
             "year": "1467",
             "museum": "Uffizi Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MadonnaLoggiaBotticelli.jpg"
-        },
-        {
-            "title": "Mystic Crucifixion",
-            "artist": "Sandro Botticelli",
-            "year": "1500",
-            "museum": "Fogg Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20-%20Mystic%20crucifixion.jpg"
         },
         {
             "title": "Mystic Crucifixion",
@@ -4946,13 +4882,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassat2.jpg"
         },
         {
-            "title": "Portrait of Alexander J. Cassatt and His Son, Robert Kelso Cassatt",
-            "artist": "Mary Cassatt",
-            "year": "1884",
-            "museum": "Philadelphia Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Portrait%20of%20Alexander%20J.%20Cassatt%20and%20His%20Son%2C%20Robert%20Kelso%20Cassatt%20-%20PMA%20W1959-1-1.jpg"
-        },
-        {
             "title": "Mother and two children - 1901",
             "artist": "Mary Cassatt",
             "year": "1901",
@@ -5402,13 +5331,6 @@
             "year": "1871",
             "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20St.%20Luke%20-%201983.95.142%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
-            "title": "The Storm",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1881",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20The%20Storm%20-%201983.95.88%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
             "title": "Sunset",
@@ -5992,13 +5914,6 @@
             "year": "1879",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%2C%20a%20terrier%20-%20Rosa%20Bonheur.webp"
-        },
-        {
-            "title": "Longhorn Bull in a Landscape",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Longhorn%20Bull%20in%20a%20Landscape%20-%20Rosa%20Bonheur.webp"
         },
         {
             "title": "Two Deer in a Forest Glade",
@@ -9637,13 +9552,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201908%20-%20Houses%20in%20Murnau%20on%20Obermarkt.jpg"
         },
         {
-            "title": "Murnau, A Village Street",
-            "artist": "Wassily Kandinsky",
-            "year": "1908",
-            "museum": "http://www.wikidata.org/.well-known/genid/50b47b9cacfb6f1f358a70c0b8db89c0",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201908%2C%20Murnau%2C%20Dorfstrasse.jpg"
-        },
-        {
             "title": "Sharp-Quiet Pink",
             "artist": "Wassily Kandinsky",
             "year": "1924",
@@ -11698,13 +11606,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Scott%20Duncanson%2C%20Widerness%20Idyll.jpg"
         },
         {
-            "title": "Woodland Pool",
-            "artist": "Robert S. Duncanson",
-            "year": "1868",
-            "museum": "Cincinnati Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Woodland%20Pool%27%20by%20Robert%20Scott%20Duncanson%2C%201868%2C%20Cincinnati%20Art%20Museum.jpg"
-        },
-        {
             "title": "Lancaster, New Hampshire",
             "artist": "Robert S. Duncanson",
             "year": "1862",
@@ -12929,13 +12830,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Boys%20in%20a%20Pasture.jpg"
         },
         {
-            "title": "The Lookout \u2013 \"All's Well\"",
-            "artist": "Winslow Homer",
-            "year": "1896",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20The%20Lookout%20%E2%80%93%20%E2%80%9EAll%27s%20Well%E2%80%9C.jpg"
-        },
-        {
             "title": "Rocky Coast and Gulls",
             "artist": "Winslow Homer",
             "year": "1869",
@@ -12976,13 +12870,6 @@
             "year": "1891",
             "museum": "The William L. Elkins Collection, 1924",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20A%20huntsman%20and%20dogs.jpg"
-        },
-        {
-            "title": "The Life Line",
-            "artist": "Winslow Homer",
-            "year": "1884",
-            "museum": "Philadelphia Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20The%20Life%20Line.jpg"
         },
         {
             "title": "The West Wind",
@@ -13035,13 +12922,6 @@
             "year": "1494",
             "museum": "National Palace Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cockscom%2C%20Shen%20Zhou.jpg"
-        },
-        {
-            "title": "Twelve Views of Tiger Hill",
-            "artist": "Shen Zhou",
-            "year": "1500",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shen%20Zhou%20-%20Twelve%20Views%20of%20Tiger%20Hill%20-%201964.371%20-%20Cleveland%20Museum%20of%20Art.tiff"
         },
         {
             "title": "The Thousand Buddha Hall and the Pagoda of the \"Cloudy Cliff\" Monastery, from Twelve Views of Tiger Hill, Suzhou",
@@ -16191,20 +16071,6 @@
     ],
     "Kuroda Seiki": [
         {
-            "title": "Morning Toilette",
-            "artist": "Kuroda Seiki",
-            "year": "1893",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuroda%20Seiki%20-%20Morning%20toilette%20%28now%20lost%20in%20a%20fire%29.jpg"
-        },
-        {
-            "title": "Suburbs of Paris (snowscape)",
-            "artist": "Kuroda Seiki",
-            "year": "1888",
-            "museum": "Tokyo National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Suburbs%20of%20Paris%20by%20Kuroda%20Seiki%20%28Kuroda%20Kinenkan%29.jpg"
-        },
-        {
             "title": "Lakeside",
             "artist": "Kuroda Seiki",
             "year": "1897",
@@ -18069,13 +17935,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Schiele%20-%20Kalvarienberg%20%28Calvary%29%20%281912%29.jpg"
         },
         {
-            "title": "Mother and Child",
-            "artist": "Egon Schiele",
-            "year": "1912",
-            "museum": "Leopold Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Schiele%20-%20Mutter%20und%20Kind%20%28Mother%20and%20Child%29%20%281912%29.jpg"
-        },
-        {
             "title": "Portrait of Wally",
             "artist": "Egon Schiele",
             "year": "1912",
@@ -18418,13 +18277,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Thomson%20River.jpg"
         },
         {
-            "title": "Giant's Tomb, Georgian Bay",
-            "artist": "Tom Thomson",
-            "year": "1914",
-            "museum": "National Gallery of Canada",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Thomson%20Giant%27s%20Tomb%2C%20Georgian%20Bay.jpg"
-        },
-        {
             "title": "Burnt Land",
             "artist": "Tom Thomson",
             "year": "1915",
@@ -18486,13 +18338,6 @@
             "year": "1912",
             "museum": "National Gallery of Canada",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomson%2C%20Old%20Lumber%20Dam%2C%20Algonquin%20Park.jpg"
-        },
-        {
-            "title": "Little Cauchon Lake",
-            "artist": "Tom Thomson",
-            "year": "1916",
-            "museum": "National Gallery of Canada",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomson%2C%20Little%20Cauchon%20Lake%20-%20spring%201916%20-%20NGC%204681.jpg"
         },
         {
             "title": "Thaw: Snow Banks",
@@ -19487,13 +19332,6 @@
             "year": "1917",
             "museum": "White House",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Avenue%20in%20the%20Rain%20Frederick%20Childe%20Hassam%201917.jpeg"
-        },
-        {
-            "title": "Coast Scene, Isles of Shoals",
-            "artist": "Childe Hassam",
-            "year": "1901",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Coast%20Scene%2C%20Isles%20of%20Shoals%20MET%20DT5583.jpg"
         },
         {
             "title": "Golden Afternoon",
@@ -21994,13 +21832,6 @@
     ],
     "Tawaraya S\u014dtatsu": [
         {
-            "title": "White Heron (Shirosagi zu)",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1616",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20White%20Heron%20%28Shirosagi%20zu%29%20-%202018.853.13%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
             "title": "Waterfowls in Lotus Pond",
             "artist": "Tawaraya S\u014dtatsu",
             "year": "1700",
@@ -22034,13 +21865,6 @@
             "year": "1650",
             "museum": "Yamatane Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20Pine%20and%20Maple%20Tree.jpg"
-        },
-        {
-            "title": "Bulls",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1700",
-            "museum": "Chomyo-ji Temple",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BF%B5%E5%B1%8B%E5%AE%97%E9%81%94%20%E7%89%9B%E5%9B%B3%20%E5%8F%B3.png"
         }
     ],
     "Kan\u014d Eitoku": [],
@@ -23243,13 +23067,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20%281829-1896%29%20-%20William%20Ewart%20Gladstone%20%281809%E2%80%931898%29%20-%20LP%20288%20-%20Christ%20Church.jpg"
         },
         {
-            "title": "Isabella Elder, n\u00e9e Ure (1828\u20131905)",
-            "artist": "John Everett Millais",
-            "year": "1886",
-            "museum": "Glasgow Museums Resource Centre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20%281829-1896%29%20-%20Isabella%20Elder%2C%20n%C3%A9e%20Ure%20%281828%E2%80%931905%29%20-%201414%20-%20Glasgow%20Museums%20Resource%20Centre.jpg"
-        },
-        {
             "title": "Peace Concluded",
             "artist": "John Everett Millais",
             "year": "1856",
@@ -23297,13 +23114,6 @@
             "year": "1850",
             "museum": "http://www.wikidata.org/.well-known/genid/4869f5d6e76396f8e2d3316715eeea7e",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Millais%20ferdy.jpg"
-        },
-        {
-            "title": "The Order of Release",
-            "artist": "John Everett Millais",
-            "year": "1852",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Everett%20Millais%20-%20The%20Order%20of%20Release%201746%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "The Order of Release",
@@ -23595,13 +23405,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Great%20Red%20Dragon%20and%20the%20Beast%20from%20the%20Sea%2C%20c.%201805%2C%20NGA%2011499.jpg"
         },
         {
-            "title": "The Great Red Dragon and the Beast from the Sea",
-            "artist": "William Blake",
-            "year": "1805",
-            "museum": "drawings in the National Gallery of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%2C%20The%20Great%20Red%20Dragon%20and%20the%20Beast%20from%20the%20Sea%2C%20c.%201805%2C%20NGA%2011499.jpg"
-        },
-        {
             "title": "The Great Red Dragon and the Woman Clothed with the Sun",
             "artist": "William Blake",
             "year": "1805",
@@ -23765,13 +23568,6 @@
         {
             "title": "The Spiritual Form of Nelson guiding Leviathan",
             "artist": "William Blake",
-            "year": "1807",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Spiritual%20Form%20of%20Nelson%20Guiding%20Leviathan%20-%20N03006%20-%20Tate.jpg"
-        },
-        {
-            "title": "The Spiritual Form of Nelson guiding Leviathan",
-            "artist": "William Blake",
             "year": "1800",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Spiritual%20Form%20of%20Nelson%20Guiding%20Leviathan.jpg"
@@ -23892,13 +23688,6 @@
             "title": "The Bard, from Gray",
             "artist": "William Blake",
             "year": "1809",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Bard%2C%20from%20Gray%20-%20N03551%20-%20National%20Gallery.jpg"
-        },
-        {
-            "title": "The Bard, from Gray",
-            "artist": "William Blake",
-            "year": "1809",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Bard%2C%20from%20Gray%20-%20N03551%20-%20National%20Gallery.jpg"
         },
@@ -23929,13 +23718,6 @@
             "year": "1795",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1795-William-Blake-Naomi-entreating-Ruth-Orpah.jpg"
-        },
-        {
-            "title": "Christ in the House of Mary and Martha",
-            "artist": "William Blake",
-            "year": "1827",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20in%20the%20House%20of%20Martha%20and%20Mary%20But%20Martha%20Was%20Cumbered%20About%20Much%20Serving%20%28Butlin%20489%29.jpg"
         },
         {
             "title": "Despair of Job",
