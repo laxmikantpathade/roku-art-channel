@@ -8,13 +8,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20-%20Krajobraz%20%E2%80%93%20las%201900.jpg"
         },
         {
-            "title": "Przeprawa",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1883",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20-%20Przeprawa%20%28Jarmark%29.jpg"
-        },
-        {
             "title": "Oberek",
             "artist": "J\u00f3zef Che\u0142mo\u0144ski",
             "year": "1878",
@@ -726,13 +719,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Vrubel%20-%20The%20Girl%20Against%20the%20Background%20of%20Persian%20Carpet.png"
         },
         {
-            "title": "Pan",
-            "artist": "Mikhail Vrubel",
-            "year": "1899",
-            "museum": "Tretyakov Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vrubel%20pan.jpg"
-        },
-        {
             "title": "The Swan Princess",
             "artist": "Mikhail Vrubel",
             "year": "1900",
@@ -773,13 +759,6 @@
             "year": "1901",
             "museum": "Russian Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/33%20bogatyrs%20by%20M.Vrubel%20%281901%2C%20GRM%29.jpg"
-        },
-        {
-            "title": "The Flight of Faust and Mephistopheles",
-            "artist": "Mikhail Vrubel",
-            "year": "1896",
-            "museum": "Tatarstan State Museum of Fine Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gallery%20of%20Modern%20Art%2C%20Kazan%2C%20interiors%20%282021-05-15%29%2007.jpg"
         }
     ],
     "Pierre-Auguste Renoir": [
@@ -1225,13 +1204,6 @@
             "year": "1902",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20Szerelmesek%20tal%C3%A1lkoz%C3%A1sa.jpg"
-        },
-        {
-            "title": "Traui at Sunset",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1899",
-            "museum": "http://www.wikidata.org/.well-known/genid/8fe9610348c51999cace710ea573e69b",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20-%20Traui%20l%C3%A1tk%C3%A9p%20naplemente%20idej%C3%A9n.jpg"
         },
         {
             "title": "Pilgrimage to the Cedars of Lebanon",
@@ -1739,13 +1711,6 @@
             "year": "1799",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Pheasant%20and%20Snake%20-%2056.121.28%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Daruma (Buddhist Saint)",
-            "artist": "Katsushika Hokusai",
-            "year": "1799",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katsushika%20Hokusai%20-%20Daruma%20%28Buddhist%20Saint%29%20-%2056.121.27%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Mask of Fud\u014d My\u014d\u014d",
@@ -5667,13 +5632,6 @@
             "artist": "Edward Mitchell Bannister",
             "year": "1893",
             "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27People%20near%20Boat%27%20by%20Edward%20Mitchell%20Bannister%2C%201893.jpg"
-        },
-        {
-            "title": "People Near Boat",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1893",
-            "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20People%20Near%20Boat%20-%201983.95.121%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
@@ -5717,13 +5675,6 @@
             "year": "1890",
             "museum": "Smithsonian American Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Salome%20Receiving%20the%20Head%20of%20John%20the%20Baptist%20-%201984.135.2%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
-            "title": "The Salute",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1895",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20The%20Salute%20-%201983.95.84%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
             "title": "Squall, Brenton Light (boat in storm, lighthouse in background)",
@@ -6384,13 +6335,6 @@
             "year": "1857",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20Muletiers%20espagnols%20traversent%20les%20Pyr%C3%A9n%C3%A9es%20%281857%29.jpg"
-        },
-        {
-            "title": "Blonde D'Aquitaine resting",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20-%20Blonde%20d%27Aquitaine%20resting.jpg"
         },
         {
             "title": "Two recumbent tigers",
@@ -7790,13 +7734,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20basket%20of%20fruit%20with%20a%20tazza%20holding%20grapes%20a%20bouquet%20of%20flowers%20and%20a%20flagon%20WA1940.2.61.jpg"
         },
         {
-            "title": "Still-life with grapes on a tazza, a basket of fruit, two crayfish on a plate and a squirrel",
-            "artist": "Clara Peeters",
-            "year": "1613",
-            "museum": "http://www.wikidata.org/.well-known/genid/18d292d19405ded354bdee4aabc7273d",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20life%20with%20silver-gilt%20tazza.jpg"
-        },
-        {
             "title": "Still life with crayfish and an artichoke",
             "artist": "Clara Peeters",
             "year": "1615",
@@ -7823,13 +7760,6 @@
             "year": "1630",
             "museum": "Shipley Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20life%20with%20Shrimp%20and%20Eggs%20-%201630s.jpg"
-        },
-        {
-            "title": "Still Life of Fish and Lemons",
-            "artist": "Clara Peeters",
-            "year": "1700",
-            "museum": "http://www.wikidata.org/.well-known/genid/3d5fc7e1305031127b2ddf8a6c4b2ccc",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20Life%20of%20Fish%20and%20Lemons.jpg"
         },
         {
             "title": "Cheesestack with knife, shrimps, crawfish, glass of wine and bread",
@@ -8852,13 +8782,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20Sitzender%20m%C3%A4nnlicher%20Akt%201879-12-05.jpg"
         },
         {
-            "title": "The fur collar",
-            "artist": "Gustav Klimt",
-            "year": "1916",
-            "museum": "unknown",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Der%20Pelzkragen.jpg"
-        },
-        {
             "title": "Two Girls with an Oleander",
             "artist": "Gustav Klimt",
             "year": "1890",
@@ -9597,13 +9520,6 @@
             "year": "1792",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Hen%20and%20Rooster%20with%20Grapevine%20-%201975.268.69%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Old Pine",
-            "artist": "Ito Jakuchu",
-            "year": "1796",
-            "museum": "Harvard Art Museums",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20%E4%BC%8A%E8%97%A4%E8%8B%A5%E5%86%B2%20-%20Old%20Pine%20-%20TL42147.7%20-%20Harvard%20Art%20Museums.jpg"
         },
         {
             "title": "Roosters, Hen, and Chicks [left of a pair]",
@@ -11396,13 +11312,6 @@
             "title": "Portrait of Giulio Romano",
             "artist": "Titian",
             "year": "1537",
-            "museum": "Gonzaga collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%2C%20ritratto%20di%20giulio%20romano%2C%201536-40%2C%2001.jpg"
-        },
-        {
-            "title": "Portrait of Giulio Romano",
-            "artist": "Titian",
-            "year": "1537",
             "museum": "Museo di Palazzo Te",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%2C%20ritratto%20di%20giulio%20romano%2C%201536-40%2C%2001.jpg"
         },
@@ -13144,13 +13053,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Portrait%20of%20Paris%20Maurizio%20-%20MNK%20IX-23%20%2830765%29.jpg"
         },
         {
-            "title": "The death of Leszek the White.",
-            "artist": "Jan Matejko",
-            "year": "1880",
-            "museum": "National Museum in Gda\u0144sk",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20death%20of%20Leszek%20the%20White.jpg"
-        },
-        {
             "title": "Sta\u0144czyk Faking a Toothache",
             "artist": "Jan Matejko",
             "year": "1856",
@@ -14547,13 +14449,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Cineraria%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Portrait of Armand Roulin",
-            "artist": "Vincent van Gogh",
-            "year": "1888",
-            "museum": "Museum Boijmans Van Beuningen",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Portrait%20of%20Armand%20Roulin%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Factories at Clichy",
             "artist": "Vincent van Gogh",
             "year": "1887",
@@ -15835,13 +15730,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortler%20Spitz%20from%20Summit%20of%20Stelvio%20Pass%20%28from%20Switzerland%201869%20Sketchbook%29%20MET%2050.130.147bb.jpg"
         },
         {
-            "title": "Setting Out to Fish",
-            "artist": "John Singer Sargent",
-            "year": "1878",
-            "museum": "Corcoran Gallery of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Cancale.jpg"
-        },
-        {
             "title": "Marie Buloz Pailleron (Madame \u00c9douard Pailleron)",
             "artist": "John Singer Sargent",
             "year": "1879",
@@ -16302,13 +16190,6 @@
             "year": "1889",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ellen%20Terry%20as%20Lady%20Macbeth.jpg"
-        },
-        {
-            "title": "Cashmere",
-            "artist": "John Singer Sargent",
-            "year": "1908",
-            "museum": "http://www.wikidata.org/.well-known/genid/c4cc1855334c00b46c972c2011efaa53",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Cashmere.jpg"
         }
     ],
     "Berthe Morisot": [
@@ -17668,13 +17549,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shipwreck%20of%20the%20Minotaur%20William%20Turner.jpg"
         },
         {
-            "title": "Quillebeuf, Mouth of the Seine",
-            "artist": "J.M.W. Turner",
-            "year": "1833",
-            "museum": "Calouste Gulbenkian Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Quillebeuf%20Mouth%20of%20the%20Seine%20by%20Joseph%20Mallord%20William%20Turner.jpg"
-        },
-        {
             "title": "Sun Rising through Vapour",
             "artist": "J.M.W. Turner",
             "year": "1806",
@@ -18060,13 +17934,6 @@
             "year": "1650",
             "museum": "Museo del Prado",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinando%20Brandani%20by%20Diego%20Vel%C3%A1zquez.jpg"
-        },
-        {
-            "title": "Portrait of the Jester Calabazas",
-            "artist": "Diego Vel\u00e1zquez",
-            "year": "1630",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%20-%20Portrait%20of%20the%20Jester%20Calabazas%20-%201965.15%20-%20Cleveland%20Museum%20of%20Art.tif"
         },
         {
             "title": "Portrait of the Jester Calabazas",
@@ -18744,13 +18611,6 @@
             "year": "1908",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maine%20woods%20-%20mardsen%20hartley.PNG"
-        },
-        {
-            "title": "Berlin Abstraction",
-            "artist": "Marsden Hartley",
-            "year": "1914",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20abstraction%20-%20marsden%20hartley.PNG"
         },
         {
             "title": "Berlin Abstraction",
@@ -20247,13 +20107,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emily%20Carr%20-%20Guyasdoms%20D%27Sonoqua%20AGO-2705%20lge.jpg"
         },
         {
-            "title": "Totem Mother",
-            "artist": "Emily Carr",
-            "year": "1928",
-            "museum": "Vancouver Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emily%20Carr%20-%20Totem%20Mother.jpg"
-        },
-        {
             "title": "Breton Farm Yard",
             "artist": "Emily Carr",
             "year": "1911",
@@ -20390,13 +20243,6 @@
             "year": "1889",
             "museum": "Harvard Art Museums",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Childe%20Hassam%20-%20Nurses%20in%20the%20Park%20-%2032.2007%20-%20Fogg%20Museum.jpg"
-        },
-        {
-            "title": "Headlands",
-            "artist": "Childe Hassam",
-            "year": "1908",
-            "museum": "Fogg Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Childe%20Hassam%20-%20Headlands%20-%201936.131%20-%20Harvard%20Art%20Museums.jpg"
         },
         {
             "title": "Headlands",
@@ -21123,13 +20969,6 @@
             "title": "Edward VI as a Child",
             "artist": "Hans Holbein the Younger",
             "year": "1538",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20-%20Edward%20VI%20as%20a%20Child%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Edward VI as a Child",
-            "artist": "Hans Holbein the Younger",
-            "year": "1538",
             "museum": "Andrew W. Mellon collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20-%20Edward%20VI%20as%20a%20Child%20-%20Google%20Art%20Project.jpg"
         },
@@ -21530,13 +21369,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20Bocca%20Baciata%201859.png"
         },
         {
-            "title": "Veronica Veronese",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1872",
-            "museum": "Delaware Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronica%20Veronese%20DAM.jpg"
-        },
-        {
             "title": "Lady Lilith",
             "artist": "Dante Gabriel Rossetti",
             "year": "1866",
@@ -21745,13 +21577,6 @@
             "year": "1874",
             "museum": "National Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sancta-Lilias.jpg"
-        },
-        {
-            "title": "Sancta Lilias",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1874",
-            "museum": "Tate",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/N02440%2010.jpg"
         },
         {
             "title": "Sancta Lilias",
@@ -25277,13 +25102,6 @@
         {
             "title": "The Spiritual Form of Nelson guiding Leviathan",
             "artist": "William Blake",
-            "year": "1807",
-            "museum": "Tate",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Spiritual%20Form%20of%20Nelson%20Guiding%20Leviathan.jpg"
-        },
-        {
-            "title": "The Spiritual Form of Nelson guiding Leviathan",
-            "artist": "William Blake",
             "year": "1800",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Spiritual%20Form%20of%20Nelson%20Guiding%20Leviathan%20-%20N03006%20-%20Tate.jpg"
@@ -27294,13 +27112,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Canal%20at%20Sunset.jpg"
         },
         {
-            "title": "Canal in Warnem\u00fcnde",
-            "artist": "Edvard Munch",
-            "year": "1908",
-            "museum": "Munch Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Canal%20in%20Warnem%C3%BCnde%20-%20MM.M.00084%20-%20Munch%20Museum.jpg"
-        },
-        {
             "title": "Canal In Warnem\u00fcnde",
             "artist": "Edvard Munch",
             "year": "1908",
@@ -27602,15 +27413,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Coastal%20Landscape%20at%20Hvitsten%20-%20Woll%201187.jpg"
         }
     ],
-    "Soga Sh\u014dhaku": [
-        {
-            "title": "The Eight Immortals of the Wine Cup",
-            "artist": "Soga Sh\u014dhaku",
-            "year": "1765",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Soga%20Shohaku%20-%20The%20Eight%20Immortals%20of%20the%20Wine%20Cup%20-%201976.11.2%20-%20Cleveland%20Museum%20of%20Art.tif"
-        }
-    ],
+    "Soga Sh\u014dhaku": [],
     "Raja Ravi Varma": [
         {
             "title": "Shakuntala",
