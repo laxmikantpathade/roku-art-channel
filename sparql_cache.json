@@ -85,13 +85,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Antoni%20Piotrowski%20-%20J%C3%B3zef%20Che%C5%82mo%C5%84ski.%20Wspomnienie%20%28page%2031%20crop%29.jpg"
         },
         {
-            "title": "In the Stable",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1872",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Wn%C4%99trze%20stajni.jpg"
-        },
-        {
             "title": "Noc",
             "artist": "J\u00f3zef Che\u0142mo\u0144ski",
             "year": "1895",
@@ -605,22 +598,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20monet%2C%20il%20disgelo%20verso%20v%C3%A9theuil.jpg"
         }
     ],
-    "Mikhail Vrubel": [
-        {
-            "title": "The Swan Princess",
-            "artist": "Mikhail Vrubel",
-            "year": "1900",
-            "museum": "Tretyakov Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsarevna-Lebed%20by%20Mikhail%20Vrubel%20%28brightened%29.jpg"
-        },
-        {
-            "title": "Thirty-Three Bogatyrs",
-            "artist": "Mikhail Vrubel",
-            "year": "1901",
-            "museum": "Russian Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/33%20bogatyrs%20by%20M.Vrubel%20%281901%2C%20GRM%29.jpg"
-        }
-    ],
+    "Mikhail Vrubel": [],
     "Pierre-Auguste Renoir": [
         {
             "title": "Genevi\u00e8ve Bernheim de Villers",
@@ -2637,13 +2615,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alegor%C3%ADa%20de%20la%20villa%20de%20Madrid.JPG"
         },
         {
-            "title": "Allegory of the City of Madrid",
-            "artist": "Francisco Goya",
-            "year": "1810",
-            "museum": "Madrid History Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alegor%C3%ADa%20de%20la%20villa%20de%20Madrid.JPG"
-        },
-        {
             "title": "The Madhouse",
             "artist": "Francisco Goya",
             "year": "1814",
@@ -2733,13 +2704,6 @@
             "year": "1801",
             "museum": "Royal Academy of Fine Arts of San Fernando",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Goya%20-%20Godoy%20como%20general%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "The Holy Family with Saint Joachim and Saint Anne Before the Eternal Glory",
-            "artist": "Francisco Goya",
-            "year": "1769",
-            "museum": "http://www.wikidata.org/.well-known/genid/75f71917668b1aaed1b0461980d97703",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Triple%20generacion.jpg"
         },
         {
             "title": "St. Francis Borgia Helping a Dying Impenitent",
@@ -3656,13 +3620,6 @@
     ],
     "Sofonisba Anguissola": [
         {
-            "title": "Portrait of Minerva Anguissola",
-            "artist": "Sofonisba Anguissola",
-            "year": "1560",
-            "museum": "Pinacoteca di Brera",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Portrait%20of%20Minerva%20Anguissola%20-%20WGA0700.jpg"
-        },
-        {
             "title": "Portrait of Giuliano Cesarini",
             "artist": "Sofonisba Anguissola",
             "year": "1586",
@@ -3957,13 +3914,6 @@
             "artist": "Edgar Degas",
             "year": "1800",
             "museum": "National Museum of Art, Architecture and Design",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%20-%20La%20femme%20au%20chien%2C%20Ca.%201875%E2%80%931880.jpg"
-        },
-        {
-            "title": "Lady with a Dog",
-            "artist": "Edgar Degas",
-            "year": "1800",
-            "museum": "National Museum of Art, Architecture and Design",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Lady%20with%20a%20Dog%20-%20NG.M.01170%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg"
         },
         {
@@ -4049,13 +3999,6 @@
             "year": "1883",
             "museum": "Mus\u00e9e d'Orsay",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%2C%20Femme%20dans%20son%20bain%20s%27%C3%A9pongeant%20la%20jambe.jpg"
-        },
-        {
-            "title": "A Woman Seated beside a Vase of Flowers",
-            "artist": "Edgar Degas",
-            "year": "1865",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Degas%2C%20A%20Woman%20Seated%20beside%20a%20Vase%20of%20Flowers%20%28Madame%20Paul%20Valpin%C3%A7on%29.jpg"
         },
         {
             "title": "Un caf\u00e9, boulevard Montmartre",
@@ -6977,13 +6920,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Stilleven%20met%20haring%2C%20kersen%2C%20artisjok%2C%20kruik%20en%20een%20porseleinen%20schaaltje%20met%20boter%20-%20priv%C3%A9collectie.jpg"
         },
         {
-            "title": "Still life of fruit, dead birds and a monkey, by Clara Peeters",
-            "artist": "Clara Peeters",
-            "year": "1616",
-            "museum": "http://www.wikidata.org/.well-known/genid/bd67e4682f01a8ba93089b83249b9be8",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20life%20of%20fruit%2C%20birds%20and%20a%20monkey%2C%20by%20Clara%20Peeters.jpg"
-        },
-        {
             "title": "A Bouquet of Flowers",
             "artist": "Clara Peeters",
             "year": "1612",
@@ -7899,13 +7835,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20The%20Polecat%20Fur%2C%201916.jpg"
         },
         {
-            "title": "The Polecat Fur",
-            "artist": "Gustav Klimt",
-            "year": "1916",
-            "museum": "http://www.wikidata.org/.well-known/genid/28361d2d6efef4ab35e668294bbf6f32",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20The%20Polecat%20Fur%2C%201916.jpg"
-        },
-        {
             "title": "From the Realm of the Death",
             "artist": "Gustav Klimt",
             "year": "1903",
@@ -8287,13 +8216,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20gentileschi%20venus%20and%20cupid060552%29.jpg"
         },
         {
-            "title": "Cleopatra discovered by her servants",
-            "artist": "Artemisia Gentileschi",
-            "year": "1635",
-            "museum": "http://www.wikidata.org/.well-known/genid/a8ff9e6de4673eb61133466a77fa3c3e",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Cleopatra3.jpg"
-        },
-        {
             "title": "Susanna and the Elders",
             "artist": "Artemisia Gentileschi",
             "year": "1630",
@@ -8355,13 +8277,6 @@
             "year": "1645",
             "museum": "Mus\u00e9e des Explorations du Monde",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20and%20her%20maid%20with%20the%20Head%20of%20Holofernes%20by%20Artemisia%20Gentileschi%20ca.%201645-1650.jpg"
-        },
-        {
-            "title": "Christ Blessing the Children",
-            "artist": "Artemisia Gentileschi",
-            "year": "1626",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sinite%20Parvulos%20-%20A.%20Gentileschi.png"
         },
         {
             "title": "Christ Blessing the Children",
@@ -8553,13 +8468,6 @@
             "year": "1767",
             "museum": "Yale University Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ito%20Jakuchu%20-%20Lotu%20-%202006.210.8a-b%20-%20Yale%20University%20Art%20Gallery.jpg"
-        },
-        {
-            "title": "White Plum Blossoms and Moon",
-            "artist": "Ito Jakuchu",
-            "year": "1755",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20White%20Plum%20Blossoms%20and%20Moon%20-%202015.300.213%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Bean Vine",
@@ -10477,13 +10385,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vig%C3%A9e%20Le%20Brun%20-%20Urszula%20Zamoyska.jpg"
         },
         {
-            "title": "Madame Dugazon in the Role of \"Nina\"",
-            "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
-            "year": "1787",
-            "museum": "http://www.wikidata.org/.well-known/genid/59471afef6b7fc0d2f7ea49bec93d95c",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/LRDugazon.jpg"
-        },
-        {
             "title": "Portrait of Isabella Teotochi Albrizzi",
             "artist": "\u00c9lisabeth Vig\u00e9e Le Brun",
             "year": "1792",
@@ -11102,13 +11003,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Scott%20Duncanson%2C%20Vale%20o%20Kashmir.jpg"
         },
         {
-            "title": "Western Forest",
-            "artist": "Robert S. Duncanson",
-            "year": "1857",
-            "museum": "Cincinnati Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Western%20Forest%27%20by%20Robert%20Scott%20Duncanson%2C%201857.jpg"
-        },
-        {
             "title": "Wilderness Idyll",
             "artist": "Robert S. Duncanson",
             "year": "1868",
@@ -11615,13 +11509,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Saint%20Jerome%20-%20Galleria%20Borghese.jpg"
         },
         {
-            "title": "Madonna and Child with Saint Anne",
-            "artist": "Caravaggio",
-            "year": "1605",
-            "museum": "Galleria Borghese",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20and%20Child%20with%20St.%20Anne-Caravaggio%20%28c.%201605-6%29.jpg"
-        },
-        {
             "title": "The Beheading of Saint John the Baptist",
             "artist": "Caravaggio",
             "year": "1608",
@@ -11713,13 +11600,6 @@
             "year": "1858",
             "museum": "National Museum in Krak\u00f3w",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20G%C5%82owa%20starca%20z%20siw%C4%85%20brod%C4%85%20-%20MNK%20IX-18%20%2827318%29.jpg"
-        },
-        {
-            "title": "Students Leaving Krakow in 1549",
-            "artist": "Jan Matejko",
-            "year": "1892",
-            "museum": "National Museum in Krak\u00f3w",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kleparz%20w%20XVIw%20Wyjscie%20zakow%20z%20Krakowa.jpg"
         },
         {
             "title": "Portrait of Teodora Matejko (n\u00e9e Giebu\u0142towska) in Her Wedding Dress",
@@ -11846,13 +11726,6 @@
             "year": "1855",
             "museum": "National Museum in Krak\u00f3w",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Portrait%20of%20a%20Little%20Boy%20-%20MNK%20II-a-507%20-%20National%20Museum%20Krak%C3%B3w.jpg"
-        },
-        {
-            "title": "Portrait of Szymon Darowski",
-            "artist": "Jan Matejko",
-            "year": "1858",
-            "museum": "National Museum in Krak\u00f3w",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Portret%20Szymona%20Darowskiego%201858.jpg"
         },
         {
             "title": "Portrait of Leonard Serafi\u0144ski",
@@ -14025,13 +13898,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pines%20%28Shishkin%29.jpg"
         },
         {
-            "title": "Deciduous Forest. Etude",
-            "artist": "Ivan Shishkin",
-            "year": "1897",
-            "museum": "Tatarstan State Museum of Fine Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B8%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%81%201897.jpg"
-        },
-        {
             "title": "Glade (Forest Glade)",
             "artist": "Ivan Shishkin",
             "year": "1897",
@@ -15656,13 +15522,6 @@
             "year": "1833",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Turner%2C%20Bridge%20of%20Sighs%2C%20Ducal%20Palace%20and%20Custom-House.jpg"
-        },
-        {
-            "title": "Venice, from the Porch of Madonna della Salute",
-            "artist": "J.M.W. Turner",
-            "year": "1835",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%2C%20J.%20M.%20W.%20-%20The%20Grand%20Canal%20-%20Venice.jpg"
         },
         {
             "title": "Mortlake Terrace",
@@ -17641,13 +17500,6 @@
             "year": "1550",
             "museum": "National Palace Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Orchids%20and%20Bamboo.jpg"
-        },
-        {
-            "title": "Peony",
-            "artist": "Wen Zhengming",
-            "year": "1532",
-            "museum": "Yale University Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20Peony%20-%201985.83.1%20-%20Yale%20University%20Art%20Gallery.jpg"
         }
     ],
     "Basawan": [
@@ -18888,13 +18740,6 @@
         {
             "title": "Sir Brian Tuke",
             "artist": "Hans Holbein the Younger",
-            "year": "1533",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Holbein%2C%20Hans%20-%20Sir%20Brian%20Tuke.jpg"
-        },
-        {
-            "title": "Sir Brian Tuke",
-            "artist": "Hans Holbein the Younger",
             "year": "1527",
             "museum": "Andrew W. Mellon collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Holbein%2C%20Hans%20-%20Sir%20Brian%20Tuke.jpg"
@@ -18947,13 +18792,6 @@
             "year": "1543",
             "museum": "Gem\u00e4ldegalerie Berlin",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bildnis%20Herzog%20Anton%20der%20Gute%20von%20Lothringen%20%E2%80%93%20Hans%20Holbein%20d.%20J.jpg"
-        },
-        {
-            "title": "Duke Antony the Good of Lorraine",
-            "artist": "Hans Holbein the Younger",
-            "year": "1543",
-            "museum": "Gem\u00e4ldegalerie Berlin",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20%28der%20J%C3%BCngere%29%20%281497-98%20-%201543%29%20-%20Duke%20Anton%20the%20Good%20of%20Lorraine%20%281489-1544%29%20-%20586D%20-%20Gem%C3%A4ldegalerie.jpg"
         },
         {
             "title": "Duke Antony the Good of Lorraine",
@@ -20652,13 +20490,6 @@
             "year": "1865",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Eruption%20at%20Cotopaxi%20Frederic%20Edwin%20Church.jpg"
-        },
-        {
-            "title": "Figures in a New England Landscape",
-            "artist": "Frederic Edwin Church",
-            "year": "1852",
-            "museum": "http://www.wikidata.org/.well-known/genid/107c5de3512e6e314da1f801440c2aa7",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Figures%20in%20a%20New%20England%20Landscape%20Frederic%20Edwin%20Church.jpg"
         },
         {
             "title": "Figures in an Ecuadorian Landscape",
@@ -25930,13 +25761,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Flowers%2C%20Poppies%20and%20Daisies%20-%201977.605%20-%20Art%20Institute%20of%20Chicago.jpg"
         },
         {
-            "title": "Silence",
-            "artist": "Odilon Redon",
-            "year": "1911",
-            "museum": "Minneapolis Institute of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Silence%20-%2063.74%20-%20Minneapolis%20Institute%20of%20Arts.jpg"
-        },
-        {
             "title": "The Golden Cell",
             "artist": "Odilon Redon",
             "year": "1892",
@@ -27009,13 +26833,6 @@
     ],
     "Albert Bierstadt": [
         {
-            "title": "Pioneers of the Woods",
-            "artist": "Albert Bierstadt",
-            "year": "1850",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Pioneers%20of%20the%20Woods.jpg"
-        },
-        {
             "title": "Rhone Valley",
             "artist": "Albert Bierstadt",
             "year": "1850",
@@ -27105,13 +26922,6 @@
             "year": "1892",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Study%20for%20The%20Landing%20of%20Columbus.jpg"
-        },
-        {
-            "title": "Study for \"Sunlight and Shadow\"",
-            "artist": "Albert Bierstadt",
-            "year": "1850",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Sunlight%20and%20Shadow%20Study.jpg"
         },
         {
             "title": "Sunrise at Glacier Station",
