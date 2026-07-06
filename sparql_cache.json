@@ -269,13 +269,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20La%20maison%20%C3%A0%20travers%20les%20roses%2C%201925-1926.jpg"
         },
         {
-            "title": "The Beach at Trouville",
-            "artist": "Claude Monet",
-            "year": "1870",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20002.jpg"
-        },
-        {
             "title": "The Museum at Le Havre",
             "artist": "Claude Monet",
             "year": "1873",
@@ -2263,13 +2256,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Paul%20in%20Prison%20by%20Rembrandt%20-%20Staatsgalerie%20-%20Stuttgart%20-%20Germany%202017.jpg"
         },
         {
-            "title": "The Descent from the Cross",
-            "artist": "Rembrandt",
-            "year": "1650",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Workshop%20of%20Rembrandt%20van%20Rijn%20-%20The%20Descent%20from%20the%20Cross%20%28National%20Gallery%20of%20Art%29.jpg"
-        },
-        {
             "title": "Half-figure of a woman with a beret",
             "artist": "Rembrandt",
             "year": "1643",
@@ -3728,13 +3714,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Women%20Ironing%20Edgar%20Degas.jpg"
         },
         {
-            "title": "After the Bath.",
-            "artist": "Edgar Degas",
-            "year": "1890",
-            "museum": "Bavarian State Painting Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20the%20Bath%20Edgar%20Degas%20c.1890.jpg"
-        },
-        {
             "title": "The Bath (Le bain)",
             "artist": "Edgar Degas",
             "year": "1895",
@@ -4005,13 +3984,6 @@
         {
             "title": "Blind Man's Bluff",
             "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1760",
-            "museum": "Munich Central Collecting Point",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
-        },
-        {
-            "title": "Blind Man's Bluff",
-            "artist": "Jean-Honor\u00e9 Fragonard",
             "year": "1757",
             "museum": "Toledo Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
@@ -4022,13 +3994,6 @@
             "year": "1760",
             "museum": "Toledo Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg"
-        },
-        {
-            "title": "A Young Girl Reading",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1770",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20Reader.jpg"
         },
         {
             "title": "Jeroboam Sacrificing to Idols",
@@ -4113,20 +4078,6 @@
             "year": "1757",
             "museum": "Munich Central Collecting Point",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Honor%C3%A9%20Fragonard%20%281732-1806%29%20-%20Die%20Schaukel%20-%203223%20-%20F%C3%BChrermuseum.jpg"
-        },
-        {
-            "title": "The See-Saw",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1750",
-            "museum": "Munich Central Collecting Point",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20See-Saw.jpg"
-        },
-        {
-            "title": "The See-Saw",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1757",
-            "museum": "Munich Central Collecting Point",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20See-Saw.jpg"
         },
         {
             "title": "The Swing",
@@ -4246,13 +4197,6 @@
             "year": "1765",
             "museum": "Department of Paintings of the Louvre",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20coresus%20sacrificing%20himselt%20to%20save%20callirhoe.jpg"
-        },
-        {
-            "title": "The Captured Kiss",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1756",
-            "museum": "Hermitage Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Captured%20kiss.jpg"
         },
         {
             "title": "Mountain Landscape at Sunset",
@@ -5946,13 +5890,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Mount%20Chocorua%20New%20Hampshire%201827.jpg"
         },
         {
-            "title": "Mount Aetna from Taormina",
-            "artist": "Thomas Cole",
-            "year": "1842",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Mount%20Etna%201842.jpg"
-        },
-        {
             "title": "Roman Campagna",
             "artist": "Thomas Cole",
             "year": "1843",
@@ -6107,13 +6044,6 @@
             "year": "1660",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20van%20Delft%20019.jpg"
-        },
-        {
-            "title": "The Little Street",
-            "artist": "Johannes Vermeer",
-            "year": "1658",
-            "museum": "Rijksmuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Vermeer%20-%20Gezicht%20op%20huizen%20in%20Delft%2C%20bekend%20als%20%27Het%20straatje%27%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "The Art of Painting",
@@ -7812,13 +7742,6 @@
             "year": "1903",
             "museum": "Busch\u2013Reisinger Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Pear%20Tree%20-%20BR66.4%20-%20Busch%E2%80%93Reisinger%20Museum.jpg"
-        },
-        {
-            "title": "Death and Life",
-            "artist": "Gustav Klimt",
-            "year": "1910",
-            "museum": "Leopold Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20-%20Death%20and%20Life%20-%20Google%20Art%20Project.jpg"
         }
     ],
     "Kam\u0101l ud-D\u012bn Behz\u0101d": [],
@@ -8335,13 +8258,6 @@
             "year": "1750",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP-13583-002.jpg"
-        },
-        {
-            "title": "Hen and Rooster with Grapevine",
-            "artist": "Ito Jakuchu",
-            "year": "1792",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Hen%20and%20Rooster%20with%20Grapevine%20-%201975.268.69%20-%20Metropolitan%20Museum%20of%20Art.jpg"
         },
         {
             "title": "Roosters, Hen, and Chicks [left of a pair]",
@@ -9028,13 +8944,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragomirov%20by%20Repin.jpg"
         },
         {
-            "title": "Portrait of Maxim Gorky",
-            "artist": "Ilya Repin",
-            "year": "1899",
-            "museum": "Russian Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gorki%20by%20Repin.jpg"
-        },
-        {
             "title": "Get Thee Behind Me, Satan",
             "artist": "Ilya Repin",
             "year": "1895",
@@ -9534,13 +9443,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse-sleep%20and%20his%20half-brother%20death-1874.jpg"
         },
         {
-            "title": "The Crystal Ball",
-            "artist": "John William Waterhouse",
-            "year": "1902",
-            "museum": "http://www.wikidata.org/.well-known/genid/a230e5ded16e1243cb8037febe5fcd26",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20The%20Crystal%20Ball.JPG"
-        },
-        {
             "title": "The Magic Circle",
             "artist": "John William Waterhouse",
             "year": "1886",
@@ -9574,13 +9476,6 @@
             "year": "1882",
             "museum": "Art Gallery of New South Wales",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Waterhouse%20-%20Diogenes%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Windflowers",
-            "artist": "John William Waterhouse",
-            "year": "1903",
-            "museum": "http://www.wikidata.org/.well-known/genid/654b48704b71bd3bb9728ec6a9a83daa",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Windswept%20by%20John%20William%20Waterhouse.jpg"
         },
         {
             "title": "Lamia",
@@ -9721,13 +9616,6 @@
             "year": "1914",
             "museum": "Dahesh Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Dante%20and%20Matilda.jpg"
-        },
-        {
-            "title": "Dolce Far Niente",
-            "artist": "John William Waterhouse",
-            "year": "1879",
-            "museum": "http://www.wikidata.org/.well-known/genid/a298e65a8335289e71935db5a290edc1",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Dolce%20Far%20Niente%20%281879%29.jpg"
         }
     ],
     "Titian": [
@@ -11350,13 +11238,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Karton%20do%20polichromii%20Ko%C5%9Bcio%C5%82a%20Mariackiego%20-%20G%C5%82owa%20m%C4%99ska%20i%20litery%20%22I%2C%20B%2C%20X%22%20%28ks.%20Jan%20Bukowski%29%20-%20MNK%20IX-107%20-%20National%20Museum%20Krak%C3%B3w.jpg"
         },
         {
-            "title": "Karton do polichromii Ko\u015bcio\u0142a Mariackiego - G\u0142\u00f3wka anio\u0142ka (portret c\u00f3rki Heleny)",
-            "artist": "Jan Matejko",
-            "year": "1889",
-            "museum": "National Museum in Krak\u00f3w",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Karton%20do%20polichromii%20Ko%C5%9Bcio%C5%82a%20Mariackiego%20-%20G%C5%82%C3%B3wka%20anio%C5%82ka%20%28portret%20c%C3%B3rki%20Heleny%29%20-%20MNK%20IX-54%20-%20National%20Museum%20Krak%C3%B3w.jpg"
-        },
-        {
             "title": "Karton do polichromii Ko\u015bcio\u0142a Mariackiego - God\u0142o \u0142ucznik\u00f3w",
             "artist": "Jan Matejko",
             "year": "1889",
@@ -12606,13 +12487,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Van%20Gogh%20-%20Shoes%202.jpg"
         },
         {
-            "title": "The Flowering Orchard",
-            "artist": "Vincent van Gogh",
-            "year": "1888",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Van%20Gogh%200021.jpg"
-        },
-        {
             "title": "Oleanders",
             "artist": "Vincent van Gogh",
             "year": "1888",
@@ -12646,13 +12520,6 @@
             "year": "1886",
             "museum": "Van Gogh Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Stillleben%20mit%20Flasche%2C%20Zwei%20Gl%C3%A4sern%2C%20K%C3%A4se%20und%20Brot.jpeg"
-        },
-        {
-            "title": "A Weaver's Cottage",
-            "artist": "Vincent van Gogh",
-            "year": "1884",
-            "museum": "Museum Boijmans Van Beuningen",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20A%20Weaver%27s%20Cottage%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Vase with Red and White Flowers",
@@ -14400,13 +14267,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1879%20Morisot%20Boote%20auf%20der%20Seine%20anagoria.jpg"
         },
         {
-            "title": "the-port-of-nice",
-            "artist": "Berthe Morisot",
-            "year": "1882",
-            "museum": "http://www.wikidata.org/.well-known/genid/ab00b33768b7fc619ead934afd5e527e",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20the-port-of-nice.jpg"
-        },
-        {
             "title": "harbor in the port of Fecamp",
             "artist": "Berthe Morisot",
             "year": "1874",
@@ -14468,13 +14328,6 @@
             "year": "1890",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%2C%20Spring%20Landscape%2C%20c.%201890-1891%2C%20NGA%2052307.jpg"
-        },
-        {
-            "title": "Red haired girl sitting on a veranda",
-            "artist": "Berthe Morisot",
-            "year": "1884",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20---%20Red%20haired%20girl%20sitting%20on%20a%20veranda%20-.jpg"
         },
         {
             "title": "Figure of a Woman (Before the Theater)",
@@ -14547,13 +14400,6 @@
             "year": "1883",
             "museum": "Art Institute of Chicago",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Final%20Study%20for%20%22Bathers%20at%20Asni%C3%A8res%22%20-%201962.578%20-%20Art%20Institute%20of%20Chicago.jpg"
-        },
-        {
-            "title": "Port-en-Bessin, Bridge and Port",
-            "artist": "Georges Seurat",
-            "year": "1888",
-            "museum": "Minneapolis Institute of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Port-en-Bessin%20-%2055.38%20-%20Minneapolis%20Institute%20of%20Arts.jpg"
         },
         {
             "title": "The Stone Breaker",
@@ -18254,13 +18100,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20-%20An%20Allegory%20of%20the%20Old%20and%20New%20Testaments%20-%20NG%202407%20-%20Scottish%20National%20Gallery.jpg"
         },
         {
-            "title": "An Allegory of the Old and New Testaments",
-            "artist": "Hans Holbein the Younger",
-            "year": "1530",
-            "museum": "National Galleries Scotland",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20-%20An%20Allegory%20of%20the%20Old%20and%20New%20Testaments%20-%20NG%202407%20-%20Scottish%20National%20Gallery.jpg"
-        },
-        {
             "title": "Portrait of a woman from southern Germany",
             "artist": "Hans Holbein the Younger",
             "year": "1520",
@@ -18294,13 +18133,6 @@
             "year": "1542",
             "museum": "collection Willem V Prince of Orange Nassau",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20de%20Jonge%20-%20Portrait%20of%20a%20Nobleman%20with%20a%20Hawk%20-%20277%20-%20Mauritshuis.jpg"
-        },
-        {
-            "title": "Noli me tangere",
-            "artist": "Hans Holbein the Younger",
-            "year": "1526",
-            "museum": "Royal Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20-%20Noli%20Me%20Tangere%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Noli me tangere",
@@ -18441,13 +18273,6 @@
             "year": "1541",
             "museum": "Los Angeles County Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20Young%20Woman%20with%20a%20White%20Coif%201541%20LACMA%20M44%202%209%202.jpg"
-        },
-        {
-            "title": "The Merchant Georg Gisze",
-            "artist": "Hans Holbein the Younger",
-            "year": "1532",
-            "museum": "Gem\u00e4ldegalerie Berlin",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Der%20Kaufmann%20Georg%20Gisze%20%281497-1562%29%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205248570.jpg"
         },
         {
             "title": "The Merchant Georg Gisze",
@@ -18780,13 +18605,6 @@
             "artist": "Dante Gabriel Rossetti",
             "year": "1872",
             "museum": "Tate",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20gabriel%20rossetti%2C%20beata%20beatrix%2C%201864-0%20ca.jpg"
-        },
-        {
-            "title": "Beata Beatrix",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1872",
-            "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rossetti%2C%20Beata%20Beatrix.JPG"
         },
         {
@@ -18909,13 +18727,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Beloved%20by%20Dante%20Gabriel%20Rossetti.jpg"
         },
         {
-            "title": "David",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1856",
-            "museum": "Tate",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dante%20Gabriel%20Rossetti%20-%20The%20Seed%20of%20David%20%281856%20ca%29%20-%201.jpg"
-        },
-        {
             "title": "Silence",
             "artist": "Dante Gabriel Rossetti",
             "year": "1870",
@@ -19004,13 +18815,6 @@
             "artist": "Dante Gabriel Rossetti",
             "year": "1874",
             "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sancta-Lilias.jpg"
-        },
-        {
-            "title": "Sancta Lilias",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1874",
-            "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sancta-Lilias.jpg"
         },
         {
@@ -19123,13 +18927,6 @@
             "artist": "Dante Gabriel Rossetti",
             "year": "1863",
             "museum": "Fogg Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Greensleeves-rossetti.jpg"
-        },
-        {
-            "title": "My Lady Greensleeves",
-            "artist": "Dante Gabriel Rossetti",
-            "year": "1863",
-            "museum": "Harvard Art Museums",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Greensleeves-rossetti.jpg"
         },
         {
@@ -19719,13 +19516,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Na%20Krizku.jpg"
         },
         {
-            "title": "The Printing of the Bible of Kralice in Ivan\u010dice",
-            "artist": "Alphonse Mucha",
-            "year": "1914",
-            "museum": "museum collection of the Prague City Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Skola%20Ivancice.jpg"
-        },
-        {
             "title": "The Last days of Jan Amos Komensk\u00fd in Naarden",
             "artist": "Alphonse Mucha",
             "year": "1918",
@@ -19766,13 +19556,6 @@
             "year": "1896",
             "museum": "Biblioth\u00e8que nationale de France",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20Mucha%20-%20Advertisment%20for%20Job%20cigarettes%2C%201896.jpg"
-        },
-        {
-            "title": "Song of Bohemia",
-            "artist": "Alphonse Mucha",
-            "year": "1918",
-            "museum": "Mucha Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Chant%20de%20Boh%C3%A8me%2002.jpg"
         },
         {
             "title": "Study for Woman in the Wilderness",
@@ -20351,15 +20134,7 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Study%20for%20View%20near%20Stockbridge%2C%20Massachusetts%20Frederic%20Edwin%20Church.jpg"
         }
     ],
-    "Tawaraya S\u014dtatsu": [
-        {
-            "title": "Poem scroll with deer",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1700",
-            "museum": "Gotoh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Poem%20scroll%20with%20deer%20%28overall%20view%29.jpg"
-        }
-    ],
+    "Tawaraya S\u014dtatsu": [],
     "Kan\u014d Eitoku": [],
     "Edward Burne-Jones": [
         {
@@ -22504,13 +22279,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mademoiselle%20Nys%20MET%20ep1974.356.36.R.jpg"
         },
         {
-            "title": "The Model Resting",
-            "artist": "Henri de Toulouse-Lautrec",
-            "year": "1889",
-            "museum": "J. Paul Getty Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20de%20Toulouse-Lautrec%20%28French%20-%20The%20Model%20Resting%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "At the Circus: The Spanish Walk (Au Cirque: Le Pas espagnol)",
             "artist": "Henri de Toulouse-Lautrec",
             "year": "1899",
@@ -23595,13 +23363,6 @@
             "year": "1706",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%B3%A2%E6%BF%A4%E5%9B%B3%E5%B1%8F%E9%A2%A8-Rough%20Waves%20MET%20DT1615.jpg"
-        },
-        {
-            "title": "Flowers of Spring and Autumn",
-            "artist": "Ogata K\u014drin",
-            "year": "1750",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Flowers%20of%20Spring%20and%20Autumn.jpg"
         },
         {
             "title": "Flowers of Spring and Autumn",
@@ -25400,13 +25161,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Night%20Scene%20-%20WGA20423.jpg"
         },
         {
-            "title": "Old woman and boy with candles",
-            "artist": "Peter Paul Rubens",
-            "year": "1616",
-            "museum": "Mauritshuis",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Old%20Woman%20and%20Boy%20with%20Candles%20-%201150%20-%20Mauritshuis.jpg"
-        },
-        {
             "title": "Holy Theresia of \u00c1vila",
             "artist": "Peter Paul Rubens",
             "year": "1630",
@@ -25529,13 +25283,6 @@
             "title": "Christ's first appearance to the apostles in Jerusalem",
             "artist": "Peter Paul Rubens",
             "year": "1614",
-            "museum": "Vlaamse Kunstcollectie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Ongeloof%20van%20Tomas%20-%20307%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Christ's first appearance to the apostles in Jerusalem",
-            "artist": "Peter Paul Rubens",
-            "year": "1614",
             "museum": "Department of Paintings of the Louvre",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Christ%27s%20First%20Apparition%20to%20the%20Disciples%20%28central%20panel%20of%20the%20Rockox%20Triptych%29.jpg"
         },
@@ -25545,13 +25292,6 @@
             "year": "1614",
             "museum": "Department of Paintings of the Louvre",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Ongeloof%20van%20Tomas%20-%20307%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Portrait of Nicolaas Rockox",
-            "artist": "Peter Paul Rubens",
-            "year": "1614",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rubens%20-%20RKDimages%2C%2023527.jpg"
         },
         {
             "title": "Portrait of Nicolaas Rockox",
@@ -25687,13 +25427,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Erepoort%20van%20de%20Munt%20%28voorzijde%29%20-%20316-317%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
         },
         {
-            "title": "The Arch of the Mint (front)",
-            "artist": "Peter Paul Rubens",
-            "year": "1634",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Voorzijde%20van%20de%20erepoort%20van%20de%20Munt%20%28Pompa%20Introitus%20Ferdinandi%29%20-%20316%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.jpg"
-        },
-        {
             "title": "The Arch of Honor of the Mint (reverse)",
             "artist": "Peter Paul Rubens",
             "year": "1635",
@@ -25727,13 +25460,6 @@
             "year": "1638",
             "museum": "Royal Museum of Fine Arts Antwerp",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Zegewagen%20van%20Kallo%20-%20318%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Triumphal Chariot of Kallo",
-            "artist": "Peter Paul Rubens",
-            "year": "1638",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Triumphal%20Chariot%20of%20Kallo.jpg"
         },
         {
             "title": "Triumphal Chariot of Kallo",
@@ -25796,20 +25522,6 @@
             "artist": "Peter Paul Rubens",
             "year": "1614",
             "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Venus%20frigida%20-%20709%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Venus Frigida",
-            "artist": "Peter Paul Rubens",
-            "year": "1614",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20frigida%2C%20Peter%20Paul%20Rubens%2C%201614%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20709.jpg"
-        },
-        {
-            "title": "Venus Frigida",
-            "artist": "Peter Paul Rubens",
-            "year": "1614",
-            "museum": "Vlaamse Kunstcollectie",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20frigida%2C%20Peter%20Paul%20Rubens%2C%201614%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20709.jpg"
         },
         {
@@ -25827,25 +25539,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20De%20hertenjacht%20-%20766%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
         },
         {
-            "title": "The Hunt",
-            "artist": "Peter Paul Rubens",
-            "year": "1634",
-            "museum": "Vlaamse Kunstcollectie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Landschap%20met%20hertenjacht%20-%20766%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.jpg"
-        },
-        {
             "title": "The Prodigal Son",
             "artist": "Peter Paul Rubens",
             "year": "1618",
             "museum": "Royal Museum of Fine Arts Antwerp",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20verloren%20zoon%2C%20Peter%20Paul%20Rubens%2C%20%281618%29%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20781.jpg"
-        },
-        {
-            "title": "Minerva overcoming Ignorance",
-            "artist": "Peter Paul Rubens",
-            "year": "1632",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Minerva%20slaying%20Discord%2C%20by%20Peter%20Paul%20Rubens.jpg"
         },
         {
             "title": "Minerva overcoming Ignorance",
