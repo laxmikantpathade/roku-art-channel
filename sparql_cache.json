@@ -29,13 +29,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20-%20Zako%C5%84czenie%20polowania%201894.jpg"
         },
         {
-            "title": "Na ukrai\u0144skiej wsi",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1887",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski.%20Zaloty.%201887.jpg"
-        },
-        {
             "title": "An Extensive Winter Landscape with Horsedrawn Sleighs",
             "artist": "J\u00f3zef Che\u0142mo\u0144ski",
             "year": "1877",
@@ -111,13 +104,6 @@
             "year": "1895",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Noc%20grafika%20%28cropped%29.jpg"
-        },
-        {
-            "title": "B\u0105k",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1891",
-            "museum": "http://www.wikidata.org/.well-known/genid/756f7c6f7bda84ed21ebfefa4a3571e1",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20B%C4%85k.jpg"
         },
         {
             "title": "W ko\u015bciele",
@@ -1770,13 +1756,6 @@
         }
     ],
     "Leonardo da Vinci": [
-        {
-            "title": "The Holy Infants Embracing",
-            "artist": "Leonardo da Vinci",
-            "year": "1486",
-            "museum": "http://www.wikidata.org/.well-known/genid/e9bacf638b1ac21cba3ba65a7e462b4a",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20%28attrib%29%20-%20The%20Holy%20Infants.jpg"
-        },
         {
             "title": "Lucan portrait of Leonardo da Vinci",
             "artist": "Leonardo da Vinci",
@@ -3435,13 +3414,6 @@
             "artist": "Sandro Botticelli",
             "year": "1470",
             "museum": "Victoria and Albert Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20Sandro%20-%20Portrait%20of%20a%20Lady%20known%20as%20Smeralda%20Bandinelli%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Portrait of a Lady known as Esmeralda Brandini",
-            "artist": "Sandro Botticelli",
-            "year": "1470",
-            "museum": "Victoria and Albert museum prints, drawings, & paintings collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20Sandro%20-%20Portrait%20of%20a%20Lady%20known%20as%20Smeralda%20Bandinelli%20-%20Google%20Art%20Project.jpg"
         },
         {
@@ -5135,13 +5107,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Summertime%20-%201894.jpg"
         },
         {
-            "title": "Alexander J. Cassatt",
-            "artist": "Mary Cassatt",
-            "year": "1880",
-            "museum": "Detroit Institute of Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Cassatt%20-%20Alexander%20J.%20Cassatt%20-%201986.60%20-%20Detroit%20Institute%20of%20Arts.jpg"
-        },
-        {
             "title": "Women Admiring a Child",
             "artist": "Mary Cassatt",
             "year": "1897",
@@ -6368,25 +6333,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20A%20View%20of%20the%20Mountain%20Pass%20Called%20the%20Notch%20of%20the%20White%20Mountains.jpg"
         },
         {
-            "title": "The Voyage of Life: Childhood",
-            "artist": "Thomas Cole",
-            "year": "1842",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20The%20Voyage%20of%20Life%20Childhood%2C%201842%20%28National%20Gallery%20of%20Art%29.jpg"
-        },
-        {
             "title": "The Voyage of Life: Manhood",
             "artist": "Thomas Cole",
             "year": "1842",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20The%20Voyage%20of%20Life%20Manhood%2C%201842%20%28National%20Gallery%20of%20Art%29.jpg"
-        },
-        {
-            "title": "The Voyage of Life: Old Age",
-            "artist": "Thomas Cole",
-            "year": "1842",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20The%20Voyage%20of%20Life%20Old%20Age%2C%201842%20%28National%20Gallery%20of%20Art%29.jpg"
         },
         {
             "title": "The Voyage of Life: Youth",
@@ -6804,13 +6755,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20-%20The%20Art%20of%20Painting%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Lady Writing a Letter with her Maid",
-            "artist": "Johannes Vermeer",
-            "year": "1670",
-            "museum": "National Gallery of Ireland",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20writing%20a%20letter%2C%20with%20her%20maid%2C%20by%20Johannes%20Vermeer.jpg"
-        },
-        {
             "title": "A Girl Asleep",
             "artist": "Johannes Vermeer",
             "year": "1657",
@@ -7091,13 +7035,6 @@
             "year": "1700",
             "museum": "Fitzwilliam Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Flowers%20in%20a%20terracotta%20vase%20-%20PD.88-1973.jpg"
-        },
-        {
-            "title": "Roses, Convolvulus, Poppies, and Other Flowers in an Urn on a Stone Ledge",
-            "artist": "Rachel Ruysch",
-            "year": "1688",
-            "museum": "National Museum of Women in the Arts",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Roses%2C%20Convolvulus%2C%20Poppies%2C%20and%20Other%20Flowers%20in%20an%20Urn%20on%20a%20Stone%20Ledge%20-%20Rachel%20Ruysch%20-%20Google%20Cultural%20Institute.jpg"
         },
         {
             "title": "Basket of Flowers",
@@ -7529,13 +7466,6 @@
             "year": "1700",
             "museum": "Rafael Valls Limited",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Self%20portrait%2C%20by%20Clara%20Peeters.jpg"
-        },
-        {
-            "title": "Still life with Shellfish and Eggs",
-            "artist": "Clara Peeters",
-            "year": "1630",
-            "museum": "Shipley Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20life%20with%20Shrimp%20and%20Eggs%20-%201630s.jpg"
         },
         {
             "title": "Cheesestack with knife, shrimps, crawfish, glass of wine and bread",
@@ -12407,13 +12337,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Francis%20in%20Meditation-Caravaggio%20%28Cremona%29.jpg"
         },
         {
-            "title": "The Raising of Lazarus",
-            "artist": "Caravaggio",
-            "year": "1609",
-            "museum": "Regional museum of Messina",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%20Caravaggio%20006.jpg"
-        },
-        {
             "title": "Sacrifice of Isaac",
             "artist": "Caravaggio",
             "year": "1603",
@@ -14689,13 +14612,6 @@
             "year": "1889",
             "museum": "Tretyakov Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Shishkin%2C%20Ivan%20-%20Morning%20in%20a%20Pine%20Forest.jpg"
-        },
-        {
-            "title": "In the Wild North\u2026",
-            "artist": "Ivan Shishkin",
-            "year": "1891",
-            "museum": "Kiev National Picture Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20%D0%98.%20%D0%98.%20%281891%29%20%D0%9D%D0%B0%20%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%B5%20%D0%B4%D0%B8%D0%BA%D0%BE%D0%BC.jpg"
         },
         {
             "title": "Rye Fields",
@@ -18144,13 +18060,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Art%20Institute%20of%20Chicago-1035.jpg"
         },
         {
-            "title": "Red Tree",
-            "artist": "Marsden Hartley",
-            "year": "1910",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/WLA%20amart%20Red%20Tree%20by%20Mardsen%20Hartley.jpg"
-        },
-        {
             "title": "Carnival of Autumn",
             "artist": "Marsden Hartley",
             "year": "1908",
@@ -18322,13 +18231,6 @@
             "title": "Kezar Lake, Autumn Morning",
             "artist": "Marsden Hartley",
             "year": "1910",
-            "museum": "Fogg Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Kezar%20Lake%2C%20Autumn%20Morning%20-%201967.42%20-%20Fogg%20Museum.jpg"
-        },
-        {
-            "title": "Kezar Lake, Autumn Morning",
-            "artist": "Marsden Hartley",
-            "year": "1910",
             "museum": "Harvard Art Museums",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Kezar%20Lake%2C%20Autumn%20Morning%20-%201967.42%20-%20Fogg%20Museum.jpg"
         },
@@ -18416,13 +18318,6 @@
             "artist": "Egon Schiele",
             "year": "1910",
             "museum": "Leopold Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Schiele%20-%20work-p162.jpg"
-        },
-        {
-            "title": "Portrait of Poldi Lodzinsky",
-            "artist": "Egon Schiele",
-            "year": "1910",
-            "museum": "http://www.wikidata.org/.well-known/genid/27792c414ebea2d75c9759a656af5c68",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Schiele%20-%20work-p162.jpg"
         },
         {
@@ -18979,13 +18874,6 @@
             "year": "1551",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Zhengming%20-%20Garden%20of%20the%20Inept%20Administrator%20-%201979.458.1a%E2%80%93ii%20-%20Metropolitan%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "Eight Songs of the Xiao and Xiang Rivers",
-            "artist": "Wen Zhengming",
-            "year": "1514",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP161037.jpg"
         },
         {
             "title": "Landscape with Mountain Village",
@@ -19956,13 +19844,6 @@
             "year": "1887",
             "museum": "drawings in the National Gallery of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Childe%20Hassam%2C%20Au%20Grand%20Prix%20de%20Paris%20%28At%20the%20Grand%20Prix%20de%20Paris%29%2C%201887%2C%20NGA%20166492.jpg"
-        },
-        {
-            "title": "Bridge at Old Lyme",
-            "artist": "Childe Hassam",
-            "year": "1908",
-            "museum": "Georgia Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Childe%20Hassam%20-%20Bridge%20at%20Old%20Lyme%20%281908%29.jpg"
         },
         {
             "title": "Cliff Rock--Appledore",
@@ -21456,13 +21337,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20The%20Pedlar%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "The Wayfarer",
-            "artist": "Hieronymus Bosch",
-            "year": "1500",
-            "museum": "Jacques Goudstikker collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus%20Bosch%20-%20The%20Pedlar%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Paradise and Hell",
             "artist": "Hieronymus Bosch",
             "year": "1513",
@@ -22553,13 +22427,6 @@
         }
     ],
     "Tawaraya S\u014dtatsu": [
-        {
-            "title": "Kenshu, Monk with Shrimp",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1620",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tawaraya%20S%C5%8Dtatsu%20-%20Kenshu%2C%20Monk%20with%20Shrimp%20-%201992.388%20-%20Cleveland%20Museum%20of%20Art.tiff"
-        },
         {
             "title": "The Beach at Sumiyoshi from the Tales of Ise",
             "artist": "Tawaraya S\u014dtatsu",
@@ -23971,13 +23838,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Princes%20in%20the%20Tower%20by%20John%20Everett%20Millais%20%281878%29.png"
         },
         {
-            "title": "Esther",
-            "artist": "John Everett Millais",
-            "year": "1865",
-            "museum": "http://www.wikidata.org/.well-known/genid/528109b706d64fdfeed2c4d581361c28",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Esthermillais.jpg"
-        },
-        {
             "title": "The Boyhood of Raleigh",
             "artist": "John Everett Millais",
             "year": "1870",
@@ -24088,13 +23948,6 @@
             "title": "Beatrice Addressing Dante from the Car",
             "artist": "William Blake",
             "year": "1820",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Beatrice%20Addressing%20Dante%20%28by%20William%20Blake%29.jpg"
-        },
-        {
-            "title": "Beatrice Addressing Dante from the Car",
-            "artist": "William Blake",
-            "year": "1824",
             "museum": "National Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Beatrice%20Addressing%20Dante%20%28by%20William%20Blake%29.jpg"
         },
@@ -25794,13 +25647,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Felsenschlucht%20im%20Harz.jpg"
         },
         {
-            "title": "Rock Canyon in the Harz",
-            "artist": "Caspar David Friedrich",
-            "year": "1811",
-            "museum": "Pomeranian State Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Felsenschlucht%20im%20Harz.jpg"
-        },
-        {
             "title": "The Cross Beside The Baltic",
             "artist": "Caspar David Friedrich",
             "year": "1813",
@@ -26686,13 +26532,6 @@
             "year": "1898",
             "museum": "Sree Chitra Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%20-%20Mahabharata%20-%20Shakuntala.jpg"
-        },
-        {
-            "title": "Woman Holding a Fruit",
-            "artist": "Raja Ravi Varma",
-            "year": "1850",
-            "museum": "National Gallery of Modern Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%20-%20Woman%20Holding%20a%20Fruit%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Shakuntala Patra-lekhan",
@@ -27976,13 +27815,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%2C%20Ophelia%20among%20the%20Flowers%2C%20The%20National%20Gallery%2C%20London.jpg"
         },
         {
-            "title": "Two Young Girls among Flowers",
-            "artist": "Odilon Redon",
-            "year": "1912",
-            "museum": "Museum of Fine Arts, Houston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Two%20Young%20Girls%20among%20Flowers%20-%2085.308%20-%20Museum%20of%20Fine%20Arts.jpg"
-        },
-        {
             "title": "Saint George and the Dragon (Saint Georges et le dragon)",
             "artist": "Odilon Redon",
             "year": "1909",
@@ -28659,13 +28491,6 @@
             "year": "1506",
             "museum": "Thyssen-Bornemisza Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20-%20Jesus%20among%20the%20Doctors%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Lion",
-            "artist": "Albrecht D\u00fcrer",
-            "year": "1494",
-            "museum": "Hamburger Kunsthalle",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%20055.jpg"
         },
         {
             "title": "Self-Portrait with Fur-Trimmed Robe",
@@ -29529,13 +29354,6 @@
             "year": "1900",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20The%20Lookout%20%281900%29.jpg"
-        },
-        {
-            "title": "Valley of the Yosemite",
-            "artist": "Albert Bierstadt",
-            "year": "1868",
-            "museum": "Yale University Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Valley%20of%20the%20Yosemite%20by%20Albert%20Bierstadt%201868.jpeg"
         },
         {
             "title": "Yosemite Valley, Glacier Point Trail",
