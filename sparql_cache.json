@@ -332,13 +332,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20w1922.jpg"
         },
         {
-            "title": "The Water-Lily Pond",
-            "artist": "Claude Monet",
-            "year": "1899",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%2C%20The%20Water-Lily%20Pond%20%28National%20Gallery%2C%20London%29.jpg"
-        },
-        {
             "title": "Cliff in Pourville, Sunset",
             "artist": "Claude Monet",
             "year": "1896",
@@ -3636,13 +3629,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Jockey%20-%201942.302%20-%20Yale%20University%20Art%20Gallery.jpg"
         },
         {
-            "title": "The False\u00a0Start",
-            "artist": "Edgar Degas",
-            "year": "1870",
-            "museum": "Yale University Art Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20False%20Start%20-%201982.111.6%20-%20Yale%20University%20Art%20Gallery.jpg"
-        },
-        {
             "title": "Four\u00a0Jockeys",
             "artist": "Edgar Degas",
             "year": "1889",
@@ -5966,13 +5952,6 @@
             "year": "1670",
             "museum": "National Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20van%20Delft%20-%20Jonge%20vrouw%20aan%20een%20virginaal%20%28ca.%201670-72%29.jpg"
-        },
-        {
-            "title": "The Guitar Player",
-            "artist": "Johannes Vermeer",
-            "year": "1672",
-            "museum": "Iveagh Bequest, 1929",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Vermeer%20van%20Delft%20013.jpg"
         }
     ],
     "Rachel Ruysch": [
@@ -6005,13 +5984,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20%281664-1750%29%20-%20Still%20Life%20with%20Flowers%20and%20Grapes%20-%20LLDMG.1983.76%20-%20Llandudno%20Museum.jpg"
         },
         {
-            "title": "Vase of Flowers",
-            "artist": "Rachel Ruysch",
-            "year": "1741",
-            "museum": "Ashmolean Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20%281664-1750%29%20-%20Vase%20of%20Flowers%20-%20WA1940.2.66%20-%20Ashmolean%20Museum.jpg"
-        },
-        {
             "title": "Flowers in a glass vase on a marble ledge, 1691",
             "artist": "Rachel Ruysch",
             "year": "1691",
@@ -6038,13 +6010,6 @@
             "year": "1700",
             "museum": "Mauritshuis",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Vase%20with%20Flowers%20-%20151%20-%20Mauritshuis.jpg"
-        },
-        {
-            "title": "Still Life with Flowers in a Glass Vase",
-            "artist": "Rachel Ruysch",
-            "year": "1700",
-            "museum": "Rijksmuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stilleven%20met%20bloemen%20in%20een%20glazen%20vaas%20Rijksmuseum%20SK-A-354.jpeg"
         },
         {
             "title": "Still Life with Flowers on a Marble Slab",
@@ -6213,13 +6178,6 @@
             "year": "1716",
             "museum": "Galleria Palatina",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Still-Life%20with%20Flowers%20-%20WGA20555.jpg"
-        },
-        {
-            "title": "Roses, tulips and other flowers in a glass vase on a marble ledge",
-            "artist": "Rachel Ruysch",
-            "year": "1709",
-            "museum": "Bavarian State Painting Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Flowers%20in%20a%20glass%20vase%20on%20a%20marble%20slab%20formerly%20of%20Munich%20Alte%20Pinakothek.jpg"
         },
         {
             "title": "Roses, tulips and other flowers in a glass vase on a marble ledge",
@@ -6452,13 +6410,6 @@
         {
             "title": "Still Life with Fish",
             "artist": "Clara Peeters",
-            "year": "1600",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Stilleven%20met%20vis%20-%20834%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Still Life with Fish",
-            "artist": "Clara Peeters",
             "year": "1615",
             "museum": "Royal Museum of Fine Arts Antwerp",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Stilleven%20met%20vis%20-%20834%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
@@ -6553,20 +6504,6 @@
             "year": "1640",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20peeters%20a%20basket%20of%20red%20and%20green%20grapes%20a%20goldfinch%20game%20and%20a114828%29.jpg"
-        },
-        {
-            "title": "Still life of flowers in a stoneware vase, with a pot with carnations",
-            "artist": "Clara Peeters",
-            "year": "1612",
-            "museum": "http://www.wikidata.org/.well-known/genid/649f673c809804e5673eabbe57faa5e5",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Roses%2C%20lilies%2C%20an%20iris%20and%20other%20flowers%20in%20an%20earthenware%20vase%2C%20with%20a%20pot%20of%20carnations%20and%20a%20butterfly%202022%20NYR%2020550%200008%20012936.jpg"
-        },
-        {
-            "title": "Still life with oyster, shrimps, a salt cellar, a bread roll, and a lemon",
-            "artist": "Clara Peeters",
-            "year": "1608",
-            "museum": "http://www.wikidata.org/.well-known/genid/c4260adbcea4b518066f5ce2d42bc54c",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20life%20with%20oyster%2C%20shrimps%2C%20a%20salt%20cellar%2C%20a%20bread%20roll%2C%20and%20a%20lemon%2C%201608.jpg"
         },
         {
             "title": "Still life of flowers in a glass vase, on a stone ledge, flanked by a rose and a carnation",
@@ -6885,13 +6822,6 @@
             "year": "1867",
             "museum": "Walker Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20The%20Murder%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "The Tree by the Bend",
-            "artist": "Paul C\u00e9zanne",
-            "year": "1881",
-            "museum": "Israel Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20The%20Tree%20by%20the%20Bend%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "L'Estaque, effet du soir",
@@ -7823,13 +7753,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Susanna%20and%20the%20Elders%20NOT%20NCMG%201964%2077.jpg"
         },
         {
-            "title": "Aurora",
-            "artist": "Artemisia Gentileschi",
-            "year": "1627",
-            "museum": "http://www.wikidata.org/.well-known/genid/96a2991be0ac7797737fe0cecde6c5e3",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aurora-Gentileschi.jpg"
-        },
-        {
             "title": "Saint Proculus of Pozzuoli and his mother Santa Nicaea",
             "artist": "Artemisia Gentileschi",
             "year": "1637",
@@ -8017,13 +7940,6 @@
             "year": "1626",
             "museum": "http://www.wikidata.org/.well-known/genid/b1167bf61b9c7ae0be411b32a254ba9f",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PORTRAIT%20OF%20A%20GENTLEMAN%2C%20PROBABLY%20ANTOINE%20DE%20VILLE.PNG"
-        },
-        {
-            "title": "Saint Lucy",
-            "artist": "Artemisia Gentileschi",
-            "year": "1637",
-            "museum": "http://www.wikidata.org/.well-known/genid/c3e7291fd2486012bea67fd79effdbfd",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Lucy%20by%20Artemisia%20Gentileschi%20ca.%201636-1638.jpg"
         }
     ],
     "Ito Jakuchu": [
@@ -10204,13 +10120,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RobertDucanson-Mountain%20Pool%201870.jpg"
         },
         {
-            "title": "On the St. Annes, East Canada",
-            "artist": "Robert S. Duncanson",
-            "year": "1863",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RobertDuncanson-On%20St%20Annes%20East%20Canada%201863.jpg"
-        },
-        {
             "title": "Remembrances of a Scene Near Auerbach",
             "artist": "Robert S. Duncanson",
             "year": "1856",
@@ -12052,13 +11961,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20schovenbinder%20%28naar%20Millet%29%20-%20s0173V1962%20-%20Van%20Gogh%20Museum.jpg"
         },
         {
-            "title": "Peasant Woman Bruising Flax (after Millet)",
-            "artist": "Vincent van Gogh",
-            "year": "1889",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20boerin%20die%20vlas%20kneust%20%28naar%20Millet%29%20-%20s0043V1962%20-%20Van%20Gogh%20Museum.jpg"
-        },
-        {
             "title": "Peasant Woman Binding Sheaves (after Millet)",
             "artist": "Vincent van Gogh",
             "year": "1889",
@@ -12169,13 +12071,6 @@
             "year": "1889",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Olivenhain2.jpeg"
-        },
-        {
-            "title": "Still Life with Bottle, Two Glasses, Cheese and Bread",
-            "artist": "Vincent van Gogh",
-            "year": "1886",
-            "museum": "Van Gogh Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Gogh%20-%20Stillleben%20mit%20Flasche%2C%20Zwei%20Gl%C3%A4sern%2C%20K%C3%A4se%20und%20Brot.jpeg"
         },
         {
             "title": "Vase with Red and White Flowers",
@@ -12395,13 +12290,6 @@
             "year": "1899",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Laveuse%20dans%20le%20jardin%20d%27Eragny%20%281899%29.jpg"
-        },
-        {
-            "title": "The Gardener",
-            "artist": "Camille Pissarro",
-            "year": "1899",
-            "museum": "Staatsgalerie Stuttgart",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Der%20G%C3%A4rtner%20-%20Staatsgalerie%20Stuttgart.jpg"
         },
         {
             "title": "The Louvre, Afternoon, Rainy Weather (First Series)",
@@ -13403,13 +13291,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavement%2C%20Cairo%20A10953.jpg"
         },
         {
-            "title": "Mary Crowninshield Endicott Chamberlain (Mrs. Joseph Chamberlain)",
-            "artist": "John Singer Sargent",
-            "year": "1902",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Crowninshield%20Endicott%20Chamberlain%20A21433.jpg"
-        },
-        {
             "title": "Peter A. B. Widener",
             "artist": "John Singer Sargent",
             "year": "1902",
@@ -14093,13 +13974,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Young%20Woman%20Powdering%20Herself%20-%2098.301%20-%20Museum%20of%20Fine%20Arts.jpg"
         },
         {
-            "title": "Young Woman Powdering Herself (Study)",
-            "artist": "Georges Seurat",
-            "year": "1889",
-            "museum": "Museum of Fine Arts, Houston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Young%20Woman%20Powdering%20Herself%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Two Sailboats at Grandcamp",
             "artist": "Georges Seurat",
             "year": "1885",
@@ -14142,25 +14016,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20A%20Fisherman%20-%201966.79.14%20-%20Yale%20University%20Art%20Gallery.jpg"
         },
         {
-            "title": "Study for Le Bec du Hoc, Grandcamp",
-            "artist": "Georges Seurat",
-            "year": "1885",
-            "museum": "National Gallery of Australia",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Study%20for%20Le%20Bec%20du%20Hoc%2C%20Grandcamp%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Study for \"Bathers at Asni\u00e8res\"",
             "artist": "Georges Seurat",
             "year": "1880",
             "museum": "Cleveland Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20Study%20for%20%22Bathers%20at%20Asni%C3%A8res%22%20-%201958.51%20-%20Cleveland%20Museum%20of%20Art.jpg"
-        },
-        {
-            "title": "La Grande Jatte (Study VII)",
-            "artist": "Georges Seurat",
-            "year": "1884",
-            "museum": "Kunsthaus Z\u00fcrich",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20-%20%C3%89tude%20pour%20La%20Grande%20Jatte%20PC%20129.jpg"
         },
         {
             "title": "The Circus Parade (Study)",
@@ -14433,13 +14293,6 @@
             "artist": "Georges Seurat",
             "year": "1878",
             "museum": "Fogg Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Pierre%20Seurat%20-%20Vase%20of%20Flowers%20-%201974.100%20-%20Harvard%20Art%20Museums.jpg"
-        },
-        {
-            "title": "Vase of Flowers",
-            "artist": "Georges Seurat",
-            "year": "1878",
-            "museum": "Harvard Art Museums",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Pierre%20Seurat%20-%20Vase%20of%20Flowers%20-%201974.100%20-%20Harvard%20Art%20Museums.jpg"
         },
         {
@@ -15935,13 +15788,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Carnival%20of%20Autumn%20-%2068.296%20-%20Museum%20of%20Fine%20Arts.jpg"
         },
         {
-            "title": "Sextant",
-            "artist": "Marsden Hartley",
-            "year": "1917",
-            "museum": "Philadelphia Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley-Sextant-1917.jpg"
-        },
-        {
             "title": "Church at Head Tide #2",
             "artist": "Marsden Hartley",
             "year": "1939",
@@ -16624,22 +16470,7 @@
     ],
     "Abd al-Samad": [],
     "Wen Zhengming": [],
-    "Basawan": [
-        {
-            "title": "A holy man prostrating himself before a learned prince",
-            "artist": "Basawan",
-            "year": "1585",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Manohar%20-%20A%20Holy%20Man%20Prostrating%20Himself%20Before%20a%20Learned%20Prince%20-%202013.297%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
-            "title": "Courtier Awaiting Akbar's Command",
-            "artist": "Basawan",
-            "year": "1575",
-            "museum": "Arthur M. Sackler Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Basawan%20-%20Courtier%20Awaiting%20Akbar%27s%20Command%20-%202009.202.55%20-%20Arthur%20M.%20Sackler%20Museum.jpg"
-        }
-    ],
+    "Basawan": [],
     "Henri Rousseau": [
         {
             "title": "Tiger in a Tropical Storm",
@@ -17486,13 +17317,6 @@
             "year": "1902",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Broadway%20and%2042nd%20Street%20MET%20DP161227.jpg"
-        },
-        {
-            "title": "Poppies, Isles of Shoals",
-            "artist": "Childe Hassam",
-            "year": "1891",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Childe%20Hassam%2C%20Poppies%2C%20Isles%20of%20Shoals%2C%201891.jpg"
         },
         {
             "title": "Oyster Sloop, Cos Cob",
@@ -22089,13 +21913,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20108.jpg"
         },
         {
-            "title": "Garden in Snow",
-            "artist": "Paul Gauguin",
-            "year": "1883",
-            "museum": "Ny Carlsberg Glyptotek",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Gauguin%20108.jpg"
-        },
-        {
             "title": "Madame Roulin",
             "artist": "Paul Gauguin",
             "year": "1888",
@@ -22495,13 +22312,6 @@
             "year": "1827",
             "museum": "Museum der bildenden K\u00fcnste",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/See%20in%20the%20moonlight%20by%20Caspar%20David%20Friedrich.jpg"
-        },
-        {
-            "title": "Easter Morning",
-            "artist": "Caspar David Friedrich",
-            "year": "1828",
-            "museum": "Thyssen-Bornemisza Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Ostermorgen.jpg"
         },
         {
             "title": "The Riesengebirge Mountains",
@@ -23569,13 +23379,6 @@
         {
             "title": "Queen Henrietta Maria of England",
             "artist": "Anthony van Dyck",
-            "year": "1692",
-            "museum": "Art collection of the Federal Republic of Germany",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20%28Kopie%20nach%29%20-%20K%C3%B6nigin%20Henriette%20Maria%20von%20England%20-%204999%20-%20Bavarian%20State%20Painting%20Collections.jpg"
-        },
-        {
-            "title": "Queen Henrietta Maria of England",
-            "artist": "Anthony van Dyck",
             "year": "1620",
             "museum": "Art collection of the Federal Republic of Germany",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Godfrey%20Kneller%20%28Kniller%29%20%281646-1723%29%20%28Umkreis%20Anthonis%20van%20Dyck%29%20%28%29%20-%20Bildnis%20der%20K%C3%B6nigin%20Henrietta%20Maria%20von%20England%20-%200877%20-%20F%C3%BChrermuseum.jpg"
@@ -23649,13 +23452,6 @@
             "year": "1620",
             "museum": "Bavarian State Painting Collections",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20-%20Studienkopf%20-%201288%20-%20Bavarian%20State%20Painting%20Collections.jpg"
-        },
-        {
-            "title": "Albrecht von Wallenstein (Werkstatt)",
-            "artist": "Anthony van Dyck",
-            "year": "1620",
-            "museum": "Bavarian State Painting Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20%28Werkstatt%29%20-%20Albrecht%20von%20Wallenstein%20-%2084%20-%20Bavarian%20State%20Painting%20Collections.jpg"
         },
         {
             "title": "Portrait of Filippo Spinola",
@@ -24126,21 +23922,7 @@
             "artist": "El Greco",
             "year": "1593",
             "museum": "http://www.wikidata.org/.well-known/genid/24e0f607c38768fbb943ba60820a01e9",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Birth%20of%20the%20Virgin%2C%201608-20.jpg"
-        },
-        {
-            "title": "The Birth of the Virgin",
-            "artist": "El Greco",
-            "year": "1593",
-            "museum": "http://www.wikidata.org/.well-known/genid/24e0f607c38768fbb943ba60820a01e9",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Manuel%20Theotoc%C3%B3puli%20-%20Geburt%20Mari%C3%A4%20-%20BU%200141%20-%20Kunsthaus%20Z%C3%BCrich.jpg"
-        },
-        {
-            "title": "The Immaculate Conception with Saint John the Evangelist",
-            "artist": "El Greco",
-            "year": "1580",
-            "museum": "Museum of Santa Cruz",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Virgin%20of%20the%20Immaculate%20Conception%20and%20St%20John%20-%20WGA10466.jpg"
         },
         {
             "title": "Apostle Saint Peter",
@@ -24206,13 +23988,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20%28Dom%C3%A9nikos%20Theotok%C3%B3poulos%29%20-%20Miniature%20of%20a%20Man%20-%20A311%20-%20Hispanic%20Society%20of%20America.jpg"
         },
         {
-            "title": "Portrait of a Gentleman",
-            "artist": "El Greco",
-            "year": "1605",
-            "museum": "http://www.wikidata.org/.well-known/genid/961e1fa094466a901fbec650d318f4a6",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Portrait%20of%20a%20Gentleman%22%20%28El%20Greco%29.jpg"
-        },
-        {
             "title": "Portrait of Unknown Gentleman",
             "artist": "El Greco",
             "year": "1605",
@@ -24253,13 +24028,6 @@
             "year": "1613",
             "museum": "National Museum of Art of Romania",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Marriage%20of%20the%20Virgin%20-%20WGA10630.jpg"
-        },
-        {
-            "title": "The Veil of Veronica",
-            "artist": "El Greco",
-            "year": "1577",
-            "museum": "http://www.wikidata.org/.well-known/genid/7622cc4a2c3fa21e3ac7d3ef463af49b",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Faz%20El%20Greco%20Convento%20de%20Santo%20Domingo%20el%20Antiguo1.jpg"
         },
         {
             "title": "Saint Luke the Evangelist",
@@ -24535,13 +24303,6 @@
     "Govardhan": [],
     "Peter Paul Rubens": [
         {
-            "title": "The Israelites Gathering Manna in the Desert",
-            "artist": "Peter Paul Rubens",
-            "year": "1626",
-            "museum": "Los Angeles County Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Israelites%20Gathering%20Manna%20in%20the%20Desert%20LACMA%20M.69.20.jpg"
-        },
-        {
             "title": "The Holy Family with St. Elizabeth, St. John, and a Dove",
             "artist": "Peter Paul Rubens",
             "year": "1609",
@@ -24589,13 +24350,6 @@
             "year": "1618",
             "museum": "Vlaamse Kunstcollectie",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Lamentation%20%28Christ%20on%20the%20Straw%29.jpg"
-        },
-        {
-            "title": "Madonna and Child",
-            "artist": "Peter Paul Rubens",
-            "year": "1618",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Madonna%20-%20301%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
         },
         {
             "title": "Madonna and Child",
@@ -24673,13 +24427,6 @@
             "year": "1614",
             "museum": "Royal Museum of Fine Arts Antwerp",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Ongeloof%20van%20Tomas%20-%20307%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
-            "title": "Christ's first appearance to the apostles in Jerusalem",
-            "artist": "Peter Paul Rubens",
-            "year": "1614",
-            "museum": "Department of Paintings of the Louvre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Christ%27s%20First%20Apparition%20to%20the%20Disciples%20%28central%20panel%20of%20the%20Rockox%20Triptych%29.jpg"
         },
         {
             "title": "Christ's first appearance to the apostles in Jerusalem",
@@ -24857,13 +24604,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Zegewagen%20van%20Kallo%20-%20318%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
         },
         {
-            "title": "The Lamentation over the Dead Christ",
-            "artist": "Peter Paul Rubens",
-            "year": "1656",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Bewening%20van%20Christus%20-%20319%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
-        },
-        {
             "title": "Calvary",
             "artist": "Peter Paul Rubens",
             "year": "1675",
@@ -24918,13 +24658,6 @@
             "year": "1634",
             "museum": "Royal Museum of Fine Arts Antwerp",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Landschap%20met%20hertenjacht%20-%20766%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.jpg"
-        },
-        {
-            "title": "The Hunt",
-            "artist": "Peter Paul Rubens",
-            "year": "1634",
-            "museum": "Vlaamse Kunstcollectie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20De%20hertenjacht%20-%20766%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
         },
         {
             "title": "The Prodigal Son",
@@ -25074,13 +24807,6 @@
             "year": "1500",
             "museum": "Bavarian State Painting Collections",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/ALBRECHT-DUERER%20BEWEINUNG-CHRISTI-GLIMSCHE-BEWEINUNG%20BSTGS%20704.jpg"
-        },
-        {
-            "title": "Lamentation of Christ",
-            "artist": "Albrecht D\u00fcrer",
-            "year": "1498",
-            "museum": "Germanisches Nationalmuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1499%20D%C3%BCrer%20Beweinung%20Christi%20anagoria.JPG"
         },
         {
             "title": "Hercules Killing the Stymphalian Birds",
