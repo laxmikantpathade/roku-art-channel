@@ -1087,13 +1087,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20Kosztka%2C%20Tivadar%20-%20Pilgrimage%20to%20the%20Cedars%20of%20Lebanon%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Mysterious Island",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1903",
-            "museum": "http://www.wikidata.org/.well-known/genid/620e47c5628ca583ea31780e09c5ba87",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mysterious%20Island%20by%20Csontv%C3%A1ry.jpg"
-        },
-        {
             "title": "Afternoon storm in Trau",
             "artist": "Tivadar Csontv\u00e1ry Kosztka",
             "year": "1900",
@@ -1155,13 +1148,6 @@
             "year": "1897",
             "museum": "Hungarian National Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Arch%2C%20c%201897.jpg"
-        },
-        {
-            "title": "Baalbek",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1906",
-            "museum": "Csontv\u00e1ry Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cskt-baalbek%20%281906%29.jpg"
         },
         {
             "title": "At the Entrance of the Wailing-Wall in Jerusalem",
@@ -2973,13 +2959,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Letter%20or%20the%20Young%20by%20Goya.jpg"
         },
         {
-            "title": "The Letter",
-            "artist": "Francisco Goya",
-            "year": "1819",
-            "museum": "Palais des Beaux-Arts de Lille",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Letter%20or%20the%20Young%20by%20Goya.jpg"
-        },
-        {
             "title": "Dead duck",
             "artist": "Francisco Goya",
             "year": "1808",
@@ -4459,13 +4438,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Progress%20of%20Love%20-%20Love%20Letters%20-%20Fragonard%201771-72.jpg"
         },
         {
-            "title": "The Progress of Love: Reverie",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1771",
-            "museum": "The Frick Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Progress%20of%20Love%20-%20Reverie%20-%20Fragonard%201771-72.jpg"
-        },
-        {
             "title": "The Progress of Love: The Pursuit",
             "artist": "Jean-Honor\u00e9 Fragonard",
             "year": "1773",
@@ -4541,13 +4513,6 @@
             "year": "1778",
             "museum": "Department of Paintings of the Louvre",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20feu%20aux%20poudres%20-%20Jean-Honor%C3%A9%20Fragonard%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201942%2021.jpg"
-        },
-        {
-            "title": "Essaim d Amours - Jean-Honore Fragonard - RF 1949-2",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1767",
-            "museum": "Department of Paintings of the Louvre",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20lo%20sciame%20d%27amorini%2C%201767%20ca.%2001.JPG"
         },
         {
             "title": "Coresus Sacrificing Himself to Save Callirhoe",
@@ -5473,13 +5438,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20cattle%20grazing%29%20-%201983.95.77%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
-            "title": "Untitled (landscape with cows and trees)",
-            "artist": "Edward Mitchell Bannister",
-            "year": "1881",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Mitchell%20Bannister%20-%20Untitled%20%28landscape%20with%20cows%20and%20trees%29%20-%201983.95.140%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
             "title": "Untitled (landscape with cows grazing near river)",
             "artist": "Edward Mitchell Bannister",
             "year": "1891",
@@ -5809,13 +5767,6 @@
             "year": "1900",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20Rams%20in%20a%20Landscape%20-%20Rosa%20Bonheur.webp"
-        },
-        {
-            "title": "Studies of an Isard",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Studies%20of%20an%20Isard%20-%20Rosa%20Bonheur.webp"
         },
         {
             "title": "Sheep in a meadow",
@@ -7771,13 +7722,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Woman%20with%20a%20Coffeepot%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "The Card Players",
-            "artist": "Paul C\u00e9zanne",
-            "year": "1890",
-            "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Joueurs%20de%20cartes%2C%20par%20Paul%20C%C3%A9zanne.jpg"
-        },
-        {
             "title": "Portrait de l'artiste au fond rose",
             "artist": "Paul C\u00e9zanne",
             "year": "1875",
@@ -9010,13 +8954,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Blossoming%20plum%20under%20the%20moon%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
         },
         {
-            "title": "Birds on blossoming plum",
-            "artist": "Ito Jakuchu",
-            "year": "1800",
-            "museum": "Museum of the Imperial Collections",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/It%C5%8D%20Jakuch%C5%AB%20-%20Birds%20on%20blossoming%20plum%20%28Colorful%20Realm%20of%20Living%20Beings%29.jpg"
-        },
-        {
             "title": "Cockatoos in an old pine",
             "artist": "Ito Jakuchu",
             "year": "1800",
@@ -10172,13 +10109,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gather%20Ye%20Rosebuds%20While%20Ye%20May.jpg"
         },
         {
-            "title": "Gather Ye Rosebuds While Ye May",
-            "artist": "John William Waterhouse",
-            "year": "1909",
-            "museum": "http://www.wikidata.org/.well-known/genid/2c60470e9d325253e50b73ab3404c9d9",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse-gather%20ye%20rosebuds-1909.jpg"
-        },
-        {
             "title": "Boreas",
             "artist": "John William Waterhouse",
             "year": "1903",
@@ -10345,13 +10275,6 @@
             "year": "1902",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20The%20Missal.JPG"
-        },
-        {
-            "title": "Fair Rosamund",
-            "artist": "John William Waterhouse",
-            "year": "1916",
-            "museum": "Amgueddfa Cymru \u2013 Museum Wales",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20william%20waterhouse%20fair%20rosamund.jpg"
         },
         {
             "title": "Tristan and Isolde with the Potion",
@@ -15204,13 +15127,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Carnation%2C%20Lily%2C%20Lily%2C%20Rose%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "Madame X (Virginie Am\u00e9lie Avegno Gautreau)",
-            "artist": "John Singer Sargent",
-            "year": "1884",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sargent%20MadameX.jpeg"
-        },
-        {
             "title": "Gassed",
             "artist": "John Singer Sargent",
             "year": "1919",
@@ -15281,13 +15197,6 @@
             "year": "1879",
             "museum": "Buffalo AKG Art Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20Femme%20cousant%20%28Woman%20Sewing%29%2C%20ca.%201879.tif"
-        },
-        {
-            "title": "On the Terrace",
-            "artist": "Berthe Morisot",
-            "year": "1874",
-            "museum": "Tokyo Fuji Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Morisot%20-%20On%20the%20Terrace%2C%201874.jpg"
         },
         {
             "title": "In a Park",
@@ -15456,13 +15365,6 @@
             "year": "1881",
             "museum": "Wallraf\u2013Richartz Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Child%20among%20the%20Hollyhocks%20-%20Berthe%20Morisot%20-%20Paris%201863%20%E2%80%93%201874-%20Revolution%20in%20der%20Kunst-9810%20%28without%20frame%29.jpg"
-        },
-        {
-            "title": "Young Girl Braiding her Hair",
-            "artist": "Berthe Morisot",
-            "year": "1893",
-            "museum": "Ny Carlsberg Glyptotek",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Berthe%20Morisot%20-%20Young%20Girl%20Braiding%20her%20Hair.jpg"
         },
         {
             "title": "The Shuttlecock",
@@ -20559,13 +20461,6 @@
     "Li Tang": [],
     "Hieronymus Bosch": [
         {
-            "title": "The Garden of Earthly Delights",
-            "artist": "Hieronymus Bosch",
-            "year": "1490",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Garden%20of%20Earthly%20Delights%20by%20Bosch%20High%20Resolution%202.jpg"
-        },
-        {
             "title": "Ship of Fools",
             "artist": "Hieronymus Bosch",
             "year": "1500",
@@ -20590,13 +20485,6 @@
             "title": "The Last Judgment",
             "artist": "Hieronymus Bosch",
             "year": "1450",
-            "museum": "Academy of Fine Arts Vienna",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Last%20judgement%20Bosch.jpg"
-        },
-        {
-            "title": "The Last Judgment",
-            "artist": "Hieronymus Bosch",
-            "year": "1506",
             "museum": "Academy of Fine Arts Vienna",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Last%20judgement%20Bosch.jpg"
         },
@@ -21135,13 +21023,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Na%20Krizku.jpg"
         },
         {
-            "title": "Petr Chel\u010dick\u00fd at Vod\u0148any",
-            "artist": "Alphonse Mucha",
-            "year": "1918",
-            "museum": "museum collection of the Prague City Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Petr%20chelcicky.jpg"
-        },
-        {
             "title": "Defense of Sziget Against the Turks",
             "artist": "Alphonse Mucha",
             "year": "1916",
@@ -21578,13 +21459,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Figures%20in%20an%20Ecuadorian%20Landscape%20Frederic%20Edwin%20Church.jpg"
         },
         {
-            "title": "Fog off Mount Desert",
-            "artist": "Frederic Edwin Church",
-            "year": "1850",
-            "museum": "http://www.wikidata.org/.well-known/genid/aa85ed47e259b86f0ca208cf138ce56c",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fog%20off%20Mount%20Desert%20Frederic%20Edwin%20Church.jpg"
-        },
-        {
             "title": "Grand Manan Island, Bay of Fundy",
             "artist": "Frederic Edwin Church",
             "year": "1852",
@@ -21758,13 +21632,6 @@
             "year": "1848",
             "museum": "White House",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rutland%20Falls%2C%20VT%20by%20Frederic%20Edwin%20Church%2C%201848.jpg"
-        },
-        {
-            "title": "Setting Sun",
-            "artist": "Frederic Edwin Church",
-            "year": "1864",
-            "museum": "http://www.wikidata.org/.well-known/genid/777be4fedb0402810ac8c6ba1cd54b27",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Setting%20Sun%20Frederic%20Edwin%20Church.jpg"
         },
         {
             "title": "Sky at sunset, Jamaica, West Indies",
@@ -22439,13 +22306,6 @@
             "artist": "Pieter Bruegel the Elder",
             "year": "1568",
             "museum": "Kunsthistorisches Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%20036.jpg"
-        },
-        {
-            "title": "The Peasant and the Nest Robber",
-            "artist": "Pieter Bruegel the Elder",
-            "year": "1568",
-            "museum": "Kunsthistorisches Museum",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Bruegel%20d.%20%C3%84.%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Bauer%20und%20Vogeldieb%20-%20GG%201020%20-%20Kunsthistorisches%20Museum.jpg"
         },
         {
@@ -23074,13 +22934,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20John%20Everett%20Millais%20-%20Peace%20Concluded%20-%20Google%20Art%20Project.jpg"
         },
         {
-            "title": "A Huguenot",
-            "artist": "John Everett Millais",
-            "year": "1852",
-            "museum": "http://www.wikidata.org/.well-known/genid/15c4d9cd3f10780ae3f1a20ff6a72a16",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Huguenot%20lovers%20on%20St.%20Bartholomew%27s%20Day.jpg"
-        },
-        {
             "title": "The Black Brunswicker",
             "artist": "John Everett Millais",
             "year": "1860",
@@ -23669,13 +23522,6 @@
             "year": "1805",
             "museum": "Yale Center for British Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20The%20Horse%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "The Body of Christ Borne to the Tomb",
-            "artist": "William Blake",
-            "year": "1799",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Body%20of%20Christ%20Borne%20to%20the%20Tomb%20-%20N01164%20-%20National%20Gallery.jpg"
         },
         {
             "title": "The Body of Christ Borne to the Tomb",
@@ -24480,13 +24326,6 @@
             "year": "1892",
             "museum": "http://www.wikidata.org/.well-known/genid/1ed28f1cb6ca0bd0073bead4716ad041",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%20-%20Moe%20Moea.jpg"
-        },
-        {
-            "title": "The Wave",
-            "artist": "Paul Gauguin",
-            "year": "1888",
-            "museum": "http://www.wikidata.org/.well-known/genid/8a67cfdfd79779dda0a0f8d7f90f9e7b",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin%201888%20La%20Vague.jpg"
         },
         {
             "title": "Portrait of Claude-Antoine-Charles Favre",
@@ -25798,13 +25637,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Raja%20Ravi%20Varma%20-%20Mahabharata%20-%20Shakuntala.jpg"
         },
         {
-            "title": "Laxman Shakti",
-            "artist": "Raja Ravi Varma",
-            "year": "1880",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fall%20of%20Laxmanai.jpg"
-        },
-        {
             "title": "The Coquette",
             "artist": "Raja Ravi Varma",
             "year": "1893",
@@ -26902,13 +26734,6 @@
             "year": "1895",
             "museum": "Kunsthaus Z\u00fcrich",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Odilon%20Redon%20-%20Le%20Calvaire%20-%2084%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg"
-        },
-        {
-            "title": "Beatrice",
-            "artist": "Odilon Redon",
-            "year": "1885",
-            "museum": "http://www.wikidata.org/.well-known/genid/f64eef8fe3aa3a65fa6520bb4ddc843a",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Beatrice-1885.jpg"
         },
         {
             "title": "Closed Eyes",
@@ -28599,13 +28424,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bierstadt%20Albert%20A%20Rocky%20Mountain%20Sheep%20Ovis%20Montana.jpg"
         },
         {
-            "title": "A Wild Stallion",
-            "artist": "Albert Bierstadt",
-            "year": "1888",
-            "museum": "Buffalo Bill Center of the West",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20A%20Wild%20Stallion%20%28an%20original%20oil%20sketch%20for%20%22The%20Last%20of%20the%20Buffalo%22%29.jpg"
-        },
-        {
             "title": "Black Horse",
             "artist": "Albert Bierstadt",
             "year": "1859",
@@ -28733,13 +28551,6 @@
             "year": "1753",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP166072.jpg"
-        },
-        {
-            "title": "Rama and Lakshmana Overwhelmed by Arrows: Folio from the Siege of Lanka series",
-            "artist": "Manaku",
-            "year": "1725",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rama%20and%20Lakshmana%20Overwhelmed%20by%20Arrows-%20Folio%20from%20a%20Ramayana%20%27Siege%20of%20Lanka%27%20Series%20MET%20DP227584.jpg"
         },
         {
             "title": "Indrajit Makes Offerings: Folio from the Siege of Lanka series",
