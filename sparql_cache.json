@@ -155,13 +155,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20W%20wiejskim%20ko%C5%9Bci%C3%B3%C5%82ku%201871.jpg"
         },
         {
-            "title": "A Kulig",
-            "artist": "J\u00f3zef Che\u0142mo\u0144ski",
-            "year": "1884",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Kulig.jpg"
-        },
-        {
             "title": "An Idyll",
             "artist": "J\u00f3zef Che\u0142mo\u0144ski",
             "year": "1885",
@@ -658,13 +651,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Genevi%C3%A8ve%20Bernheim%20de%20Villers.jpg"
         },
         {
-            "title": "Gla\u00efeuls",
-            "artist": "Pierre-Auguste Renoir",
-            "year": "1885",
-            "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Gla%C3%AFeuls.jpg"
-        },
-        {
             "title": "Grand nu",
             "artist": "Pierre-Auguste Renoir",
             "year": "1907",
@@ -1057,13 +1043,6 @@
             "year": "1902",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20Szerelmesek%20tal%C3%A1lkoz%C3%A1sa.jpg"
-        },
-        {
-            "title": "Pilgrimage to the Cedars of Lebanon",
-            "artist": "Tivadar Csontv\u00e1ry Kosztka",
-            "year": "1907",
-            "museum": "Hungarian National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Csontv%C3%A1ry%20Kosztka%2C%20Tivadar%20-%20Pilgrimage%20to%20the%20Cedars%20of%20Lebanon%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Afternoon storm in Trau",
@@ -3689,13 +3668,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%20-%20Madonna%20Adoring%20the%20Child%20with%20Five%20Angels%20-%20Baltimore%20Museum%20of%20Art%202.jpg"
         },
         {
-            "title": "Judit with the Head of Holofernes",
-            "artist": "Sandro Botticelli",
-            "year": "1498",
-            "museum": "Rijksmuseum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20met%20het%20hoofd%20van%20Holofernes%20Rijksmuseum%20SK-A-3381.jpeg"
-        },
-        {
             "title": "Madonna and Child with Five Angels",
             "artist": "Sandro Botticelli",
             "year": "1470",
@@ -5692,13 +5664,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20Rams%20in%20a%20Landscape%20-%20Rosa%20Bonheur.webp"
         },
         {
-            "title": "Sheep in a meadow",
-            "artist": "Rosa Bonheur",
-            "year": "1900",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheep%20in%20a%20meadow%20-%20Rosa%20Bonheur.webp"
-        },
-        {
             "title": "Cow (Study)",
             "artist": "Rosa Bonheur",
             "year": "1900",
@@ -7075,25 +7040,11 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Self%20portrait%2C%20by%20Clara%20Peeters.jpg"
         },
         {
-            "title": "Cheesestack with knife, shrimps, crawfish, glass of wine and bread",
-            "artist": "Clara Peeters",
-            "year": "1615",
-            "museum": "http://www.wikidata.org/.well-known/genid/ebae1558f8c67212cdf4a61ef41966de",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Cheesestack%20with%20knife%20shrimp%20crawfish%20glass%20of%20wine%20and%20bread.jpg"
-        },
-        {
             "title": "Flowers in a glass beaker, with a mouse and an ear of corn , on a stone ledge",
             "artist": "Clara Peeters",
             "year": "1600",
             "museum": "Museum Mayer van den Bergh",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Bloemen%20in%20een%20vaasje%20met%20knabbelende%20muis%20-%20MMB.0194%20-%20Museum%20Mayer%20van%20den%20Bergh.tiff"
-        },
-        {
-            "title": "Flowers in a roemer, with a frog and a grashopper, on a stone ledge",
-            "artist": "Clara Peeters",
-            "year": "1700",
-            "museum": "Museum Mayer van den Bergh",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Bloemen%20in%20een%20vaasje%20met%20sprinkhaan%20en%20kikvors%20-%20MMB.0193%20-%20Museum%20Mayer%20van%20den%20Bergh.tiff"
         },
         {
             "title": "Still Life with Flowers Surrounded by Insects and a Snail",
@@ -7547,13 +7498,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20A%20Village%20Road%20near%20Auver%20-%201948.120%20-%20Yale%20University%20Art%20Gallery.jpg"
         },
         {
-            "title": "Banks of the Marne",
-            "artist": "Paul C\u00e9zanne",
-            "year": "1888",
-            "museum": "Art Gallery of New South Wales",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Banks%20of%20the%20Marne%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "A Modern Olympia",
             "artist": "Paul C\u00e9zanne",
             "year": "1873",
@@ -7666,13 +7610,6 @@
             "year": "1904",
             "museum": "http://www.wikidata.org/.well-known/genid/ab00b092dc9005240ae2730cf39efee0",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klimt%20-%20Wasserschlangen%20II%20%28Freundinnen%29%20-%201904.jpeg"
-        },
-        {
-            "title": "Portrait of Friedericke Maria Beer",
-            "artist": "Gustav Klimt",
-            "year": "1916",
-            "museum": "Tel Aviv Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Friedericke%20Maria%20Beer.jpg"
         },
         {
             "title": "Schubert at the Piano II",
@@ -9272,13 +9209,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/V.%20Kandinski.%20East%20suites.%20Arabs%20III.jpg"
         },
         {
-            "title": "Painting with Three Spots",
-            "artist": "Wassily Kandinsky",
-            "year": "1914",
-            "museum": "Thyssen-Bornemisza Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201914%20-%20Painting%20with%20Three%20Spots.jpg"
-        },
-        {
             "title": "All Saints Day l",
             "artist": "Wassily Kandinsky",
             "year": "1911",
@@ -9554,13 +9484,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%BB%D1%8C%D1%8F%20%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%92%D0%B5%D1%80%D1%8B%20%D0%90.%20%D0%A8%D0%B5%D0%B2%D1%86%D0%BE%D0%B2%D0%BE%D0%B9.jpg"
         },
         {
-            "title": "Portrait of Vera Repina",
-            "artist": "Ilya Repin",
-            "year": "1876",
-            "museum": "Russian Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Repin%20Vera%20Repina%2C%20the%20artists%20wife.jpg"
-        },
-        {
             "title": "Portrait of the artist's wife, Vera Repin\"",
             "artist": "Ilya Repin",
             "year": "1878",
@@ -9650,13 +9573,6 @@
             "year": "1906",
             "museum": "State Central Museum of the Contemporary Russian History",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Demonstration%20on%20October%2017%2C%201905%20by%20Ilya%20Repin%20%28adumbration%201906%29.jpg"
-        },
-        {
-            "title": "Bahaliy",
-            "artist": "Ilya Repin",
-            "year": "1906",
-            "museum": "M. F. Sumtsov Kharkiv Historical Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bahaliy%20by%20Repin.jpg"
         },
         {
             "title": "Portrait of music editor and patron Mitrofan Petrovich Belyayev",
@@ -11594,13 +11510,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20at%20the%20Column-Caravaggio%20%28c.%201607%29.jpg"
         },
         {
-            "title": "The Calling of Saint Matthew",
-            "artist": "Caravaggio",
-            "year": "1609",
-            "museum": "San Luigi dei Francesi",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%E2%80%94%20The%20Calling%20of%20Saint%20Matthew.jpg"
-        },
-        {
             "title": "Christ on the Mount of Olives",
             "artist": "Caravaggio",
             "year": "1603",
@@ -12150,13 +12059,6 @@
         }
     ],
     "Winslow Homer": [
-        {
-            "title": "Breezing Up",
-            "artist": "Winslow Homer",
-            "year": "1873",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Winslow%20Homer%20-%20Breezing%20Up%20%28A%20Fair%20Wind%29.jpg"
-        },
         {
             "title": "Eight Bells",
             "artist": "Winslow Homer",
@@ -12848,13 +12750,6 @@
             "year": "1628",
             "museum": "Staatliche Kunsthalle Karlsruhe",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20-%20boy%20with%20a%20wine%20glass.JPG"
-        },
-        {
-            "title": "Portrait of painter",
-            "artist": "Judith Leyster",
-            "year": "1680",
-            "museum": "http://www.wikidata.org/.well-known/genid/3453a437d08c940c03748bf4a31fc499",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20painter%20-%20copy%20after%20Frans%20Hals.jpg"
         },
         {
             "title": "Boy Playing A Violin",
@@ -15735,13 +15630,6 @@
     ],
     "Kuroda Seiki": [
         {
-            "title": "Adoptive Father by Kuroda Seiki",
-            "artist": "Kuroda Seiki",
-            "year": "1898",
-            "museum": "Kagoshima City Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Adoptive%20Father%20by%20Kuroda%20Seiki%20%28Kagoshima%20City%20Museum%20of%20Art%29.jpg"
-        },
-        {
             "title": "Azaleas",
             "artist": "Kuroda Seiki",
             "year": "1921",
@@ -16872,13 +16760,6 @@
             "year": "1786",
             "museum": "Borys Voznytskyi Lviv National Art Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kauffmann%20-%20Henryk%20Lubomirski.jpg"
-        },
-        {
-            "title": "Portrait of Elizabeth Kerr, n\u00e9e Fortescue, Marchioness of Lothian",
-            "artist": "Angelica Kauffman",
-            "year": "1770",
-            "museum": "Clark Art Institute",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Kerr%2C%20n%C3%A9e%20Fortescue%2C%20Marchioness%20of%20Lothian%2C%20by%20Angelica%20Kauffmann.jpg"
         },
         {
             "title": "Cornelia, Mother of the Gracchi, Pointing to Her Children as Her Treasures",
@@ -18016,13 +17897,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Meister%20der%20Hamza-N%C3%A2ma-Handschrift%20001.jpg"
         },
         {
-            "title": "The donkey, in a tiger\u2019s skin, reveals his identity by braying aloud, from a Tuti-nama (Tales of a Parrot): Thirty-first Night",
-            "artist": "Basawan",
-            "year": "1560",
-            "museum": "Cleveland Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Basavana%20-%20Page%20from%20Tales%20of%20a%20Parrot%20%28Tuti-nama%29-%20Thirty-first%20night-%20The%20donkey%2C%20in%20-%201962.279.207.a%20-%20Cleveland%20Museum%20of%20Art.tif"
-        },
-        {
             "title": "A holy man prostrating himself before a learned prince",
             "artist": "Basawan",
             "year": "1585",
@@ -18121,13 +17995,6 @@
             "year": "1906",
             "museum": "Philadelphia Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau%20-%20The%20Merry%20Jesters%2C%201906%2C%201950-134-176.jpg"
-        },
-        {
-            "title": "Portrait de Madame M.",
-            "artist": "Henri Rousseau",
-            "year": "1890",
-            "museum": "Mus\u00e9e d'Orsay",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%2C%20known%20as%20le%20Douanier%20-%20Portrait%20of%20Madame%20M%3B%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Quai d'Ivry",
@@ -18261,13 +18128,6 @@
             "year": "1908",
             "museum": "Jean Walter-Paul Guillaume Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7oise%20Foliot%20-%20Henri%20Rousseau%20-%20P%C3%AAcheurs%20%C3%A0%20la%20ligne.jpg"
-        },
-        {
-            "title": "The Chair Factory in Alfortville",
-            "artist": "Henri Rousseau",
-            "year": "1897",
-            "museum": "Jean Walter-Paul Guillaume Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7oise%20Foliot%20-%20Henri%20Rousseau%20-%20La%20Fabrique%20de%20chaises%20%C3%A0%20Alfortville.jpg"
         },
         {
             "title": "Notre Dame",
@@ -20694,13 +20554,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20Na%20Krizku.jpg"
         },
         {
-            "title": "Defense of Sziget Against the Turks",
-            "artist": "Alphonse Mucha",
-            "year": "1916",
-            "museum": "museum collection of the Prague City Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20defense%20of%20Szigetvar.jpg"
-        },
-        {
             "title": "The Printing of the Bible of Kralice in Ivan\u010dice",
             "artist": "Alphonse Mucha",
             "year": "1914",
@@ -20855,13 +20708,6 @@
             "year": "1867",
             "museum": "National Galleries Scotland",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Edwin%20Church%20-%20Niagara%20Falls%2C%20from%20the%20American%20Side%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Cathedral, Chillo, Ecuador",
-            "artist": "Frederic Edwin Church",
-            "year": "1857",
-            "museum": "Cooper Hewitt, Smithsonian Design Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cathedral%20Chillo%20Ecuador%20by%20Frederic%20Edwin%20Church.jpg"
         },
         {
             "title": "Storm Over Hudson Valley",
@@ -24330,13 +24176,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Ostermorgen.jpg"
         },
         {
-            "title": "Flat country shank at Bay of Greifswald",
-            "artist": "Caspar David Friedrich",
-            "year": "1830",
-            "museum": "Museum Georg Sch\u00e4fer",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20017.jpg"
-        },
-        {
             "title": "The Riesengebirge Mountains",
             "artist": "Caspar David Friedrich",
             "year": "1830",
@@ -25962,13 +25801,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Repas%20chez%20Simon.jpg"
         },
         {
-            "title": "Veronica's Veil",
-            "artist": "El Greco",
-            "year": "1580",
-            "museum": "http://www.wikidata.org/.well-known/genid/7be577d8353d409c2a9a7f0841e0f569",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Veil%20of%20St%20Veronica%20-%20WGA10461.jpg"
-        },
-        {
             "title": "St. Francis in Ecstasy",
             "artist": "El Greco",
             "year": "1590",
@@ -27576,13 +27408,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rocca%20de%20Secca%20by%20Albert%20Bierstadt%201858.jpeg"
         },
         {
-            "title": "Salmon Fishing on the Cascapediac River",
-            "artist": "Albert Bierstadt",
-            "year": "1850",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bierstadt%20Albert%20Salmon%20Fishing%20on%20the%20Cascapediac%20River.jpg"
-        },
-        {
             "title": "Scene in Yosemite Valley",
             "artist": "Albert Bierstadt",
             "year": "1864",
@@ -28001,13 +27826,6 @@
             "year": "1850",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bierstadt%20Albert%20Native%20of%20the%20Woods.jpg"
-        },
-        {
-            "title": "A Rocky Mountain Sheep, Ovis, Montana",
-            "artist": "Albert Bierstadt",
-            "year": "1879",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bierstadt%20Albert%20A%20Rocky%20Mountain%20Sheep%20Ovis%20Montana.jpg"
         },
         {
             "title": "Black Horse",
