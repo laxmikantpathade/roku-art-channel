@@ -356,13 +356,6 @@
             "title": "Poplars on the Epte",
             "artist": "Claude Monet",
             "year": "1891",
-            "museum": "National Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Poplars%20on%20the%20River%20Epte.jpg"
-        },
-        {
-            "title": "Poplars on the Epte",
-            "artist": "Claude Monet",
-            "year": "1891",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20Poplars%20on%20the%20River%20Epte.jpg"
         },
@@ -631,13 +624,6 @@
             "year": "1920",
             "museum": "Mus\u00e9e de l'Orangerie",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Water%20Lilies%20-%20Clear%20Morning%20with%20Willows%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "The Water Lilies - Green Reflections",
-            "artist": "Claude Monet",
-            "year": "1920",
-            "museum": "Mus\u00e9e de l'Orangerie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Water%20Lilies%20-%20Green%20Reflections%20-%20Google%20Art%20Project.jpg"
         },
         {
             "title": "The Water Lilies - Morning",
@@ -2058,13 +2044,6 @@
             "year": "1873",
             "museum": "Tretyakov Gallery",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%28%D0%93%D0%B0%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29%20%D0%98%D0%B2%D0%B0%D0%BD%20%28%D0%9E%D0%B3%D0%B0%D0%BD%D0%B5%D1%81%29%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%A0%D0%B0%D0%B4%D1%83%D0%B3%D0%B0.jpg"
-        },
-        {
-            "title": "Theodosia. Moonlight night",
-            "artist": "Ivan Aivazovsky",
-            "year": "1852",
-            "museum": "http://www.wikidata.org/.well-known/genid/dc92317d915d79de9091bc283f139e8d",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D1%8F.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C.jpg"
         },
         {
             "title": "Battle of Chesma",
@@ -3629,13 +3608,6 @@
         {
             "title": "Virgin of the Sea",
             "artist": "Sandro Botticelli",
-            "year": "1470",
-            "museum": "Galleria dell'Accademia",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20madonna%20del%20Mare.jpg"
-        },
-        {
-            "title": "Virgin of the Sea",
-            "artist": "Sandro Botticelli",
             "year": "1477",
             "museum": "Galleria dell'Accademia",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Botticelli%2C%20madonna%20del%20Mare.jpg"
@@ -3900,13 +3872,6 @@
             "year": "1586",
             "museum": "http://www.wikidata.org/.well-known/genid/56dd9ebadd251dec6db9fa9329b2f243",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20Portrait%20Giuliano%20II%20Cesarini%20aged%2014.jpg"
-        },
-        {
-            "title": "Portrait of Elisabeth of Valois",
-            "artist": "Sofonisba Anguissola",
-            "year": "1561",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth.of.Valois.JPG"
         },
         {
             "title": "Portrait of Francesco Maria II della Rovere, Duke of Urbino (1549\u20131631)",
@@ -4731,13 +4696,6 @@
             "year": "1762",
             "museum": "Fine Arts Museums of San Francisco",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Good%20Mother%20by%20Jean-Honor%C3%A9%20Fragonard.JPG"
-        },
-        {
-            "title": "Education of the Virgin",
-            "artist": "Jean-Honor\u00e9 Fragonard",
-            "year": "1773",
-            "museum": "Fine Arts Museums of San Francisco",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Education%20of%20the%20Virgin%20by%20Jean-Honor%C3%A9%20Fragonard.JPG"
         },
         {
             "title": "The Good Mother",
@@ -5738,13 +5696,6 @@
             "title": "The Duel",
             "artist": "Rosa Bonheur",
             "year": "1895",
-            "museum": "Historical Collection",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Duel%20-%20Rosa%20Bonheur%2001.webp"
-        },
-        {
-            "title": "The Duel",
-            "artist": "Rosa Bonheur",
-            "year": "1896",
             "museum": "Historical Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Duel%20-%20Rosa%20Bonheur%2001.webp"
         },
@@ -7639,13 +7590,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20A%20Table%20Corner%20%28Un%20coin%20de%20table%29%20-%20BF711%20-%20Barnes%20Foundation.jpg"
         },
         {
-            "title": "Terracotta Pots and Flowers (Pots en terre cuite et fleurs)",
-            "artist": "Paul C\u00e9zanne",
-            "year": "1891",
-            "museum": "Barnes Foundation",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Cezanne%20Pots%20en%20terre%20cuite%20et%20fleurs.jpg"
-        },
-        {
             "title": "Millstone and Cistern under Trees (La Meule et citerne en sous-bois)",
             "artist": "Paul C\u00e9zanne",
             "year": "1892",
@@ -7945,13 +7889,6 @@
             "year": "1906",
             "museum": "Philadelphia Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%2C%20French%20-%20The%20Large%20Bathers%20-%20Google%20Art%20Project.jpg"
-        },
-        {
-            "title": "Rideau, Cruchon et Compotier",
-            "artist": "Paul C\u00e9zanne",
-            "year": "1893",
-            "museum": "Whitney Museum of American Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20Rideau%2C%20Cruchon%20et%20Compotier%20%28Curtain%2C%20Pitcher%2C%20and%20a%20Fruit%20Bowl%29%201893-94%20FWN%20854.jpg"
         },
         {
             "title": "Rideau, Cruchon et Compotier",
@@ -8960,13 +8897,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Allegory%20of%20Painting.png"
         },
         {
-            "title": "St. Catherine of Alexandria",
-            "artist": "Artemisia Gentileschi",
-            "year": "1620",
-            "museum": "El Paso Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20%27Saint%20Catherine%20of%20Alexandria%27%2C%20oil%20on%20canvas%20painting%2C%20c.%201620%2C%20El%20Paso%20Museum%20of%20Art.jpg"
-        },
-        {
             "title": "Medea",
             "artist": "Artemisia Gentileschi",
             "year": "1620",
@@ -9800,13 +9730,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yefim%20Vasilyevich%20by%20Repin.jpg"
         },
         {
-            "title": "A peasant with an evil eye.",
-            "artist": "Ilya Repin",
-            "year": "1877",
-            "museum": "Tretyakov Gallery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Radov%20by%20Repin.jpg"
-        },
-        {
             "title": "Portrait of Alexander Borodin",
             "artist": "Ilya Repin",
             "year": "1888",
@@ -10057,13 +9980,6 @@
             "year": "1906",
             "museum": "State Central Museum of the Contemporary Russian History",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Demonstration%20on%20October%2017%2C%201905%20by%20Ilya%20Repin%20%28adumbration%201906%29.jpg"
-        },
-        {
-            "title": "A Parisian Cafe",
-            "artist": "Ilya Repin",
-            "year": "1875",
-            "museum": "Museum of Avant-Garde Mastery",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Parisian%20Cafe%20by%20Repin.jpg"
         },
         {
             "title": "Bahaliy",
@@ -10931,13 +10847,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20027.jpg"
         },
         {
-            "title": "Philip II offering the Infante don Fernando to the Heavens",
-            "artist": "Titian",
-            "year": "1573",
-            "museum": "Museo del Prado",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Philip%20II%20offering%20Fernando.jpg"
-        },
-        {
             "title": "Man with Ermine Coat",
             "artist": "Titian",
             "year": "1560",
@@ -11048,13 +10957,6 @@
             "year": "1554",
             "museum": "Wallace Collection",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Perseo%20y%20Andr%C3%B3meda%2C%20por%20Tiziano.jpg"
-        },
-        {
-            "title": "Portrait of Marcantonio Trevisan, Doge of Venice",
-            "artist": "Titian",
-            "year": "1553",
-            "museum": "Museum of Fine Arts, Budapest",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20%E2%80%93%20Portrait%20of%20Marcantonio%20Trevisan%2C%20Doge%20of%20Venice%20%E2%80%93%20Google%20Art%20Project.jpg"
         },
         {
             "title": "Portrait of a Venetian Gentleman (overpainted)",
@@ -15009,13 +14911,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/White%20Walls%20in%20Sunlight%2C%20Morocco%20MET%20ap50.130.4.jpg"
         },
         {
-            "title": "Astarte",
-            "artist": "John Singer Sargent",
-            "year": "1890",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Astarte%20MET%20ap50.130.3.jpg"
-        },
-        {
             "title": "Philosophy: A Preparation for the Mural in the Museum of Fine Arts, Boston",
             "artist": "John Singer Sargent",
             "year": "1921",
@@ -15275,13 +15170,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Betty%20Wertheimer%20-%201929.6.107%20-%20Smithsonian%20American%20Art%20Museum.jpg"
         },
         {
-            "title": "Stable at Cuenca",
-            "artist": "John Singer Sargent",
-            "year": "1903",
-            "museum": "Smithsonian American Art Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Stable%20at%20Cuenca%20-%202014.1%20-%20Smithsonian%20American%20Art%20Museum.jpg"
-        },
-        {
             "title": "Ganymede and the Eagle",
             "artist": "John Singer Sargent",
             "year": "1921",
@@ -15399,13 +15287,6 @@
             "year": "1922",
             "museum": "Museum of Fine Arts Boston",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20The%20Judgement%20of%20Paris%2C%201922-24.jpg"
-        },
-        {
-            "title": "Two Architectural Studies",
-            "artist": "John Singer Sargent",
-            "year": "1891",
-            "museum": "Museum of Fine Arts Boston",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singer%20Sargent%20-%20Two%20Architectural%20Studies%20-%2037.48%20-%20Museum%20of%20Fine%20Arts.jpg"
         },
         {
             "title": "General Charles J. Paine",
@@ -17794,13 +17675,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Movement%20No.%205%2C%20Provincetown%20Houses%20MET%20DP236140.jpg"
         },
         {
-            "title": "The Dark Mountain, No. 2",
-            "artist": "Marsden Hartley",
-            "year": "1909",
-            "museum": "Metropolitan Museum of Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Dark%20Mountain%2C%20No.%202%20MET%20DP366415.jpg"
-        },
-        {
             "title": "Cemetery, New Mexico",
             "artist": "Marsden Hartley",
             "year": "1924",
@@ -18002,13 +17876,6 @@
             "year": "1909",
             "museum": "Crystal Bridges Museum of American Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Maine%20Landscape%2C%20Autumn%20No.%2013%20-%20ASC.2012.60%20-%20Crystal%20Bridges%20Museum%20of%20American%20Art.jpg"
-        },
-        {
-            "title": "Hall of the Mountain King",
-            "artist": "Marsden Hartley",
-            "year": "1908",
-            "museum": "Crystal Bridges Museum of American Art",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Marsden%20Hartley%20-%20Hall%20of%20the%20Mountain%20King%20-%202010.94%20-%20Crystal%20Bridges%20Museum%20of%20American%20Art.jpg"
         },
         {
             "title": "Hall of the Mountain King",
@@ -19902,13 +19769,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20with%20a%20Squirrel%20by%20Hans%20Holbein%20the%20Younger%20in%20the%20National%20Gallery.jpg"
         },
         {
-            "title": "Charles de Solier, Sieur de Morette",
-            "artist": "Hans Holbein the Younger",
-            "year": "1534",
-            "museum": "Staatliche Kunstsammlungen Dresden",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20the%20Younger%20-%20Charles%20de%20Solier%2C%20Sieur%20de%20Morette%20-%20Google%20Art%20Project.jpg"
-        },
-        {
             "title": "Thomas Cromwell",
             "artist": "Hans Holbein the Younger",
             "year": "1532",
@@ -21486,13 +21346,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Czech%20Heart%20-%20O%203641%20-%20National%20Gallery%20Prague.jpg"
         },
         {
-            "title": "Spring",
-            "artist": "Alphonse Mucha",
-            "year": "1896",
-            "museum": "http://www.wikidata.org/.well-known/genid/c7c51b3d3521de1e3009675fe18545fc",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%201896%20-%20Spring.jpg"
-        },
-        {
             "title": "Summer",
             "artist": "Alphonse Mucha",
             "year": "1896",
@@ -22188,13 +22041,6 @@
             "year": "1700",
             "museum": "Chomyo-ji Temple",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BF%B5%E5%B1%8B%E5%AE%97%E9%81%94%20%E7%89%9B%E5%9B%B3%20%E5%8F%B3.png"
-        },
-        {
-            "title": "Bulls",
-            "artist": "Tawaraya S\u014dtatsu",
-            "year": "1700",
-            "museum": "Chomyo-ji Temple",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BF%B5%E5%B1%8B%E5%AE%97%E9%81%94%20%E7%89%9B%E5%9B%B3%20%E5%B7%A6.png"
         }
     ],
     "Kan\u014d Eitoku": [],
@@ -22331,13 +22177,6 @@
             "year": "1876",
             "museum": "Tate",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Frieze%20of%20Eight%20Women%20Gathering%20Apples%20-%20N05119%20-%20National%20Gallery.jpg"
-        },
-        {
-            "title": "Decorative Design: Sun Ripening Corn",
-            "artist": "Edward Burne-Jones",
-            "year": "1890",
-            "museum": "Tate",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Burne-Jones%20%281833-1898%29%20-%20Decorative%20Design%2C%20Sun%20Ripening%20Corn%20-%20T03313%20-%20Tate.jpg"
         },
         {
             "title": "Troy Triptych",
@@ -25220,13 +25059,6 @@
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Waldinneres%20bei%20Mondschein.jpg"
         },
         {
-            "title": "Monastery ruin Eldena",
-            "artist": "Caspar David Friedrich",
-            "year": "1824",
-            "museum": "Alte Nationalgalerie",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Klosterruine%20Eldena%20bei%20Greifswald%20%281824%29%20-%20Caspar%20David%20Friedrich%20%28Alte%20Nationalgalerie%2C%20Berlin%29.jpg"
-        },
-        {
             "title": "The Cemetery Gate",
             "artist": "Caspar David Friedrich",
             "year": "1825",
@@ -25600,13 +25432,6 @@
             "year": "1750",
             "museum": "Metropolitan Museum of Art",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20SL%208%202000%202%2066ab.jpeg"
-        },
-        {
-            "title": "Wind God and Thunder God",
-            "artist": "Ogata K\u014drin",
-            "year": "1800",
-            "museum": "Tokyo National Museum",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wind%20God%20and%20Thunder%20God%20Screens%20by%20Ogata%20Korin.png"
         },
         {
             "title": "Flowering Plants in Autumn",
@@ -27564,13 +27389,6 @@
             "artist": "Peter Paul Rubens",
             "year": "1618",
             "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Lamentation%20of%20Christ%20triptych%20left%20panel%20Madonna%20and%20Child.jpg"
-        },
-        {
-            "title": "Madonna and Child",
-            "artist": "Peter Paul Rubens",
-            "year": "1618",
-            "museum": "Royal Museum of Fine Arts Antwerp",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20Madonna%20-%20301%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
         },
         {
@@ -27957,13 +27775,6 @@
             "year": "1614",
             "museum": "Vlaamse Kunstcollectie",
             "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20frigida%2C%20Peter%20Paul%20Rubens%2C%201614%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20709.jpg"
-        },
-        {
-            "title": "The Hunt",
-            "artist": "Peter Paul Rubens",
-            "year": "1634",
-            "museum": "Royal Museum of Fine Arts Antwerp",
-            "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%20-%20De%20hertenjacht%20-%20766%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff"
         },
         {
             "title": "The Hunt",
