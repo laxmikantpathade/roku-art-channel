@@ -247,7 +247,7 @@ def enrich_catalog():
         
         # 👇 CHANGE THIS NUMBER TO RESUME PROCESSING FROM A DIFFERENT IMAGE INDEX
         # 0 = image_1, 1 = image_2, 99 = image_100, etc.
-        if idx < 767:
+        if idx < 1149:
             continue
 
         full_title = art.get("title", "")
