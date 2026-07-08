@@ -1,0 +1,3 @@
+(venv) lpathade@lp roku-art-channel % python delete_art.py image_1404.jpg 
+
+
