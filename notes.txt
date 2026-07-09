@@ -1,0 +1,20 @@
+(venv) lpathade@lp roku-art-channel % python reindex_and_sort.py                                                   
+
+(venv) lpathade@lp roku-art-channel % python find_duplicates.py                                                    
+
+(venv) lpathade@lp roku-art-channel % ollama pull llava                                                            
+
+(venv) lpathade@lp roku-art-channel % pip install google-genai pillow                                              
+
+(venv) lpathade@lp roku-art-channel % pip install wikipedia                                                        
+(venv) lpathade@lp roku-art-channel % pip install wikipedia-api                                                    
+
+
+
+
+(venv) lpathade@lp roku-art-channel % export GEMINI_API_KEY="AQ...."
+
+(venv) lpathade@lp roku-art-channel % python enrich_with_gemini_loop.py  
+
+
+(venv) lpathade@lp roku-art-channel % python delete_art.py image_1404.jpg 
