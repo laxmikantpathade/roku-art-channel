@@ -154,8 +154,8 @@ def get_next_available_index(folder="."):
 # --- IMAGE GRAPHICS CANVAS PROCESSING AND STAMPING RULES ---
 
 def pad_and_resize_16_9(img):
-    # Set to true 2K Resolution boundaries (1440p)[cite: 9]
-    target_width, target_height = 2560, 1440[cite: 9]
+    # Set to true 2K Resolution boundaries (1440p)
+    target_width, target_height = 2560, 1440
     img_ratio = img.width / img.height
     target_ratio = target_width / target_height
 
@@ -166,51 +166,51 @@ def pad_and_resize_16_9(img):
         new_height = target_height
         new_width = int(target_height * img_ratio)
 
-    resample_filter = getattr(Image, 'Resampling', Image).LANCZOS[cite: 9]
-    img_resized = img.resize((new_width, new_height), resample_filter)[cite: 9]
+    resample_filter = getattr(Image, 'Resampling', Image).LANCZOS
+    img_resized = img.resize((new_width, new_height), resample_filter)
 
-    padded_img = Image.new("RGB", (target_width, target_height), (0, 0, 0))[cite: 9]
-    x_offset = (target_width - new_width) // 2[cite: 9]
-    y_offset = (target_height - new_height) // 2[cite: 9]
-    padded_img.paste(img_resized, (x_offset, y_offset))[cite: 9]
-    return padded_img[cite: 9]
+    padded_img = Image.new("RGB", (target_width, target_height), (0, 0, 0))
+    x_offset = (target_width - new_width) // 2
+    y_offset = (target_height - new_height) // 2
+    padded_img.paste(img_resized, (x_offset, y_offset))
+    return padded_img
 
 def stamp_image(img_bytes, metadata, output_filename):
     try:
-        img = Image.open(BytesIO(img_bytes)).convert("RGB")[cite: 9]
-        img = pad_and_resize_16_9(img)[cite: 9]
-        width, height = img.size[cite: 9]
+        img = Image.open(BytesIO(img_bytes)).convert("RGB")
+        img = pad_and_resize_16_9(img)
+        width, height = img.size
         
         try:
-            # Upscaled font structures to read cleanly on high-res 2K outputs[cite: 9]
-            title_font = ImageFont.truetype("/Library/Fonts/Arial Bold.ttf", 38)[cite: 9]
-            sub_font = ImageFont.truetype("/Library/Fonts/Arial.ttf", 34)[cite: 9]
+            # Upscaled font structures to read cleanly on high-res 2K outputs
+            title_font = ImageFont.truetype("/Library/Fonts/Arial Bold.ttf", 38)
+            sub_font = ImageFont.truetype("/Library/Fonts/Arial.ttf", 34)
         except IOError:
             try:
                 title_font = ImageFont.truetype("/System/Library/Fonts/Helvetica.ttc", 38)
                 sub_font = ImageFont.truetype("/System/Library/Fonts/Helvetica.ttc", 34)
             except IOError:
-                title_font = sub_font = ImageFont.load_default()[cite: 9]
+                title_font = sub_font = ImageFont.load_default()
             
-        banner_height = 200[cite: 9]
-        overlay = Image.new('RGBA', img.size, (0, 0, 0, 0))[cite: 9]
-        overlay_draw = ImageDraw.Draw(overlay)[cite: 9]
+        banner_height = 200
+        overlay = Image.new('RGBA', img.size, (0, 0, 0, 0))
+        overlay_draw = ImageDraw.Draw(overlay)
         
-        # Transparent background fill setting dropped from 90 to 45 for maximum visibility[cite: 9]
-        overlay_draw.rectangle([(0, height - banner_height), (width, height)], fill=(0, 0, 0, 45))[cite: 9]
-        img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')[cite: 9]
+        # Transparent background fill setting dropped from 90 to 45 for maximum visibility
+        overlay_draw.rectangle([(0, height - banner_height), (width, height)], fill=(0, 0, 0, 45))
+        img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
         
-        draw = ImageDraw.Draw(img)[cite: 9]
-        line_1_text = f"{str(metadata.get('title', '')).strip()}  ·  {str(metadata.get('artist', '')).strip()}"[cite: 9]
-        draw.text((50, height - banner_height + 35), line_1_text, font=title_font, fill="white")[cite: 9]
+        draw = ImageDraw.Draw(img)
+        line_1_text = f"{str(metadata.get('title', '')).strip()}  ·  {str(metadata.get('artist', '')).strip()}"
+        draw.text((50, height - banner_height + 35), line_1_text, font=title_font, fill="white")
         
-        line_2_text = f"{str(metadata.get('year', '')).strip()}  ·  {str(metadata.get('museum', '')).strip()}"[cite: 9]
-        draw.text((50, height - banner_height + 110), line_2_text, font=sub_font, fill="rgb(225,225,225)")[cite: 9]
+        line_2_text = f"{str(metadata.get('year', '')).strip()}  ·  {str(metadata.get('museum', '')).strip()}"
+        draw.text((50, height - banner_height + 110), line_2_text, font=sub_font, fill="rgb(225,225,225)")
         
-        img.save(output_filename, "JPEG", quality=90)[cite: 9]
+        img.save(output_filename, "JPEG", quality=90)
         return True
     except Exception as e:
-        print(f"❌ Failed to stamp image layouts: {e}")[cite: 9]
+        print(f"❌ Failed to stamp image layouts: {e}")
         return False
 
 # --- WIKIDATA QUERY RESOLUTION ENGINE ---
@@ -250,9 +250,9 @@ def search_specific_masterpiece_image(title, artist):
 def push_to_github():
     print("\n🚀 Pushing priority checklist batch synchronization to GitHub...")
     try:
-        subprocess.run(["git", "add", "."], check=True)[cite: 9]
+        subprocess.run(["git", "add", "."], check=True)
         subprocess.run(["git", "commit", "-m", "🤖 Target checklist processing complete via 2K padded engine"], check=True)
-        subprocess.run(["git", "push", "origin", "main"], check=True)[cite: 9]
+        subprocess.run(["git", "push", "origin", "main"], check=True)
         print("✅ Live repository sync verified.")
     except Exception as e:
         print(f"⚠️ Git synchronization deferred or local repository detached: {e}")
@@ -262,19 +262,19 @@ def push_to_github():
 def run_targeted_collector():
     print("👑 Starting Targeted Masterpiece Acquisition Pipeline...")
     
-    feed_data = load_json_file("feed.json", {"artwork_list": []})[cite: 9]
-    artwork_list = feed_data.get("artwork_list", [])[cite: 9]
+    feed_data = load_json_file("feed.json", {"artwork_list": []})
+    artwork_list = feed_data.get("artwork_list", [])
     
     next_file_number = get_next_available_index(".")
     
-    seen_titles = set()[cite: 9]
-    for art in artwork_list:[cite: 9]
-        title_str = art["title"][cite: 9]
-        if " by " in title_str:[cite: 9]
-            raw_title = title_str.rsplit(" by ", 1)[0][cite: 9]
+    seen_titles = set()
+    for art in artwork_list:
+        title_str = art["title"]
+        if " by " in title_str:
+            raw_title = title_str.rsplit(" by ", 1)[0]
         else:
-            raw_title = title_str[cite: 9]
-        seen_titles.add(normalize_title(raw_title))[cite: 9]
+            raw_title = title_str
+        seen_titles.add(normalize_title(raw_title))
         
     print(f"📂 Current feed tracking arrays host {len(artwork_list)} active nodes.")
     print(f"📸 Next structured image target designation set to: image_{next_file_number}.jpg")
@@ -294,32 +294,32 @@ def run_targeted_collector():
             continue
             
         image_filename = f"image_{next_file_number}.jpg"
-        download_url = f"{image_url}?width=2560"  # Pipeline target 2K asset bucket directly[cite: 9]
+        download_url = f"{image_url}?width=2560"  # Pipeline target 2K asset bucket directly
         
-        img_res = safe_get(download_url, headers=DOWNLOAD_HEADERS, timeout=20)[cite: 9]
-        if img_res is None or img_res.status_code != 200 or len(img_res.content) < 10000:[cite: 9]
+        img_res = safe_get(download_url, headers=DOWNLOAD_HEADERS, timeout=20)
+        if img_res is None or img_res.status_code != 200 or len(img_res.content) < 10000:
             print("   ⚠️ 2560px profile rejected. Falling back to source raw payload wrapper...")
-            img_res = safe_get(image_url, headers=DOWNLOAD_HEADERS, timeout=30)[cite: 9]
+            img_res = safe_get(image_url, headers=DOWNLOAD_HEADERS, timeout=30)
             
-        if img_res and img_res.status_code == 200 and len(img_res.content) >= 10000:[cite: 9]
+        if img_res and img_res.status_code == 200 and len(img_res.content) >= 10000:
             success = stamp_image(img_res.content, target, image_filename)
             if success:
                 print(f"✅ Layout generation successful. File locked: {image_filename}")
                 new_entry = {
-                    "title": f"{target['title']} by {target['artist']}",[cite: 9]
-                    "image_url": f"{GITHUB_PAGES_URL}/{image_filename}",[cite: 9]
-                    "year": target['year'],[cite: 9]
-                    "museum": target['museum'],[cite: 9]
-                    "description": "Historical masterpiece entry."[cite: 9]
+                    "title": f"{target['title']} by {target['artist']}",
+                    "image_url": f"{GITHUB_PAGES_URL}/{image_filename}",
+                    "year": target['year'],
+                    "museum": target['museum'],
+                    "description": "Historical masterpiece entry."
                 }
-                artwork_list.append(new_entry)[cite: 9]
-                seen_titles.add(norm_title)[cite: 9]
+                artwork_list.append(new_entry)
+                seen_titles.add(norm_title)
                 downloaded_any = True
                 
-                save_json_file({"artwork_list": artwork_list}, "feed.json")[cite: 9]
+                save_json_file({"artwork_list": artwork_list}, "feed.json")
                 next_file_number += 1
         
-        time.sleep(DELAY_BETWEEN_DOWNLOADS)[cite: 9]
+        time.sleep(DELAY_BETWEEN_DOWNLOADS)
         
     if downloaded_any:
         print("\n🎉 ALL PENDING TARGETS CAPTURED SUCCESSFULLY!")
@@ -330,5 +330,5 @@ def run_targeted_collector():
 if __name__ == "__main__":
     try:
         run_targeted_collector()
-    except KeyboardInterrupt:[cite: 9]
-        print("\n🛑 Execution paused cleanly. Output caches preserved.")[cite: 9]
+    except KeyboardInterrupt:
+        print("\n🛑 Execution paused cleanly. Output caches preserved.")
