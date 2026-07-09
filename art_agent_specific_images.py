@@ -29,23 +29,10 @@ DOWNLOAD_HEADERS = {
 # --- TARGETED SPECIFIC MASTERPIECES CHECKLIST ---
 TARGET_MASTERPIECES = [
     {"title": "Adoration of the Magi", "artist": "Gentile da Fabriano", "museum": "Uffizi Gallery, Florence", "year": "1423"},
-    {"title": "Arnolfini Portrait", "artist": "Jan van Eyck", "museum": "National Gallery, London", "year": "1434"},
-    {"title": "Saint George and the Dragon", "artist": "Paolo Uccello", "museum": "National Gallery, London", "year": "1470"},
     {"title": "Annunciation", "artist": "Leonardo da Vinci", "museum": "Uffizi Gallery, Florence", "year": "1475"},
-    {"title": "Primavera", "artist": "Sandro Botticelli", "museum": "Uffizi Gallery, Florence", "year": "1480"},
-    {"title": "The Birth of Venus", "artist": "Sandro Botticelli", "museum": "Uffizi Gallery, Florence", "year": "1486"},
     {"title": "The Garden of Earthly Delights", "artist": "Hieronymus Bosch", "museum": "Museo del Prado, Madrid", "year": "1490"},
     {"title": "Lady with an Ermine", "artist": "Leonardo da Vinci", "museum": "The National Museum in Krakow", "year": "1490"},
-    {"title": "The Last Supper", "artist": "Leonardo da Vinci", "museum": "Convent of Santa Maria delle Grazie, Milan", "year": "1498"},
-    {"title": "Feast of the Rosary", "artist": "Albrecht Dürer", "museum": "National Gallery, Prague", "year": "1506"},
-    {"title": "Sleeping Venus", "artist": "Titian", "museum": "Gemäldegalerie Alte Meister, Dresden", "year": "1510"},
-    {"title": "The School of Athens", "artist": "Raphael", "museum": "Apostolic Palace, Vatican City", "year": "1511"},
-    {"title": "The Creation of Adam", "artist": "Michelangelo", "museum": "Sistine Chapel, Vatican City", "year": "1512"},
     {"title": "Portrait of a Young Man", "artist": "Raphael", "museum": "Czartoryski Museum (Missing)", "year": "1514"},
-    {"title": "Triumph of Galatea", "artist": "Raphael", "museum": "Villa Farnesina, Rome", "year": "1514"},
-    {"title": "Bacchus and Ariadne", "artist": "Titian", "museum": "National Gallery, London", "year": "1523"},
-    {"title": "The Ambassadors", "artist": "Hans Holbein the Younger", "museum": "National Gallery, London", "year": "1533"},
-    {"title": "Landscape with the Fall of Icarus", "artist": "Pieter Bruegel the Elder", "museum": "Royal Museums of Fine Arts, Brussels", "year": "1558"},
     {"title": "The Wedding Feast at Cana", "artist": "Paolo Veronese", "museum": "Musée du Louvre, Paris", "year": "1563"},
     {"title": "The Hunters in the Snow", "artist": "Pieter Bruegel the Elder", "museum": "Kunsthistorisches Museum, Vienna", "year": "1565"},
     {"title": "The Musicians", "artist": "Caravaggio", "museum": "Metropolitan Museum of Art, New York", "year": "1595"},
@@ -53,24 +40,19 @@ TARGET_MASTERPIECES = [
     {"title": "Supper at Emmaus", "artist": "Caravaggio", "museum": "National Gallery, London", "year": "1601"},
     {"title": "Susanna and the Elders", "artist": "Artemisia Gentileschi", "museum": "Schloss Weißenstein, Pommersfelden", "year": "1610"},
     {"title": "Laughing Cavalier", "artist": "Frans Hals", "museum": "Wallace Collection, London", "year": "1624"},
-    {"title": "The Anatomy Lesson of Dr. Nicolaes Tulp", "artist": "Rembrandt", "museum": "Mauritshuis, The Hague", "year": "1632"},
     {"title": "The Storm on the Sea of Galilee", "artist": "Rembrandt", "museum": "Isabella Stewart Gardner Museum (Stolen)", "year": "1633"},
     {"title": "Charles I in Three Positions", "artist": "Anthony van Dyck", "museum": "Royal Collection", "year": "1636"},
     {"title": "The Night Watch", "artist": "Rembrandt", "museum": "Rijksmuseum, Amsterdam", "year": "1642"},
-    {"title": "Las Meninas", "artist": "Diego Velázquez", "museum": "Museo del Prado, Madrid", "year": "1656"},
     {"title": "The Syndics of the Draper's Guild", "artist": "Rembrandt", "museum": "Rijksmuseum, Amsterdam", "year": "1662"},
-    {"title": "Girl with a Pearl Earring", "artist": "Johannes Vermeer", "museum": "Mauritshuis, The Hague", "year": "1665"},
     {"title": "The Astronomer", "artist": "Johannes Vermeer", "museum": "Musée du Louvre, Paris", "year": "1668"},
     {"title": "The Embarkation for Cythera", "artist": "Antoine Watteau", "museum": "Charlottenburg Palace, Berlin", "year": "1717"},
     {"title": "Mr and Mrs Andrews", "artist": "Thomas Gainsborough", "museum": "National Gallery, London", "year": "1750"},
-    {"title": "The Happy Accidents of the Swing", "artist": "Jean-Honoré Fragonard", "museum": "Wallace Collection, London", "year": "1767"},
     {"title": "Watson and the Shark", "artist": "John Singleton Copley", "museum": "National Gallery of Art, Washington D.C.", "year": "1778"},
     {"title": "The Ladies Waldegrave", "artist": "Joshua Reynolds", "museum": "Scottish National Gallery, Edinburgh", "year": "1781"},
     {"title": "The Skater", "artist": "Gilbert Stuart", "museum": "National Gallery of Art, Washington D.C.", "year": "1782"},
     {"title": "Oath of the Horatii", "artist": "Jacques-Louis David", "museum": "Musée du Louvre, Paris", "year": "1784"},
     {"title": "Napoleon Crossing the Alps", "artist": "Jacques-Louis David", "museum": "Palace of Versailles, Paris", "year": "1801"},
-    {"title": "The Third of May 1808", "artist": "Francisco Goya", "museum": "Museo del Prado, Madrid", "year": "1814"},
-    {"title": "The Raft of the Medusa", "artist": "Théodore Géricault", "museum": "Musée du Louvre, Paris", "year": "1819"},
+    {"title": "The Third of May 1808", "artist":"Francisco Goya", "museum": "Museo del Prado, Madrid", "year": "1814"},
     {"title": "The Hay Wain", "artist": "John Constable", "museum": "National Gallery, London", "year": "1821"},
     {"title": "Liberty Leading the People", "artist": "Eugène Delacroix", "museum": "Musée du Louvre, Paris", "year": "1830"},
     {"title": "The Hireling Shepherd", "artist": "William Holman Hunt", "museum": "Manchester Art Gallery", "year": "1851"},
@@ -90,10 +72,8 @@ TARGET_MASTERPIECES = [
     {"title": "A Bar at the Folies-Bergère", "artist": "Édouard Manet", "museum": "Courtauld Gallery, London", "year": "1882"},
     {"title": "A Sunday Afternoon on the Island of La Grande Jatte", "artist": "Georges Seurat", "museum": "Art Institute of Chicago", "year": "1884"},
     {"title": "The Bath", "artist": "Jean-Léon Gérôme", "museum": "Fine Arts Museums of San Francisco", "year": "1885"},
-    {"title": "The Potato Eaters", "artist": "Vincent van Gogh", "museum": "Van Gogh Museum, Amsterdam", "year": "1885"},
     {"title": "The Lady of Shalott", "artist": "John William Waterhouse", "museum": "Tate Britain, London", "year": "1888"},
     {"title": "The Night Café", "artist": "Vincent van Gogh", "museum": "Yale University Art Gallery, New Haven", "year": "1888"},
-    {"title": "The Starry Night", "artist": "Vincent van Gogh", "museum": "Museum of Modern Art, New York City", "year": "1889"},
     {"title": "The Boating Party", "artist": "Mary Cassatt", "museum": "National Gallery of Art, Washington D.C.", "year": "1893"},
     {"title": "Flaming June", "artist": "Frederic Leighton", "museum": "Museo de Arte de Ponce, Puerto Rico", "year": "1895"},
     {"title": "The Wave", "artist": "William-Adolphe Bouguereau", "museum": "Private Collection", "year": "1896"},
@@ -102,7 +82,6 @@ TARGET_MASTERPIECES = [
     {"title": "Water Lilies and Japanese Bridge", "artist": "Claude Monet", "museum": "Princeton University Art Museum", "year": "1899"},
     {"title": "Portrait of Adele Bloch-Bauer I", "artist": "Gustav Klimt", "museum": "Neue Galerie, New York", "year": "1907"},
     {"title": "The Kiss", "artist": "Gustav Klimt", "museum": "Österreichische Galerie Belvedere, Vienna", "year": "1908"},
-    {"title": "American Gothic", "artist": "Grant Wood", "museum": "Art Institute of Chicago", "year": "1930"},
     {"title": "Guernica", "artist": "Pablo Picasso", "museum": "Museo Reina Sofía, Madrid", "year": "1937"},
     {"title": "Nighthawks", "artist": "Edward Hopper", "museum": "Art Institute of Chicago", "year": "1942"}
 ]
@@ -154,7 +133,6 @@ def get_next_available_index(folder="."):
 # --- IMAGE GRAPHICS CANVAS PROCESSING AND STAMPING RULES ---
 
 def pad_and_resize_16_9(img):
-    # Set to true 2K Resolution boundaries (1440p)
     target_width, target_height = 2560, 1440
     img_ratio = img.width / img.height
     target_ratio = target_width / target_height
@@ -182,7 +160,6 @@ def stamp_image(img_bytes, metadata, output_filename):
         width, height = img.size
         
         try:
-            # Upscaled font structures to read cleanly on high-res 2K outputs
             title_font = ImageFont.truetype("/Library/Fonts/Arial Bold.ttf", 38)
             sub_font = ImageFont.truetype("/Library/Fonts/Arial.ttf", 34)
         except IOError:
@@ -196,7 +173,6 @@ def stamp_image(img_bytes, metadata, output_filename):
         overlay = Image.new('RGBA', img.size, (0, 0, 0, 0))
         overlay_draw = ImageDraw.Draw(overlay)
         
-        # Transparent background fill setting dropped from 90 to 45 for maximum visibility
         overlay_draw.rectangle([(0, height - banner_height), (width, height)], fill=(0, 0, 0, 45))
         img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
         
@@ -213,38 +189,51 @@ def stamp_image(img_bytes, metadata, output_filename):
         print(f"❌ Failed to stamp image layouts: {e}")
         return False
 
-# --- WIKIDATA QUERY RESOLUTION ENGINE ---
+# --- OPTIMIZED WIKIDATA QUERY RESOLUTION ENGINE ---
 
 def search_specific_masterpiece_image(title, artist):
-    """Searches Wikidata entity registry specifically combining Target Title + Artist."""
-    search_query = f"{title} {artist}"
-    print(f"   🌐 Querying Wikidata lookup engine for: '{search_query}'...")
+    """Searches Wikidata by title alone, then handles flexible artist filtering."""
+    print(f"   🌐 Querying Wikidata lookup engine for title: '{title}'...")
     
     search_params = {
         "action": "wbsearchentities",
-        "search": search_query,
+        "search": title,  # Search exclusively by title to circumvent label constraints
         "language": "en",
         "format": "json",
-        "limit": 3
+        "limit": 10       # Scan top matches
     }
     res = safe_get("https://www.wikidata.org/w/api.php", headers=API_HEADERS, params=search_params)
     if not res or not res.json().get('search'):
         return None
         
+    # Standardize artist string keywords into low-complexity parts (e.g. ['edward', 'hopper'])
+    artist_keywords = [w.lower() for w in re.findall(r'\w+', artist) if len(w) > 2]
+    
     for hit in res.json()['search']:
         qid = hit['id']
-        sparql_query = f"""
-        SELECT ?image WHERE {{
-          wd:{qid} wdt:P18 ?image.
-        }}
-        """
-        headers = {"Accept": "application/sparql-results+json", **API_HEADERS}
-        s_res = safe_get("https://query.wikidata.org/sparql", headers=headers, params={'query': sparql_query})
-        if s_res:
-            bindings = s_res.json().get('results', {}).get('bindings', [])
-            if bindings:
-                return bindings[0].get('image', {}).get('value', '')
-                
+        label = hit.get('label', '').lower()
+        description = hit.get('description', '').lower()
+        
+        # Verify if hit corresponds to a painting/artwork entry by matching keywords
+        artist_match = any(word in description or word in label for word in artist_keywords)
+        is_painting_context = any(term in description for term in ["painting", "mural", "artwork", "canvas", "fresco"])
+        
+        if artist_match or (normalize_title(hit.get('label', '')) == normalize_title(title) and is_painting_context):
+            # Target property P18 image values across the verified entity leaf
+            sparql_query = f"""
+            SELECT ?image WHERE {{
+              wd:{qid} wdt:P18 ?image.
+            }}
+            """
+            headers = {"Accept": "application/sparql-results+json", **API_HEADERS}
+            s_res = safe_get("https://query.wikidata.org/sparql", headers=headers, params={'query': sparql_query})
+            if s_res:
+                bindings = s_res.json().get('results', {}).get('bindings', [])
+                if bindings:
+                    img_url = bindings[0].get('image', {}).get('value', '')
+                    if img_url:
+                        return img_url
+                        
     return None
 
 def push_to_github():
@@ -294,7 +283,7 @@ def run_targeted_collector():
             continue
             
         image_filename = f"image_{next_file_number}.jpg"
-        download_url = f"{image_url}?width=2560"  # Pipeline target 2K asset bucket directly
+        download_url = f"{image_url}?width=2560"  # Target 2K asset bucket directly
         
         img_res = safe_get(download_url, headers=DOWNLOAD_HEADERS, timeout=20)
         if img_res is None or img_res.status_code != 200 or len(img_res.content) < 10000:

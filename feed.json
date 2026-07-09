@@ -13173,6 +13173,244 @@
             "year": "1930",
             "museum": "Art Institute of Chicago",
             "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Arnolfini Portrait by Jan van Eyck",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1915.jpg",
+            "year": "1434",
+            "museum": "National Gallery, London",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Saint George and the Dragon by Paolo Uccello",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1916.jpg",
+            "year": "1470",
+            "museum": "National Gallery, London",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Primavera by Sandro Botticelli",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1917.jpg",
+            "year": "1480",
+            "museum": "Uffizi Gallery, Florence",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Last Supper by Leonardo da Vinci",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1918.jpg",
+            "year": "1498",
+            "museum": "Convent of Santa Maria delle Grazie, Milan",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Feast of the Rosary by Albrecht D\u00fcrer",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1919.jpg",
+            "year": "1506",
+            "museum": "National Gallery, Prague",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Sleeping Venus by Titian",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1920.jpg",
+            "year": "1510",
+            "museum": "Gem\u00e4ldegalerie Alte Meister, Dresden",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Creation of Adam by Michelangelo",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1921.jpg",
+            "year": "1512",
+            "museum": "Sistine Chapel, Vatican City",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Triumph of Galatea by Raphael",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1922.jpg",
+            "year": "1514",
+            "museum": "Villa Farnesina, Rome",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Bacchus and Ariadne by Titian",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1923.jpg",
+            "year": "1523",
+            "museum": "National Gallery, London",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Ambassadors by Hans Holbein the Younger",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1924.jpg",
+            "year": "1533",
+            "museum": "National Gallery, London",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Musicians by Caravaggio",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1925.jpg",
+            "year": "1595",
+            "museum": "Metropolitan Museum of Art, New York",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Laughing Cavalier by Frans Hals",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1926.jpg",
+            "year": "1624",
+            "museum": "Wallace Collection, London",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Charles I in Three Positions by Anthony van Dyck",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1927.jpg",
+            "year": "1636",
+            "museum": "Royal Collection",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Night Watch by Rembrandt",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1928.jpg",
+            "year": "1642",
+            "museum": "Rijksmuseum, Amsterdam",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Embarkation for Cythera by Antoine Watteau",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1929.jpg",
+            "year": "1717",
+            "museum": "Charlottenburg Palace, Berlin",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Mr and Mrs Andrews by Thomas Gainsborough",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1930.jpg",
+            "year": "1750",
+            "museum": "National Gallery, London",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Watson and the Shark by John Singleton Copley",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1931.jpg",
+            "year": "1778",
+            "museum": "National Gallery of Art, Washington D.C.",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Ladies Waldegrave by Joshua Reynolds",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1932.jpg",
+            "year": "1781",
+            "museum": "Scottish National Gallery, Edinburgh",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Oath of the Horatii by Jacques-Louis David",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1933.jpg",
+            "year": "1784",
+            "museum": "Mus\u00e9e du Louvre, Paris",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Napoleon Crossing the Alps by Jacques-Louis David",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1934.jpg",
+            "year": "1801",
+            "museum": "Palace of Versailles, Paris",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Hay Wain by John Constable",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1935.jpg",
+            "year": "1821",
+            "museum": "National Gallery, London",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Liberty Leading the People by Eug\u00e8ne Delacroix",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1936.jpg",
+            "year": "1830",
+            "museum": "Mus\u00e9e du Louvre, Paris",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Sleepers by Gustave Courbet",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1937.jpg",
+            "year": "1866",
+            "museum": "Petit Palais, Paris",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Whistler's Mother by James McNeill Whistler",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1938.jpg",
+            "year": "1871",
+            "museum": "Louvre Abu Dhabi",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Impression, Sunrise by Claude Monet",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1939.jpg",
+            "year": "1872",
+            "museum": "Mus\u00e9e Marmottan Monet, Paris",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "A Cotton Office in New Orleans by Edgar Degas",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1940.jpg",
+            "year": "1873",
+            "museum": "Mus\u00e9e des Beaux-Arts, Pau",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Gross Clinic by Thomas Eakins",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1941.jpg",
+            "year": "1875",
+            "museum": "Philadelphia Museum of Art",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Bal du moulin de la Galette by Pierre-Auguste Renoir",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1942.jpg",
+            "year": "1876",
+            "museum": "Mus\u00e9e d'Orsay, Paris",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Luncheon of the Boating Party by Pierre-Auguste Renoir",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1943.jpg",
+            "year": "1881",
+            "museum": "Phillips Collection, Washington D.C.",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1944.jpg",
+            "year": "1884",
+            "museum": "Art Institute of Chicago",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Boating Party by Mary Cassatt",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1945.jpg",
+            "year": "1893",
+            "museum": "National Gallery of Art, Washington D.C.",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Flaming June by Frederic Leighton",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1946.jpg",
+            "year": "1895",
+            "museum": "Museo de Arte de Ponce, Puerto Rico",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Guernica by Pablo Picasso",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1947.jpg",
+            "year": "1937",
+            "museum": "Museo Reina Sof\u00eda, Madrid",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Nighthawks by Edward Hopper",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1948.jpg",
+            "year": "1942",
+            "museum": "Art Institute of Chicago",
+            "description": "Historical masterpiece entry."
         }
     ]
 }
