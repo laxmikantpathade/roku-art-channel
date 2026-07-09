@@ -13411,6 +13411,55 @@
             "year": "1942",
             "museum": "Art Institute of Chicago",
             "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Wedding Feast at Cana by Paolo Veronese",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1949.jpg",
+            "year": "1563",
+            "museum": "Mus\u00e9e du Louvre, Paris",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Vista de Toledo by El Greco",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1950.jpg",
+            "year": "1596",
+            "museum": "Museo de El Greco, Toledo",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Storm on the Sea of Galilee by Rembrandt",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1951.jpg",
+            "year": "1633",
+            "museum": "Isabella Stewart Gardner Museum (Stolen)",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Skater by Gilbert Stuart",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1952.jpg",
+            "year": "1782",
+            "museum": "National Gallery of Art, Washington D.C.",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Third of May 1808 by Francisco Goya",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1953.jpg",
+            "year": "1814",
+            "museum": "Museo del Prado, Madrid",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "The Hireling Shepherd by William Holman Hunt",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1954.jpg",
+            "year": "1851",
+            "museum": "Manchester Art Gallery",
+            "description": "Historical masterpiece entry."
+        },
+        {
+            "title": "Washington Crossing the Delaware by Emanuel Leutze",
+            "image_url": "https://laxmikantpathade.com/roku-art-channel/image_1955.jpg",
+            "year": "1851",
+            "museum": "Metropolitan Museum of Art, New York",
+            "description": "Historical masterpiece entry."
         }
     ]
 }
