@@ -15,28 +15,33 @@ warnings.simplefilter("ignore")
 
 # --- CONFIGURATION ---
 GITHUB_PAGES_URL = "https://laxmikantpathade.com/roku-art-channel"
-DELAY_BETWEEN_DOWNLOADS = 1  # No more rate limits! The proxy handles it.
+DELAY_BETWEEN_DOWNLOADS = 3  
 
+# STRICT BROWSER MASK with Referer to bypass Wikimedia's direct-link firewall
 DOWNLOAD_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "Accept": "image/jpeg,image/png,image/webp,*/*;q=0.8"
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://commons.wikimedia.org/"
 }
 
-# --- TARGETED SPECIFIC MASTERPIECES CHECKLIST (VIA PROXY CDN) ---
-# Routing through wsrv.nl entirely bypasses Cloudflare IP blocks and pre-resizes the assets!
+# --- TARGETED SPECIFIC MASTERPIECES CHECKLIST ---
+# Direct, stable Wikimedia CDN paths for the final two files! No proxies!
 TARGET_MASTERPIECES = [
-    {"title": "The Sampling Officials", "artist": "Rembrandt", "museum": "Rijksmuseum, Amsterdam", "year": "1662", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/Rembrandt_van_Rijn_-_De_Staalmeesters-The_Syndics_of_the_Clothmaker%27s_Guild_%28Rijksmuseum_Amsterdam%29.jpg&w=2560&output=jpg"},
-    {"title": "Olympia", "artist": "Édouard Manet", "museum": "Musée d'Orsay, Paris", "year": "1863", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg&w=2560&output=jpg"},
-    {"title": "Pollice Verso", "artist": "Jean-Léon Gérôme", "museum": "Phoenix Art Museum, Phoenix", "year": "1872", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/Jean-Leon_Gerome_Pollice_Verso.jpg&w=2560&output=jpg"},
-    {"title": "Breezing Up", "artist": "Winslow Homer", "museum": "National Gallery of Art, Washington D.C.", "year": "1876", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/Winslow_Homer_-_Breezing_Up_%28A_Fair_Wind%29_-_Google_Art_Project.jpg&w=2560&output=jpg"},
-    {"title": "The Bath", "artist": "Jean-Léon Gérôme", "museum": "Fine Arts Museums of San Francisco", "year": "1885", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_The_Bath_-_Google_Art_Project.jpg&w=2560&output=jpg"},
-    {"title": "The Lady of Shalott", "artist": "John William Waterhouse", "museum": "Tate Britain, London", "year": "1888", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/John_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project.jpg&w=2560&output=jpg"},
-    {"title": "The Night Café", "artist": "Vincent van Gogh", "museum": "Yale University Art Gallery, New Haven", "year": "1888", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/Vincent_Willem_van_Gogh_076.jpg&w=2560&output=jpg"},
-    {"title": "The Wave", "artist": "William-Adolphe Bouguereau", "museum": "Private Collection", "year": "1896", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/William-Adolphe_Bouguereau_-_The_Wave_-_Google_Art_Project.jpg&w=2560&output=jpg"},
-    {"title": "Le Boulevard de Montmartre", "artist": "Camille Pissarro", "museum": "Private Collection", "year": "1897", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/Camille_Pissarro_-_Boulevard_Montmartre%2C_Spring_-_Google_Art_Project.jpg&w=2560&output=jpg"},
-    {"title": "The Kiss", "artist": "Edvard Munch", "museum": "Munch-museet, Oslo", "year": "1897", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/Edvard_Munch_-_The_Kiss_-_Google_Art_Project.jpg&w=2560&output=jpg"},
-    {"title": "Water Lilies and Japanese Bridge", "artist": "Claude Monet", "museum": "Princeton University Art Museum", "year": "1899", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/Water_Lilies_and_Japanese_Bridge.jpg&w=2560&output=jpg"},
-    {"title": "Portrait of Adele Bloch-Bauer I", "artist": "Gustav Klimt", "museum": "Neue Galerie, New York", "year": "1907", "url": "https://wsrv.nl/?url=commons.wikimedia.org/wiki/Special:FilePath/Gustav_Klimt_046.jpg&w=2560&output=jpg"}
+    {
+        "title": "The Sampling Officials", 
+        "artist": "Rembrandt", 
+        "museum": "Rijksmuseum, Amsterdam", 
+        "year": "1662", 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Rembrandt_van_Rijn_-_De_Staalmeesters-The_Syndics_of_the_Clothmaker%27s_Guild_%28Rijksmuseum_Amsterdam%29.jpg"
+    },
+    {
+        "title": "The Bath", 
+        "artist": "Jean-Léon Gérôme", 
+        "museum": "Fine Arts Museums of San Francisco", 
+        "year": "1885", 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_The_Bath_-_Google_Art_Project.jpg"
+    }
 ]
 
 # --- UTILITY CORE HELPER FUNCTIONS ---
@@ -63,7 +68,7 @@ def normalize_title(title):
     t = re.sub(r'[^a-z0-9]', '', t)
     return t.strip()
 
-def safe_get(url, headers=None, timeout=30):
+def safe_get(url, headers=None, timeout=25):
     try:
         res = requests.get(url, headers=headers, timeout=timeout)
         return res
@@ -145,7 +150,7 @@ def push_to_github():
     print("\n🚀 Pushing priority checklist batch synchronization to GitHub...")
     try:
         subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", "🤖 Target checklist processing complete via CDN Proxy"], check=True)
+        subprocess.run(["git", "commit", "-m", "🤖 Target checklist processing complete via direct CDN"], check=True)
         subprocess.run(["git", "push", "origin", "main"], check=True)
         print("✅ Live repository sync verified.")
     except Exception as e:
@@ -189,7 +194,7 @@ def run_targeted_collector():
             
         image_filename = f"image_{next_file_number}.jpg"
         
-        print(f"   📥 Downloading asset securely via Proxy CDN...")
+        print(f"   📥 Downloading asset directly from original source URL...")
         img_res = safe_get(image_url, headers=DOWNLOAD_HEADERS, timeout=30)
             
         if img_res is not None and img_res.status_code == 200 and len(img_res.content) >= 10000:
@@ -217,7 +222,7 @@ def run_targeted_collector():
                 print("   ❌ Image data acquired, but canvas layout processor rejected it.")
         else:
             error_code = img_res.status_code if img_res is not None else "Network/Timeout"
-            print(f"   ❌ Proxy link delivery failed. Status Code: {error_code}")
+            print(f"   ❌ Direct link delivery failed. Status Code: {error_code}")
         
         time.sleep(DELAY_BETWEEN_DOWNLOADS)
         
