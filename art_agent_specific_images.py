@@ -15,7 +15,7 @@ warnings.simplefilter("ignore")
 
 # --- CONFIGURATION ---
 GITHUB_PAGES_URL = "https://laxmikantpathade.com/roku-art-channel"
-DELAY_BETWEEN_DOWNLOADS = 6  # Paced safely for Wikidata rate limits
+DELAY_BETWEEN_DOWNLOADS = 8  # Safe pacing for Wikidata rate limits
 
 API_HEADERS = {
     "User-Agent": "RokuArtChannel/2.0 (https://laxmikantpathade.com; lpathade@example.com) Python-requests/2.31"
@@ -26,7 +26,7 @@ DOWNLOAD_HEADERS = {
     "Accept": "image/jpeg,image/png,image/webp,*/*;q=0.8"
 }
 
-# --- TARGETED SPECIFIC MASTERPIECES CHECKLIST ---
+# --- TARGETED SPECIFIC MASTERPIECES CHECKLIST (WITH STOLEN/MISSING PIECES) ---
 TARGET_MASTERPIECES = [
     {"title": "Adoration of the Magi", "artist": "Gentile da Fabriano", "museum": "Uffizi Gallery, Florence", "year": "1423"},
     {"title": "Arnolfini Portrait", "artist": "Jan van Eyck", "museum": "National Gallery, London", "year": "1434"},
@@ -41,11 +41,11 @@ TARGET_MASTERPIECES = [
     {"title": "Sleeping Venus", "artist": "Titian", "museum": "Gemäldegalerie Alte Meister, Dresden", "year": "1510"},
     {"title": "The School of Athens", "artist": "Raphael", "museum": "Apostolic Palace, Vatican City", "year": "1511"},
     {"title": "The Creation of Adam", "artist": "Michelangelo", "museum": "Sistine Chapel, Vatican City", "year": "1512"},
-    {"title": "Portrait of a Young Man", "artist": "Raphael", "museum": "Czartoryski Museum, Kraków, Poland (missing)", "year": "1514"},
+    {"title": "Portrait of a Young Man", "artist": "Raphael", "museum": "Czartoryski Museum (Missing)", "year": "1514"},
     {"title": "Triumph of Galatea", "artist": "Raphael", "museum": "Villa Farnesina, Rome", "year": "1514"},
     {"title": "Bacchus and Ariadne", "artist": "Titian", "museum": "National Gallery, London", "year": "1523"},
     {"title": "The Ambassadors", "artist": "Hans Holbein the Younger", "museum": "National Gallery, London", "year": "1533"},
-    {"title": "Landscape with the Fall of Icarus", "artist": "Pieter Bruegel the Elder", "museum": "Royal Museums of Fine Arts of Belgium, Brussels", "year": "1558"},
+    {"title": "Landscape with the Fall of Icarus", "artist": "Pieter Bruegel the Elder", "museum": "Royal Museums of Fine Arts, Brussels", "year": "1558"},
     {"title": "The Wedding Feast at Cana", "artist": "Paolo Veronese", "museum": "Musée du Louvre, Paris", "year": "1563"},
     {"title": "The Hunters in the Snow", "artist": "Pieter Bruegel the Elder", "museum": "Kunsthistorisches Museum, Vienna", "year": "1565"},
     {"title": "The Musicians", "artist": "Caravaggio", "museum": "Metropolitan Museum of Art, New York", "year": "1595"},
@@ -54,7 +54,7 @@ TARGET_MASTERPIECES = [
     {"title": "Susanna and the Elders", "artist": "Artemisia Gentileschi", "museum": "Schloss Weißenstein, Pommersfelden", "year": "1610"},
     {"title": "Laughing Cavalier", "artist": "Frans Hals", "museum": "Wallace Collection, London", "year": "1624"},
     {"title": "The Anatomy Lesson of Dr. Nicolaes Tulp", "artist": "Rembrandt", "museum": "Mauritshuis, The Hague", "year": "1632"},
-    {"title": "The Storm on the Sea of Galilee", "artist": "Rembrandt", "museum": "Isabella Stewart Gardner Museum (Missing)", "year": "1633"},
+    {"title": "The Storm on the Sea of Galilee", "artist": "Rembrandt", "museum": "Isabella Stewart Gardner Museum (Stolen)", "year": "1633"},
     {"title": "Charles I in Three Positions", "artist": "Anthony van Dyck", "museum": "Royal Collection", "year": "1636"},
     {"title": "The Night Watch", "artist": "Rembrandt", "museum": "Rijksmuseum, Amsterdam", "year": "1642"},
     {"title": "Las Meninas", "artist": "Diego Velázquez", "museum": "Museo del Prado, Madrid", "year": "1656"},
@@ -73,16 +73,16 @@ TARGET_MASTERPIECES = [
     {"title": "The Raft of the Medusa", "artist": "Théodore Géricault", "museum": "Musée du Louvre, Paris", "year": "1819"},
     {"title": "The Hay Wain", "artist": "John Constable", "museum": "National Gallery, London", "year": "1821"},
     {"title": "Liberty Leading the People", "artist": "Eugène Delacroix", "museum": "Musée du Louvre, Paris", "year": "1830"},
-    {"title": "The Hireling Shepherd", "artist": "William Holman Hunt", "museum": "Manchester Art Gallery, Manchester", "year": "1851"},
+    {"title": "The Hireling Shepherd", "artist": "William Holman Hunt", "museum": "Manchester Art Gallery", "year": "1851"},
     {"title": "Washington Crossing the Delaware", "artist": "Emanuel Leutze", "museum": "Metropolitan Museum of Art, New York", "year": "1851"},
     {"title": "The Gleaners", "artist": "Jean-François Millet", "museum": "Musée d'Orsay, Paris", "year": "1857"},
-    {"title": "The Kiss", "artist": "Francesco Hayez", "museum": "Pinacoteca de Brera, Milan", "year": "1859"},
+    {"title": "The Kiss", "artist": "Francesco Hayez", "museum": "Pinacoteca di Brera, Milan", "year": "1859"},
     {"title": "Olympia", "artist": "Édouard Manet", "museum": "Musée d'Orsay, Paris", "year": "1863"},
     {"title": "The Sleepers", "artist": "Gustave Courbet", "museum": "Petit Palais, Paris", "year": "1866"},
     {"title": "Whistler's Mother", "artist": "James McNeill Whistler", "museum": "Louvre Abu Dhabi", "year": "1871"},
     {"title": "Impression, Sunrise", "artist": "Claude Monet", "museum": "Musée Marmottan Monet, Paris", "year": "1872"},
     {"title": "Pollice Verso", "artist": "Jean-Léon Gérôme", "museum": "Phoenix Art Museum, Phoenix", "year": "1872"},
-    {"title": "A Cotton Office in New Orleans", "artist": "Edgar Degas", "museum": "Musee des Beaux-Arts in Pau, France", "year": "1873"},
+    {"title": "A Cotton Office in New Orleans", "artist": "Edgar Degas", "museum": "Musée des Beaux-Arts, Pau", "year": "1873"},
     {"title": "The Gross Clinic", "artist": "Thomas Eakins", "museum": "Philadelphia Museum of Art", "year": "1875"},
     {"title": "Bal du moulin de la Galette", "artist": "Pierre-Auguste Renoir", "museum": "Musée d'Orsay, Paris", "year": "1876"},
     {"title": "Breezing Up", "artist": "Winslow Homer", "museum": "National Gallery of Art, Washington D.C.", "year": "1876"},
@@ -123,11 +123,11 @@ def save_json_file(data, filepath):
         with open(filepath, "w") as f:
             json.dump(data, f, indent=4)
     except Exception as e:
-        print(f"❌ Error saving JSON data to {filepath}: {e}")
+        print(f"❌ Error saving JSON database update: {e}")
 
 def normalize_title(title):
     t = str(title).lower()
-    t = re.sub(r'\(.*?\)', '', t)
+    t = re.sub(r'\b(the|a|an)\b', '', t)
     t = re.sub(r'[^a-z0-9]', '', t)
     return t.strip()
 
@@ -136,82 +136,89 @@ def safe_get(url, headers=None, params=None, timeout=15):
         res = requests.get(url, headers=headers, params=params, timeout=timeout)
         return res
     except Exception as e:
-        print(f"   ⚠️ Connection tracking error: {e}")
+        print(f"   ⚠️ Connection tracking hiccup: {e}")
         return None
 
-def get_next_available_index(folder_path):
-    """Scans local storage folder to find the absolute maximum file serial sequence."""
+def get_next_available_index(folder="."):
+    """Scans folder to find the highest existing art_X.jpg sequence."""
     max_num = 0
-    if os.path.exists(folder_path):
-        for f in os.listdir(folder_path):
-            match = re.match(r'image_(\d+)\.jpg', f)
+    for f in os.listdir(folder):
+        if f.startswith("art_") and f.endswith(".jpg"):
+            match = re.search(r'art_(\d+)\.jpg', f)
             if match:
                 num = int(match.group(1))
                 if num > max_num:
                     max_num = num
     return max_num + 1
 
-# --- IMAGE GRAPHICS STAMP PANEL GENERATOR ---
+# --- IMAGE GRAPHICS CANVAS PROCESSING AND STAMPING RULES ---
 
-def stamp_image(raw_bytes, meta, out_filename):
-    """Resizes, crops to TV aspect ratio, and adds the text banner."""
+def pad_and_resize_16_9(img):
+    # Set to true 2K Resolution boundaries (1440p)
+    target_width, target_height = 2560, 1440
+    img_ratio = img.width / img.height
+    target_ratio = target_width / target_height
+
+    if img_ratio > target_ratio:
+        new_width = target_width
+        new_height = int(target_width / img_ratio)
+    else:
+        new_height = target_height
+        new_width = int(target_height * img_ratio)
+
+    resample_filter = getattr(Image, 'Resampling', Image).LANCZOS
+    img_resized = img.resize((new_width, new_height), resample_filter)
+
+    padded_img = Image.new("RGB", (target_width, target_height), (0, 0, 0))
+    x_offset = (target_width - new_width) // 2
+    y_offset = (target_height - new_height) // 2
+    padded_img.paste(img_resized, (x_offset, y_offset))
+    return padded_img
+
+def stamp_image(img_bytes, metadata, output_filename):
     try:
-        img = Image.open(BytesIO(raw_bytes))
+        img = Image.open(BytesIO(img_bytes)).convert("RGB")
+        img = pad_and_resize_16_9(img)
+        width, height = img.size 
         
-        # Canvas Normalization to standard 1080p layout specifications
-        target_w, target_h = 1920, 1080
-        img_aspect = img.width / img.height
-        target_aspect = target_w / target_h
-
-        if img_aspect > target_aspect:
-            new_h = target_h
-            new_w = int(target_h * img_aspect)
-            img = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
-            left = (new_w - target_w) // 2
-            img = img.crop((left, 0, left + target_w, target_h))
-        else:
-            new_w = target_w
-            new_h = int(target_w / img_aspect)
-            img = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
-            top = (new_h - target_h) // 2
-            img = img.crop((0, top, target_w, top + target_h))
-
+        try:
+            # Upscaled font structures to read cleanly on high-res 2K outputs
+            title_font = ImageFont.truetype("/Library/Fonts/Arial Bold.ttf", 38)
+            sub_font = ImageFont.truetype("/Library/Fonts/Arial.ttf", 34)
+        except IOError:
+            try:
+                title_font = ImageFont.truetype("/System/Library/Fonts/Helvetica.ttc", 38)
+                sub_font = ImageFont.truetype("/System/Library/Fonts/Helvetica.ttc", 34)
+            except IOError:
+                title_font = sub_font = ImageFont.load_default()
+            
+        banner_height = 200
+        overlay = Image.new('RGBA', img.size, (0, 0, 0, 0))
+        overlay_draw = ImageDraw.Draw(overlay)
+        
+        # Transparent background fill setting dropped from 90 to 45 for maximum visibility
+        overlay_draw.rectangle([(0, height - banner_height), (width, height)], fill=(0, 0, 0, 45))
+        img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
+        
         draw = ImageDraw.Draw(img)
+        line_1_text = f"{str(metadata.get('title', '')).strip()}  ·  {str(metadata.get('artist', '')).strip()}"
+        draw.text((50, height - banner_height + 35), line_1_text, font=title_font, fill="white")
         
-        font_paths = [
-            "/System/Library/Fonts/FontsAvailableAtRuntime/Georgia.ttf",
-            "/Library/Fonts/Georgia.ttf",
-            "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
-        ]
-        font = None
-        for path in font_paths:
-            if os.path.exists(path):
-                font = ImageFont.truetype(path, 22)
-                break
-        if font is None:
-            font = ImageFont.load_default()
-
-        banner_text = f"{meta['artist']}  ·  {meta['title']}  ·  {meta['museum']}  ·  {meta['year']}"
+        line_2_text = f"{str(metadata.get('year', '')).strip()}  ·  {str(metadata.get('museum', '')).strip()}"
+        draw.text((50, height - banner_height + 110), line_2_text, font=sub_font, fill="rgb(225,225,225)")
         
-        draw.rectangle([0, 1025, 1920, 1080], fill=(0, 0, 0, 160))
-        
-        text_w = draw.textlength(banner_text, font=font) if hasattr(draw, "textlength") else 800
-        x_pos = (target_w - text_w) // 2
-        
-        draw.text((x_pos, 1038), banner_text, fill=(235, 235, 235), font=font)
-        
-        img.save(out_filename, "JPEG", quality=92)
+        img.save(output_filename, "JPEG", quality=90)
         return True
     except Exception as e:
-        print(f"   ❌ Graphic execution layout engine error: {e}")
+        print(f"❌ Failed to stamp image layouts: {e}")
         return False
 
-# --- WIKIDATA EXTRACTION CORE PIPELINE ---
+# --- WIKIDATA QUERY RESOLUTION ENGINE ---
 
 def search_specific_masterpiece_image(title, artist):
-    """Searches Wikidata specifically combining Title + Artist strings to return an official image URL."""
+    """Searches Wikidata entity registry specifically combining Target Title + Artist."""
     search_query = f"{title} {artist}"
-    print(f"   🌐 Querying Wikidata engine interface for: '{search_query}'...")
+    print(f"   🌐 Querying Wikidata lookup engine for: '{search_query}'...")
     
     search_params = {
         "action": "wbsearchentities",
@@ -241,19 +248,19 @@ def search_specific_masterpiece_image(title, artist):
     return None
 
 def push_to_github():
-    print("   🚀 Initiating background staging deployment push to GitHub...")
+    print("\n🚀 Pushing priority checklist batch synchronization to GitHub...")
     try:
-        subprocess.run(["git", "add", "feed.json", "image_*.jpg"], check=True, capture_output=True)
-        subprocess.run(["git", "commit", "-m", "🤖 Auto-stamped curated priority masterpieces collection data rows"], check=True, capture_output=True)
-        subprocess.run(["git", "push"], check=True, capture_output=True)
-        print("   ✅ Sync Complete! Server endpoints are active.")
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", "🤖 Target checklist processing complete via 2K padded engine"], check=True)
+        subprocess.run(["git", "push", "origin", "main"], check=True)
+        print("✅ Live repository sync verified.")
     except Exception as e:
-        print(f"   ⚠️ GitHub Sync process skipped or hit local layout validation edge: {e}")
+        print(f"⚠️ Git synchronization deferred or local repository detached: {e}")
 
-# --- MAIN RUNNER ENGINE EXECUTION ENTRYPOINT ---
+# --- EXECUTION CONTROL CONTROLLER ---
 
 def run_targeted_collector():
-    print("👑 Target Priority Masterpiece Recruitment Pipeline Active...")
+    print("👑 Starting Targeted Masterpiece Acquisition Pipeline...")
     
     feed_data = load_json_file("feed.json", {"artwork_list": []})
     artwork_list = feed_data.get("artwork_list", [])
@@ -269,40 +276,41 @@ def run_targeted_collector():
             raw_title = title_str
         seen_titles.add(normalize_title(raw_title))
         
-    print(f"📂 Current database tracking array holds {len(artwork_list)} active entries.")
-    print(f"📸 Next image naming slot safely targeted at: image_{next_file_number}.jpg")
+    print(f"📂 Current feed tracking arrays host {len(artwork_list)} active nodes.")
+    print(f"📸 Next structured image target designation set to: art_{next_file_number}.jpg")
     
     downloaded_any = False
     
     for target in TARGET_MASTERPIECES:
         norm_title = normalize_title(target["title"])
         if norm_title in seen_titles:
-            continue  # Already processed previously
+            continue  # Avoid duplication if already inside database tracking array
             
-        print(f"\n🎯 Processing Item: '{target['title']}' by {target['artist']}")
+        print(f"\n🎯 Target Match isolated: '{target['title']}' by {target['artist']}")
         image_url = search_specific_masterpiece_image(target["title"], target["artist"])
         
         if not image_url:
-            print("   ❌ Could not locate a verified image asset URL on Wikidata. Skipping entry.")
+            print("   ❌ Image asset resource pointer not initialized on Wikidata. Skipping row.")
             continue
             
-        image_filename = f"image_{next_file_number}.jpg"
-        download_url = f"{image_url}?width=2560"  # Request high resolution from Wikipedia CDN
+        image_filename = f"art_{next_file_number}.jpg"
+        download_url = f"{image_url}?width=2560"  # Pipeline target 2K asset bucket directly
         
         img_res = safe_get(download_url, headers=DOWNLOAD_HEADERS, timeout=20)
         if img_res is None or img_res.status_code != 200 or len(img_res.content) < 10000:
+            print("   ⚠️ 2560px profile rejected. Falling back to source raw payload wrapper...")
             img_res = safe_get(image_url, headers=DOWNLOAD_HEADERS, timeout=30)
             
         if img_res and img_res.status_code == 200 and len(img_res.content) >= 10000:
             success = stamp_image(img_res.content, target, image_filename)
             if success:
-                print(f"✅ Successfully stamped and saved asset file: {image_filename}")
+                print(f"✅ Layout generation successful. File locked: {image_filename}")
                 new_entry = {
                     "title": f"{target['title']} by {target['artist']}",
                     "image_url": f"{GITHUB_PAGES_URL}/{image_filename}",
                     "year": target['year'],
                     "museum": target['museum'],
-                    "description": "Historical masterpiece entry." # Placeholder to be enriched by the Gemini script next
+                    "description": "Historical masterpiece entry."
                 }
                 artwork_list.append(new_entry)
                 seen_titles.add(norm_title)
@@ -314,13 +322,13 @@ def run_targeted_collector():
         time.sleep(DELAY_BETWEEN_DOWNLOADS)
         
     if downloaded_any:
-        print("\n🎉 ALL PENDING TARGET CHECKLIST ITEMS CAPTURED SUCCESSFULLY!")
+        print("\n🎉 ALL PENDING TARGETS CAPTURED SUCCESSFULLY!")
         push_to_github()
     else:
-        print("\n✨ All targets in the priority checklist are already added. Database is up to date!")
+        print("\n✨ All targets in the checklist are accounted for. Local array is up to date!")
 
 if __name__ == "__main__":
     try:
         run_targeted_collector()
     except KeyboardInterrupt:
-        print("\n🛑 Manual pause instruction detected. Closing download pipes safely.")
+        print("\n🛑 Execution paused cleanly. Output caches preserved.")
